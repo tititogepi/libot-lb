@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@Nikitosikbot|2615
 #4|@Coolman2021|2601
 #5|@RaspFish|2551
-#6|@SimplerEval|1845
+#6|@SimplerEval|1854
 #7|@pawnrobot|1345

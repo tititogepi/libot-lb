@@ -31,6 +31,7 @@ ai69
 aialphaai
 aicaroline
 aiden_987
+aidenbot
 aifun
 aihellobot
 aitron
@@ -196,6 +197,7 @@ bernd_der_bot
 berntbot
 bernucchio
 berserkengine
+berserkrandommover
 best_bot_king_bot
 bestchessbot
 bestjsengine
@@ -570,6 +572,7 @@ devsdabot
 dezchickenwings
 digi-bot
 dinkelhuber
+dinora
 dissidentaggressor
 djungel_lc0
 djungelbot
@@ -2230,6 +2233,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-aidenbot
-berserkrandommover
-dinora
+aleph_engine
+leechuen3
