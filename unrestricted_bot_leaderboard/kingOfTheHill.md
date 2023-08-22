@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@NikitosikVariantsbot|1894
 #73|@Variantenkoning|1892
 #74|@MistakeBOT|1886
-#75|@EagleEye2021|1880
-#76|@OpeningsBot|1876
+#75|@OpeningsBot|1881
+#76|@EagleEye2021|1880
 #77|@xiang-qi|1868
 #78|@relevantproblem|1857
 #79|@Botzer|1851
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@MagnusCarlsen1507|1492
 #115|@SugarAndSpice|1489
 #116|@rtx3080tibot|1487
-#117|@DavidsGuterBot|1478
+#117|@DavidsGuterBot|1477
 #118|@SUMAL_BRO|1476
 #119|@Less_of_a_threat|1470
 #120|@Bbao23-chess|1469
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@knight_128|1233
 #146|@MyNameIsSpeedy|1226
 #147|@Bottios|1223
-#148|@pawnrobot|1213
+#148|@pawnrobot|1210
 #149|@RSVMentor|1196
 #150|@Boom_Bot|1176
 #151|@TrashBot|1168

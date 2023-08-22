@@ -47,6 +47,7 @@ albatros_engine
 alehkine_cat
 alejbot
 aleph_bot_d6
+aleph_engine
 alexeybot
 alexz55
 alfabot
@@ -1124,6 +1125,7 @@ learningchess6_bot
 learningsequence
 lecousindekasparov
 ledzeppelin-bot
+leechuen3
 leela-bot-tomdraug
 leela-test
 leela1node
@@ -2233,5 +2235,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-aleph_engine
-leechuen3
+chesstango_bot
+mqbot

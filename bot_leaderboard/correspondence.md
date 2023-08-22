@@ -2,4 +2,4 @@ Rank|Bot|Rating
 ---|---|---
 #1|@zeekat|2075
 #2|@yeoldwiz|1798
-#3|@G0thamB0t|1131
+#3|@G0thamB0t|1102

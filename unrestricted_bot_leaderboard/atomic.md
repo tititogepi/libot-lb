@@ -144,8 +144,8 @@ Rank|Bot|Rating
 #142|@RobotTigerSlav|1871
 #143|@ItsHyperBot|1855
 #144|@the_checkmating_bot|1855
-#145|@SimplerEval|1854
-#146|@StrongChessEngine|1852
+#145|@StrongChessEngine|1852
+#146|@SimplerEval|1851
 #147|@david9426_bot|1849
 #148|@Bbao23-chess|1846
 #149|@HumanBOT_lv1929|1844
@@ -155,8 +155,8 @@ Rank|Bot|Rating
 #153|@CloudBotZero|1837
 #154|@CHESS1000BOT|1829
 #155|@Storm_Shadow2012|1825
-#156|@ReallyCrazyBOT|1816
-#157|@OpeningsBot|1813
+#156|@OpeningsBot|1817
+#157|@ReallyCrazyBOT|1816
 #158|@Sternenhimmel10|1811
 #159|@PowerOnBot|1806
 #160|@PiratesBot|1800
