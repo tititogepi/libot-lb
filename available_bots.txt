@@ -464,6 +464,7 @@ chessmasterofin2012
 chessnoobcomp
 chessopenerbot
 chessplayer1225
+chesstango_bot
 chesster-rubenstein
 chesstigerpro
 chesstver
@@ -1340,6 +1341,7 @@ mothersdaymang0
 moutonai
 mp_ind_946
 mphobot
+mqbot
 mr-bob
 mr84aminibot
 mr_chess_berserk
@@ -2235,5 +2237,4 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-chesstango_bot
-mqbot
+guineabot

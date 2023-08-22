@@ -2,12 +2,12 @@ Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
-#3|@ToromBot|2760
-#4|@Coolman2021|2757
+#3|@Coolman2021|2757
+#4|@ToromBot|2746
 #5|@FireFishBOT|2726
-#6|@Fairy_Belzedar|2703
+#6|@Fairy_Belzedar|2712
 #7|@PepsiForAll|2699
-#8|@Nikitosikbot|2634
+#8|@Nikitosikbot|2638
 #9|@EmptikVariantsBot|2402
 #10|@EmptikBot|2377
 #11|@LoseisnotAvailablehe|2369
@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@St6090|1191
 #127|@Simpafteur|1188
 #128|@BetaOneBot|1166
-#129|@pawnrobot|1146
+#129|@pawnrobot|1159
 #130|@ZX-Chess|1145
 #131|@alvin-chess-bot|1091
 #132|@GuineaBot2|851

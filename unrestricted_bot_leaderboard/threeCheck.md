@@ -145,9 +145,9 @@ Rank|Bot|Rating
 #143|@TORTADEMANZANA023|1233
 #144|@heatseeker223|1191
 #145|@admin-bot|1188
-#146|@Ujwal1001|1179
-#147|@Just-a-random-bot|1171
-#148|@pawnrobot|1171
+#146|@pawnrobot|1183
+#147|@Ujwal1001|1179
+#148|@Just-a-random-bot|1171
 #149|@Boom_Bot|1155
 #150|@thousandatom|1154
 #151|@ClubAjedrezChileno|1152
