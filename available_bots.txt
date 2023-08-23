@@ -1368,6 +1368,7 @@ mustaley
 mxnet-gamemaster
 my_bot
 myakshay1234
+mychessbot
 mychessmoves
 myiqchessbot
 mylearningbot
@@ -1729,6 +1730,7 @@ sea_leopard
 seaborg1
 seechessbot
 selflearnbot
+sem1rose
 senp4a1_bot
 sepbot
 seppl2019
@@ -1899,6 +1901,7 @@ superjerobot
 superleela
 superman-chess
 superstockfish
+survivalfish-light
 swallow_that_l
 swankychess
 swarnimclone
@@ -2238,6 +2241,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-mychessbot
-sem1rose
-survivalfish-light
+cxrmt
+nmi_bot

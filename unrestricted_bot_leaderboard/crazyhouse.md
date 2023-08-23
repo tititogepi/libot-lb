@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@MalanChess|2273
 #43|@BitExtender128|2272
 #44|@TheMatrix2025|2272
-#45|@Bobby_Fischer_BOT|2251
-#46|@ttBOT|2241
+#45|@ttBOT|2269
+#46|@Bobby_Fischer_BOT|2251
 #47|@Mega_BOT|2240
 #48|@Coolman2021|2219
 #49|@xiang-qi|2203
@@ -98,8 +98,8 @@ Rank|Bot|Rating
 #96|@Pineapple-Friendly|1773
 #97|@For9e|1771
 #98|@Lila-Stockfish|1761
-#99|@bot1996123|1745
-#100|@OpeningsBot|1744
+#99|@OpeningsBot|1748
+#100|@bot1996123|1745
 #101|@Giphy_Logo|1741
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@Trumpfor2O2O|1458
 #137|@asdfbot2|1448
 #138|@thousandatom|1445
-#139|@SimplerEval|1441
+#139|@SimplerEval|1444
 #140|@TorBot|1436
 #141|@Rapid_WorldChamp|1432
 #142|@MagnusCarlsen1507|1431
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@ReallyCrazyBOT|1245
 #168|@NightStarFox|1243
 #169|@Happy_One|1223
-#170|@pawnrobot|1213
+#170|@pawnrobot|1206
 #171|@Grand_MefBartu-BOT|1200
 #172|@magnusglad_bot|1196
 #173|@FluffBallCuddly|1191
