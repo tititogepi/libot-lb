@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@kostasvl-bot|1877
 #141|@B0T5_RU13|1871
 #142|@RobotTigerSlav|1871
-#143|@SimplerEval|1861
+#143|@SimplerEval|1864
 #144|@ItsHyperBot|1855
 #145|@the_checkmating_bot|1855
 #146|@StrongChessEngine|1852
@@ -157,8 +157,8 @@ Rank|Bot|Rating
 #155|@Storm_Shadow2012|1825
 #156|@ReallyCrazyBOT|1816
 #157|@Sternenhimmel10|1811
-#158|@OpeningsBot|1807
-#159|@PowerOnBot|1806
+#158|@PowerOnBot|1806
+#159|@OpeningsBot|1804
 #160|@PiratesBot|1800
 #161|@TheLegitLegend|1786
 #162|@MagicHacker123|1774

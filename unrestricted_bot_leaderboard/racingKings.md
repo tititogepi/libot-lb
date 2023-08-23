@@ -75,10 +75,10 @@ Rank|Bot|Rating
 #73|@CloudBOT|2073
 #74|@JustDontFlagMe|2048
 #75|@Stockfish-MEDIUM|2043
-#76|@Crepusculum|2036
-#77|@bananaaaaaaaaa_test|2031
-#78|@EstmileBot|2018
-#79|@OpeningsBot|2018
+#76|@OpeningsBot|2037
+#77|@Crepusculum|2036
+#78|@bananaaaaaaaaa_test|2031
+#79|@EstmileBot|2018
 #80|@Less_of_a_threat|1979
 #81|@BGSBot|1969
 #82|@Yemmi-Yemmi|1964
@@ -88,9 +88,9 @@ Rank|Bot|Rating
 #86|@RandomTree77|1926
 #87|@Pineapple-Friendly|1912
 #88|@Teamleaderbot|1904
-#89|@SimplerEval|1903
-#90|@legendbot1|1893
-#91|@Hagfish|1879
+#89|@legendbot1|1893
+#90|@Hagfish|1879
+#91|@SimplerEval|1879
 #92|@PyChessBot|1847
 #93|@king12345678910BOT|1833
 #94|@Just-a-random-bot|1816

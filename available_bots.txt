@@ -834,6 +834,7 @@ groundshaker
 grozadvijkov
 gslv_and_pslv
 guccibot
+guineabot
 guineabot2
 guineabot3
 gun-bot
@@ -2237,4 +2238,6 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-guineabot
+mychessbot
+sem1rose
+survivalfish-light

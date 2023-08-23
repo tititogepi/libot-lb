@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@Storm_Shadow2012|1817
 #81|@NimsiluBot|1809
 #82|@ElFinsBoT|1808
-#83|@pussaW|1785
-#84|@OpeningsBot|1782
+#83|@OpeningsBot|1786
+#84|@pussaW|1785
 #85|@Stockfish-MEDIUM|1752
 #86|@XXXTryandTryXXX|1747
 #87|@SriLankaChess|1746
@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@CVA728_BOT_1|1489
 #110|@Rishab_Bindal|1489
 #111|@ChessBot3021|1483
-#112|@PyChessBot|1480
-#113|@DavidsGuterBot|1477
+#112|@DavidsGuterBot|1480
+#113|@PyChessBot|1480
 #114|@SLvov-bot|1466
 #115|@Bobby_Fishcer_Bot|1458
 #116|@BOT-2021|1453
@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@TORTADEMANZANA023|1233
 #144|@heatseeker223|1191
 #145|@admin-bot|1188
-#146|@pawnrobot|1183
-#147|@Ujwal1001|1179
+#146|@Ujwal1001|1179
+#147|@pawnrobot|1178
 #148|@Just-a-random-bot|1171
 #149|@Boom_Bot|1155
 #150|@thousandatom|1154
