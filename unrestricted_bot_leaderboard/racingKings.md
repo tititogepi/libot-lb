@@ -73,10 +73,10 @@ Rank|Bot|Rating
 #71|@atomicli|2111
 #72|@Trumpfor2O2O|2103
 #73|@CloudBOT|2073
-#74|@OpeningsBot|2049
-#75|@JustDontFlagMe|2048
-#76|@Stockfish-MEDIUM|2043
-#77|@Crepusculum|2036
+#74|@JustDontFlagMe|2048
+#75|@Stockfish-MEDIUM|2043
+#76|@Crepusculum|2036
+#77|@OpeningsBot|2036
 #78|@bananaaaaaaaaa_test|2031
 #79|@EstmileBot|2018
 #80|@Less_of_a_threat|1979
@@ -89,8 +89,8 @@ Rank|Bot|Rating
 #87|@Pineapple-Friendly|1912
 #88|@Teamleaderbot|1904
 #89|@legendbot1|1893
-#90|@Hagfish|1879
-#91|@SimplerEval|1870
+#90|@SimplerEval|1885
+#91|@Hagfish|1879
 #92|@PyChessBot|1847
 #93|@king12345678910BOT|1833
 #94|@Just-a-random-bot|1816

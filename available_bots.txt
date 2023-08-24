@@ -534,6 +534,7 @@ cucubot
 cultr
 currenter_ai
 cva728_bot_1
+cxrmt
 czesc-bot
 dakingsofficialbot
 dangerousride
@@ -1423,6 +1424,7 @@ nirvanachessbot
 nithin-das
 niyazicarlsen
 nmasdfbot
+nmi_bot
 nnue
 nnue_sf
 nnwithsf
@@ -2241,5 +2243,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-cxrmt
-nmi_bot

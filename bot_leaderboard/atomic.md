@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@Fairy_Belzedar|2628
 #3|@Nikitosikbot|2615
 #4|@RaspFish|2551
-#5|@SimplerEval|1847
-#6|@OpeningsBot|1821
+#5|@SimplerEval|1860
+#6|@OpeningsBot|1808
 #7|@pawnrobot|1352
