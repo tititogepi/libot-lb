@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Trumpfor2O2O|2162
 #25|@ResoluteBot|2155
 #26|@Karpov_bot|2145
-#27|@ttBOT|2137
+#27|@ttBOT|2145
 #28|@Bobby_Fischer_BOT|2136
 #29|@jasans_bot|2116
 #30|@xiang-qi|2115
@@ -83,10 +83,10 @@ Rank|Bot|Rating
 #81|@SimplerEval|1577
 #82|@chicken_farmer|1557
 #83|@david9426_bot|1552
-#84|@bananaaaaaaaaa_test|1526
-#85|@PyChessBot|1525
-#86|@Just-a-random-bot|1524
-#87|@OpeningsBot|1511
+#84|@OpeningsBot|1528
+#85|@bananaaaaaaaaa_test|1526
+#86|@PyChessBot|1525
+#87|@Just-a-random-bot|1524
 #88|@TorBot|1499
 #89|@NimsiluBot|1498
 #90|@HerokuHasnotplay|1497
@@ -121,8 +121,8 @@ Rank|Bot|Rating
 #119|@PowerOnBot|1258
 #120|@xDmanBOT|1258
 #121|@yobmef|1258
-#122|@pawnrobot|1254
-#123|@GuineaBot3|1248
+#122|@GuineaBot3|1248
+#123|@pawnrobot|1243
 #124|@TheSystem_Bot|1218
 #125|@admin-bot|1209
 #126|@Happy_One|1207

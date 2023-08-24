@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@FireFishBOT|2547
 #9|@LudwigBOT|2536
 #10|@Coolman2021|2527
-#11|@RaspFish|2523
+#11|@RaspFish|2520
 #12|@EmptikBot|2516
 #13|@TheMatrix2025|2503
 #14|@Dark_evil_bot|2496
@@ -32,10 +32,10 @@ Rank|Bot|Rating
 #30|@The-Fastest-Bot|2402
 #31|@lightspeed_bot|2396
 #32|@thibot|2393
-#33|@Jussicas|2373
-#34|@Viet_BOT|2344
-#35|@EvenMatchup|2336
-#36|@ttBOT|2336
+#33|@ttBOT|2377
+#34|@Jussicas|2373
+#35|@Viet_BOT|2344
+#36|@EvenMatchup|2336
 #37|@ibep|2333
 #38|@CloudBot_v2|2331
 #39|@ElPeonElectrico|2326
@@ -76,8 +76,8 @@ Rank|Bot|Rating
 #74|@JustDontFlagMe|2048
 #75|@Stockfish-MEDIUM|2043
 #76|@Crepusculum|2036
-#77|@OpeningsBot|2036
-#78|@bananaaaaaaaaa_test|2031
+#77|@bananaaaaaaaaa_test|2031
+#78|@OpeningsBot|2025
 #79|@EstmileBot|2018
 #80|@Less_of_a_threat|1979
 #81|@BGSBot|1969
@@ -88,8 +88,8 @@ Rank|Bot|Rating
 #86|@RandomTree77|1926
 #87|@Pineapple-Friendly|1912
 #88|@Teamleaderbot|1904
-#89|@legendbot1|1893
-#90|@SimplerEval|1885
+#89|@SimplerEval|1895
+#90|@legendbot1|1893
 #91|@Hagfish|1879
 #92|@PyChessBot|1847
 #93|@king12345678910BOT|1833

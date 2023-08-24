@@ -3,10 +3,10 @@ Rank|Bot|Rating
 #1|@Fairy_Belzedar|3044
 #2|@ToromBot|2876
 #3|@Nikitosikbot|2865
-#4|@RaspFish|2727
+#4|@RaspFish|2729
 #5|@Nakshatra3|2532
-#6|@NilatacBot|2268
-#7|@OpeningsBot|2173
-#8|@anti-bot|2148
-#9|@CatNail|2005
-#10|@pawnrobot|1851
+#6|@NilatacBot|2265
+#7|@OpeningsBot|2181
+#8|@anti-bot|2157
+#9|@CatNail|2003
+#10|@pawnrobot|1846

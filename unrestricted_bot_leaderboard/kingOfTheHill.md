@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@azdad|1936
 #68|@chessbot2880|1931
 #69|@HyperLitikBOT|1930
-#70|@Galaxy_Guardian|1906
-#71|@OpeningsBot|1906
+#70|@OpeningsBot|1911
+#71|@Galaxy_Guardian|1906
 #72|@DrSmartBugs|1904
 #73|@NikitosikVariantsbot|1894
 #74|@Variantenkoning|1892
@@ -101,7 +101,7 @@ Rank|Bot|Rating
 #99|@Viet_BOT|1701
 #100|@QuickLiquid|1689
 #101|@chessemkabot|1625
-#102|@SimplerEval|1607
+#102|@SimplerEval|1608
 #103|@Breeze-Hot|1606
 #104|@Just-a-random-bot|1604
 #105|@Cowboy_Time|1601
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@Toxic_Bot|1541
 #108|@SXDEFENDER|1534
 #109|@Light_To_The_Rescue|1523
-#110|@DavidsGuterBot|1501
+#110|@DavidsGuterBot|1502
 #111|@Z-Move|1495
 #112|@TFRChessClub|1494
 #113|@hyperchessbot1|1493
@@ -143,7 +143,7 @@ Rank|Bot|Rating
 #141|@jasans_bot|1268
 #142|@ChessChipBot|1258
 #143|@Hrant_Petrosyan_BOT|1258
-#144|@pawnrobot|1249
+#144|@pawnrobot|1244
 #145|@HiddeNL|1242
 #146|@knight_128|1233
 #147|@MyNameIsSpeedy|1226
