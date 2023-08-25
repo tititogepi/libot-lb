@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@allvariants|2091
 #79|@sf_bot|2088
 #80|@Pro-Python-BOT|2084
-#81|@zeekat|2082
+#81|@zeekat|2084
 #82|@Chess_ni_BOSS|2080
 #83|@ajedrezarBOT|2079
 #84|@BitByByte|2077
@@ -154,9 +154,9 @@ Rank|Bot|Rating
 #152|@RoundMoundOfRebounds|1815
 #153|@Hoplites|1813
 #154|@Sub_Bot|1808
-#155|@DrMeowMeow|1800
-#156|@stockfish12_Johan|1798
-#157|@yeoldwiz|1798
+#155|@yeoldwiz|1801
+#156|@DrMeowMeow|1800
+#157|@stockfish12_Johan|1798
 #158|@BetaOneBot|1792
 #159|@MagicHacker123|1792
 #160|@maia5|1792
@@ -342,11 +342,11 @@ Rank|Bot|Rating
 #340|@Bot-31795|1127
 #341|@szuwar8716|1116
 #342|@B4ux1t3s-Bot|1109
-#343|@G0thamB0t|1107
+#343|@G0thamB0t|1104
 #344|@AXWChessBot|1096
 #345|@StashBot|1075
 #346|@Light_To_The_Rescue|1057
 #347|@mustaley|973
-#348|@BerserkRandomMover|966
+#348|@BerserkRandomMover|963
 #349|@grandQ_AI|946
 #350|@BogoBot|865
