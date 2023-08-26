@@ -32,6 +32,7 @@ aialphaai
 aicaroline
 aiden_987
 aidenbot
+aienginebot
 aifun
 aihellobot
 aitron
@@ -536,6 +537,7 @@ currenter_ai
 cva728_bot_1
 cxrmt
 czesc-bot
+d2d4go
 dakingsofficialbot
 dangerousride
 dangkhoi2805
@@ -641,6 +643,7 @@ elninodiablo
 elo3800
 elo_1500
 elpeonelectrico
+elrincho
 emanchessengine
 emanpurenn
 emanueltavares07bot
@@ -697,7 +700,7 @@ f0rgot
 f1r3bot
 f2xy-chess
 f4st3r-ai
-f4st3rbot
+f4st3rb0t
 fabriad
 fairgamekavvadias
 fairy-stockfish
@@ -866,6 +869,7 @@ harry_potterz
 hauptschulebot
 having_a_blunderfult
 hawaiibot
+hawke_bot
 heatseeker223
 heckerbot
 heckno2021
@@ -1028,6 +1032,7 @@ justarandombought
 justdontflagme
 justdvl_bot
 justinbot
+juulesplusplus
 jwsus
 jzjxzwxp4dpbxg7bot
 k_shi_bot
@@ -1554,6 +1559,7 @@ podsni
 pogsauce624
 polarchessbot
 polaris2bot
+polochon-bot
 polybot
 popularmoves-bot
 potato-chess-bot
@@ -1630,6 +1636,7 @@ raspberryisfishy
 raspfish
 raubfish_me262
 ravenengine
+ravenengine_depth2
 ravenliteengine
 raveonette-bot
 raybotchess123
@@ -1698,6 +1705,7 @@ ruby-cpu
 ruby_sapphire_www
 ruchess_r
 rudim-bot
+rust-bot
 rust-engine
 rust_lang_chess
 rustbot
@@ -1769,6 +1777,7 @@ silverfishengine
 simintel
 simpafteur
 simple_bot_lt
+simplechessengine
 simpleeval
 simplelearnedbot
 simplelearnerbot
@@ -1878,6 +1887,9 @@ stringbot
 strongchessengine
 strongmagnuscarlsen
 strudlbot
+stupidchess_random
+stupidchess_sprinter
+stupidchess_suicking
 stupidchessrobot
 sturddle
 sub_bot
@@ -2151,6 +2163,7 @@ weakstash
 weiawaga
 weini
 wenndiesoldatbot
+whale_1
 whatsanikitosikhuh
 whitewidowbot
 willbochessengine
@@ -2243,5 +2256,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-d2d4go
-ravenengine_depth2
