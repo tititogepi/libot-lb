@@ -2243,3 +2243,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
+d2d4go
+ravenengine_depth2

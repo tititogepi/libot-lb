@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2812
+#1|@fibonachi|2814
 #2|@H-Zero|2650
 #3|@Viet-BOT|2551
 #4|@Nikitosikbot|2525
@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@ZhangirKhanBOT|2093
 #78|@allvariants|2091
 #79|@sf_bot|2088
-#80|@Pro-Python-BOT|2084
-#81|@zeekat|2084
+#80|@zeekat|2085
+#81|@Pro-Python-BOT|2084
 #82|@Chess_ni_BOSS|2080
 #83|@ajedrezarBOT|2079
 #84|@BitByByte|2077

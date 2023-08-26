@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@TeamChelsie|2489
 #17|@Magnus-BOT|2479
 #18|@ToromBot|2471
-#19|@ttBOT|2464
+#19|@ttBOT|2470
 #20|@CocopikachuBOT|2451
 #21|@newengine2022|2448
 #22|@NormalBlitzBulletBot|2435
