@@ -14,10 +14,10 @@ Rank|Bot|Rating
 #12|@MrChessTheBot|1881
 #13|@ChessHunterBot|1831
 #14|@OpeningsBot|1745
-#15|@Cheng-4|1718
-#16|@SimplerEval|1531
-#17|@FataliiBot|1423
-#18|@Demolito_L5|1121
-#19|@Demolito_L6|1120
+#15|@Cheng-4|1720
+#16|@SimplerEval|1547
+#17|@FataliiBot|1411
+#18|@Demolito_L6|1120
+#19|@Demolito_L5|1119
 #20|@botTideEval|962
 #21|@pawnrobot|888

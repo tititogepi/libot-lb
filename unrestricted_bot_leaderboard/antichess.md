@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@CocopikachuBOT|2226
 #91|@TungJohn|2225
 #92|@Good-Game-123|2221
-#93|@The-Fastest-Bot|2218
-#94|@OpeningsBot|2217
+#93|@OpeningsBot|2218
+#94|@The-Fastest-Bot|2218
 #95|@All_Except_Chess960|2214
 #96|@gam3play3r|2214
 #97|@xDmanBOT|2214
@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@Lucror|2178
 #103|@lightspeed_bot|2152
 #104|@AntiChessBot|2142
-#105|@anti-bot|2138
-#106|@AnUtterlyKarBot|2134
+#105|@AnUtterlyKarBot|2134
+#106|@anti-bot|2131
 #107|@XXIstCentury|2131
 #108|@PyChessBot|2102
 #109|@TurkiyeHogwartsBOT|2099
@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@Lumac0|1861
 #125|@Pineapple-Friendly|1858
 #126|@Bottios|1847
-#127|@pawnrobot|1845
+#127|@pawnrobot|1843
 #128|@MyNameIsWhatLOL|1826
 #129|@Bot2000|1807
 #130|@Emil_V2|1789

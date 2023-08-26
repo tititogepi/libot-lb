@@ -3,12 +3,12 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@Coolman2021|2757
-#4|@ToromBot|2746
-#5|@FireFishBOT|2726
+#4|@FireFishBOT|2726
+#5|@ToromBot|2726
 #6|@Fairy_Belzedar|2712
 #7|@PepsiForAll|2699
 #8|@Nikitosikbot|2638
-#9|@RaspFish|2414
+#9|@RaspFish|2426
 #10|@EmptikVariantsBot|2402
 #11|@EmptikBot|2377
 #12|@LoseisnotAvailablehe|2369
