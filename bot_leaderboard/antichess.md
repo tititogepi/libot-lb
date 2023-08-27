@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@ToromBot|2876
 #5|@RaspFish|2732
 #6|@Nakshatra3|2532
-#7|@NilatacBot|2245
-#8|@OpeningsBot|2218
+#7|@NilatacBot|2247
+#8|@OpeningsBot|2210
 #9|@anti-bot|2131
 #10|@CatNail|2059
 #11|@pawnrobot|1843

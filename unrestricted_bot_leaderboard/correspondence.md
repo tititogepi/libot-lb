@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@TheAstroBot|2101
 #77|@ZhangirKhanBOT|2093
 #78|@allvariants|2091
-#79|@sf_bot|2088
-#80|@zeekat|2085
+#79|@zeekat|2091
+#80|@sf_bot|2088
 #81|@Pro-Python-BOT|2084
 #82|@Chess_ni_BOSS|2080
 #83|@ajedrezarBOT|2079
@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@Bot-31795|1127
 #341|@szuwar8716|1116
 #342|@B4ux1t3s-Bot|1109
-#343|@G0thamB0t|1104
+#343|@G0thamB0t|1103
 #344|@AXWChessBot|1096
 #345|@StashBot|1075
 #346|@Light_To_The_Rescue|1057

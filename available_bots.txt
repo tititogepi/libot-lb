@@ -2256,3 +2256,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
+cadabrabot
+caissachessengine

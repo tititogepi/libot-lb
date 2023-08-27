@@ -1,9 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2657
-#2|@Fairy_Belzedar|2628
-#3|@Nikitosikbot|2615
-#4|@RaspFish|2551
-#5|@SimplerEval|1880
-#6|@OpeningsBot|1786
-#7|@pawnrobot|1334
+#1|@Nikitosikbot|2615
+#2|@SimplerEval|1878
+#3|@OpeningsBot|1785
+#4|@pawnrobot|1352
