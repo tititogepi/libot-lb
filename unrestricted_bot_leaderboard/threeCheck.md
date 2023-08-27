@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@MalanChess|2622
 #7|@Nikitosikbot|2621
 #8|@VariantsTop|2619
-#9|@EmptikBot|2614
+#9|@EmptikBot|2615
 #10|@LoseisnotAvailablehe|2613
-#11|@EmptikVariantsBot|2588
+#11|@EmptikVariantsBot|2589
 #12|@Jussicas|2577
 #13|@Coolman2021|2568
 #14|@Viet-BOT|2555
@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@lightspeed_bot|1951
 #65|@pistol-play|1939
 #66|@PROBOT123567|1936
-#67|@OpeningsBot|1933
+#67|@OpeningsBot|1932
 #68|@SkyBlaster|1913
 #69|@HyperLitikBOT|1908
 #70|@PowerOnBot|1894

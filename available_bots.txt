@@ -370,11 +370,13 @@ butzke_bot
 c0llision
 cabolince
 cactusengine
+cadabrabot
 cahbot
 caissa-ai
 caissa-test
 caissa-x
 caissa_board_test
+caissachessengine
 caissaix
 calliopean_account
 callmecool
@@ -2256,5 +2258,8 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-cadabrabot
-caissachessengine
+calciumbot
+chokefish
+jryan_bot
+kelpbot
+shashchesspower
