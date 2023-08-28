@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@MalanChess|2622
 #7|@Nikitosikbot|2621
 #8|@VariantsTop|2619
-#9|@EmptikBot|2615
+#9|@EmptikBot|2616
 #10|@LoseisnotAvailablehe|2613
 #11|@EmptikVariantsBot|2589
 #12|@Jussicas|2577
@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@ToromBot|2520
 #20|@ESC_BOT|2476
 #21|@Less_of_a_threat|2469
-#22|@NormalBlitzBulletBot|2463
-#23|@RaspFish|2462
+#22|@RaspFish|2464
+#23|@NormalBlitzBulletBot|2463
 #24|@Fairy-Stockfish|2451
 #25|@faith_bot|2447
 #26|@NikitosikVariantsbot|2420
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@Magnus-BOT|2084
 #52|@Xerus_1|2070
 #53|@ROBOT_RANDEER2007|2059
-#54|@ttBOT|2045
+#54|@ttBOT|2040
 #55|@lord-bot|2037
 #56|@Resolved-Bot|2026
 #57|@Lila-Stockfish|2010

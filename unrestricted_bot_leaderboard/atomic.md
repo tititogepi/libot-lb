@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@BitExtender128|2526
 #15|@ResoluteBot|2525
 #16|@CatBot_14|2514
-#17|@EmptikBot|2508
+#17|@EmptikBot|2509
 #18|@ibep|2498
 #19|@firstrobot|2485
 #20|@ShredderGrizzly|2479
@@ -161,7 +161,7 @@ Rank|Bot|Rating
 #159|@PowerOnBot|1806
 #160|@PiratesBot|1800
 #161|@TheLegitLegend|1786
-#162|@OpeningsBot|1785
+#162|@OpeningsBot|1784
 #163|@MagicHacker123|1774
 #164|@EstmileBot|1769
 #165|@Giphy_Logo|1746
@@ -259,8 +259,8 @@ Rank|Bot|Rating
 #257|@Trumpfor2O2O|1386
 #258|@DrunkenMasterEngine|1385
 #259|@anonymous5612|1384
-#260|@SLvov-bot|1359
-#261|@pawnrobot|1352
+#260|@pawnrobot|1366
+#261|@SLvov-bot|1359
 #262|@ChessBotHere|1351
 #263|@TheBullyBot|1339
 #264|@AveragePlayer757|1337

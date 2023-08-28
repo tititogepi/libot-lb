@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@FireFishBOT|2547
 #9|@LudwigBOT|2536
 #10|@Coolman2021|2527
-#11|@EmptikBot|2516
+#11|@EmptikBot|2526
 #12|@RaspFish|2511
 #13|@TheMatrix2025|2503
 #14|@Dark_evil_bot|2496
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
-#79|@OpeningsBot|2028
+#79|@OpeningsBot|2026
 #80|@EstmileBot|2018
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969

@@ -2263,3 +2263,8 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
+bread_engine
+chers-engine
+ibbxefbot
+wejbek
+worstfish_test

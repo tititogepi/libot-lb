@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@KingfishX|2347
 #33|@chesshyperbot|2344
 #34|@NimsiluBot|2333
-#35|@EmptikBot|2329
+#35|@EmptikBot|2332
 #36|@catalanbotI|2307
 #37|@ttBOT|2305
 #38|@Yemmi-Yemmi|2305
@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@Giphy_Logo|1741
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
-#104|@OpeningsBot|1728
+#104|@OpeningsBot|1726
 #105|@Stockfish-MEDIUM|1717
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
