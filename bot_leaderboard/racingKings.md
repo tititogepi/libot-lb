@@ -1,6 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Nikitosikbot|2561
-#2|@RaspFish|2511
-#3|@OpeningsBot|2028
-#4|@SimplerEval|1879
+#1|@RaspFish|2511
+#2|@OpeningsBot|2028
+#3|@SimplerEval|1879

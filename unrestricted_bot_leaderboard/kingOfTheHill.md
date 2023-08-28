@@ -101,8 +101,8 @@ Rank|Bot|Rating
 #99|@TTC-BOT_2|1703
 #100|@Viet_BOT|1701
 #101|@QuickLiquid|1689
-#102|@chessemkabot|1625
-#103|@SimplerEval|1607
+#102|@SimplerEval|1627
+#103|@chessemkabot|1625
 #104|@Breeze-Hot|1606
 #105|@Just-a-random-bot|1604
 #106|@Cowboy_Time|1601
@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@Toxic_Bot|1541
 #109|@SXDEFENDER|1534
 #110|@Light_To_The_Rescue|1523
-#111|@DavidsGuterBot|1517
+#111|@DavidsGuterBot|1502
 #112|@Z-Move|1495
 #113|@TFRChessClub|1494
 #114|@hyperchessbot1|1493
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@knight_128|1233
 #147|@MyNameIsSpeedy|1226
 #148|@Bottios|1223
-#149|@pawnrobot|1221
+#149|@pawnrobot|1219
 #150|@RSVMentor|1196
 #151|@Boom_Bot|1176
 #152|@TrashBot|1168

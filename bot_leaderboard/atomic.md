@@ -1,6 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Nikitosikbot|2615
-#2|@SimplerEval|1878
-#3|@OpeningsBot|1785
-#4|@pawnrobot|1352
+#1|@SimplerEval|1878
+#2|@OpeningsBot|1785
+#3|@pawnrobot|1352
