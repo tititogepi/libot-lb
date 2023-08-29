@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
-#79|@OpeningsBot|2026
+#79|@OpeningsBot|2021
 #80|@EstmileBot|2018
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
@@ -90,8 +90,8 @@ Rank|Bot|Rating
 #88|@Pineapple-Friendly|1912
 #89|@Teamleaderbot|1904
 #90|@legendbot1|1893
-#91|@Hagfish|1879
-#92|@SimplerEval|1879
+#91|@SimplerEval|1883
+#92|@Hagfish|1879
 #93|@PyChessBot|1847
 #94|@king12345678910BOT|1833
 #95|@Just-a-random-bot|1816

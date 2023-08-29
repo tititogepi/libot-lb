@@ -348,6 +348,7 @@ botzer
 brabemachess-bot
 brainlearn11_nnue
 brainofish
+brainstorm_bot
 brainypratyush3
 bravestknightbot
 bread_engine
@@ -1108,6 +1109,7 @@ kuhusbot
 kulubot
 kung-fupanda
 kunju_bot
+kunkkabot
 kurosaki_higor
 kvothechess_bot
 kwinibot
@@ -2268,5 +2270,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-brainstorm_bot
-kunkkabot

@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2815
 #2|@H-Zero|2650
-#3|@Viet-BOT|2551
-#4|@Nikitosikbot|2525
-#5|@Nikitosik-ai|2521
+#3|@Nikitosik-ai|2551
+#4|@Viet-BOT|2551
+#5|@Nikitosikbot|2525
 #6|@peonasesino71|2512
 #7|@ServerFish|2494
 #8|@TorBot|2475
@@ -95,9 +95,9 @@ Rank|Bot|Rating
 #93|@centaur01|2050
 #94|@CrazyDog5892912|2050
 #95|@misteick_bot|2049
-#96|@zeekat|2047
-#97|@Emmamaster|2043
-#98|@TeamChelsie|2043
+#96|@Emmamaster|2043
+#97|@TeamChelsie|2043
+#98|@zeekat|2041
 #99|@abhisun_bot|2039
 #100|@Beyondcomprehension|2039
 #101|@faith_bot|2037
