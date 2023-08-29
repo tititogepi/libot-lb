@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@BitExtender128|2526
 #15|@ResoluteBot|2525
 #16|@CatBot_14|2514
-#17|@EmptikBot|2509
+#17|@EmptikBot|2510
 #18|@ibep|2498
 #19|@firstrobot|2485
 #20|@ShredderGrizzly|2479

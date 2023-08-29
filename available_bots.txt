@@ -350,6 +350,7 @@ brainlearn11_nnue
 brainofish
 brainypratyush3
 bravestknightbot
+bread_engine
 breeze-hot
 breeze_bot
 bristol_amogus
@@ -428,6 +429,7 @@ cheezyglizzyeater
 chen_bot
 chen_sbot
 cheng-4
+chers-engine
 cheskrish
 chess-2-bot
 chess-freelancer
@@ -944,6 +946,7 @@ iamdadda96
 iamstockfish123
 iamthebot1
 iathena
+ibbxefbot
 ibep
 icebolt194
 iceburnengine
@@ -2169,6 +2172,7 @@ weaklean
 weakstash
 weiawaga
 weini
+wejbek
 wenndiesoldatbot
 whale_1
 whatsanikitosikhuh
@@ -2191,6 +2195,7 @@ worldofchampions
 worldplayer035bot
 worstbotever123
 worstfish
+worstfish_test
 wretchedzero
 wtrcc
 x2-itl
@@ -2263,8 +2268,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-bread_engine
-chers-engine
-ibbxefbot
-wejbek
-worstfish_test
+brainstorm_bot
+kunkkabot
