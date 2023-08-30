@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@azdad|1936
 #69|@chessbot2880|1931
 #70|@HyperLitikBOT|1930
-#71|@OpeningsBot|1918
+#71|@OpeningsBot|1920
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
 #74|@NikitosikVariantsbot|1894
@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@Viet_BOT|1701
 #101|@QuickLiquid|1689
 #102|@chessemkabot|1625
-#103|@SimplerEval|1616
+#103|@SimplerEval|1618
 #104|@Breeze-Hot|1606
 #105|@Just-a-random-bot|1604
 #106|@Cowboy_Time|1601
@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@TFRChessClub|1494
 #113|@hyperchessbot1|1493
 #114|@NimsiluBot|1493
-#115|@DavidsGuterBot|1492
-#116|@MagnusCarlsen1507|1492
+#115|@MagnusCarlsen1507|1492
+#116|@DavidsGuterBot|1490
 #117|@SugarAndSpice|1489
 #118|@rtx3080tibot|1487
 #119|@SUMAL_BRO|1476
@@ -147,8 +147,8 @@ Rank|Bot|Rating
 #145|@HiddeNL|1242
 #146|@knight_128|1233
 #147|@MyNameIsSpeedy|1226
-#148|@pawnrobot|1225
-#149|@Bottios|1223
+#148|@Bottios|1223
+#149|@pawnrobot|1223
 #150|@RSVMentor|1196
 #151|@Boom_Bot|1176
 #152|@TrashBot|1168
