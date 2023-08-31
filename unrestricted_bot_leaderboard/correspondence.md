@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@peonasesino71|2512
 #7|@ServerFish|2494
 #8|@TorBot|2475
-#9|@HulkBot|2472
-#10|@EmptikBot|2454
-#11|@F0rgot|2434
-#12|@AjedrezChamberi|2408
+#9|@EmptikBot|2454
+#10|@F0rgot|2434
+#11|@AjedrezChamberi|2410
+#12|@HulkBot|2387
 #13|@Mega_BOT|2371
 #14|@CorrespondenceBot|2353
 #15|@IAMSTOCKFISH123|2305
@@ -348,5 +348,5 @@ Rank|Bot|Rating
 #346|@Light_To_The_Rescue|1057
 #347|@mustaley|973
 #348|@BerserkRandomMover|963
-#349|@grandQ_AI|885
+#349|@grandQ_AI|884
 #350|@BogoBot|865

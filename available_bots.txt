@@ -1296,6 +1296,7 @@ mastermind_balu
 masternoob1600
 masterofatomic
 mate-ai
+mate_bot
 mateai
 materialisoverrated
 matmoi
@@ -2001,6 +2002,7 @@ theenisbotofficial
 theensemble
 theepicbot2
 thefastrobot608
+thefreshman1902
 thegladiatorbot
 thegreatmompati2004
 thejoeatsussy
@@ -2270,5 +2272,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-mate_bot
-thefreshman1902

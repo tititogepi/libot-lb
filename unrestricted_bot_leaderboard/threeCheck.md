@@ -90,8 +90,8 @@ Rank|Bot|Rating
 #88|@CBNguyen_Bot|1741
 #89|@No_Username2|1741
 #90|@NotNateBot|1731
-#91|@SimplerEval|1725
-#92|@Crepusculum|1724
+#91|@Crepusculum|1724
+#92|@SimplerEval|1714
 #93|@SUMEETTHEPRO|1708
 #94|@Yemmi-Yemmi|1702
 #95|@clueless-bot|1685
@@ -107,10 +107,10 @@ Rank|Bot|Rating
 #105|@relevantproblem|1514
 #106|@Toxic_Bot|1511
 #107|@NoobMasterBOT|1507
-#108|@Epiano_Bot|1491
-#109|@CVA728_BOT_1|1489
-#110|@Rishab_Bindal|1489
-#111|@DavidsGuterBot|1485
+#108|@DavidsGuterBot|1500
+#109|@Epiano_Bot|1491
+#110|@CVA728_BOT_1|1489
+#111|@Rishab_Bindal|1489
 #112|@ChessBot3021|1483
 #113|@PyChessBot|1480
 #114|@SLvov-bot|1466
