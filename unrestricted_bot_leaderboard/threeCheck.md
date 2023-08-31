@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Resolved-Bot|2026
 #56|@Lila-Stockfish|2010
 #57|@firstrobot|2003
-#58|@OpeningsBot|1992
+#58|@OpeningsBot|1993
 #59|@Hyper-Stockfish|1986
 #60|@GodelEscherBot|1974
 #61|@XXIstCentury|1973
@@ -90,8 +90,8 @@ Rank|Bot|Rating
 #88|@CBNguyen_Bot|1741
 #89|@No_Username2|1741
 #90|@NotNateBot|1731
-#91|@Crepusculum|1724
-#92|@SimplerEval|1716
+#91|@SimplerEval|1725
+#92|@Crepusculum|1724
 #93|@SUMEETTHEPRO|1708
 #94|@Yemmi-Yemmi|1702
 #95|@clueless-bot|1685

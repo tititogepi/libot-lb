@@ -2270,3 +2270,5 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
+mate_bot
+thefreshman1902
