@@ -40,10 +40,10 @@ Rank|Bot|Rating
 #38|@Bot_AOOP11|2521
 #39|@HyperLitikBOT|2511
 #40|@pistol-play|2498
-#41|@Nakshatra3|2488
-#42|@NikitosikVariantsbot|2483
-#43|@MrBOThacker|2477
-#44|@hauptschuleBOT|2475
+#41|@NikitosikVariantsbot|2483
+#42|@MrBOThacker|2477
+#43|@hauptschuleBOT|2475
+#44|@Nakshatra3|2475
 #45|@Alehkine_cat|2474
 #46|@Fairy-Stockfish|2460
 #47|@PepsiForAll|2460
@@ -78,12 +78,12 @@ Rank|Bot|Rating
 #76|@abhisun_bot|2305
 #77|@NienishiEngine|2304
 #78|@EvenMatchup|2302
-#79|@NilatacBot|2287
+#79|@NilatacBot|2295
 #80|@GodelEscherBot|2284
 #81|@Dean_Summer_Bot|2279
 #82|@Johnsun|2269
 #83|@SkyBlaster|2254
-#84|@OpeningsBot|2252
+#84|@OpeningsBot|2251
 #85|@mrchessmanager|2240
 #86|@TurkiyeHogwarts|2240
 #87|@EagleEye2021|2235
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@anti-bot|2122
 #107|@PyChessBot|2102
 #108|@TurkiyeHogwartsBOT|2099
-#109|@CatNail|2094
+#109|@CatNail|2085
 #110|@ZamuChess|2049
 #111|@Botzer|2020
 #112|@Jussicas|2019
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@antichesssss|1964
 #119|@Menganti|1963
 #120|@CloudBOT|1950
-#121|@pawnrobot|1882
+#121|@pawnrobot|1902
 #122|@Crepusculum|1881
 #123|@NoTallkOnlyGames|1871
 #124|@Lumac0|1861

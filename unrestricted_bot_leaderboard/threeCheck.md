@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@ToromBot|2520
 #19|@ESC_BOT|2476
 #20|@Less_of_a_threat|2469
-#21|@RaspFish|2464
+#21|@RaspFish|2466
 #22|@NormalBlitzBulletBot|2463
 #23|@Fairy-Stockfish|2451
 #24|@faith_bot|2447
@@ -52,12 +52,12 @@ Rank|Bot|Rating
 #50|@Magnus-BOT|2084
 #51|@Xerus_1|2070
 #52|@ROBOT_RANDEER2007|2059
-#53|@ttBOT|2040
-#54|@lord-bot|2037
+#53|@lord-bot|2037
+#54|@ttBOT|2031
 #55|@Resolved-Bot|2026
 #56|@Lila-Stockfish|2010
 #57|@firstrobot|2003
-#58|@OpeningsBot|1993
+#58|@OpeningsBot|1999
 #59|@Hyper-Stockfish|1986
 #60|@GodelEscherBot|1974
 #61|@XXIstCentury|1973
@@ -91,9 +91,9 @@ Rank|Bot|Rating
 #89|@No_Username2|1741
 #90|@NotNateBot|1731
 #91|@Crepusculum|1724
-#92|@SimplerEval|1717
-#93|@SUMEETTHEPRO|1708
-#94|@Yemmi-Yemmi|1702
+#92|@SUMEETTHEPRO|1708
+#93|@Yemmi-Yemmi|1702
+#94|@SimplerEval|1701
 #95|@clueless-bot|1685
 #96|@NormalBulletBot|1657
 #97|@the_checkmating_bot|1643
@@ -143,7 +143,7 @@ Rank|Bot|Rating
 #141|@Parth_Dhage_2|1258
 #142|@MyNameIsWhatLOL|1256
 #143|@TORTADEMANZANA023|1233
-#144|@pawnrobot|1212
+#144|@pawnrobot|1224
 #145|@heatseeker223|1191
 #146|@admin-bot|1188
 #147|@Ujwal1001|1179

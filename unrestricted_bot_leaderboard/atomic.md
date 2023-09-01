@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@Just-a-random-bot|1898
 #138|@AX2XB2|1893
 #139|@TheAwesomeBot|1891
-#140|@SimplerEval|1888
+#140|@SimplerEval|1881
 #141|@kostasvl-bot|1877
 #142|@B0T5_RU13|1871
 #143|@RobotTigerSlav|1871
@@ -159,8 +159,8 @@ Rank|Bot|Rating
 #157|@Sternenhimmel10|1811
 #158|@PowerOnBot|1806
 #159|@PiratesBot|1800
-#160|@TheLegitLegend|1786
-#161|@OpeningsBot|1784
+#160|@OpeningsBot|1792
+#161|@TheLegitLegend|1786
 #162|@MagicHacker123|1774
 #163|@EstmileBot|1769
 #164|@Giphy_Logo|1746

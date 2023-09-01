@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2518
-#2|@OpeningsBot|2039
+#1|@RaspFish|2519
+#2|@OpeningsBot|2038
 #3|@SimplerEval|1881
