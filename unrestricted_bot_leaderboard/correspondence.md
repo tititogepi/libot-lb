@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@ertugruldemir|1131
 #340|@Bot-31795|1127
 #341|@szuwar8716|1116
-#342|@B4ux1t3s-Bot|1109
+#342|@B4ux1t3s-Bot|1103
 #343|@G0thamB0t|1103
 #344|@AXWChessBot|1096
 #345|@StashBot|1075

@@ -131,12 +131,12 @@ Rank|Bot|Rating
 #129|@theoden8_uci|1490
 #130|@TFRChessClub|1489
 #131|@Yemmi-BOT|1486
-#132|@Just-a-random-bot|1464
-#133|@St6090|1460
-#134|@ZamuChess|1460
-#135|@MyNameIsSpeedy|1459
-#136|@Trumpfor2O2O|1458
-#137|@SimplerEval|1451
+#132|@SimplerEval|1465
+#133|@Just-a-random-bot|1464
+#134|@St6090|1460
+#135|@ZamuChess|1460
+#136|@MyNameIsSpeedy|1459
+#137|@Trumpfor2O2O|1458
 #138|@asdfbot2|1448
 #139|@thousandatom|1445
 #140|@TorBot|1436
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@ReallyCrazyBOT|1245
 #168|@NightStarFox|1243
 #169|@Happy_One|1223
-#170|@pawnrobot|1214
+#170|@pawnrobot|1204
 #171|@Grand_MefBartu-BOT|1200
 #172|@magnusglad_bot|1196
 #173|@FluffBallCuddly|1191
