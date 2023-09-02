@@ -1327,6 +1327,7 @@ menisciform
 meow_robot
 mertovic119
 messchessengine
+metangula
 metasoft
 micahmoore
 michabay05
@@ -2272,4 +2273,3 @@ zomevbot
 zulu_bot
 zulu_bot2
 zx-chess
-metangula

@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@AlfaBot|2797
 #2|@VariantsBot|2759
-#3|@FireFishBOT|2680
-#4|@bananaaaaaaaaa_test|2666
+#3|@bananaaaaaaaaa_test|2666
+#4|@FireFishBOT|2626
 #5|@MalanChess|2622
 #6|@VariantsTop|2619
 #7|@EmptikBot|2616
@@ -93,7 +93,7 @@ Rank|Bot|Rating
 #91|@Crepusculum|1724
 #92|@SUMEETTHEPRO|1708
 #93|@Yemmi-Yemmi|1702
-#94|@SimplerEval|1701
+#94|@SimplerEval|1691
 #95|@clueless-bot|1685
 #96|@NormalBulletBot|1657
 #97|@the_checkmating_bot|1643
@@ -107,10 +107,10 @@ Rank|Bot|Rating
 #105|@relevantproblem|1514
 #106|@Toxic_Bot|1511
 #107|@NoobMasterBOT|1507
-#108|@Epiano_Bot|1491
-#109|@CVA728_BOT_1|1489
-#110|@Rishab_Bindal|1489
-#111|@DavidsGuterBot|1487
+#108|@DavidsGuterBot|1504
+#109|@Epiano_Bot|1491
+#110|@CVA728_BOT_1|1489
+#111|@Rishab_Bindal|1489
 #112|@ChessBot3021|1483
 #113|@PyChessBot|1480
 #114|@SLvov-bot|1466
@@ -143,7 +143,7 @@ Rank|Bot|Rating
 #141|@Parth_Dhage_2|1258
 #142|@MyNameIsWhatLOL|1256
 #143|@TORTADEMANZANA023|1233
-#144|@pawnrobot|1223
+#144|@pawnrobot|1217
 #145|@heatseeker223|1191
 #146|@admin-bot|1188
 #147|@Ujwal1001|1179
