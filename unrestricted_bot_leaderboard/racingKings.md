@@ -73,9 +73,9 @@ Rank|Bot|Rating
 #71|@atomicli|2111
 #72|@Trumpfor2O2O|2103
 #73|@CloudBOT|2073
-#74|@JustDontFlagMe|2048
-#75|@Stockfish-MEDIUM|2043
-#76|@OpeningsBot|2038
+#74|@OpeningsBot|2049
+#75|@JustDontFlagMe|2048
+#76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
 #79|@EstmileBot|2018
