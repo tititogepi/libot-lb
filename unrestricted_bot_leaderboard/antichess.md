@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@XXIstCentury|2131
 #107|@PyChessBot|2102
 #108|@TurkiyeHogwartsBOT|2099
-#109|@CatNail|2076
+#109|@CatNail|2080
 #110|@ZamuChess|2049
 #111|@Botzer|2020
 #112|@Jussicas|2019
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@antichesssss|1964
 #119|@Menganti|1963
 #120|@CloudBOT|1950
-#121|@pawnrobot|1929
+#121|@pawnrobot|1926
 #122|@Crepusculum|1881
 #123|@NoTallkOnlyGames|1871
 #124|@Lumac0|1861

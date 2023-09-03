@@ -100,7 +100,7 @@ Rank|Bot|Rating
 #98|@TTC-BOT_2|1703
 #99|@Viet_BOT|1701
 #100|@QuickLiquid|1689
-#101|@SimplerEval|1631
+#101|@SimplerEval|1635
 #102|@chessemkabot|1625
 #103|@Breeze-Hot|1606
 #104|@Just-a-random-bot|1604
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@knight_128|1233
 #146|@MyNameIsSpeedy|1226
 #147|@Bottios|1223
-#148|@pawnrobot|1212
+#148|@pawnrobot|1208
 #149|@RSVMentor|1196
 #150|@Boom_Bot|1176
 #151|@TrashBot|1168

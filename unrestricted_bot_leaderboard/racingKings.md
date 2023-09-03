@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@EmptikBot|2526
 #11|@RaspFish|2519
 #12|@TheMatrix2025|2503
-#13|@Dark_evil_bot|2496
-#14|@mrchessmanager|2494
-#15|@TeamChelsie|2489
-#16|@ToromBot|2482
+#13|@ToromBot|2501
+#14|@Dark_evil_bot|2496
+#15|@mrchessmanager|2494
+#16|@TeamChelsie|2489
 #17|@Magnus-BOT|2479
 #18|@ttBOT|2454
 #19|@CocopikachuBOT|2451
