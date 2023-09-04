@@ -1,8 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@EmptikBot|2616
-#2|@RaspFish|2466
-#3|@OpeningsBot|1999
-#4|@SimplerEval|1680
-#5|@DavidsGuterBot|1523
-#6|@pawnrobot|1209
+#1|@RaspFish|2457
+#2|@OpeningsBot|1999
+#3|@SimplerEval|1688
+#4|@DavidsGuterBot|1514
+#5|@pawnrobot|1209
