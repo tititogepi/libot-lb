@@ -545,6 +545,7 @@ cva728_bot_1
 cxrmt
 czesc-bot
 d2d4go
+dabestfarmer
 dakingsofficialbot
 dangerousride
 dangkhoi2805
@@ -2270,8 +2271,8 @@ zhangirkhanbot
 ziansnake
 zokbot
 zomevbot
+zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-zugzwangbot
-dabestfarmer
+theunrestrictedgod

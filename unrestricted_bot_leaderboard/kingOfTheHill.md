@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@MagnusCarlsen1507|1492
 #115|@SugarAndSpice|1489
 #116|@rtx3080tibot|1487
-#117|@DavidsGuterBot|1480
+#117|@DavidsGuterBot|1482
 #118|@SUMAL_BRO|1476
 #119|@Less_of_a_threat|1470
 #120|@Bbao23-chess|1469
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@knight_128|1233
 #146|@MyNameIsSpeedy|1226
 #147|@Bottios|1223
-#148|@pawnrobot|1208
+#148|@pawnrobot|1206
 #149|@RSVMentor|1196
 #150|@Boom_Bot|1176
 #151|@TrashBot|1168

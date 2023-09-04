@@ -131,8 +131,8 @@ Rank|Bot|Rating
 #129|@theoden8_uci|1490
 #130|@TFRChessClub|1489
 #131|@Yemmi-BOT|1486
-#132|@Just-a-random-bot|1464
-#133|@SimplerEval|1460
+#132|@SimplerEval|1466
+#133|@Just-a-random-bot|1464
 #134|@St6090|1460
 #135|@ZamuChess|1460
 #136|@MyNameIsSpeedy|1459
@@ -170,8 +170,8 @@ Rank|Bot|Rating
 #168|@NightStarFox|1243
 #169|@Happy_One|1223
 #170|@Grand_MefBartu-BOT|1200
-#171|@pawnrobot|1199
-#172|@magnusglad_bot|1196
+#171|@magnusglad_bot|1196
+#172|@pawnrobot|1194
 #173|@FluffBallCuddly|1191
 #174|@heatseeker223|1191
 #175|@ChessPlayer1225|1183
