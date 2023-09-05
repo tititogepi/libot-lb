@@ -2276,3 +2276,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+yuligpro5
+rustypigeon
+stockblitz_v1
