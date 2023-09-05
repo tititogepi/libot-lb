@@ -121,8 +121,8 @@ Rank|Bot|Rating
 #119|@PowerOnBot|1258
 #120|@xDmanBOT|1258
 #121|@yobmef|1258
-#122|@GuineaBot3|1248
-#123|@pawnrobot|1229
+#122|@pawnrobot|1254
+#123|@GuineaBot3|1248
 #124|@TheSystem_Bot|1218
 #125|@admin-bot|1209
 #126|@Happy_One|1207

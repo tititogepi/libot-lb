@@ -2025,6 +2025,7 @@ thepinecone1
 thesystem_bot
 thethanosbot
 theultimatechzb
+theunrestrictedgod
 theweakestbot
 theyobots
 thibot
@@ -2275,4 +2276,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-theunrestrictedgod

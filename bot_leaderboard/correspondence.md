@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@zeekat|2035
+#1|@zeekat|2033

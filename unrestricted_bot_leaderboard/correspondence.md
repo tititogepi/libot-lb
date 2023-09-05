@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2815
 #2|@H-Zero|2650
-#3|@Nikitosik-ai|2584
+#3|@Nikitosik-ai|2617
 #4|@Viet-BOT|2563
 #5|@Nikitosikbot|2525
 #6|@peonasesino71|2512
@@ -101,7 +101,7 @@ Rank|Bot|Rating
 #99|@faith_bot|2037
 #100|@CocopikachuBOT|2036
 #101|@HyperPhoenix21|2035
-#102|@zeekat|2035
+#102|@zeekat|2033
 #103|@EmptikCorrespondence|2031
 #104|@StrongMagnusCarlsen|2027
 #105|@kybot|2025
@@ -113,14 +113,14 @@ Rank|Bot|Rating
 #111|@Zer0_Tw0|1992
 #112|@YoBot_v2|1984
 #113|@Bobby_Fishcer_Bot|1976
-#114|@ZE_ROOK|1973
-#115|@BigBrainen|1970
-#116|@BritBot|1970
-#117|@Test_God_50_BOT|1965
-#118|@Cowboy_Time|1959
-#119|@WMatt|1958
-#120|@Primer-Bot|1956
-#121|@SohamChessBot|1956
+#114|@BigBrainen|1970
+#115|@BritBot|1970
+#116|@Test_God_50_BOT|1965
+#117|@Cowboy_Time|1959
+#118|@WMatt|1958
+#119|@Primer-Bot|1956
+#120|@SohamChessBot|1956
+#121|@ZE_ROOK|1954
 #122|@honzovy-sachy|1953
 #123|@BOTsharpchess|1952
 #124|@Los-Guerreros1|1935
@@ -348,5 +348,5 @@ Rank|Bot|Rating
 #346|@Light_To_The_Rescue|1057
 #347|@mustaley|973
 #348|@BerserkRandomMover|963
-#349|@grandQ_AI|884
+#349|@grandQ_AI|883
 #350|@BogoBot|865
