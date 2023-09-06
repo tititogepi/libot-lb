@@ -583,6 +583,7 @@ destructeurbot
 devre_satranc
 devsdabot
 dezchickenwings
+diepx
 digi-bot
 dinkelhuber
 dinora
@@ -750,6 +751,7 @@ fishstockwr
 fisk_bot
 fjui2
 flagfish
+flamerare
 flamingdragon_9000
 flawed_formula
 flawed_formula_test
@@ -850,6 +852,7 @@ guineabot
 guineabot2
 guineabot3
 gun-bot
+gymerduybach
 h-zero
 h5h5h5h5
 h80000000-1
@@ -1248,12 +1251,14 @@ lucy-bot
 ludwigbot
 luhut_robot
 lumac0
+lunabottest
 lunachessengine
 lunaticengine
 lurch_0
 lurch_1
 lynx_bot
 m-i-0
+m-z_bot
 m07002
 machinamas
 macos23
@@ -2049,6 +2054,7 @@ tomewyrm
 too_ez4me
 topple
 torbot
+torbot_sl
 torbot_v2
 tornejoscapdesetmana
 torombot
