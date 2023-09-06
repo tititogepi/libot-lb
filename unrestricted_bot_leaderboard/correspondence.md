@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@SohamChessBot|1956
 #121|@honzovy-sachy|1953
 #122|@BOTsharpchess|1952
-#123|@ZE_ROOK|1949
+#123|@ZE_ROOK|1945
 #124|@Los-Guerreros1|1935
 #125|@TheLegendaryKnight|1935
 #126|@Virutor|1934
@@ -134,10 +134,10 @@ Rank|Bot|Rating
 #132|@honzovy-sachy-2|1892
 #133|@XXXTryandTryXXX|1884
 #134|@KingsGamBot|1882
-#135|@lol7241Bot|1878
-#136|@PiratesBot|1876
-#137|@Yukoo-BOT|1876
-#138|@Jibbby|1874
+#135|@Jibbby|1878
+#136|@lol7241Bot|1878
+#137|@PiratesBot|1876
+#138|@Yukoo-BOT|1876
 #139|@RoboTal|1874
 #140|@yowCapablanca|1874
 #141|@TheMatrix2025|1872

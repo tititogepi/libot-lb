@@ -1723,6 +1723,7 @@ rust-bot
 rust-engine
 rust_lang_chess
 rustbot
+rustypigeon
 s2rarro
 s_stock
 sacgod1020
@@ -1857,6 +1858,7 @@ stobot
 stock_nemo
 stockapibot
 stockatom
+stockblitz_v1
 stockbrotv1
 stockdory
 stockfisch16
@@ -2249,6 +2251,7 @@ yowcapablanca
 ytartofattackinchess
 yuetongbot2
 yukoo-bot
+yuligpro5
 yz-bot-test
 z-move
 z5_engine
@@ -2276,6 +2279,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-yuligpro5
-rustypigeon
-stockblitz_v1
+littlegreenmanbot
