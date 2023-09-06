@@ -1219,6 +1219,7 @@ lionfishbot
 lisa_bot
 lisebot
 liteengine
+littlegreenmanbot
 littlejennyren
 littletony
 lizzardbot
@@ -2279,4 +2280,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-littlegreenmanbot

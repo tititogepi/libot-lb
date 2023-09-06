@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@Nakshatra3|2480
 #3|@NilatacBot|2311
 #4|@OpeningsBot|2251
-#5|@anti-bot|2165
+#5|@anti-bot|2149
 #6|@CatNail|2082
 #7|@pawnrobot|1912

@@ -101,8 +101,8 @@ Rank|Bot|Rating
 #99|@EstmileBot|2200
 #100|@HerokuHasnotplay|2196
 #101|@Lucror|2178
-#102|@anti-bot|2165
-#103|@lightspeed_bot|2152
+#102|@lightspeed_bot|2152
+#103|@anti-bot|2149
 #104|@AntiChessBot|2142
 #105|@AnUtterlyKarBot|2134
 #106|@XXIstCentury|2131
