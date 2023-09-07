@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@EmptikBot|2378
 #11|@LoseisnotAvailablehe|2369
 #12|@Hyper-Stockfish|2358
-#13|@NikitosikVariantsbot|2295
+#13|@NikitosikVariantsbot|2300
 #14|@AlfaBot|2293
 #15|@Fairy-Stockfish|2289
 #16|@Kizburb|2276
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@SimplerEval|1577
 #82|@chicken_farmer|1557
 #83|@david9426_bot|1552
-#84|@OpeningsBot|1537
+#84|@OpeningsBot|1532
 #85|@bananaaaaaaaaa_test|1526
 #86|@PyChessBot|1525
 #87|@Just-a-random-bot|1524
