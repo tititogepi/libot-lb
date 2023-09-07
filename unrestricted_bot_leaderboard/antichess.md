@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@Nikitosikbot|2891
+#6|@Nikitosikbot|2892
 #7|@Coolman2021|2879
 #8|@ToromBot|2876
 #9|@UltronBot|2859
@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@ttBOT|2458
 #48|@CloudBot_v2|2455
 #49|@ResoluteBot|2455
-#50|@NikitosikVariantsbot|2442
+#50|@NikitosikVariantsbot|2450
 #51|@KingfishX|2436
 #52|@Bobby_Fischer_BOT|2435
 #53|@Nobody11892|2435
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@Dean_Summer_Bot|2279
 #82|@Johnsun|2269
 #83|@SkyBlaster|2254
-#84|@OpeningsBot|2247
+#84|@OpeningsBot|2244
 #85|@mrchessmanager|2240
 #86|@TurkiyeHogwarts|2240
 #87|@EagleEye2021|2235
