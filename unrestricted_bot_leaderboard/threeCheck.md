@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Resolved-Bot|2026
 #56|@Lila-Stockfish|2010
 #57|@firstrobot|2003
-#58|@OpeningsBot|1999
+#58|@OpeningsBot|2001
 #59|@Hyper-Stockfish|1986
 #60|@GodelEscherBot|1974
 #61|@XXIstCentury|1973
@@ -141,8 +141,8 @@ Rank|Bot|Rating
 #139|@TheLegendaryKnight|1272
 #140|@EstmileBot|1269
 #141|@Parth_Dhage_2|1258
-#142|@pawnrobot|1258
-#143|@MyNameIsWhatLOL|1256
+#142|@MyNameIsWhatLOL|1256
+#143|@pawnrobot|1255
 #144|@TORTADEMANZANA023|1233
 #145|@heatseeker223|1191
 #146|@admin-bot|1188

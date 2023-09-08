@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@Coolman2021|2527
 #10|@EmptikBot|2526
 #11|@RaspFish|2519
-#12|@TheMatrix2025|2503
+#12|@TheMatrix2025|2513
 #13|@ToromBot|2501
 #14|@Dark_evil_bot|2496
 #15|@mrchessmanager|2494
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@xiang-qi|2113
 #71|@atomicli|2111
 #72|@Trumpfor2O2O|2103
-#73|@OpeningsBot|2076
+#73|@OpeningsBot|2074
 #74|@CloudBOT|2073
 #75|@JustDontFlagMe|2048
 #76|@Stockfish-MEDIUM|2043
