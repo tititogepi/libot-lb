@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@lightspeed_bot|2177
 #53|@newengine2022|2171
 #54|@Peaceful4Life|2160
-#55|@RaspFish|2150
+#55|@RaspFish|2153
 #56|@CloudBot_v2|2131
 #57|@Johnsun|2113
 #58|@SixtyFourEngine|2089
@@ -98,7 +98,7 @@ Rank|Bot|Rating
 #96|@Pineapple-Friendly|1773
 #97|@For9e|1771
 #98|@Lila-Stockfish|1761
-#99|@OpeningsBot|1754
+#99|@OpeningsBot|1751
 #100|@bot1996123|1745
 #101|@Giphy_Logo|1741
 #102|@sauwkhamari|1741

@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@ESC_BOT|2476
 #20|@Less_of_a_threat|2469
 #21|@NormalBlitzBulletBot|2463
-#22|@RaspFish|2461
+#22|@RaspFish|2462
 #23|@Fairy-Stockfish|2451
 #24|@faith_bot|2447
 #25|@NikitosikVariantsbot|2420
@@ -34,12 +34,12 @@ Rank|Bot|Rating
 #32|@CocopikachuBOT|2274
 #33|@YoBot_v2|2257
 #34|@Kizburb|2214
-#35|@xiang-qi|2207
-#36|@Official_bot|2200
-#37|@TheMatrix2029|2200
-#38|@YellowFlash_v2|2200
-#39|@ReallyCrazyBOT|2172
-#40|@TheMatrix2025|2167
+#35|@TheMatrix2025|2208
+#36|@xiang-qi|2207
+#37|@Official_bot|2200
+#38|@TheMatrix2029|2200
+#39|@YellowFlash_v2|2200
+#40|@ReallyCrazyBOT|2172
 #41|@ResoluteBot|2150
 #42|@ZhangirKhanBOT|2148
 #43|@Mega_BOT|2146
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Resolved-Bot|2026
 #56|@Lila-Stockfish|2010
 #57|@firstrobot|2003
-#58|@OpeningsBot|1996
+#58|@OpeningsBot|1988
 #59|@Hyper-Stockfish|1986
 #60|@GodelEscherBot|1974
 #61|@XXIstCentury|1973
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@relevantproblem|1514
 #106|@Toxic_Bot|1511
 #107|@NoobMasterBOT|1507
-#108|@DavidsGuterBot|1502
+#108|@DavidsGuterBot|1506
 #109|@Epiano_Bot|1491
 #110|@CVA728_BOT_1|1489
 #111|@Rishab_Bindal|1489
@@ -141,8 +141,8 @@ Rank|Bot|Rating
 #139|@TheLegendaryKnight|1272
 #140|@EstmileBot|1269
 #141|@Parth_Dhage_2|1258
-#142|@MyNameIsWhatLOL|1256
-#143|@pawnrobot|1255
+#142|@pawnrobot|1257
+#143|@MyNameIsWhatLOL|1256
 #144|@TORTADEMANZANA023|1233
 #145|@heatseeker223|1191
 #146|@admin-bot|1188

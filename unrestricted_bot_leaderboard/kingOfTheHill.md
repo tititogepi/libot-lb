@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@AndromedaSX1|2344
 #14|@ToromBot|2325
 #15|@Fairy_Belzedar|2316
-#16|@TheMatrix2025|2298
+#16|@TheMatrix2025|2316
 #17|@MalanChess|2292
 #18|@LudwigBOT|2281
 #19|@LoseisnotAvailablehe|2274
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Lila-Stockfish|1963
 #63|@PyChessBot|1957
 #64|@abhisun_bot|1947
-#65|@OpeningsBot|1945
+#65|@OpeningsBot|1943
 #66|@Resolved-Bot|1942
 #67|@Pineapple-Friendly|1937
 #68|@azdad|1936

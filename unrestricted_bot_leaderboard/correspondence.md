@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@ClubAjedrezChileno|1898
 #131|@TrolliumBot|1894
 #132|@honzovy-sachy-2|1892
-#133|@Jibbby|1888
+#133|@Jibbby|1892
 #134|@XXXTryandTryXXX|1884
 #135|@KingsGamBot|1882
 #136|@lol7241Bot|1878

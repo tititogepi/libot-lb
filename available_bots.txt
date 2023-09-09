@@ -2286,3 +2286,6 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+atomic_chess_bot
+lapischesszero
+satranc_kazansin_bot
