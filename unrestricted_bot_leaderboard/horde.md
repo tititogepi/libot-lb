@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@Bobby_Fischer_BOT|2136
 #28|@jasans_bot|2116
 #29|@xiang-qi|2115
-#30|@iplayonlyrandom|2075
-#31|@KingfishX|2075
-#32|@TheMatrix2025|2064
+#30|@TheMatrix2025|2095
+#31|@iplayonlyrandom|2075
+#32|@KingfishX|2075
 #33|@Bot_AOOP11|2050
 #34|@Resolved-Bot|2045
 #35|@DrSmartBugs|2036
@@ -79,9 +79,9 @@ Rank|Bot|Rating
 #77|@ElFinsBoT|1617
 #78|@Lila-Stockfish|1616
 #79|@Stockfish-MEDIUM|1604
-#80|@Zer0_Tw0|1580
-#81|@SimplerEval|1577
-#82|@OpeningsBot|1576
+#80|@OpeningsBot|1590
+#81|@Zer0_Tw0|1580
+#82|@SimplerEval|1577
 #83|@chicken_farmer|1557
 #84|@david9426_bot|1552
 #85|@bananaaaaaaaaa_test|1526
@@ -122,8 +122,8 @@ Rank|Bot|Rating
 #120|@xDmanBOT|1258
 #121|@yobmef|1258
 #122|@GuineaBot3|1248
-#123|@pawnrobot|1225
-#124|@TheSystem_Bot|1218
+#123|@TheSystem_Bot|1218
+#124|@pawnrobot|1212
 #125|@admin-bot|1209
 #126|@Happy_One|1207
 #127|@St6090|1191

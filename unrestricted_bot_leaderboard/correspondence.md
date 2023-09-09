@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@ChamberiAjedrez|2281
 #22|@Cheng-4|2269
 #23|@HansNiemannBot|2260
-#24|@bekbot|2249
+#24|@bekbot|2257
 #25|@nukechess-bot|2244
 #26|@GarboBot|2241
 #27|@Lila-Stockfish|2238
