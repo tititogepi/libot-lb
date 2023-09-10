@@ -136,6 +136,7 @@ ashnostromo
 asimusbot
 assasino_legend
 asterix_20k20
+atomic_chess_bot
 atomicandtroll
 atomicbot1
 atomicchessbot
@@ -1129,6 +1130,7 @@ ladidacticabot
 ladoga_engine
 laira_z
 lalis1
+lapischesszero
 lastwill
 laurin03
 lazybot
@@ -1749,6 +1751,7 @@ sargon-4ply
 sargon2-c64
 sashachessengine
 satranc-efendisi
+satranc_kazansin_bot
 satrancbazyt
 satyakeswara_bot
 sauwkhamari
@@ -2286,6 +2289,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-atomic_chess_bot
-lapischesszero
-satranc_kazansin_bot

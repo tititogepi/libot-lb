@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@Cowboy_Time|1622
 #77|@ElFinsBoT|1617
 #78|@Lila-Stockfish|1616
-#79|@Stockfish-MEDIUM|1604
-#80|@OpeningsBot|1590
+#79|@OpeningsBot|1612
+#80|@Stockfish-MEDIUM|1604
 #81|@Zer0_Tw0|1580
 #82|@SimplerEval|1577
 #83|@chicken_farmer|1557
@@ -123,9 +123,9 @@ Rank|Bot|Rating
 #121|@yobmef|1258
 #122|@GuineaBot3|1248
 #123|@TheSystem_Bot|1218
-#124|@pawnrobot|1212
-#125|@admin-bot|1209
-#126|@Happy_One|1207
+#124|@admin-bot|1209
+#125|@Happy_One|1207
+#126|@pawnrobot|1195
 #127|@St6090|1191
 #128|@Simpafteur|1188
 #129|@BetaOneBot|1166
