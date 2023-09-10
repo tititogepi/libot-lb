@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@Viet-BOT|2185
 #52|@lightspeed_bot|2177
 #53|@newengine2022|2171
-#54|@Peaceful4Life|2160
-#55|@RaspFish|2155
+#54|@RaspFish|2162
+#55|@Peaceful4Life|2160
 #56|@CloudBot_v2|2131
 #57|@Johnsun|2113
 #58|@SixtyFourEngine|2089
@@ -98,11 +98,11 @@ Rank|Bot|Rating
 #96|@Pineapple-Friendly|1773
 #97|@For9e|1771
 #98|@Lila-Stockfish|1761
-#99|@OpeningsBot|1747
-#100|@bot1996123|1745
-#101|@Giphy_Logo|1741
-#102|@sauwkhamari|1741
-#103|@TJchessBot|1741
+#99|@bot1996123|1745
+#100|@Giphy_Logo|1741
+#101|@sauwkhamari|1741
+#102|@TJchessBot|1741
+#103|@OpeningsBot|1739
 #104|@Stockfish-MEDIUM|1717
 #105|@Lightning_SpeedChess|1696
 #106|@B0T5_RU13|1683

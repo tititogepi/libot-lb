@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@Corvus-1|2386
 #10|@FireFishBOT|2385
 #11|@Coolman2021|2378
-#12|@Karpov_bot|2359
-#13|@AndromedaSX1|2344
-#14|@TheMatrix2025|2344
+#12|@TheMatrix2025|2365
+#13|@Karpov_bot|2359
+#14|@AndromedaSX1|2344
 #15|@ToromBot|2325
 #16|@Fairy_Belzedar|2316
 #17|@MalanChess|2292
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@LoseisnotAvailablehe|2274
 #20|@bananaaaaaaaaa_test|2269
 #21|@Bobby_Fischer_BOT|2267
-#22|@Nikitosikbot|2258
+#22|@Nikitosikbot|2265
 #23|@YoBot_v2|2242
 #24|@ResoluteBot|2233
 #25|@Magnus-BOT|2224
@@ -65,9 +65,9 @@ Rank|Bot|Rating
 #63|@PyChessBot|1957
 #64|@abhisun_bot|1947
 #65|@Resolved-Bot|1942
-#66|@OpeningsBot|1941
-#67|@Pineapple-Friendly|1937
-#68|@azdad|1936
+#66|@Pineapple-Friendly|1937
+#67|@azdad|1936
+#68|@OpeningsBot|1936
 #69|@chessbot2880|1931
 #70|@HyperLitikBOT|1930
 #71|@Galaxy_Guardian|1906
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@Toxic_Bot|1541
 #108|@SXDEFENDER|1534
 #109|@Light_To_The_Rescue|1523
-#110|@DavidsGuterBot|1500
+#110|@DavidsGuterBot|1498
 #111|@Z-Move|1495
 #112|@TFRChessClub|1494
 #113|@hyperchessbot1|1493
