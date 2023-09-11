@@ -376,6 +376,7 @@ cactusengine
 cadabrabot
 cahbot
 caissa-ai
+caissa-nnue
 caissa-test
 caissa-x
 caissa_board_test
@@ -2126,6 +2127,7 @@ ultraaggressivebot
 ultrabulletbot
 ultramanbulletmast99
 ultronbot
+unbecomingerik
 unbornbot
 undisstoppablebot
 unhappydefender
@@ -2289,5 +2291,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-caissa-nnue
-unbecomingerik

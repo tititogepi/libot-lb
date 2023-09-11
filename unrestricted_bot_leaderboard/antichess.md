@@ -13,12 +13,12 @@ Rank|Bot|Rating
 #11|@WennDieSoldatBOT|2818
 #12|@FireFishBOT|2785
 #13|@VariantsTop|2765
-#14|@RaspFish|2734
+#14|@RaspFish|2735
 #15|@ibep|2733
 #16|@lord-bot|2679
 #17|@LoseisnotAvailablehe|2677
 #18|@AntichessAnalyzer|2673
-#19|@TheMatrix2025|2659
+#19|@TheMatrix2025|2666
 #20|@MalanChess|2638
 #21|@AmudhanHyperBot|2615
 #22|@bananaaaaaaaaa_test|2608
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@pistol-play|2498
 #41|@MrBOThacker|2477
 #42|@hauptschuleBOT|2475
-#43|@Alehkine_cat|2474
-#44|@Nakshatra3|2471
+#43|@Nakshatra3|2475
+#44|@Alehkine_cat|2474
 #45|@Fairy-Stockfish|2460
 #46|@PepsiForAll|2460
 #47|@ttBOT|2458
@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@Less_of_a_threat|2357
 #68|@Viet_BOT|2354
 #69|@higuyuu67776|2352
-#70|@Karpov_bot|2335
-#71|@NilatacBot|2332
+#70|@NilatacBot|2338
+#71|@Karpov_bot|2335
 #72|@TeamChelsie|2331
 #73|@AI69|2312
 #74|@BromiumAI|2312
@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@SkyBlaster|2254
 #84|@mrchessmanager|2240
 #85|@TurkiyeHogwarts|2240
-#86|@OpeningsBot|2238
+#86|@OpeningsBot|2236
 #87|@EagleEye2021|2235
 #88|@chesshyperbot|2234
 #89|@Hyper-Stockfish|2230
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@anti-bot|2129
 #108|@PyChessBot|2102
 #109|@TurkiyeHogwartsBOT|2099
-#110|@CatNail|2075
+#110|@CatNail|2067
 #111|@ZamuChess|2049
 #112|@Botzer|2020
 #113|@Jussicas|2019

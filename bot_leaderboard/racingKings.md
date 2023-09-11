@@ -1,4 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2507
-#2|@OpeningsBot|2079
+#1|@RaspFish|2520
+#2|@ToromBot|2507
+#3|@OpeningsBot|2083
