@@ -55,8 +55,8 @@ Rank|Bot|Rating
 #53|@Johnsun|2257
 #54|@YoBot_v2|2243
 #55|@MalanChess|2238
-#56|@STockfishdestroyBot|2227
-#57|@TheMatrix2025|2224
+#56|@TheMatrix2025|2234
+#57|@STockfishdestroyBot|2227
 #58|@Kizburb|2220
 #59|@MagnusCarlsenTheBOT|2215
 #60|@GravityStorm|2214
@@ -254,7 +254,7 @@ Rank|Bot|Rating
 #252|@shakboy9824453231op|1420
 #253|@bunny_2021|1413
 #254|@TTC-BOT_2|1410
-#255|@pawnrobot|1403
+#255|@pawnrobot|1402
 #256|@Butzke_BOT|1401
 #257|@MartianBot|1386
 #258|@Trumpfor2O2O|1386
