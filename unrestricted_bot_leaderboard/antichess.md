@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@HyperLitikBOT|2511
 #40|@pistol-play|2498
 #41|@MrBOThacker|2477
-#42|@hauptschuleBOT|2475
-#43|@Nakshatra3|2475
+#42|@Nakshatra3|2477
+#43|@hauptschuleBOT|2475
 #44|@Alehkine_cat|2474
 #45|@Fairy-Stockfish|2460
 #46|@PepsiForAll|2460
@@ -67,9 +67,9 @@ Rank|Bot|Rating
 #65|@Trumpfor2O2O|2366
 #66|@HuxZero|2361
 #67|@Less_of_a_threat|2357
-#68|@Viet_BOT|2354
-#69|@higuyuu67776|2352
-#70|@NilatacBot|2338
+#68|@NilatacBot|2354
+#69|@Viet_BOT|2354
+#70|@higuyuu67776|2352
 #71|@Karpov_bot|2335
 #72|@TeamChelsie|2331
 #73|@AI69|2312
@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@Dean_Summer_Bot|2279
 #82|@Johnsun|2269
 #83|@SkyBlaster|2254
-#84|@mrchessmanager|2240
-#85|@OpeningsBot|2240
+#84|@OpeningsBot|2242
+#85|@mrchessmanager|2240
 #86|@TurkiyeHogwarts|2240
 #87|@EagleEye2021|2235
 #88|@chesshyperbot|2234
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@anti-bot|2129
 #108|@PyChessBot|2102
 #109|@TurkiyeHogwartsBOT|2099
-#110|@CatNail|2067
+#110|@CatNail|2071
 #111|@ZamuChess|2049
 #112|@Botzer|2020
 #113|@Jussicas|2019
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@antichesssss|1964
 #120|@Menganti|1963
 #121|@CloudBOT|1950
-#122|@pawnrobot|1948
+#122|@pawnrobot|1942
 #123|@Crepusculum|1881
 #124|@NoTallkOnlyGames|1871
 #125|@Lumac0|1861
