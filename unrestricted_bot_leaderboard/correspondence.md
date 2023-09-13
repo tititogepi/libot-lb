@@ -128,9 +128,9 @@ Rank|Bot|Rating
 #126|@chicken_farmer|1926
 #127|@RootEngine|1920
 #128|@Simpafteur|1912
-#129|@ZE_ROOK|1908
-#130|@ClubAjedrezChileno|1898
-#131|@Jibbby|1898
+#129|@ZE_ROOK|1907
+#130|@Jibbby|1899
+#131|@ClubAjedrezChileno|1898
 #132|@TrolliumBot|1894
 #133|@honzovy-sachy-2|1892
 #134|@XXXTryandTryXXX|1884
