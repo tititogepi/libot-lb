@@ -363,6 +363,7 @@ bruceleela
 brutestrength
 bryan_12345
 bsergey11-bot
+buildabot
 bulletbotmaster
 bulletchess134
 bulletenforcer
@@ -2291,4 +2292,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-buildabot
