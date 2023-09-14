@@ -57,8 +57,8 @@ Rank|Bot|Rating
 #55|@Resolved-Bot|2026
 #56|@Lila-Stockfish|2010
 #57|@firstrobot|2003
-#58|@Hyper-Stockfish|1986
-#59|@OpeningsBot|1985
+#58|@OpeningsBot|1987
+#59|@Hyper-Stockfish|1986
 #60|@GodelEscherBot|1974
 #61|@XXIstCentury|1973
 #62|@mrchessmanager|1963
@@ -106,8 +106,8 @@ Rank|Bot|Rating
 #104|@TrashBot|1519
 #105|@relevantproblem|1514
 #106|@Toxic_Bot|1511
-#107|@NoobMasterBOT|1507
-#108|@DavidsGuterBot|1503
+#107|@DavidsGuterBot|1508
+#108|@NoobMasterBOT|1507
 #109|@Epiano_Bot|1491
 #110|@CVA728_BOT_1|1489
 #111|@Rishab_Bindal|1489
@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@EstmileBot|1269
 #141|@Parth_Dhage_2|1258
 #142|@MyNameIsWhatLOL|1256
-#143|@pawnrobot|1254
+#143|@pawnrobot|1249
 #144|@TORTADEMANZANA023|1233
 #145|@heatseeker223|1191
 #146|@admin-bot|1188

@@ -163,7 +163,7 @@ Rank|Bot|Rating
 #161|@TheLegitLegend|1786
 #162|@MagicHacker123|1774
 #163|@EstmileBot|1769
-#164|@OpeningsBot|1762
+#164|@OpeningsBot|1761
 #165|@Giphy_Logo|1746
 #166|@MRT23|1741
 #167|@ChessPlayer1225|1739
