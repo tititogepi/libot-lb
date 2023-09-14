@@ -204,6 +204,7 @@ berserkrandommover
 best_bot_king_bot
 bestchessbot
 bestjsengine
+beststockfish16
 betaonebot
 betatree
 betaz
@@ -638,6 +639,7 @@ e-teron-27s
 eagleeye2021
 earn-4serpendity
 easychessherokubot
+easytutorialbot
 easywingg
 eb-chess
 echobot
@@ -647,6 +649,7 @@ eftalbot
 egeytek
 egs1-en001
 einstein_nnue
+electricboy6-bot
 elfinsbot
 elite-bot
 eliteleela
@@ -697,6 +700,7 @@ estmilebot
 etabetaita
 eubos
 eulerbot
+european_chess_bot
 evenmatchup
 evernow
 evg3n413429
@@ -783,6 +787,7 @@ furrybot
 furryofthewerewolf
 future_chess_pro
 fychess2
+fychess_bot
 g0thamb0t
 galaxy_guardian
 gam3play3r
@@ -1118,6 +1123,7 @@ kung-fupanda
 kunju_bot
 kunkkabot
 kurosaki_higor
+kvasbot
 kvothechess_bot
 kwinibot
 kybot
@@ -1311,6 +1317,7 @@ mate_bot
 mateai
 materialisoverrated
 matmoi
+matrix-ai
 max_bot
 maximumef
 maxthedog
@@ -1538,6 +1545,7 @@ pawn_stormer_d4
 pawnrobot
 pdfprizebot
 peaceful4life
+peach-bot
 pennywise__it
 peonasesino71
 pepsiforall
@@ -1586,6 +1594,7 @@ polaris2bot
 polochon-bot
 polybot
 popularmoves-bot
+postbotr
 potato-chess-bot
 potato638
 potato_chess
@@ -1610,6 +1619,7 @@ proteussf-lite
 proteussf-open
 proteussf-sunrise
 proteussf-turbo
+proteussf_power
 protocol_2
 proud_tamil_bot
 proustagm
@@ -1854,6 +1864,7 @@ srijusathish2509
 srilanka_ikw
 srilankachess
 srj9
+ssbot
 sscg13-engine
 ssech_bot
 ssehcilx
@@ -2159,6 +2170,7 @@ verylowsodium-bot
 vetinari_computer
 vezzickbot
 vicechess
+viceriever
 victorbulletbot
 vidha-2009
 viet-ai
@@ -2292,4 +2304,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-postbotr
