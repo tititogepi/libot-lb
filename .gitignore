@@ -1,1 +1,3 @@
 bot_leaderboard.json
+*_leaderboard/*.html
+__pycache__
