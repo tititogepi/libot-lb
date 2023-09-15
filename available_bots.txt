@@ -1026,6 +1026,7 @@ jest-bot
 jgrizzbt-bot
 jibbby
 jnewberry0502
+joannp38_pedantic
 jobabot
 johan201023_twitch
 johanblunder
@@ -2304,4 +2305,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-joannp38_pedantic
+king-forward-bot

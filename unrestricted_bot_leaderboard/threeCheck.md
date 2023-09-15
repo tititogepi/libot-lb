@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@knight_128|1563
 #102|@Galaxy_Guardian|1561
 #103|@Alehkine_cat|1549
-#104|@TrashBot|1519
-#105|@DavidsGuterBot|1515
+#104|@DavidsGuterBot|1530
+#105|@TrashBot|1519
 #106|@relevantproblem|1514
 #107|@Toxic_Bot|1511
 #108|@NoobMasterBOT|1507
@@ -142,8 +142,8 @@ Rank|Bot|Rating
 #140|@EstmileBot|1269
 #141|@Parth_Dhage_2|1258
 #142|@MyNameIsWhatLOL|1256
-#143|@pawnrobot|1243
-#144|@TORTADEMANZANA023|1233
+#143|@TORTADEMANZANA023|1233
+#144|@pawnrobot|1228
 #145|@heatseeker223|1191
 #146|@admin-bot|1188
 #147|@Ujwal1001|1179
