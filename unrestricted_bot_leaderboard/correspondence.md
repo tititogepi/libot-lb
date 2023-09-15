@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@TorBot|2475
 #9|@EmptikBot|2454
 #10|@F0rgot|2434
-#11|@AjedrezChamberi|2411
+#11|@AjedrezChamberi|2413
 #12|@HulkBot|2387
 #13|@Mega_BOT|2371
 #14|@CorrespondenceBot|2353
@@ -127,12 +127,12 @@ Rank|Bot|Rating
 #125|@Virutor|1934
 #126|@chicken_farmer|1926
 #127|@RootEngine|1920
-#128|@ZE_ROOK|1919
-#129|@Simpafteur|1912
-#130|@ClubAjedrezChileno|1898
-#131|@TrolliumBot|1894
-#132|@honzovy-sachy-2|1892
-#133|@Jibbby|1886
+#128|@Simpafteur|1912
+#129|@ZE_ROOK|1906
+#130|@Jibbby|1900
+#131|@ClubAjedrezChileno|1898
+#132|@TrolliumBot|1894
+#133|@honzovy-sachy-2|1892
 #134|@XXXTryandTryXXX|1884
 #135|@KingsGamBot|1882
 #136|@lol7241Bot|1878

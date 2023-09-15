@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@Bot_AOOP11|2521
 #39|@HyperLitikBOT|2511
 #40|@pistol-play|2498
-#41|@MrBOThacker|2477
-#42|@Nakshatra3|2477
+#41|@Nakshatra3|2480
+#42|@MrBOThacker|2477
 #43|@hauptschuleBOT|2475
 #44|@Alehkine_cat|2474
 #45|@Fairy-Stockfish|2460
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@Dean_Summer_Bot|2279
 #82|@Johnsun|2269
 #83|@SkyBlaster|2254
-#84|@OpeningsBot|2252
+#84|@OpeningsBot|2253
 #85|@mrchessmanager|2240
 #86|@TurkiyeHogwarts|2240
 #87|@EagleEye2021|2235
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@BetaZ|1973
 #119|@antichesssss|1964
 #120|@Menganti|1963
-#121|@pawnrobot|1958
+#121|@pawnrobot|1954
 #122|@CloudBOT|1950
 #123|@Crepusculum|1881
 #124|@NoTallkOnlyGames|1871
