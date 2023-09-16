@@ -1440,6 +1440,7 @@ neuralactivity
 neuralleela
 new-tie
 newengine2022
+nexastrat
 nezh-bot
 nezuko_chess
 nicarao_chess
@@ -2307,4 +2308,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nexastrat
