@@ -27,6 +27,7 @@ ahavaisbotting
 ahmet-botahmet
 ai-electro
 ai-energy
+ai-rapid
 ai69
 aialphaai
 aicaroline
@@ -2306,4 +2307,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ai-rapid
+nexastrat
