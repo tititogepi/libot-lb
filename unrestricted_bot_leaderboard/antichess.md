@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@AnUtterlyKarBot|2134
 #106|@XXIstCentury|2131
 #107|@anti-bot|2129
-#108|@CatNail|2114
+#108|@CatNail|2115
 #109|@PyChessBot|2102
 #110|@TurkiyeHogwartsBOT|2099
 #111|@ZamuChess|2049

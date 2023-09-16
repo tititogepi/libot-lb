@@ -1090,6 +1090,7 @@ kidobot2911
 kidoffchess
 kimchi_bot
 kimchiengine
+king-forward-bot
 king12345678910bot
 kingfishbot
 kingfishx
@@ -2305,4 +2306,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-king-forward-bot
+ai-rapid
