@@ -2158,6 +2158,7 @@ uvuvwevwevwesrevenge
 valhalla-bot
 valiantbot
 vamos_caballeros
+vanilla_v2
 variablelco
 variantebot
 variantenkoning
@@ -2311,4 +2312,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-vanilla_v2

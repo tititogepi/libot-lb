@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ReinforcementTrial|2646
+#1|@ReinforcementTrial|2644
 #2|@M-Z_Bot|2636
 #3|@Nikitosikbot|2627
 #4|@TheFreshman1902|2625
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@SaxtonEngine|2330
 #19|@pawn_git|2326
 #20|@Cheng-4|2281
-#21|@Weiawaga|2281
+#21|@Weiawaga|2277
 #22|@Pseudo-0|2158
 #23|@TuksuBot|2153
 #24|@Phalanx-XXV|2129
@@ -49,15 +49,15 @@ Rank|Bot|Rating
 #47|@simplexitor|1679
 #48|@honzovy-sachy|1669
 #49|@ZE_ROOK|1641
-#50|@maia5|1637
+#50|@maia5|1631
 #51|@sargon-4ply|1617
 #52|@turkjs|1608
 #53|@turochamp-2ply|1575
 #54|@sargon-3ply|1565
-#55|@maia1|1544
-#56|@chat_bot|1528
+#55|@chat_bot|1528
+#56|@maia1|1526
 #57|@Humaia|1455
 #58|@turochamp-1ply|1429
-#59|@sargon-2ply|1395
+#59|@sargon-2ply|1386
 #60|@sargon-1ply|1296
 #61|@G0thamB0t|771
