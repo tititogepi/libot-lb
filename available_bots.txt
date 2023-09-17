@@ -2309,3 +2309,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+howhorseymove_bot
+stockfish16_2023
