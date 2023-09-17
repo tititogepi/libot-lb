@@ -928,6 +928,7 @@ hoplites
 hotleela
 houdini14_2
 housjoe
+howhorseymove_bot
 howtobasics
 hrant_petrosyan_bot
 hrtbot
@@ -1895,6 +1896,7 @@ stockfish-nnue
 stockfish10chess
 stockfish122
 stockfish12_johan
+stockfish16_2023
 stockfish1node
 stockfish2021
 stockfish224
@@ -2309,5 +2311,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-howhorseymove_bot
-stockfish16_2023
