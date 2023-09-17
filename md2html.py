@@ -25,6 +25,9 @@ css_styles = """
     .styled-table th {
       background-color: #f2f2f2;
     }
+    body {
+      margin-bottom: 70px;
+    }
     .github-logo {
       width: 2em;
       height: auto;
