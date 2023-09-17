@@ -2,12 +2,12 @@ Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|2703
 #2|@SkyBlaster|2603
-#3|@RaspFish|2585
+#3|@RaspFish|2596
 #4|@lord-bot|2581
-#5|@Fairy_Belzedar|2559
-#6|@EmptikVariantsBot|2557
-#7|@FireFishBOT|2547
-#8|@Nikitosikbot|2541
+#5|@Nikitosikbot|2568
+#6|@Fairy_Belzedar|2559
+#7|@EmptikVariantsBot|2557
+#8|@FireFishBOT|2547
 #9|@LudwigBOT|2536
 #10|@Coolman2021|2527
 #11|@EmptikBot|2526

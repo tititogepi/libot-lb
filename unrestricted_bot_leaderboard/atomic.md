@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@EmptikVariantsBot|2671
 #4|@ToromBot|2665
 #5|@Fairy_Belzedar|2628
-#6|@Nikitosikbot|2622
-#7|@Coolman2021|2601
-#8|@KizVariant|2597
+#6|@Coolman2021|2601
+#7|@KizVariant|2597
+#8|@Nikitosikbot|2597
 #9|@pistol-play|2590
 #10|@RaspFish|2556
 #11|@UltronBot|2556
