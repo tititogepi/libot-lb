@@ -216,8 +216,8 @@ Rank|Bot|Rating
 #214|@panda_engine|2287
 #215|@Cheng-4|2281
 #216|@combuskengine|2279
-#217|@StockDory|2273
-#218|@Weiawaga|2273
+#217|@Weiawaga|2276
+#218|@StockDory|2273
 #219|@misteick_bot|2270
 #220|@BOTWorld|2269
 #221|@Butzke_BOT|2269
@@ -334,8 +334,8 @@ Rank|Bot|Rating
 #332|@squared-chess|2095
 #333|@ReallyCrazyBOT|2093
 #334|@Amrobotone|2091
-#335|@Nakshatra3|2091
-#336|@hyperchessbot1|2086
+#335|@hyperchessbot1|2086
+#336|@Nakshatra3|2084
 #337|@Hoplites|2082
 #338|@MQBot|2078
 #339|@Omega-PRO|2077
@@ -612,7 +612,7 @@ Rank|Bot|Rating
 #610|@IX-AZE|1637
 #611|@PyChessBot|1636
 #612|@GeraldBOT|1630
-#613|@maia5|1626
+#613|@maia5|1625
 #614|@Pawn_Stormer_D4|1624
 #615|@Awesome_Stockfish|1621
 #616|@BRAINLEARN11_NNUE|1619
@@ -662,8 +662,8 @@ Rank|Bot|Rating
 #660|@greko-bot|1525
 #661|@pussaW|1519
 #662|@LeelaRecent|1512
-#663|@maia1|1512
-#664|@StupidChessRobot|1511
+#663|@StupidChessRobot|1511
+#664|@maia1|1507
 #665|@Bot-2564|1500
 #666|@freddystehtaufteddy|1500
 #667|@NeuralAbyss|1500

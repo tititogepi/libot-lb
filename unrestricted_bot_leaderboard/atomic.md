@@ -243,8 +243,8 @@ Rank|Bot|Rating
 #241|@Future_Chess_Pro|1453
 #242|@MyNameIsSpeeedy|1453
 #243|@BotGeorge|1449
-#244|@pawnrobot|1445
-#245|@AIAlphaAI|1442
+#244|@AIAlphaAI|1442
+#245|@pawnrobot|1442
 #246|@darkb0t|1441
 #247|@KaTHHHH|1440
 #248|@Chess_Bot-Child|1437
