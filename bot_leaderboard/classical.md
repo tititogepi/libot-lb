@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ReinforcementTrial|2641
+#1|@ReinforcementTrial|2640
 #2|@M-Z_Bot|2635
 #3|@Nikitosikbot|2627
 #4|@TheFreshman1902|2625
@@ -42,15 +42,15 @@ Rank|Bot|Rating
 #40|@baby_eubos|1793
 #41|@ChessChildren|1754
 #42|@notropis|1749
-#43|@maia9|1742
+#43|@maia9|1727
 #44|@Virutor|1703
-#45|@Demolito_L5|1696
+#45|@Demolito_L5|1695
 #46|@simplexitor|1672
 #47|@honzovy-sachy|1669
 #48|@ZE_ROOK|1641
 #49|@sargon-4ply|1617
-#50|@maia5|1616
-#51|@turkjs|1608
+#50|@turkjs|1608
+#51|@maia5|1604
 #52|@turochamp-2ply|1575
 #53|@chat_bot|1528
 #54|@maia1|1494
