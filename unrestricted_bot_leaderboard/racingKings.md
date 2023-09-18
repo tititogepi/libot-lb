@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@SkyBlaster|2603
 #3|@RaspFish|2596
 #4|@lord-bot|2581
-#5|@Nikitosikbot|2568
+#5|@Nikitosikbot|2563
 #6|@Fairy_Belzedar|2559
 #7|@EmptikVariantsBot|2557
 #8|@FireFishBOT|2547

@@ -12,11 +12,11 @@ Rank|Bot|Rating
 #10|@faith_bot|2100
 #11|@RaspFish|2066
 #12|@Nikitosik-ai|2009
-#13|@FrozenightEngine|1838
-#14|@OpeningsBot|1745
+#13|@FrozenightEngine|1837
+#14|@OpeningsBot|1750
 #15|@Cheng-4|1733
-#16|@FataliiBot|1443
-#17|@Demolito_L6|1243
-#18|@Demolito_L5|1083
+#16|@FataliiBot|1441
+#17|@Demolito_L6|1248
+#18|@Demolito_L5|1076
 #19|@botTideEval|897
 #20|@pawnrobot|869

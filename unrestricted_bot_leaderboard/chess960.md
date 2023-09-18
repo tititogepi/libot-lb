@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@tt-challenge|1850
 #176|@Test_God_50_BOT|1843
 #177|@newengine2022|1842
-#178|@FrozenightEngine|1838
+#178|@FrozenightEngine|1837
 #179|@GodelEscherBot|1837
 #180|@LordNTR|1837
 #181|@Simpafteur|1833
@@ -206,9 +206,9 @@ Rank|Bot|Rating
 #204|@BishoP-BOT|1752
 #205|@XXIstCentury|1752
 #206|@MikhailTal_AI|1750
-#207|@Ch4rl3s|1748
-#208|@DxrkOnBot|1746
-#209|@OpeningsBot|1745
+#207|@OpeningsBot|1750
+#208|@Ch4rl3s|1748
+#209|@DxrkOnBot|1746
 #210|@spaceisbot|1744
 #211|@Cheng-4|1733
 #212|@Magnus-BOT|1733
@@ -281,7 +281,7 @@ Rank|Bot|Rating
 #279|@NeilDandekarBot|1453
 #280|@DespacitoBot|1451
 #281|@fishm0ley|1450
-#282|@FataliiBot|1443
+#282|@FataliiBot|1441
 #283|@Chess_ni_BOSS|1437
 #284|@FN_Waldi|1436
 #285|@chicken_farmer|1435
@@ -323,9 +323,9 @@ Rank|Bot|Rating
 #321|@entebot|1261
 #322|@azdad|1258
 #323|@Itzmoi6g19|1258
-#324|@Sparring_Bot|1248
-#325|@RootEngine|1245
-#326|@Demolito_L6|1243
+#324|@Demolito_L6|1248
+#325|@Sparring_Bot|1248
+#326|@RootEngine|1245
 #327|@Future_Chess_Pro|1233
 #328|@AlphaLeela0|1229
 #329|@WorstBotEver123|1222
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@ZX-Chess|1119
 #342|@Jobabot|1110
 #343|@Dummyette|1107
-#344|@Demolito_L5|1083
+#344|@Demolito_L5|1076
 #345|@admin-bot|1003
 #346|@TuroBot|997
 #347|@sudobot_chess|991
