@@ -29,7 +29,7 @@ css_styles = """
       margin-bottom: 70px;
     }
     .github-logo {
-      width: 2em;
+      width: 1.5em;
       height: auto;
       vertical-align: middle;
     }
