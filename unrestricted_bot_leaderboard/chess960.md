@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@hyperchessbot1|2189
 #15|@Kizburb|2182
 #16|@VariantsBot|2180
-#17|@YoBot_v2|2176
-#18|@ResoluteBot|2174
+#17|@ResoluteBot|2174
+#18|@YoBot_v2|2173
 #19|@Bot_McBotface|2172
 #20|@lord-bot|2171
 #21|@EmptikBot|2168
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@pangubot|2128
 #37|@BetterAnalyze|2125
 #38|@Caissa-NNUE|2124
-#39|@TorBot|2119
+#39|@TorBot|2122
 #40|@JeffIO|2113
 #41|@Dragon_1906|2111
 #42|@ibep|2111

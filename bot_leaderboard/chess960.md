@@ -1,14 +1,14 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2176
-#2|@ResoluteBot|2174
+#1|@ResoluteBot|2174
+#2|@YoBot_v2|2173
 #3|@EmptikBot|2168
 #4|@TheFreshman1902|2163
 #5|@Nikitosikbot|2162
 #6|@TheMatrix2025|2156
 #7|@ToromBot|2156
 #8|@VariantsTop|2138
-#9|@TorBot|2119
+#9|@TorBot|2122
 #10|@faith_bot|2100
 #11|@RaspFish|2066
 #12|@Nikitosik-ai|2009
