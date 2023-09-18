@@ -20,6 +20,7 @@ admin-bot
 ae_test
 aebroadusbotter
 aeternusmaster
+africaata
 agamed2007
 aggrobot
 agnay_202524
@@ -2315,4 +2316,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-africaata

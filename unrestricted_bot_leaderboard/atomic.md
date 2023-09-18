@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@AlfaBot|2674
 #3|@EmptikVariantsBot|2671
 #4|@ToromBot|2665
-#5|@Nikitosikbot|2658
+#5|@Nikitosikbot|2660
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
