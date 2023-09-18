@@ -151,11 +151,11 @@ Rank|Bot|Rating
 #149|@OurBot|1836
 #150|@Aromik_s_bot|1831
 #151|@BestJSEngine|1826
-#152|@Black_Knight2006|1815
-#153|@RoundMoundOfRebounds|1815
-#154|@Hoplites|1813
-#155|@Sub_Bot|1808
-#156|@yeoldwiz|1807
+#152|@yeoldwiz|1823
+#153|@Black_Knight2006|1815
+#154|@RoundMoundOfRebounds|1815
+#155|@Hoplites|1813
+#156|@Sub_Bot|1808
 #157|@DrMeowMeow|1800
 #158|@stockfish12_Johan|1798
 #159|@BetaOneBot|1792
