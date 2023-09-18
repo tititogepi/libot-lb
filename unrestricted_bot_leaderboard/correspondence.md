@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@RoundMoundOfRebounds|1815
 #154|@Hoplites|1813
 #155|@Sub_Bot|1808
-#156|@yeoldwiz|1801
+#156|@yeoldwiz|1807
 #157|@DrMeowMeow|1800
 #158|@stockfish12_Johan|1798
 #159|@BetaOneBot|1792

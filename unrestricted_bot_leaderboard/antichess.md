@@ -74,12 +74,12 @@ Rank|Bot|Rating
 #72|@TeamChelsie|2331
 #73|@AI69|2312
 #74|@BromiumAI|2312
-#75|@OpeningsBot|2311
-#76|@Kizburb|2307
-#77|@MagicverseBOT|2306
-#78|@abhisun_bot|2305
-#79|@NienishiEngine|2304
-#80|@EvenMatchup|2302
+#75|@Kizburb|2307
+#76|@MagicverseBOT|2306
+#77|@abhisun_bot|2305
+#78|@NienishiEngine|2304
+#79|@EvenMatchup|2302
+#80|@OpeningsBot|2287
 #81|@GodelEscherBot|2284
 #82|@Dean_Summer_Bot|2279
 #83|@Johnsun|2269
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@Lucror|2178
 #103|@lightspeed_bot|2152
 #104|@AntiChessBot|2142
-#105|@anti-bot|2134
+#105|@anti-bot|2139
 #106|@AnUtterlyKarBot|2134
 #107|@XXIstCentury|2131
 #108|@CatNail|2106
