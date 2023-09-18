@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@HyperPhoenix21|2035
 #102|@EmptikCorrespondence|2031
 #103|@StrongMagnusCarlsen|2027
-#104|@kybot|2025
-#105|@zeekat|2025
+#104|@zeekat|2026
+#105|@kybot|2025
 #106|@MalanChess|2020
 #107|@RoyalLeela|2014
 #108|@SchachProg|2010
