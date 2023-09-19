@@ -1640,6 +1640,7 @@ ptit-biscuit
 purplehunter
 pussaw
 pvice
+pvnode
 pychessbot
 pyglin
 q-bith
@@ -2318,4 +2319,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-pvnode
