@@ -209,6 +209,7 @@ bestchessbot
 bestjsengine
 beststockfish16
 betaonebot
+betatests
 betatree
 betaz
 betazerobot
@@ -2316,4 +2317,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-betatests
+postbot
