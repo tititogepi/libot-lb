@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@Ujwal1001|2297
 #20|@mrohCentaur|2285
 #21|@ChamberiAjedrez|2281
-#22|@Cheng-4|2269
-#23|@HansNiemannBot|2260
-#24|@bekbot|2257
+#22|@bekbot|2273
+#23|@Cheng-4|2269
+#24|@HansNiemannBot|2260
 #25|@nukechess-bot|2244
 #26|@GarboBot|2241
 #27|@Lila-Stockfish|2238
