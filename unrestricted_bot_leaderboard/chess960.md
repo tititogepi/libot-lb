@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@BetterAnalyze|2125
 #38|@Caissa-NNUE|2124
 #39|@TorBot|2123
-#40|@ReinforcementTrial|2114
+#40|@ReinforcementTrial|2120
 #41|@JeffIO|2113
 #42|@Dragon_1906|2111
 #43|@ibep|2111
@@ -278,9 +278,9 @@ Rank|Bot|Rating
 #276|@MQBot|1460
 #277|@stonks_fish|1460
 #278|@Teamleaderbot|1458
-#279|@NeilDandekarBot|1453
-#280|@DespacitoBot|1451
-#281|@FataliiBot|1450
+#279|@FataliiBot|1456
+#280|@NeilDandekarBot|1453
+#281|@DespacitoBot|1451
 #282|@fishm0ley|1450
 #283|@Chess_ni_BOSS|1437
 #284|@FN_Waldi|1436
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@ZX-Chess|1119
 #342|@Jobabot|1110
 #343|@Dummyette|1107
-#344|@Demolito_L5|1059
+#344|@Demolito_L5|1053
 #345|@admin-bot|1003
 #346|@TuroBot|997
 #347|@sudobot_chess|991
