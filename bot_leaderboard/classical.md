@@ -15,14 +15,14 @@ Rank|Bot|Rating
 #13|@faith_bot|2557
 #14|@expositor|2438
 #15|@AKS-Mantissa|2404
-#16|@FrozenightEngine|2379
+#16|@FrozenightEngine|2386
 #17|@catriever|2351
 #18|@pawn_git|2325
 #19|@SaxtonEngine|2325
 #20|@Cheng-4|2276
 #21|@Weiawaga|2267
 #22|@Pseudo-0|2158
-#23|@TuksuBot|2147
+#23|@TuksuBot|2146
 #24|@Phalanx-XXV|2129
 #25|@Nakshatra3|2079
 #26|@simpleEval|2063
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@notropis|1749
 #44|@Demolito_L5|1703
 #45|@Virutor|1702
-#46|@maia9|1676
+#46|@maia9|1690
 #47|@simplexitor|1669
 #48|@honzovy-sachy|1664
 #49|@ZE_ROOK|1637
@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@turkjs|1607
 #52|@maia5|1598
 #53|@turochamp-2ply|1575
-#54|@maia1|1537
-#55|@chat_bot|1528
+#54|@chat_bot|1528
+#55|@maia1|1526
 #56|@Humaia|1455
 #57|@turochamp-1ply|1429
 #58|@sargon-2ply|1386
