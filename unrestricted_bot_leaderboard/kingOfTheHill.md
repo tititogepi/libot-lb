@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@Coolman2021|2378
 #13|@Karpov_bot|2359
 #14|@AndromedaSX1|2344
-#15|@ToromBot|2329
+#15|@ToromBot|2332
 #16|@Fairy_Belzedar|2316
 #17|@MalanChess|2292
 #18|@LudwigBOT|2281
@@ -67,9 +67,9 @@ Rank|Bot|Rating
 #65|@Resolved-Bot|1942
 #66|@Pineapple-Friendly|1937
 #67|@azdad|1936
-#68|@OpeningsBot|1935
-#69|@chessbot2880|1931
-#70|@HyperLitikBOT|1930
+#68|@chessbot2880|1931
+#69|@HyperLitikBOT|1930
+#70|@OpeningsBot|1918
 #71|@Galaxy_Guardian|1906
 #72|@DrSmartBugs|1904
 #73|@NikitosikVariantsbot|1894
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@Toxic_Bot|1541
 #108|@SXDEFENDER|1534
 #109|@Light_To_The_Rescue|1523
-#110|@DavidsGuterBot|1496
+#110|@DavidsGuterBot|1509
 #111|@Z-Move|1495
 #112|@TFRChessClub|1494
 #113|@hyperchessbot1|1493
