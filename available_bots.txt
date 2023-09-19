@@ -1234,6 +1234,7 @@ lightspeed_bot
 likeawizard-bot
 lila-stockfish
 lildoctorjank
+liligirlplay
 linuxguru_bot0
 lioct
 lionfishbot
@@ -2319,4 +2320,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-liligirlplay
