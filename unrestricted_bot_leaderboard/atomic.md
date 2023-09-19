@@ -132,8 +132,8 @@ Rank|Bot|Rating
 #130|@AtomicRouletteBot|1955
 #131|@atomicli|1951
 #132|@HappyDeepawali|1941
-#133|@OpeningsBot|1937
-#134|@EagleEye2021|1935
+#133|@EagleEye2021|1935
+#134|@OpeningsBot|1928
 #135|@hjhjhjhjhjhj|1923
 #136|@FyChess2|1921
 #137|@B4dF1sh|1903

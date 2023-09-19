@@ -1603,6 +1603,7 @@ polaris2bot
 polochon-bot
 polybot
 popularmoves-bot
+postbot
 postbotr
 potato-chess-bot
 potato638
@@ -2317,4 +2318,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-postbot

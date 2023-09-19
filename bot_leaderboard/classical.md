@@ -3,11 +3,11 @@ Rank|Bot|Rating
 #1|@ReinforcementTrial|2640
 #2|@M-Z_Bot|2638
 #3|@Nikitosikbot|2627
-#4|@TheFreshman1902|2625
+#4|@TheFreshman1902|2624
 #5|@YoBot_v2|2624
 #6|@Nikitosik-ai|2616
 #7|@ResoluteBot|2615
-#8|@RaspFish|2610
+#8|@RaspFish|2609
 #9|@ProteusSF-Godot|2607
 #10|@Mr_Chess_Berserk|2584
 #11|@ArasanX|2579
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@GarboBot|1933
 #37|@likeawizard-bot|1917
 #38|@LazyBotJr|1883
-#39|@zeekat|1831
+#39|@zeekat|1837
 #40|@LeelaRogue|1806
 #41|@baby_eubos|1793
 #42|@ChessChildren|1754
@@ -51,9 +51,9 @@ Rank|Bot|Rating
 #49|@ZE_ROOK|1641
 #50|@sargon-4ply|1617
 #51|@turkjs|1607
-#52|@maia5|1588
+#52|@maia5|1586
 #53|@turochamp-2ply|1575
-#54|@maia1|1539
+#54|@maia1|1544
 #55|@chat_bot|1528
 #56|@Humaia|1455
 #57|@turochamp-1ply|1429
