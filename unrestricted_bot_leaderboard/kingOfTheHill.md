@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@LudwigBOT|2281
 #19|@LoseisnotAvailablehe|2274
 #20|@bananaaaaaaaaa_test|2269
-#21|@Bobby_Fischer_BOT|2267
-#22|@Nikitosikbot|2265
+#21|@Nikitosikbot|2268
+#22|@Bobby_Fischer_BOT|2267
 #23|@YoBot_v2|2242
 #24|@ResoluteBot|2233
 #25|@Magnus-BOT|2224
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@azdad|1936
 #68|@chessbot2880|1931
 #69|@HyperLitikBOT|1930
-#70|@OpeningsBot|1918
+#70|@OpeningsBot|1917
 #71|@Galaxy_Guardian|1906
 #72|@DrSmartBugs|1904
 #73|@NikitosikVariantsbot|1894
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@Toxic_Bot|1541
 #108|@SXDEFENDER|1534
 #109|@Light_To_The_Rescue|1523
-#110|@DavidsGuterBot|1509
+#110|@DavidsGuterBot|1507
 #111|@Z-Move|1495
 #112|@TFRChessClub|1494
 #113|@hyperchessbot1|1493
