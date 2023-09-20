@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Nikitosikbot|2394
+#1|@Nikitosikbot|2391

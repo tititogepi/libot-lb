@@ -1,5 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Nikitosikbot|2661
-#2|@OpeningsBot|1984
-#3|@pawnrobot|1451
+#2|@RaspFish|2556
+#3|@OpeningsBot|1984
+#4|@pawnrobot|1451
