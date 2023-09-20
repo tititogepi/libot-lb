@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@BetterAnalyze|2125
 #39|@Caissa-NNUE|2124
 #40|@TorBot|2124
-#41|@faith_bot|2114
-#42|@JeffIO|2113
+#41|@JeffIO|2113
+#42|@faith_bot|2112
 #43|@Dragon_1906|2111
 #44|@ibep|2111
 #45|@Galaxy_Guardian|2107
@@ -101,10 +101,10 @@ Rank|Bot|Rating
 #99|@AivanJ10|2002
 #100|@BitExtender128|2002
 #101|@CloudBot_v2|2002
-#102|@NimsiluBot|2001
-#103|@Ultra-bot|2001
-#104|@Yemmi-Yemmi|2001
-#105|@Nikitosik-ai|2000
+#102|@Nikitosik-ai|2002
+#103|@NimsiluBot|2001
+#104|@Ultra-bot|2001
+#105|@Yemmi-Yemmi|2001
 #106|@LeelaChessBestEngine|1997
 #107|@StockSergio|1997
 #108|@TheMatrix2029|1992
@@ -278,9 +278,9 @@ Rank|Bot|Rating
 #276|@MQBot|1460
 #277|@stonks_fish|1460
 #278|@Teamleaderbot|1458
-#279|@NeilDandekarBot|1453
-#280|@DespacitoBot|1451
-#281|@FataliiBot|1450
+#279|@FataliiBot|1456
+#280|@NeilDandekarBot|1453
+#281|@DespacitoBot|1451
 #282|@fishm0ley|1450
 #283|@Chess_ni_BOSS|1437
 #284|@FN_Waldi|1436
@@ -323,7 +323,7 @@ Rank|Bot|Rating
 #321|@entebot|1261
 #322|@azdad|1258
 #323|@Itzmoi6g19|1258
-#324|@Demolito_L6|1256
+#324|@Demolito_L6|1253
 #325|@Sparring_Bot|1248
 #326|@RootEngine|1245
 #327|@Future_Chess_Pro|1233
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@ZX-Chess|1119
 #342|@Jobabot|1110
 #343|@Dummyette|1107
-#344|@Demolito_L5|1062
+#344|@Demolito_L5|1059
 #345|@admin-bot|1003
 #346|@TuroBot|997
 #347|@sudobot_chess|991

@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@CloudBOT|2393
 #27|@NienishiEngine|2392
 #28|@ToromBot|2391
-#29|@Nikitosikbot|2373
+#29|@Nikitosikbot|2369
 #30|@EagleEye2021|2365
 #31|@KingfishX|2347
 #32|@chesshyperbot|2344
