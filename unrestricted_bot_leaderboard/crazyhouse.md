@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@Viet-BOT|2185
 #52|@lightspeed_bot|2177
 #53|@newengine2022|2171
-#54|@RaspFish|2164
+#54|@RaspFish|2166
 #55|@Peaceful4Life|2160
 #56|@CloudBot_v2|2131
 #57|@Johnsun|2113
@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@Giphy_Logo|1741
 #101|@sauwkhamari|1741
 #102|@TJchessBot|1741
-#103|@OpeningsBot|1736
+#103|@OpeningsBot|1733
 #104|@Stockfish-MEDIUM|1717
 #105|@Lightning_SpeedChess|1696
 #106|@B0T5_RU13|1683
