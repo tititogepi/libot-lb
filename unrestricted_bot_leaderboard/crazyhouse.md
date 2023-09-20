@@ -24,11 +24,11 @@ Rank|Bot|Rating
 #22|@ElPeonElectrico|2454
 #23|@abhisun_bot|2444
 #24|@pistol-play|2437
-#25|@YoBot_v2|2394
-#26|@CloudBOT|2393
-#27|@NienishiEngine|2392
-#28|@ToromBot|2391
-#29|@Nikitosikbot|2369
+#25|@Nikitosikbot|2394
+#26|@YoBot_v2|2394
+#27|@CloudBOT|2393
+#28|@NienishiEngine|2392
+#29|@ToromBot|2391
 #30|@EagleEye2021|2365
 #31|@KingfishX|2347
 #32|@chesshyperbot|2344
