@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@Karpov_bot|2335
 #71|@TeamChelsie|2331
 #72|@NilatacBot|2324
-#73|@OpeningsBot|2315
+#73|@OpeningsBot|2317
 #74|@AI69|2312
 #75|@BromiumAI|2312
 #76|@Kizburb|2307
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@BetaZ|1973
 #119|@antichesssss|1964
 #120|@Menganti|1963
-#121|@pawnrobot|1956
+#121|@pawnrobot|1955
 #122|@CloudBOT|1950
 #123|@Crepusculum|1881
 #124|@NoTallkOnlyGames|1871

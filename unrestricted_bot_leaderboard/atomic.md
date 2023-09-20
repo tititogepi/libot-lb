@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@CatBot329|2000
 #120|@Zer0_Tw0|1991
 #121|@BigBrainen|1984
-#122|@OpeningsBot|1978
+#122|@OpeningsBot|1984
 #123|@relevantproblem|1976
 #124|@All_Except_Chess960|1975
 #125|@Cowboy_Time|1974
