@@ -95,8 +95,8 @@ Rank|Bot|Rating
 #93|@Iwantedtoplaychess|2013
 #94|@NNUE_SF|2013
 #95|@CarlsenCantBeatMe|2009
-#96|@vodkabot|2008
-#97|@Nikitosik-ai|2006
+#96|@Nikitosik-ai|2008
+#97|@vodkabot|2008
 #98|@HyperLitikBOT|2005
 #99|@HiddeNL|2004
 #100|@fougade|2003
@@ -204,7 +204,7 @@ Rank|Bot|Rating
 #202|@squared-chess|1757
 #203|@Botgravity|1756
 #204|@Fairy-Stockfish|1755
-#205|@OpeningsBot|1755
+#205|@OpeningsBot|1754
 #206|@BishoP-BOT|1752
 #207|@XXIstCentury|1752
 #208|@MikhailTal_AI|1750
@@ -276,9 +276,9 @@ Rank|Bot|Rating
 #274|@misteick_bot|1472
 #275|@MagicverseBOT|1471
 #276|@CBNguyen_Bot|1465
-#277|@MQBot|1460
-#278|@stonks_fish|1460
-#279|@FataliiBot|1459
+#277|@FataliiBot|1460
+#278|@MQBot|1460
+#279|@stonks_fish|1460
 #280|@Teamleaderbot|1458
 #281|@NeilDandekarBot|1453
 #282|@DespacitoBot|1451
@@ -326,7 +326,7 @@ Rank|Bot|Rating
 #324|@Itzmoi6g19|1258
 #325|@Sparring_Bot|1248
 #326|@RootEngine|1245
-#327|@Demolito_L6|1237
+#327|@Demolito_L6|1238
 #328|@Future_Chess_Pro|1233
 #329|@AlphaLeela0|1229
 #330|@WorstBotEver123|1222
@@ -344,7 +344,7 @@ Rank|Bot|Rating
 #342|@ZX-Chess|1119
 #343|@Jobabot|1110
 #344|@Dummyette|1107
-#345|@Demolito_L5|1082
+#345|@Demolito_L5|1079
 #346|@admin-bot|1003
 #347|@TuroBot|997
 #348|@sudobot_chess|991
