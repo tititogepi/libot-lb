@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@M-Z_Bot|2640
 #3|@YoBot_v2|2626
 #4|@TheFreshman1902|2625
-#5|@Nikitosikbot|2622
+#5|@Nikitosikbot|2623
 #6|@RaspFish|2612
 #7|@ResoluteBot|2610
 #8|@Nikitosik-ai|2599
@@ -45,14 +45,14 @@ Rank|Bot|Rating
 #43|@Demolito_L6|1728
 #44|@Demolito_L5|1703
 #45|@Virutor|1702
-#46|@maia9|1671
+#46|@maia9|1673
 #47|@simplexitor|1663
 #48|@honzovy-sachy|1662
 #49|@ZE_ROOK|1636
-#50|@maia1|1620
-#51|@sargon-4ply|1614
+#50|@sargon-4ply|1614
+#51|@maia5|1606
 #52|@turkjs|1606
-#53|@maia5|1604
+#53|@maia1|1598
 #54|@turochamp-2ply|1575
 #55|@sargon-3ply|1567
 #56|@chat_bot|1528
