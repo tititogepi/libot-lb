@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@lord-bot|2171
 #20|@YoBot_v2|2169
 #21|@EmptikBot|2168
-#22|@TheFreshman1902|2164
-#23|@Nikitosikbot|2162
+#22|@Nikitosikbot|2165
+#23|@TheFreshman1902|2164
 #24|@rtx3080tibot|2162
 #25|@too_ez4me|2160
 #26|@YellowFlash-X|2158
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@NimsiluBot|2001
 #103|@Ultra-bot|2001
 #104|@Yemmi-Yemmi|2001
-#105|@Nikitosik-ai|1998
+#105|@Nikitosik-ai|2000
 #106|@LeelaChessBestEngine|1997
 #107|@StockSergio|1997
 #108|@TheMatrix2029|1992
@@ -174,9 +174,9 @@ Rank|Bot|Rating
 #172|@Sovereign_bot|1851
 #173|@TheEnsemble|1851
 #174|@tt-challenge|1850
-#175|@FrozenightEngine|1844
-#176|@Test_God_50_BOT|1843
-#177|@newengine2022|1842
+#175|@Test_God_50_BOT|1843
+#176|@newengine2022|1842
+#177|@FrozenightEngine|1841
 #178|@Tundra4|1839
 #179|@GodelEscherBot|1837
 #180|@LordNTR|1837
@@ -200,10 +200,10 @@ Rank|Bot|Rating
 #198|@PyChessBot|1762
 #199|@TrashBot|1761
 #200|@relevantproblem|1760
-#201|@OpeningsBot|1757
-#202|@squared-chess|1757
-#203|@Botgravity|1756
-#204|@Fairy-Stockfish|1755
+#201|@squared-chess|1757
+#202|@Botgravity|1756
+#203|@Fairy-Stockfish|1755
+#204|@OpeningsBot|1755
 #205|@BishoP-BOT|1752
 #206|@XXIstCentury|1752
 #207|@MikhailTal_AI|1750
@@ -323,7 +323,7 @@ Rank|Bot|Rating
 #321|@entebot|1261
 #322|@azdad|1258
 #323|@Itzmoi6g19|1258
-#324|@Demolito_L6|1253
+#324|@Demolito_L6|1256
 #325|@Sparring_Bot|1248
 #326|@RootEngine|1245
 #327|@Future_Chess_Pro|1233
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@bobandi|940
 #355|@YellowJackets_Bot|925
 #356|@botTideEval|880
-#357|@pawnrobot|865
+#357|@pawnrobot|862
 #358|@Palisade|800
 #359|@WaspBot|798
 #360|@LeelaWeak|735

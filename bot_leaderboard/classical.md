@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ReinforcementTrial|2649
+#1|@ReinforcementTrial|2648
 #2|@M-Z_Bot|2645
 #3|@YoBot_v2|2626
 #4|@TheFreshman1902|2624
@@ -52,12 +52,12 @@ Rank|Bot|Rating
 #50|@sargon-4ply|1614
 #51|@turkjs|1606
 #52|@maia1|1603
-#53|@maia5|1602
+#53|@maia5|1593
 #54|@turochamp-2ply|1575
 #55|@sargon-3ply|1567
 #56|@chat_bot|1528
 #57|@Humaia|1455
 #58|@turochamp-1ply|1422
-#59|@sargon-2ply|1386
+#59|@sargon-2ply|1398
 #60|@sargon-1ply|1298
 #61|@G0thamB0t|771

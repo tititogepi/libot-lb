@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@SatrancbazYT|2701
 #11|@djungel_lc0|2691
 #12|@SkyAttacker|2680
-#13|@ReinforcementTrial|2649
+#13|@ReinforcementTrial|2648
 #14|@M-Z_Bot|2645
 #15|@Polochon-Bot|2644
 #16|@ProteusSF-Aureo|2640
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@Nikitosik-ai|2599
 #36|@Caissa-NNUE|2598
 #37|@LBOT007|2595
-#38|@EmptikBot247|2589
+#38|@EmptikBot247|2591
 #39|@Shineshou90_BOT|2586
 #40|@Mr_Chess_Berserk|2584
 #41|@TheMatrix2025|2579
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@ShashChess_MsP|2574
 #47|@ChessMaster6K|2573
 #48|@que-encrypt|2572
-#49|@StockFish16_2023|2571
+#49|@StockFish16_2023|2572
 #50|@ToromBot|2569
 #51|@pangubot|2565
 #52|@faith_bot|2564
@@ -623,11 +623,11 @@ Rank|Bot|Rating
 #621|@StockfishOfficial|1608
 #622|@turkjs|1606
 #623|@maia1|1603
-#624|@maia5|1602
-#625|@LeelaWeak|1601
-#626|@Alehkine_cat|1599
-#627|@Kiwibot|1597
-#628|@RavenLiteEngine|1594
+#624|@LeelaWeak|1601
+#625|@Alehkine_cat|1599
+#626|@Kiwibot|1597
+#627|@RavenLiteEngine|1594
+#628|@maia5|1593
 #629|@IOs_bot|1591
 #630|@NiyaziCarlsen|1591
 #631|@yeoldwiz|1589
@@ -713,9 +713,9 @@ Rank|Bot|Rating
 #711|@PaddiBot|1414
 #712|@Teamleaderbot|1414
 #713|@Pineapple-Friendly|1399
-#714|@RoundMoundOfRebounds|1391
-#715|@Ramses-Chess|1388
-#716|@sargon-2ply|1386
+#714|@sargon-2ply|1398
+#715|@RoundMoundOfRebounds|1391
+#716|@Ramses-Chess|1388
 #717|@ladoga_engine|1382
 #718|@Bobby_Fischer_BOT|1373
 #719|@Hokmah|1370
