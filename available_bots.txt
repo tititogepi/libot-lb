@@ -740,6 +740,7 @@ fbot
 featbeweir
 feeks99
 feligamer
+felixleonidovich
 fender_bender
 fib0t
 fibonachi
@@ -2320,4 +2321,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-felixleonidovich

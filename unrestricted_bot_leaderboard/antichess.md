@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@EstmileBot|2200
 #102|@HerokuHasnotplay|2196
 #103|@Lucror|2178
-#104|@CatNail|2165
+#104|@CatNail|2168
 #105|@lightspeed_bot|2152
 #106|@AntiChessBot|2142
 #107|@AnUtterlyKarBot|2134
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@BetaZ|1973
 #120|@antichesssss|1964
 #121|@Menganti|1963
-#122|@pawnrobot|1955
+#122|@pawnrobot|1952
 #123|@CloudBOT|1950
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
