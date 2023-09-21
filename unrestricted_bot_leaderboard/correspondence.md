@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@Los-Guerreros1|1935
 #125|@TheLegendaryKnight|1935
 #126|@Virutor|1934
-#127|@ZE_ROOK|1931
+#127|@ZE_ROOK|1930
 #128|@chicken_farmer|1926
 #129|@RootEngine|1920
 #130|@Simpafteur|1912
@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@RoboTal|1874
 #141|@yowCapablanca|1874
 #142|@TheMatrix2025|1872
-#143|@Jibbby|1870
+#143|@Jibbby|1871
 #144|@ViVe_2_chess_pro|1869
 #145|@Official_bot|1857
 #146|@ChessChildren|1856

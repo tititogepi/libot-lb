@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@MagicverseBOT|2306
 #78|@abhisun_bot|2305
 #79|@NienishiEngine|2304
-#80|@OpeningsBot|2303
+#80|@OpeningsBot|2304
 #81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@antichesssss|1964
 #121|@Menganti|1963
 #122|@CloudBOT|1950
-#123|@pawnrobot|1947
+#123|@pawnrobot|1945
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
 #126|@Lumac0|1861
