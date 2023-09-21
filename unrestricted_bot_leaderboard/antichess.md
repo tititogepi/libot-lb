@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@abhisun_bot|2305
 #79|@NienishiEngine|2304
 #80|@EvenMatchup|2302
-#81|@OpeningsBot|2285
+#81|@OpeningsBot|2292
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269
@@ -107,8 +107,8 @@ Rank|Bot|Rating
 #105|@lightspeed_bot|2152
 #106|@AntiChessBot|2142
 #107|@AnUtterlyKarBot|2134
-#108|@anti-bot|2131
-#109|@XXIstCentury|2131
+#108|@XXIstCentury|2131
+#109|@anti-bot|2124
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
