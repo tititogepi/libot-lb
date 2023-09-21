@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ResoluteBot|2174
+#1|@ResoluteBot|2181
 #2|@Nikitosikbot|2169
 #3|@EmptikBot|2168
 #4|@TheFreshman1902|2164
@@ -12,12 +12,12 @@ Rank|Bot|Rating
 #10|@faith_bot|2112
 #11|@RaspFish|2068
 #12|@Hien-Vinh_Bot2|2062
-#13|@Nikitosik-ai|2005
+#13|@Nikitosik-ai|1999
 #14|@FrozenightEngine|1839
-#15|@OpeningsBot|1757
-#16|@Cheng-4|1746
-#17|@FataliiBot|1461
+#15|@OpeningsBot|1754
+#16|@Cheng-4|1744
+#17|@FataliiBot|1463
 #18|@Demolito_L6|1248
-#19|@Demolito_L5|1066
+#19|@Demolito_L5|1063
 #20|@botTideEval|880
 #21|@pawnrobot|862
