@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@Less_of_a_threat|2357
 #69|@Viet_BOT|2354
 #70|@higuyuu67776|2352
-#71|@NilatacBot|2340
-#72|@Karpov_bot|2335
+#71|@Karpov_bot|2335
+#72|@NilatacBot|2334
 #73|@TeamChelsie|2331
 #74|@AI69|2312
 #75|@BromiumAI|2312
@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@MagicverseBOT|2306
 #78|@abhisun_bot|2305
 #79|@NienishiEngine|2304
-#80|@EvenMatchup|2302
-#81|@OpeningsBot|2297
+#80|@OpeningsBot|2303
+#81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269

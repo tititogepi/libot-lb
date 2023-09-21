@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@Breeze-Hot|2006
 #119|@NikitosikVariantsbot|2003
 #120|@CatBot329|2000
-#121|@OpeningsBot|1992
+#121|@OpeningsBot|1998
 #122|@Zer0_Tw0|1991
 #123|@BigBrainen|1984
 #124|@relevantproblem|1976
