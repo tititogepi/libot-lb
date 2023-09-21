@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@IUseStockfish|2202
 #12|@LeelaChessTest|2202
 #13|@Corvus-1|2197
-#14|@ResoluteBot|2190
-#15|@hyperchessbot1|2189
+#14|@hyperchessbot1|2189
+#15|@ResoluteBot|2188
 #16|@Kizburb|2182
 #17|@VariantsBot|2180
 #18|@TheFreshman1902|2174
@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@rtx3080tibot|2162
 #25|@ToromBot|2161
 #26|@too_ez4me|2160
-#27|@YellowFlash-X|2158
-#28|@YoBot_v2|2157
+#27|@YoBot_v2|2159
+#28|@YellowFlash-X|2158
 #29|@TheMatrix2025|2156
 #30|@YellowFlash_v2|2156
 #31|@FireFishBOT|2153
@@ -37,9 +37,9 @@ Rank|Bot|Rating
 #35|@F1R3BOT|2128
 #36|@Lc0Test|2128
 #37|@pangubot|2128
-#38|@BetterAnalyze|2125
-#39|@Caissa-NNUE|2124
-#40|@faith_bot|2124
+#38|@faith_bot|2127
+#39|@BetterAnalyze|2125
+#40|@Caissa-NNUE|2124
 #41|@TorBot|2124
 #42|@AI-Electro|2113
 #43|@JeffIO|2113
@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@Iwantedtoplaychess|2013
 #94|@NNUE_SF|2013
 #95|@CarlsenCantBeatMe|2009
-#96|@Nikitosik-ai|2009
+#96|@Nikitosik-ai|2008
 #97|@vodkabot|2008
 #98|@HyperLitikBOT|2005
 #99|@HiddeNL|2004
@@ -182,7 +182,7 @@ Rank|Bot|Rating
 #180|@LordNTR|1837
 #181|@Simpafteur|1833
 #182|@ChessHunterBot|1831
-#183|@FrozenightEngine|1827
+#183|@FrozenightEngine|1831
 #184|@ZamuChess|1822
 #185|@AI69|1821
 #186|@StormphraxEngine|1820
@@ -210,8 +210,8 @@ Rank|Bot|Rating
 #208|@Ch4rl3s|1748
 #209|@DxrkOnBot|1746
 #210|@spaceisbot|1744
-#211|@OpeningsBot|1741
-#212|@Cheng-4|1739
+#211|@Cheng-4|1741
+#212|@OpeningsBot|1739
 #213|@Magnus-BOT|1733
 #214|@Velvet-Engine|1732
 #215|@mrchessmanager|1724
@@ -275,7 +275,7 @@ Rank|Bot|Rating
 #273|@SmallbrainPy|1474
 #274|@misteick_bot|1472
 #275|@MagicverseBOT|1471
-#276|@FataliiBot|1468
+#276|@FataliiBot|1466
 #277|@CBNguyen_Bot|1465
 #278|@MQBot|1460
 #279|@stonks_fish|1460
@@ -301,8 +301,8 @@ Rank|Bot|Rating
 #299|@hjhjhjhjhjhj|1370
 #300|@KhepriChess|1361
 #301|@theoden8_uci|1352
-#302|@FelixLeonidovich|1348
-#303|@bestchessbot|1347
+#302|@bestchessbot|1347
+#303|@FelixLeonidovich|1342
 #304|@Nobody11892|1340
 #305|@magnum_carl|1338
 #306|@Jannik08_FAN|1337
@@ -322,7 +322,7 @@ Rank|Bot|Rating
 #320|@AEBROADUSBOTTER|1279
 #321|@yolo_eldiablo15|1274
 #322|@ImpossibleWin|1272
-#323|@Demolito_L6|1264
+#323|@Demolito_L6|1261
 #324|@entebot|1261
 #325|@azdad|1258
 #326|@Itzmoi6g19|1258

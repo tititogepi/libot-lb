@@ -684,6 +684,7 @@ emptikbotlc0
 emptikbotoldest
 emptikcorrespondence
 emptikvariantsbot
+emptikweak
 emreisci13
 emrysbot
 endogenetic-bot
@@ -2321,4 +2322,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-emptikweak
