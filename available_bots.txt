@@ -203,6 +203,7 @@ berlinwallwall
 bernd_der_bot
 berntbot
 bernucchio
+berserk-test
 berserkengine
 berserkrandommover
 best_bot_king_bot
@@ -2323,4 +2324,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-berserk-test
