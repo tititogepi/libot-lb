@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@azdad|1936
 #69|@chessbot2880|1931
 #70|@HyperLitikBOT|1930
-#71|@OpeningsBot|1918
+#71|@OpeningsBot|1922
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
 #74|@NikitosikVariantsbot|1894
@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@Toxic_Bot|1541
 #109|@SXDEFENDER|1534
 #110|@Light_To_The_Rescue|1523
-#111|@DavidsGuterBot|1504
+#111|@DavidsGuterBot|1500
 #112|@Z-Move|1495
 #113|@TFRChessClub|1494
 #114|@hyperchessbot1|1493

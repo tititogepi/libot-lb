@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@ToromBot|2164
 #24|@ReinforcementTrial|2162
 #25|@rtx3080tibot|2162
-#26|@too_ez4me|2160
-#27|@YoBot_v2|2159
+#26|@YoBot_v2|2162
+#27|@too_ez4me|2160
 #28|@YellowFlash-X|2158
 #29|@TheMatrix2025|2156
 #30|@YellowFlash_v2|2156
@@ -95,9 +95,9 @@ Rank|Bot|Rating
 #93|@Iwantedtoplaychess|2013
 #94|@NNUE_SF|2013
 #95|@CarlsenCantBeatMe|2009
-#96|@Nikitosik-ai|2009
-#97|@vodkabot|2008
-#98|@HyperLitikBOT|2005
+#96|@vodkabot|2008
+#97|@HyperLitikBOT|2005
+#98|@Nikitosik-ai|2005
 #99|@HiddeNL|2004
 #100|@fougade|2003
 #101|@AivanJ10|2002
@@ -209,9 +209,9 @@ Rank|Bot|Rating
 #207|@MikhailTal_AI|1750
 #208|@Ch4rl3s|1748
 #209|@DxrkOnBot|1746
-#210|@spaceisbot|1744
-#211|@OpeningsBot|1743
-#212|@Cheng-4|1733
+#210|@OpeningsBot|1745
+#211|@spaceisbot|1744
+#212|@Cheng-4|1735
 #213|@Magnus-BOT|1733
 #214|@Velvet-Engine|1732
 #215|@mrchessmanager|1724
@@ -275,8 +275,8 @@ Rank|Bot|Rating
 #273|@SmallbrainPy|1474
 #274|@misteick_bot|1472
 #275|@MagicverseBOT|1471
-#276|@FataliiBot|1469
-#277|@CBNguyen_Bot|1465
+#276|@CBNguyen_Bot|1465
+#277|@FataliiBot|1465
 #278|@MQBot|1460
 #279|@stonks_fish|1460
 #280|@Teamleaderbot|1458

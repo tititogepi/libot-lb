@@ -101,9 +101,9 @@ Rank|Bot|Rating
 #99|@Beyondcomprehension|2039
 #100|@faith_bot|2037
 #101|@CocopikachuBOT|2036
-#102|@HyperPhoenix21|2035
-#103|@EmptikCorrespondence|2031
-#104|@zeekat|2029
+#102|@zeekat|2036
+#103|@HyperPhoenix21|2035
+#104|@EmptikCorrespondence|2031
 #105|@StrongMagnusCarlsen|2027
 #106|@kybot|2025
 #107|@MalanChess|2020
@@ -126,8 +126,8 @@ Rank|Bot|Rating
 #124|@Los-Guerreros1|1935
 #125|@TheLegendaryKnight|1935
 #126|@Virutor|1934
-#127|@ZE_ROOK|1930
-#128|@chicken_farmer|1926
+#127|@chicken_farmer|1926
+#128|@ZE_ROOK|1924
 #129|@RootEngine|1920
 #130|@Simpafteur|1912
 #131|@ClubAjedrezChileno|1898
