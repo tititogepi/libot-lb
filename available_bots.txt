@@ -26,6 +26,7 @@ aggrobot
 agnay_202524
 ahavaisbotting
 ahmet-botahmet
+ai-con
 ai-electro
 ai-energy
 ai-rapid
@@ -2322,4 +2323,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ai-con
+berserk-test

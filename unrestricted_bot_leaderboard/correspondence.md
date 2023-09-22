@@ -99,9 +99,9 @@ Rank|Bot|Rating
 #97|@TeamChelsie|2043
 #98|@abhisun_bot|2039
 #99|@Beyondcomprehension|2039
-#100|@faith_bot|2037
-#101|@CocopikachuBOT|2036
-#102|@zeekat|2036
+#100|@zeekat|2038
+#101|@faith_bot|2037
+#102|@CocopikachuBOT|2036
 #103|@HyperPhoenix21|2035
 #104|@EmptikCorrespondence|2031
 #105|@StrongMagnusCarlsen|2027
@@ -348,7 +348,7 @@ Rank|Bot|Rating
 #346|@B4ux1t3s-Bot|1103
 #347|@AXWChessBot|1096
 #348|@StashBot|1075
-#349|@G0thamB0t|1066
+#349|@G0thamB0t|1070
 #350|@Light_To_The_Rescue|1057
 #351|@mustaley|973
 #352|@BerserkRandomMover|963

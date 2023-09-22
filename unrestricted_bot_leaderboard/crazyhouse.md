@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@CrazyAra|2839
 #4|@Corvus-1|2820
 #5|@Kizburb|2815
-#6|@Viet-AI|2755
+#6|@Viet-AI|2756
 #7|@VariantsBot|2754
 #8|@LoseisnotAvailablehe|2735
 #9|@PepsiForAll|2702
@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@Official_bot|1414
 #148|@are_bots_good|1367
 #149|@No-Varants-No|1361
-#150|@gam3play3r|1358
-#151|@GothamChessBot|1358
+#150|@GothamChessBot|1358
+#151|@gam3play3r|1357
 #152|@XiDM|1351
 #153|@Simpafteur|1348
 #154|@Hrant_Petrosyan_BOT|1346
