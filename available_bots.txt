@@ -1495,6 +1495,7 @@ nosezsbot
 not_eragon1234
 notallkonlygames
 notbotforsure
+nothinborger
 notlunarxd
 notmorphy17-3
 notnatebot
@@ -2324,4 +2325,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nothinborger

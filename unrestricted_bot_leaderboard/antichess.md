@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@MrBOThacker|2477
 #43|@hauptschuleBOT|2475
 #44|@Alehkine_cat|2474
-#45|@Nakshatra3|2470
+#45|@Nakshatra3|2474
 #46|@Fairy-Stockfish|2460
 #47|@PepsiForAll|2460
 #48|@ttBOT|2458
@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@abhisun_bot|2305
 #79|@NienishiEngine|2304
 #80|@EvenMatchup|2302
-#81|@OpeningsBot|2292
+#81|@OpeningsBot|2289
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269
