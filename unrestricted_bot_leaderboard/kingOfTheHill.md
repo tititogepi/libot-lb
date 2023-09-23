@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@Coolman2021|2378
 #13|@Karpov_bot|2359
 #14|@AndromedaSX1|2344
-#15|@ToromBot|2335
+#15|@ToromBot|2339
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@Toxic_Bot|1541
 #109|@SXDEFENDER|1534
 #110|@Light_To_The_Rescue|1523
-#111|@DavidsGuterBot|1498
+#111|@DavidsGuterBot|1497
 #112|@Z-Move|1495
 #113|@TFRChessClub|1494
 #114|@hyperchessbot1|1493

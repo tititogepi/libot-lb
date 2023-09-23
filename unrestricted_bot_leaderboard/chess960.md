@@ -274,9 +274,9 @@ Rank|Bot|Rating
 #272|@TFRChessClub|1477
 #273|@SmallbrainPy|1474
 #274|@misteick_bot|1472
-#275|@MagicverseBOT|1471
-#276|@CBNguyen_Bot|1465
-#277|@FataliiBot|1465
+#275|@FataliiBot|1471
+#276|@MagicverseBOT|1471
+#277|@CBNguyen_Bot|1465
 #278|@MQBot|1460
 #279|@stonks_fish|1460
 #280|@Teamleaderbot|1458
@@ -321,7 +321,7 @@ Rank|Bot|Rating
 #319|@AEBROADUSBOTTER|1279
 #320|@yolo_eldiablo15|1274
 #321|@ImpossibleWin|1272
-#322|@Demolito_L6|1269
+#322|@Demolito_L6|1267
 #323|@entebot|1261
 #324|@azdad|1258
 #325|@Itzmoi6g19|1258
@@ -344,7 +344,7 @@ Rank|Bot|Rating
 #342|@ZX-Chess|1119
 #343|@Jobabot|1110
 #344|@Dummyette|1107
-#345|@Demolito_L5|1068
+#345|@Demolito_L5|1065
 #346|@admin-bot|1003
 #347|@TuroBot|997
 #348|@sudobot_chess|991
