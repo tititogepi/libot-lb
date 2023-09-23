@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@IUseStockfish|2202
 #12|@LeelaChessTest|2202
 #13|@Corvus-1|2197
-#14|@ResoluteBot|2191
+#14|@ResoluteBot|2192
 #15|@hyperchessbot1|2189
 #16|@Kizburb|2182
 #17|@VariantsBot|2180
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Shineshou90_BOT|2093
 #55|@UnDisstoppableBot|2090
 #56|@Lila-Stockfish|2089
-#57|@RaspFish|2085
+#57|@RaspFish|2086
 #58|@Mittens-Bot|2081
 #59|@EmptikBotLc0|2079
 #60|@KhanhStockfish|2074
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@Zer0_Tw0|1778
 #197|@Stockfish-MEDIUM|1777
 #198|@Fairy_Belzedar|1767
-#199|@OpeningsBot|1764
+#199|@OpeningsBot|1765
 #200|@PyChessBot|1762
 #201|@TrashBot|1761
 #202|@relevantproblem|1760
@@ -274,8 +274,8 @@ Rank|Bot|Rating
 #272|@TFRChessClub|1477
 #273|@SmallbrainPy|1474
 #274|@misteick_bot|1472
-#275|@FataliiBot|1471
-#276|@MagicverseBOT|1471
+#275|@MagicverseBOT|1471
+#276|@FataliiBot|1470
 #277|@CBNguyen_Bot|1465
 #278|@MQBot|1460
 #279|@stonks_fish|1460
@@ -344,8 +344,8 @@ Rank|Bot|Rating
 #342|@ZX-Chess|1119
 #343|@Jobabot|1110
 #344|@Dummyette|1107
-#345|@Demolito_L5|1083
-#346|@Demolito_L4|1043
+#345|@Demolito_L5|1088
+#346|@Demolito_L4|1031
 #347|@admin-bot|1003
 #348|@TuroBot|997
 #349|@sudobot_chess|991
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@YellowJackets_Bot|925
 #358|@botTideEval|886
 #359|@FelixLeonidovich|886
-#360|@pawnrobot|837
+#360|@pawnrobot|834
 #361|@Palisade|800
 #362|@WaspBot|798
 #363|@LeelaWeak|735

@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ReinforcementTrial|2656
 #2|@M-Z_Bot|2649
-#3|@Nikitosikbot|2637
+#3|@Nikitosikbot|2642
 #4|@YoBot_v2|2635
 #5|@TheFreshman1902|2625
 #6|@ResoluteBot|2620
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Nikitosik-ai|2587
 #11|@ArasanX|2583
 #12|@Mr_Chess_Berserk|2579
-#13|@faith_bot|2557
+#13|@faith_bot|2550
 #14|@EmptikBot|2458
 #15|@expositor|2436
 #16|@AKS-Mantissa|2398
@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@ZE_ROOK|1640
 #53|@sargon-4ply|1617
 #54|@turkjs|1614
-#55|@maia5|1587
+#55|@maia5|1592
 #56|@turochamp-2ply|1583
 #57|@sargon-3ply|1567
 #58|@maia1|1543
