@@ -103,12 +103,12 @@ Rank|Bot|Rating
 #101|@EstmileBot|2200
 #102|@HerokuHasnotplay|2196
 #103|@Lucror|2178
-#104|@CatNail|2155
-#105|@lightspeed_bot|2152
-#106|@AntiChessBot|2142
-#107|@anti-bot|2136
-#108|@AnUtterlyKarBot|2134
-#109|@XXIstCentury|2131
+#104|@lightspeed_bot|2152
+#105|@AntiChessBot|2142
+#106|@anti-bot|2136
+#107|@AnUtterlyKarBot|2134
+#108|@XXIstCentury|2131
+#109|@CatNail|2106
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@antichesssss|1964
 #121|@Menganti|1963
 #122|@CloudBOT|1950
-#123|@pawnrobot|1924
+#123|@pawnrobot|1921
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
 #126|@Lumac0|1861
