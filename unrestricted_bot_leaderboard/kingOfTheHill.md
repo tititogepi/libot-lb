@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@Magnus-BOT|2224
 #27|@Stockfish-MEDIUM|2224
 #28|@SkyBlaster|2220
-#29|@RaspFish|2214
+#29|@RaspFish|2218
 #30|@PowerOnBot|2195
 #31|@UnDisstoppableBot|2193
 #32|@Amrobotone|2184
@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@azdad|1936
 #69|@chessbot2880|1931
 #70|@HyperLitikBOT|1930
-#71|@OpeningsBot|1930
+#71|@OpeningsBot|1929
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
 #74|@NikitosikVariantsbot|1894
@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@Toxic_Bot|1541
 #109|@SXDEFENDER|1534
 #110|@Light_To_The_Rescue|1523
-#111|@DavidsGuterBot|1518
+#111|@DavidsGuterBot|1517
 #112|@Z-Move|1495
 #113|@TFRChessClub|1494
 #114|@hyperchessbot1|1493
