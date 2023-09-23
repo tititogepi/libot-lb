@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Kizburb|2182
 #17|@VariantsBot|2180
 #18|@TheFreshman1902|2177
-#19|@YoBot_v2|2177
+#19|@YoBot_v2|2176
 #20|@Bot_McBotface|2172
 #21|@lord-bot|2171
 #22|@EmptikBot|2168
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@Zer0_Tw0|1778
 #197|@Stockfish-MEDIUM|1777
 #198|@Fairy_Belzedar|1767
-#199|@OpeningsBot|1762
+#199|@OpeningsBot|1764
 #200|@PyChessBot|1762
 #201|@TrashBot|1761
 #202|@relevantproblem|1760
@@ -273,8 +273,8 @@ Rank|Bot|Rating
 #271|@devsdaBot|1477
 #272|@TFRChessClub|1477
 #273|@SmallbrainPy|1474
-#274|@FataliiBot|1473
-#275|@misteick_bot|1472
+#274|@misteick_bot|1472
+#275|@FataliiBot|1471
 #276|@MagicverseBOT|1471
 #277|@CBNguyen_Bot|1465
 #278|@MQBot|1460
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@YellowJackets_Bot|925
 #358|@botTideEval|886
 #359|@FelixLeonidovich|886
-#360|@pawnrobot|833
+#360|@pawnrobot|837
 #361|@Palisade|800
 #362|@WaspBot|798
 #363|@LeelaWeak|735
