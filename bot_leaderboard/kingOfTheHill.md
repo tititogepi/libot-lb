@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|1921
-#2|@DavidsGuterBot|1497
+#1|@OpeningsBot|1931
+#2|@DavidsGuterBot|1520

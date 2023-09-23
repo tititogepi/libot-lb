@@ -198,9 +198,9 @@ Rank|Bot|Rating
 #196|@Zer0_Tw0|1778
 #197|@Stockfish-MEDIUM|1777
 #198|@Fairy_Belzedar|1767
-#199|@PyChessBot|1762
-#200|@TrashBot|1761
-#201|@OpeningsBot|1760
+#199|@OpeningsBot|1762
+#200|@PyChessBot|1762
+#201|@TrashBot|1761
 #202|@relevantproblem|1760
 #203|@squared-chess|1757
 #204|@Botgravity|1756
@@ -272,8 +272,8 @@ Rank|Bot|Rating
 #270|@feeks99|1479
 #271|@devsdaBot|1477
 #272|@TFRChessClub|1477
-#273|@FataliiBot|1475
-#274|@SmallbrainPy|1474
+#273|@SmallbrainPy|1474
+#274|@FataliiBot|1473
 #275|@misteick_bot|1472
 #276|@MagicverseBOT|1471
 #277|@CBNguyen_Bot|1465
@@ -345,7 +345,7 @@ Rank|Bot|Rating
 #343|@Jobabot|1110
 #344|@Dummyette|1107
 #345|@Demolito_L5|1083
-#346|@Demolito_L4|1020
+#346|@Demolito_L4|1043
 #347|@admin-bot|1003
 #348|@TuroBot|997
 #349|@sudobot_chess|991
@@ -357,8 +357,8 @@ Rank|Bot|Rating
 #355|@Bot_Swana|943
 #356|@bobandi|940
 #357|@YellowJackets_Bot|925
-#358|@FelixLeonidovich|923
-#359|@botTideEval|886
+#358|@botTideEval|886
+#359|@FelixLeonidovich|886
 #360|@pawnrobot|833
 #361|@Palisade|800
 #362|@WaspBot|798

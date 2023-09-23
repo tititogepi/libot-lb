@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@Hien-Vinh_Bot2|2054
 #13|@Nikitosik-ai|1980
 #14|@FrozenightEngine|1823
-#15|@OpeningsBot|1760
+#15|@OpeningsBot|1762
 #16|@Cheng-4|1733
-#17|@FataliiBot|1475
+#17|@FataliiBot|1473
 #18|@Demolito_L6|1267
 #19|@Demolito_L5|1083
 #20|@botTideEval|886
