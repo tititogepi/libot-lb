@@ -1823,6 +1823,7 @@ shashchesspower
 shineshou90_bot
 shirozer0
 shreddergrizzly
+shulkerbot
 shumilovleela
 sidonia-chessengine
 silitho
@@ -2325,4 +2326,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-shulkerbot
