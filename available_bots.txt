@@ -584,6 +584,7 @@ defi-program
 definitelynoteliah
 delocto
 deltazero_ms
+demolito_l4
 demolito_l5
 demolito_l6
 depth1bot
@@ -2326,4 +2327,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-demolito_l4
