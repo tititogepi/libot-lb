@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Kizburb|2182
 #17|@VariantsBot|2180
 #18|@TheFreshman1902|2177
-#19|@YoBot_v2|2176
+#19|@YoBot_v2|2174
 #20|@Bot_McBotface|2172
 #21|@lord-bot|2171
 #22|@EmptikBot|2168
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@YellowFlash-X|2158
 #28|@TheMatrix2025|2156
 #29|@YellowFlash_v2|2156
-#30|@ReinforcementTrial|2154
+#30|@ReinforcementTrial|2155
 #31|@FireFishBOT|2153
 #32|@VariantsTop|2150
 #33|@TTC-BOT_2|2148
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@pangubot|2128
 #39|@BetterAnalyze|2125
 #40|@Caissa-NNUE|2124
-#41|@faith_bot|2118
+#41|@faith_bot|2119
 #42|@JeffIO|2113
 #43|@Dragon_1906|2111
 #44|@ibep|2111
@@ -54,9 +54,9 @@ Rank|Bot|Rating
 #52|@EvenMatchup|2099
 #53|@ChessBot2156|2095
 #54|@Shineshou90_BOT|2093
-#55|@UnDisstoppableBot|2090
-#56|@Lila-Stockfish|2089
-#57|@RaspFish|2089
+#55|@RaspFish|2091
+#56|@UnDisstoppableBot|2090
+#57|@Lila-Stockfish|2089
 #58|@Mittens-Bot|2081
 #59|@EmptikBotLc0|2079
 #60|@KhanhStockfish|2074
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@Zer0_Tw0|1778
 #197|@Stockfish-MEDIUM|1777
 #198|@Fairy_Belzedar|1767
-#199|@OpeningsBot|1765
+#199|@OpeningsBot|1763
 #200|@PyChessBot|1762
 #201|@TrashBot|1761
 #202|@relevantproblem|1760
@@ -211,7 +211,7 @@ Rank|Bot|Rating
 #209|@Ch4rl3s|1748
 #210|@DxrkOnBot|1746
 #211|@spaceisbot|1744
-#212|@Cheng-4|1733
+#212|@Cheng-4|1735
 #213|@Magnus-BOT|1733
 #214|@Velvet-Engine|1732
 #215|@mrchessmanager|1724
@@ -276,9 +276,9 @@ Rank|Bot|Rating
 #274|@misteick_bot|1472
 #275|@MagicverseBOT|1471
 #276|@CBNguyen_Bot|1465
-#277|@FataliiBot|1461
-#278|@MQBot|1460
-#279|@stonks_fish|1460
+#277|@MQBot|1460
+#278|@stonks_fish|1460
+#279|@FataliiBot|1459
 #280|@Teamleaderbot|1458
 #281|@NeilDandekarBot|1453
 #282|@DespacitoBot|1451
@@ -342,10 +342,10 @@ Rank|Bot|Rating
 #340|@Light_To_The_Rescue|1126
 #341|@GuineaBot3|1123
 #342|@ZX-Chess|1119
-#343|@Jobabot|1110
-#344|@Dummyette|1107
-#345|@Demolito_L5|1102
-#346|@Demolito_L4|1032
+#343|@Demolito_L5|1111
+#344|@Jobabot|1110
+#345|@Dummyette|1107
+#346|@Demolito_L4|1012
 #347|@admin-bot|1003
 #348|@TuroBot|997
 #349|@sudobot_chess|991
