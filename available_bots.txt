@@ -1789,6 +1789,7 @@ saxtonengine
 sc0pe-ma3str0
 schachprog
 schnecken_bot
+schneizel2
 scp079
 sea_leopard
 seaborg1
@@ -2327,4 +2328,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-schneizel2

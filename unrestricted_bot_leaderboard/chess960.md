@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Kizburb|2182
 #17|@VariantsBot|2180
 #18|@TheFreshman1902|2177
-#19|@YoBot_v2|2174
+#19|@YoBot_v2|2176
 #20|@Bot_McBotface|2172
 #21|@lord-bot|2171
 #22|@EmptikBot|2168
@@ -27,12 +27,12 @@ Rank|Bot|Rating
 #25|@rtx3080tibot|2162
 #26|@too_ez4me|2160
 #27|@YellowFlash-X|2158
-#28|@TheMatrix2025|2156
-#29|@YellowFlash_v2|2156
-#30|@ReinforcementTrial|2155
+#28|@ReinforcementTrial|2156
+#29|@TheMatrix2025|2156
+#30|@YellowFlash_v2|2156
 #31|@FireFishBOT|2153
-#32|@VariantsTop|2149
-#33|@TTC-BOT_2|2148
+#32|@TTC-BOT_2|2148
+#33|@VariantsTop|2148
 #34|@EmptikVariantsBot|2132
 #35|@TorBot|2130
 #36|@F1R3BOT|2128
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@pangubot|2128
 #39|@BetterAnalyze|2125
 #40|@Caissa-NNUE|2124
-#41|@faith_bot|2121
+#41|@faith_bot|2122
 #42|@JeffIO|2113
 #43|@Dragon_1906|2111
 #44|@ibep|2111
@@ -54,9 +54,9 @@ Rank|Bot|Rating
 #52|@EvenMatchup|2099
 #53|@ChessBot2156|2095
 #54|@Shineshou90_BOT|2093
-#55|@RaspFish|2091
-#56|@UnDisstoppableBot|2090
-#57|@Lila-Stockfish|2089
+#55|@UnDisstoppableBot|2090
+#56|@Lila-Stockfish|2089
+#57|@RaspFish|2088
 #58|@Mittens-Bot|2081
 #59|@EmptikBotLc0|2079
 #60|@KhanhStockfish|2074
@@ -211,7 +211,7 @@ Rank|Bot|Rating
 #209|@Ch4rl3s|1748
 #210|@DxrkOnBot|1746
 #211|@spaceisbot|1744
-#212|@Cheng-4|1734
+#212|@Cheng-4|1735
 #213|@Magnus-BOT|1733
 #214|@Velvet-Engine|1732
 #215|@mrchessmanager|1724
@@ -278,8 +278,8 @@ Rank|Bot|Rating
 #276|@CBNguyen_Bot|1465
 #277|@MQBot|1460
 #278|@stonks_fish|1460
-#279|@FataliiBot|1459
-#280|@Teamleaderbot|1458
+#279|@Teamleaderbot|1458
+#280|@FataliiBot|1457
 #281|@NeilDandekarBot|1453
 #282|@DespacitoBot|1451
 #283|@fishm0ley|1450
@@ -345,7 +345,7 @@ Rank|Bot|Rating
 #343|@Demolito_L5|1113
 #344|@Jobabot|1110
 #345|@Dummyette|1107
-#346|@Demolito_L4|1013
+#346|@Demolito_L4|1024
 #347|@admin-bot|1003
 #348|@TuroBot|997
 #349|@sudobot_chess|991
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@YellowJackets_Bot|925
 #358|@botTideEval|893
 #359|@FelixLeonidovich|836
-#360|@pawnrobot|822
+#360|@pawnrobot|817
 #361|@Palisade|800
 #362|@WaspBot|798
 #363|@LeelaWeak|735
