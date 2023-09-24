@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@Hyper-Stockfish|1986
 #60|@GodelEscherBot|1974
 #61|@XXIstCentury|1973
-#62|@OpeningsBot|1971
+#62|@OpeningsBot|1972
 #63|@mrchessmanager|1963
 #64|@Botzer|1961
 #65|@lightspeed_bot|1951
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@knight_128|1563
 #103|@Galaxy_Guardian|1561
 #104|@Alehkine_cat|1549
-#105|@DavidsGuterBot|1543
+#105|@DavidsGuterBot|1542
 #106|@TrashBot|1519
 #107|@relevantproblem|1514
 #108|@Toxic_Bot|1511
