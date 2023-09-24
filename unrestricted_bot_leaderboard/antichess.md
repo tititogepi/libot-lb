@@ -42,9 +42,9 @@ Rank|Bot|Rating
 #40|@HyperLitikBOT|2511
 #41|@pistol-play|2498
 #42|@MrBOThacker|2477
-#43|@Nakshatra3|2477
-#44|@hauptschuleBOT|2475
-#45|@Alehkine_cat|2474
+#43|@hauptschuleBOT|2475
+#44|@Alehkine_cat|2474
+#45|@Nakshatra3|2468
 #46|@Fairy-Stockfish|2460
 #47|@PepsiForAll|2460
 #48|@ttBOT|2458
@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@Trumpfor2O2O|2366
 #67|@HuxZero|2361
 #68|@Less_of_a_threat|2357
-#69|@Viet_BOT|2354
-#70|@higuyuu67776|2352
-#71|@NilatacBot|2349
+#69|@NilatacBot|2354
+#70|@Viet_BOT|2354
+#71|@higuyuu67776|2352
 #72|@Karpov_bot|2335
 #73|@TeamChelsie|2331
 #74|@AI69|2312
@@ -80,8 +80,8 @@ Rank|Bot|Rating
 #78|@abhisun_bot|2305
 #79|@NienishiEngine|2304
 #80|@EvenMatchup|2302
-#81|@GodelEscherBot|2284
-#82|@OpeningsBot|2283
+#81|@OpeningsBot|2289
+#82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269
 #85|@SkyBlaster|2254
