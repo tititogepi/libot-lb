@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@hyperchessbot1|2189
 #16|@Kizburb|2182
 #17|@VariantsBot|2180
-#18|@TheFreshman1902|2177
-#19|@YoBot_v2|2174
+#18|@YoBot_v2|2178
+#19|@TheFreshman1902|2177
 #20|@Bot_McBotface|2172
 #21|@lord-bot|2171
 #22|@EmptikBot|2168
@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@too_ez4me|2160
 #26|@ToromBot|2159
 #27|@YellowFlash-X|2158
-#28|@ReinforcementTrial|2156
-#29|@TheMatrix2025|2156
-#30|@YellowFlash_v2|2156
+#28|@TheMatrix2025|2156
+#29|@YellowFlash_v2|2156
+#30|@ReinforcementTrial|2155
 #31|@FireFishBOT|2153
 #32|@VariantsTop|2150
 #33|@TTC-BOT_2|2148
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@pangubot|2128
 #39|@BetterAnalyze|2125
 #40|@Caissa-NNUE|2124
-#41|@faith_bot|2118
+#41|@faith_bot|2119
 #42|@JeffIO|2113
 #43|@Dragon_1906|2111
 #44|@ibep|2111
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Shineshou90_BOT|2093
 #55|@UnDisstoppableBot|2090
 #56|@Lila-Stockfish|2089
-#57|@RaspFish|2089
+#57|@RaspFish|2086
 #58|@Mittens-Bot|2081
 #59|@EmptikBotLc0|2079
 #60|@KhanhStockfish|2074
@@ -345,7 +345,7 @@ Rank|Bot|Rating
 #343|@Jobabot|1110
 #344|@Dummyette|1107
 #345|@Demolito_L5|1095
-#346|@Demolito_L4|1036
+#346|@Demolito_L4|1044
 #347|@admin-bot|1003
 #348|@TuroBot|997
 #349|@sudobot_chess|991
@@ -358,8 +358,8 @@ Rank|Bot|Rating
 #356|@bobandi|940
 #357|@YellowJackets_Bot|925
 #358|@botTideEval|886
-#359|@pawnrobot|837
-#360|@FelixLeonidovich|836
+#359|@FelixLeonidovich|836
+#360|@pawnrobot|834
 #361|@Palisade|800
 #362|@WaspBot|798
 #363|@LeelaWeak|735

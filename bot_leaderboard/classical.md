@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Nikitosikbot|2656
-#2|@ReinforcementTrial|2656
+#1|@ReinforcementTrial|2656
+#2|@Nikitosikbot|2655
 #3|@M-Z_Bot|2648
 #4|@YoBot_v2|2636
 #5|@TheFreshman1902|2625
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Nikitosik-ai|2587
 #11|@ArasanX|2583
 #12|@Mr_Chess_Berserk|2575
-#13|@faith_bot|2550
+#13|@faith_bot|2553
 #14|@EmptikBot|2458
 #15|@expositor|2433
 #16|@AKS-Mantissa|2397
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@catriever|2350
 #20|@pawn_git|2316
 #21|@SaxtonEngine|2311
-#22|@Weiawaga|2294
+#22|@Weiawaga|2292
 #23|@Cheng-4|2256
 #24|@Pseudo-0|2160
 #25|@TuksuBot|2144
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@Demolito_L6|1728
 #46|@Demolito_L5|1707
 #47|@Virutor|1694
-#48|@maia9|1669
+#48|@maia9|1667
 #49|@honzovy-sachy|1662
 #50|@simplexitor|1656
 #51|@ZE_ROOK|1640
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@turkjs|1614
 #55|@turochamp-2ply|1583
 #56|@sargon-3ply|1567
-#57|@maia1|1537
+#57|@maia1|1541
 #58|@chat_bot|1528
 #59|@turochamp-1ply|1419
 #60|@sargon-2ply|1405
