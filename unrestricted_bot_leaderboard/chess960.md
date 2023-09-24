@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@pangubot|2128
 #39|@BetterAnalyze|2125
 #40|@Caissa-NNUE|2124
-#41|@faith_bot|2117
+#41|@faith_bot|2118
 #42|@JeffIO|2113
 #43|@Dragon_1906|2111
 #44|@ibep|2111
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@Zer0_Tw0|1778
 #197|@Stockfish-MEDIUM|1777
 #198|@Fairy_Belzedar|1767
-#199|@OpeningsBot|1766
+#199|@OpeningsBot|1765
 #200|@PyChessBot|1762
 #201|@TrashBot|1761
 #202|@relevantproblem|1760

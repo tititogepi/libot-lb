@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@ReinforcementTrial|2154
 #7|@VariantsTop|2150
 #8|@TorBot|2130
-#9|@faith_bot|2117
+#9|@faith_bot|2118
 #10|@RaspFish|2089
 #11|@Nikitosik-ai|1980
 #12|@FrozenightEngine|1823
-#13|@OpeningsBot|1766
+#13|@OpeningsBot|1765
 #14|@Cheng-4|1733
 #15|@FataliiBot|1461
 #16|@Demolito_L6|1267
