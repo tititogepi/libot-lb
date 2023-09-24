@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@ReinforcementTrial|2156
 #7|@VariantsTop|2150
 #8|@TorBot|2130
-#9|@faith_bot|2118
-#10|@RaspFish|2086
+#9|@faith_bot|2117
+#10|@RaspFish|2087
 #11|@Hien-Vinh_Bot2|2054
 #12|@Nikitosik-ai|1980
 #13|@FrozenightEngine|1823
@@ -17,6 +17,6 @@ Rank|Bot|Rating
 #15|@Cheng-4|1733
 #16|@FataliiBot|1464
 #17|@Demolito_L6|1267
-#18|@Demolito_L5|1097
+#18|@Demolito_L5|1090
 #19|@botTideEval|886
-#20|@pawnrobot|840
+#20|@pawnrobot|837

@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@pangubot|2128
 #39|@BetterAnalyze|2125
 #40|@Caissa-NNUE|2124
-#41|@faith_bot|2118
+#41|@faith_bot|2117
 #42|@JeffIO|2113
 #43|@Dragon_1906|2111
 #44|@ibep|2111
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Shineshou90_BOT|2093
 #55|@UnDisstoppableBot|2090
 #56|@Lila-Stockfish|2089
-#57|@RaspFish|2086
+#57|@RaspFish|2087
 #58|@Mittens-Bot|2081
 #59|@EmptikBotLc0|2079
 #60|@KhanhStockfish|2074
@@ -344,8 +344,8 @@ Rank|Bot|Rating
 #342|@ZX-Chess|1119
 #343|@Jobabot|1110
 #344|@Dummyette|1107
-#345|@Demolito_L5|1097
-#346|@Demolito_L4|1010
+#345|@Demolito_L5|1090
+#346|@Demolito_L4|1042
 #347|@admin-bot|1003
 #348|@TuroBot|997
 #349|@sudobot_chess|991
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@YellowJackets_Bot|925
 #358|@botTideEval|886
 #359|@FelixLeonidovich|858
-#360|@pawnrobot|840
+#360|@pawnrobot|837
 #361|@Palisade|800
 #362|@WaspBot|798
 #363|@LeelaWeak|735
