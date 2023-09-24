@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2785
 #13|@VariantsTop|2765
 #14|@Viet-AI|2765
-#15|@RaspFish|2735
+#15|@RaspFish|2736
 #16|@ibep|2733
 #17|@lord-bot|2679
 #18|@LoseisnotAvailablehe|2677
@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@abhisun_bot|2305
 #79|@NienishiEngine|2304
 #80|@EvenMatchup|2302
-#81|@OpeningsBot|2286
+#81|@OpeningsBot|2291
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@anti-bot|2136
 #107|@AnUtterlyKarBot|2134
 #108|@XXIstCentury|2131
-#109|@CatNail|2118
+#109|@CatNail|2115
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@antichesssss|1964
 #121|@Menganti|1963
 #122|@CloudBOT|1950
-#123|@pawnrobot|1915
+#123|@pawnrobot|1913
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
 #126|@Lumac0|1861

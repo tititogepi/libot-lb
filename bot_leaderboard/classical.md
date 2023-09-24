@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ReinforcementTrial|2655
-#2|@Nikitosikbot|2653
+#1|@ReinforcementTrial|2657
+#2|@Nikitosikbot|2652
 #3|@M-Z_Bot|2648
 #4|@YoBot_v2|2636
 #5|@TheFreshman1902|2625
-#6|@ResoluteBot|2620
+#6|@ResoluteBot|2621
 #7|@TorBot|2617
 #8|@RaspFish|2616
 #9|@ProteusSF-Godot|2607
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@faith_bot|2550
 #14|@EmptikBot|2458
 #15|@expositor|2436
-#16|@AKS-Mantissa|2399
+#16|@AKS-Mantissa|2397
 #17|@FrozenightEngine|2378
 #18|@StockFish16_2023|2378
 #19|@catriever|2350
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@Demolito_L6|1728
 #46|@Demolito_L5|1707
 #47|@Virutor|1694
-#48|@maia9|1669
+#48|@maia9|1676
 #49|@honzovy-sachy|1662
 #50|@simplexitor|1662
 #51|@ZE_ROOK|1640
@@ -57,8 +57,8 @@ Rank|Bot|Rating
 #55|@turochamp-2ply|1583
 #56|@sargon-3ply|1567
 #57|@chat_bot|1528
-#58|@maia1|1520
-#59|@turochamp-1ply|1425
+#58|@maia1|1527
+#59|@turochamp-1ply|1419
 #60|@sargon-2ply|1405
 #61|@sargon-1ply|1305
 #62|@G0thamB0t|785
