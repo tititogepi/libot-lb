@@ -146,11 +146,11 @@ Rank|Bot|Rating
 #144|@ViVe_2_chess_pro|1869
 #145|@Official_bot|1857
 #146|@ChessChildren|1856
-#147|@yeoldwiz|1856
-#148|@Boris-Trapsky|1853
-#149|@natural-disaster|1853
-#150|@Rinestro|1837
-#151|@OurBot|1836
+#147|@Boris-Trapsky|1853
+#148|@natural-disaster|1853
+#149|@Rinestro|1837
+#150|@OurBot|1836
+#151|@yeoldwiz|1835
 #152|@Aromik_s_bot|1831
 #153|@BestJSEngine|1826
 #154|@Black_Knight2006|1815

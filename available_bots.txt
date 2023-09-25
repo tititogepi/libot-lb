@@ -2329,3 +2329,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+checkmate-ai
+sfbot1
