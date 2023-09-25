@@ -431,6 +431,7 @@ charlesbot
 chat_bot
 cheakykoala
 checkbro_official
+checkmate-ai
 checkmate10101010
 checkmatian228
 cheemschungusbot
@@ -1810,6 +1811,7 @@ sf-nnue
 sf12bot
 sf_bot
 sf_nnue2
+sfbot1
 sfishchess2021
 sflite1
 shadicbot
@@ -2329,5 +2331,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-checkmate-ai
-sfbot1
