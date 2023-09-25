@@ -284,7 +284,7 @@ Rank|Bot|Rating
 #282|@NeilDandekarBot|1453
 #283|@DespacitoBot|1451
 #284|@fishm0ley|1450
-#285|@FataliiBot|1441
+#285|@FataliiBot|1443
 #286|@Chess_ni_BOSS|1437
 #287|@FN_Waldi|1436
 #288|@chicken_farmer|1435
@@ -341,13 +341,13 @@ Rank|Bot|Rating
 #339|@Pineapple-Friendly|1151
 #340|@WeakBot|1151
 #341|@St6090|1149
-#342|@Demolito_L5|1136
+#342|@Demolito_L5|1143
 #343|@Light_To_The_Rescue|1126
 #344|@GuineaBot3|1123
 #345|@ZX-Chess|1119
 #346|@Jobabot|1110
 #347|@Dummyette|1107
-#348|@Demolito_L4|1032
+#348|@Demolito_L4|1023
 #349|@admin-bot|1003
 #350|@TuroBot|997
 #351|@sudobot_chess|991

@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@FrozenightEngine|1823
 #13|@OpeningsBot|1765
 #14|@Cheng-4|1744
-#15|@FataliiBot|1441
+#15|@FataliiBot|1443
 #16|@Demolito_L6|1267
-#17|@Demolito_L5|1136
-#18|@Demolito_L4|1032
+#17|@Demolito_L5|1143
+#18|@Demolito_L4|1023
 #19|@botTideEval|893
 #20|@pawnrobot|815
