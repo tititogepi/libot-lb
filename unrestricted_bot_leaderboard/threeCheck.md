@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@Parth_Dhage_2|1258
 #143|@MyNameIsWhatLOL|1256
 #144|@TORTADEMANZANA023|1233
-#145|@pawnrobot|1224
+#145|@pawnrobot|1223
 #146|@heatseeker223|1191
 #147|@admin-bot|1188
 #148|@Ujwal1001|1179

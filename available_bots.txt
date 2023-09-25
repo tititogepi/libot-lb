@@ -1508,6 +1508,7 @@ nukechess-bot
 number_one1
 nya-vp
 o9mniej_bot
+occhessadvanced
 ochobot
 odonata-bot
 official_bot
@@ -2087,6 +2088,7 @@ ticktocc
 tigrament
 time-player
 timecat
+tinyhugebot
 tiraelsedaibot
 tissouslebot
 tjchessbot
@@ -2331,5 +2333,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-tinyhugebot
-occhessadvanced
