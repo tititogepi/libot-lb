@@ -844,6 +844,7 @@ good-game-123
 good_bot223344
 gothamchessbot
 goutambot
+gpt35-turbo-instruct
 gptplayschess
 grabdebottom
 grand-bot
@@ -2328,4 +2329,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gpt35-turbo-instruct
