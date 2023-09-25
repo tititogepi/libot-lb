@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@ReinforcementTrial|2153
 #32|@TTC-BOT_2|2148
 #33|@VariantsTop|2148
-#34|@faith_bot|2137
+#34|@faith_bot|2138
 #35|@EmptikVariantsBot|2132
 #36|@TorBot|2130
 #37|@F1R3BOT|2128
@@ -340,13 +340,13 @@ Rank|Bot|Rating
 #338|@Pineapple-Friendly|1151
 #339|@WeakBot|1151
 #340|@St6090|1149
-#341|@Demolito_L5|1128
+#341|@Demolito_L5|1132
 #342|@Light_To_The_Rescue|1126
 #343|@GuineaBot3|1123
 #344|@ZX-Chess|1119
 #345|@Jobabot|1110
 #346|@Dummyette|1107
-#347|@Demolito_L4|1024
+#347|@Demolito_L4|1037
 #348|@admin-bot|1003
 #349|@TuroBot|997
 #350|@sudobot_chess|991
