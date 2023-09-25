@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@pawn_git|2301
 #19|@Xmas_dragon|2300
 #20|@Ujwal1001|2297
-#21|@mrohCentaur|2285
-#22|@bekbot|2281
+#21|@bekbot|2289
+#22|@mrohCentaur|2285
 #23|@ChamberiAjedrez|2281
 #24|@Cheng-4|2269
 #25|@HansNiemannBot|2260
