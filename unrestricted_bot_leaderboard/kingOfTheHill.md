@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@ResoluteBot|2233
 #26|@Magnus-BOT|2224
 #27|@Stockfish-MEDIUM|2224
-#28|@SkyBlaster|2220
-#29|@RaspFish|2218
+#28|@RaspFish|2221
+#29|@SkyBlaster|2220
 #30|@PowerOnBot|2195
 #31|@UnDisstoppableBot|2193
 #32|@Amrobotone|2184
@@ -66,9 +66,9 @@ Rank|Bot|Rating
 #64|@PyChessBot|1957
 #65|@abhisun_bot|1947
 #66|@Resolved-Bot|1942
-#67|@OpeningsBot|1938
-#68|@Pineapple-Friendly|1937
-#69|@azdad|1936
+#67|@Pineapple-Friendly|1937
+#68|@azdad|1936
+#69|@OpeningsBot|1935
 #70|@chessbot2880|1931
 #71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
