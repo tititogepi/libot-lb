@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Nikitosik-ai|2587
 #12|@ArasanX|2582
 #13|@faith_bot|2555
-#14|@NikitosikVariantsbot|2485
+#14|@NikitosikVariantsbot|2490
 #15|@EmptikBot|2458
 #16|@expositor|2423
 #17|@AKS-Mantissa|2384
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@StockFish16_2023|2378
 #20|@catriever|2352
 #21|@SaxtonEngine|2311
-#22|@Weiawaga|2304
+#22|@Weiawaga|2301
 #23|@pawn_git|2296
 #24|@Cheng-4|2244
 #25|@Pseudo-0|2156
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@GarboBot|1939
 #40|@likeawizard-bot|1906
 #41|@LazyBotJr|1885
-#42|@zeekat|1871
+#42|@zeekat|1864
 #43|@LeelaRogue|1810
 #44|@baby_eubos|1785
 #45|@ChessChildren|1772
@@ -54,11 +54,11 @@ Rank|Bot|Rating
 #52|@ZE_ROOK|1640
 #53|@sargon-4ply|1617
 #54|@turkjs|1614
-#55|@maia5|1595
+#55|@maia5|1598
 #56|@turochamp-2ply|1583
 #57|@sargon-3ply|1567
 #58|@chat_bot|1560
-#59|@maia1|1523
+#59|@maia1|1533
 #60|@Humaia|1444
 #61|@turochamp-1ply|1408
 #62|@sargon-2ply|1389
