@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@VariantsBot|2180
 #18|@TheFreshman1902|2177
 #19|@Nikitosikbot|2173
-#20|@YoBot_v2|2173
-#21|@Bot_McBotface|2172
+#20|@Bot_McBotface|2172
+#21|@YoBot_v2|2172
 #22|@lord-bot|2171
 #23|@EmptikBot|2168
 #24|@rtx3080tibot|2162
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@VariantsTop|2147
 #34|@EmptikVariantsBot|2132
 #35|@TorBot|2132
-#36|@faith_bot|2129
-#37|@F1R3BOT|2128
+#36|@F1R3BOT|2128
+#37|@faith_bot|2128
 #38|@Lc0Test|2128
 #39|@pangubot|2128
 #40|@BetterAnalyze|2125
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Shineshou90_BOT|2093
 #56|@UnDisstoppableBot|2090
 #57|@Lila-Stockfish|2089
-#58|@RaspFish|2082
+#58|@RaspFish|2085
 #59|@Mittens-Bot|2081
 #60|@EmptikBotLc0|2079
 #61|@KhanhStockfish|2074
@@ -200,9 +200,9 @@ Rank|Bot|Rating
 #198|@JPSBOT|1781
 #199|@Zer0_Tw0|1778
 #200|@Stockfish-MEDIUM|1777
-#201|@Fairy_Belzedar|1767
-#202|@PyChessBot|1762
-#203|@OpeningsBot|1761
+#201|@OpeningsBot|1769
+#202|@Fairy_Belzedar|1767
+#203|@PyChessBot|1762
 #204|@TrashBot|1761
 #205|@relevantproblem|1760
 #206|@squared-chess|1757
@@ -212,9 +212,9 @@ Rank|Bot|Rating
 #210|@XXIstCentury|1752
 #211|@MikhailTal_AI|1750
 #212|@Ch4rl3s|1748
-#213|@Cheng-4|1748
-#214|@DxrkOnBot|1746
-#215|@spaceisbot|1744
+#213|@DxrkOnBot|1746
+#214|@spaceisbot|1744
+#215|@Cheng-4|1742
 #216|@Magnus-BOT|1733
 #217|@Velvet-Engine|1732
 #218|@mrchessmanager|1724
@@ -284,7 +284,7 @@ Rank|Bot|Rating
 #282|@Teamleaderbot|1458
 #283|@NeilDandekarBot|1453
 #284|@DespacitoBot|1451
-#285|@FataliiBot|1451
+#285|@FataliiBot|1450
 #286|@fishm0ley|1450
 #287|@Chess_ni_BOSS|1437
 #288|@FN_Waldi|1436
@@ -338,7 +338,7 @@ Rank|Bot|Rating
 #336|@MrKING74_btw|1191
 #337|@schnecken_bot|1182
 #338|@BerntBOT|1162
-#339|@Demolito_L5|1158
+#339|@Demolito_L5|1162
 #340|@naughty-dottie|1158
 #341|@Pineapple-Friendly|1151
 #342|@WeakBot|1151
@@ -348,7 +348,7 @@ Rank|Bot|Rating
 #346|@ZX-Chess|1119
 #347|@Jobabot|1110
 #348|@Dummyette|1107
-#349|@Demolito_L4|1023
+#349|@Demolito_L4|1022
 #350|@admin-bot|1003
 #351|@TuroBot|997
 #352|@sudobot_chess|991
@@ -361,7 +361,7 @@ Rank|Bot|Rating
 #359|@bobandi|940
 #360|@YellowJackets_Bot|925
 #361|@botTideEval|869
-#362|@pawnrobot|826
+#362|@pawnrobot|823
 #363|@Palisade|800
 #364|@WaspBot|798
 #365|@FelixLeonidovich|759
