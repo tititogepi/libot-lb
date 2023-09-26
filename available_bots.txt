@@ -1772,6 +1772,7 @@ s_stock
 sacgod1020
 safrad-3
 sai_srihith
+salmonchess9
 salvajuega
 sampuanbot
 samuraix_v1
@@ -2335,4 +2336,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-salmonchess9
