@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
 #9|@pistol-play|2590
-#10|@RaspFish|2566
+#10|@RaspFish|2567
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
 #13|@NimsiluBot|2535
