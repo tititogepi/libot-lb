@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@TheFreshman1902|2177
 #3|@YoBot_v2|2176
 #4|@Nikitosikbot|2173
-#5|@ToromBot|2163
+#5|@ToromBot|2162
 #6|@ReinforcementTrial|2157
 #7|@VariantsTop|2148
-#8|@faith_bot|2134
+#8|@faith_bot|2135
 #9|@TorBot|2132
 #10|@RaspFish|2083
 #11|@Nikitosik-ai|1980
@@ -17,6 +17,6 @@ Rank|Bot|Rating
 #15|@FataliiBot|1447
 #16|@Demolito_L6|1262
 #17|@Demolito_L5|1145
-#18|@Demolito_L4|1025
-#19|@botTideEval|878
-#20|@pawnrobot|819
+#18|@Demolito_L4|1028
+#19|@botTideEval|869
+#20|@pawnrobot|823

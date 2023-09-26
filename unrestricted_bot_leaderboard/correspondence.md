@@ -142,10 +142,10 @@ Rank|Bot|Rating
 #140|@RoboTal|1874
 #141|@yowCapablanca|1874
 #142|@TheMatrix2025|1872
-#143|@ViVe_2_chess_pro|1869
-#144|@Official_bot|1857
-#145|@ChessChildren|1856
-#146|@Jibbby|1856
+#143|@Jibbby|1870
+#144|@ViVe_2_chess_pro|1869
+#145|@Official_bot|1857
+#146|@ChessChildren|1856
 #147|@Boris-Trapsky|1853
 #148|@natural-disaster|1853
 #149|@Rinestro|1837
