@@ -485,6 +485,7 @@ chessplayer1225
 chesstango_bot
 chesster-rubenstein
 chesstigerpro
+chesstoj
 chesstver
 chessuniverse-guy
 chessvbot
@@ -2334,4 +2335,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chesstoj
+salmonchess9
