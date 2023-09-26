@@ -1196,6 +1196,7 @@ leelaclubplayer
 leelafighting
 leelafish1
 leelagpu
+leelaguess
 leelahatena
 leelainstinct
 leelaisbeautiful
@@ -2333,4 +2334,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leelaguess
