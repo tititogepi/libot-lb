@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@EmptikBot|2168
 #23|@ToromBot|2164
 #24|@rtx3080tibot|2162
-#25|@YoBot_v2|2162
+#25|@YoBot_v2|2161
 #26|@too_ez4me|2160
 #27|@YellowFlash-X|2158
 #28|@ReinforcementTrial|2156
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Shineshou90_BOT|2093
 #56|@UnDisstoppableBot|2090
 #57|@Lila-Stockfish|2089
-#58|@RaspFish|2088
+#58|@RaspFish|2089
 #59|@Mittens-Bot|2081
 #60|@EmptikBotLc0|2079
 #61|@KhanhStockfish|2074
@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@Yemmi-Yemmi|2001
 #108|@LeelaChessBestEngine|1997
 #109|@StockSergio|1997
-#110|@TheMatrix2029|1992
-#111|@Nikitosik-ai|1991
+#110|@Nikitosik-ai|1992
+#111|@TheMatrix2029|1992
 #112|@NormalBlitzBulletBot|1991
 #113|@ROBOT_RANDEER2007|1988
 #114|@Hyper-Stockfish|1984
@@ -212,8 +212,8 @@ Rank|Bot|Rating
 #210|@XXIstCentury|1752
 #211|@MikhailTal_AI|1750
 #212|@Ch4rl3s|1748
-#213|@DxrkOnBot|1746
-#214|@Cheng-4|1745
+#213|@Cheng-4|1748
+#214|@DxrkOnBot|1746
 #215|@spaceisbot|1744
 #216|@Magnus-BOT|1733
 #217|@Velvet-Engine|1732
@@ -282,10 +282,10 @@ Rank|Bot|Rating
 #280|@MQBot|1460
 #281|@stonks_fish|1460
 #282|@Teamleaderbot|1458
-#283|@FataliiBot|1457
-#284|@NeilDandekarBot|1453
-#285|@DespacitoBot|1451
-#286|@fishm0ley|1450
+#283|@NeilDandekarBot|1453
+#284|@DespacitoBot|1451
+#285|@fishm0ley|1450
+#286|@FataliiBot|1446
 #287|@Chess_ni_BOSS|1437
 #288|@FN_Waldi|1436
 #289|@chicken_farmer|1435
@@ -338,7 +338,7 @@ Rank|Bot|Rating
 #336|@DrunkenMasterEngine|1204
 #337|@MrKING74_btw|1191
 #338|@schnecken_bot|1182
-#339|@Demolito_L5|1167
+#339|@Demolito_L5|1175
 #340|@BerntBOT|1162
 #341|@naughty-dottie|1158
 #342|@Pineapple-Friendly|1151
