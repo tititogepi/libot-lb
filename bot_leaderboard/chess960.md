@@ -6,11 +6,11 @@ Rank|Bot|Rating
 #4|@ToromBot|2164
 #5|@YoBot_v2|2160
 #6|@ReinforcementTrial|2156
-#7|@VariantsTop|2147
+#7|@VariantsTop|2153
 #8|@TorBot|2127
-#9|@faith_bot|2126
-#10|@RaspFish|2090
-#11|@Nikitosik-ai|1996
+#9|@faith_bot|2122
+#10|@RaspFish|2093
+#11|@Nikitosik-ai|1993
 #12|@FrozenightEngine|1823
 #13|@OpeningsBot|1759
 #14|@Cheng-4|1748
