@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@Bobby_Fischer_BOT|2267
 #24|@YoBot_v2|2242
 #25|@ResoluteBot|2233
-#26|@RaspFish|2225
+#26|@RaspFish|2229
 #27|@Magnus-BOT|2224
 #28|@Stockfish-MEDIUM|2224
 #29|@SkyBlaster|2220
@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@PyChessBot|1957
 #65|@abhisun_bot|1947
 #66|@Resolved-Bot|1942
-#67|@OpeningsBot|1941
+#67|@OpeningsBot|1938
 #68|@Pineapple-Friendly|1937
 #69|@azdad|1936
 #70|@chessbot2880|1931
