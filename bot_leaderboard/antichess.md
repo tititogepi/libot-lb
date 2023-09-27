@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2739
 #2|@Nakshatra3|2488
-#3|@NilatacBot|2348
-#4|@OpeningsBot|2310
+#3|@NilatacBot|2353
+#4|@OpeningsBot|2305
 #5|@CatNail|2151
 #6|@anti-bot|2136
 #7|@pawnrobot|1904
