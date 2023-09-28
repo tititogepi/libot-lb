@@ -107,8 +107,8 @@ Rank|Bot|Rating
 #105|@Alehkine_cat|1549
 #106|@TrashBot|1519
 #107|@relevantproblem|1514
-#108|@DavidsGuterBot|1511
-#109|@Toxic_Bot|1511
+#108|@Toxic_Bot|1511
+#109|@DavidsGuterBot|1510
 #110|@NoobMasterBOT|1507
 #111|@Epiano_Bot|1491
 #112|@CVA728_BOT_1|1489
