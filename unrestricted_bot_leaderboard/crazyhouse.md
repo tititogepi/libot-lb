@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@MyNameIsWhatLOL|2200
 #50|@Zer0_Tw0|2200
 #51|@UltronBot|2197
-#52|@RaspFish|2193
+#52|@RaspFish|2194
 #53|@Viet-BOT|2185
 #54|@lightspeed_bot|2177
 #55|@newengine2022|2171
@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@ReallyCrazyBOT|1245
 #169|@NightStarFox|1243
 #170|@Happy_One|1223
-#171|@pawnrobot|1208
+#171|@pawnrobot|1206
 #172|@Grand_MefBartu-BOT|1200
 #173|@magnusglad_bot|1196
 #174|@FluffBallCuddly|1191
