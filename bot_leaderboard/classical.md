@@ -21,10 +21,10 @@ Rank|Bot|Rating
 #19|@AKS-Mantissa|2375
 #20|@catriever|2354
 #21|@SaxtonEngine|2310
-#22|@pawn_git|2299
+#22|@pawn_git|2297
 #23|@Weiawaga|2283
-#24|@Cheng-4|2251
-#25|@Pseudo-0|2154
+#24|@Cheng-4|2252
+#25|@Pseudo-0|2153
 #26|@TuksuBot|2151
 #27|@Phalanx-XXV|2127
 #28|@Nakshatra3|2071
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@GarboBot|1939
 #39|@likeawizard-bot|1906
 #40|@LazyBotJr|1885
-#41|@zeekat|1855
+#41|@zeekat|1854
 #42|@LeelaRogue|1820
 #43|@baby_eubos|1804
 #44|@ChessChildren|1775
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@maia5|1567
 #57|@sargon-3ply|1567
 #58|@chat_bot|1560
-#59|@maia1|1537
+#59|@maia1|1538
 #60|@Humaia|1439
 #61|@turochamp-1ply|1408
 #62|@sargon-2ply|1386
