@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@Bot_AOOP11|2521
 #40|@HyperLitikBOT|2511
 #41|@pistol-play|2498
-#42|@Nakshatra3|2488
+#42|@Nakshatra3|2479
 #43|@MrBOThacker|2477
 #44|@hauptschuleBOT|2475
 #45|@Alehkine_cat|2474
@@ -73,12 +73,12 @@ Rank|Bot|Rating
 #71|@higuyuu67776|2352
 #72|@Karpov_bot|2335
 #73|@TeamChelsie|2331
-#74|@AI69|2312
-#75|@BromiumAI|2312
-#76|@Kizburb|2307
-#77|@MagicverseBOT|2306
-#78|@abhisun_bot|2305
-#79|@OpeningsBot|2305
+#74|@OpeningsBot|2314
+#75|@AI69|2312
+#76|@BromiumAI|2312
+#77|@Kizburb|2307
+#78|@MagicverseBOT|2306
+#79|@abhisun_bot|2305
 #80|@NienishiEngine|2304
 #81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
