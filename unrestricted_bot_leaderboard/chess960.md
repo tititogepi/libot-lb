@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@LeelaChessTest|2208
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
-#13|@ResoluteBot|2201
+#13|@ResoluteBot|2200
 #14|@Corvus-1|2197
 #15|@hyperchessbot1|2189
 #16|@Kizburb|2182
@@ -20,11 +20,11 @@ Rank|Bot|Rating
 #18|@TheFreshman1902|2177
 #19|@Bot_McBotface|2172
 #20|@lord-bot|2171
-#21|@ToromBot|2169
-#22|@EmptikBot|2168
-#23|@YoBot_v2|2167
-#24|@Nikitosikbot|2164
-#25|@rtx3080tibot|2162
+#21|@Nikitosikbot|2170
+#22|@ToromBot|2169
+#23|@EmptikBot|2168
+#24|@rtx3080tibot|2162
+#25|@YoBot_v2|2162
 #26|@too_ez4me|2160
 #27|@YellowFlash-X|2158
 #28|@TheMatrix2025|2156
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@VariantsTop|2152
 #32|@ReinforcementTrial|2151
 #33|@TTC-BOT_2|2148
-#34|@faith_bot|2136
+#34|@faith_bot|2137
 #35|@EmptikVariantsBot|2132
 #36|@F1R3BOT|2128
 #37|@Lc0Test|2128
@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@Kizbuurb|2100
 #52|@lol7241Bot|2100
 #53|@EvenMatchup|2099
-#54|@RaspFish|2099
-#55|@Intron014|2097
+#54|@Intron014|2098
+#55|@RaspFish|2098
 #56|@ChessBot2156|2095
 #57|@Shineshou90_BOT|2093
 #58|@UnDisstoppableBot|2090
@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@Beyondcomprehension|2024
 #91|@EmptikBot247|2022
 #92|@DeepChessEngine|2020
-#93|@LudwigBOT|2018
-#94|@Nikitosik-ai|2018
+#93|@Nikitosik-ai|2019
+#94|@LudwigBOT|2018
 #95|@SF-NNUE|2014
 #96|@Cloud_Bot|2013
 #97|@Iwantedtoplaychess|2013
@@ -218,7 +218,7 @@ Rank|Bot|Rating
 #216|@Magnus-BOT|1733
 #217|@Velvet-Engine|1732
 #218|@mrchessmanager|1724
-#219|@Cheng-4|1719
+#219|@Cheng-4|1720
 #220|@stockfish12_Johan|1717
 #221|@TungJohn|1714
 #222|@TeamChelsie|1712
@@ -280,7 +280,7 @@ Rank|Bot|Rating
 #278|@misteick_bot|1472
 #279|@MagicverseBOT|1471
 #280|@CBNguyen_Bot|1465
-#281|@FataliiBot|1465
+#281|@FataliiBot|1463
 #282|@MQBot|1460
 #283|@stonks_fish|1460
 #284|@Teamleaderbot|1458
@@ -339,7 +339,7 @@ Rank|Bot|Rating
 #337|@DrunkenMasterEngine|1204
 #338|@MrKING74_btw|1191
 #339|@schnecken_bot|1182
-#340|@Demolito_L5|1172
+#340|@Demolito_L5|1176
 #341|@BerntBOT|1162
 #342|@naughty-dottie|1158
 #343|@Pineapple-Friendly|1151
@@ -362,9 +362,9 @@ Rank|Bot|Rating
 #360|@Bot_Swana|943
 #361|@bobandi|940
 #362|@YellowJackets_Bot|925
-#363|@botTideEval|877
+#363|@botTideEval|875
 #364|@Palisade|800
 #365|@WaspBot|798
-#366|@pawnrobot|795
+#366|@pawnrobot|792
 #367|@LeelaWeak|735
 #368|@FelixLeonidovich|730
