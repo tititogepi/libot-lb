@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Mega_BOT|2240
 #47|@Coolman2021|2219
 #48|@xiang-qi|2203
-#49|@RaspFish|2201
+#49|@RaspFish|2202
 #50|@MyNameIsWhatLOL|2200
 #51|@Zer0_Tw0|2200
 #52|@UltronBot|2197
@@ -169,7 +169,7 @@ Rank|Bot|Rating
 #167|@ReallyCrazyBOT|1245
 #168|@NightStarFox|1243
 #169|@Happy_One|1223
-#170|@pawnrobot|1204
+#170|@pawnrobot|1202
 #171|@Grand_MefBartu-BOT|1200
 #172|@magnusglad_bot|1196
 #173|@FluffBallCuddly|1191
