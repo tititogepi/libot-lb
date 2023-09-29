@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@ESC_BOT|1976
 #63|@Lila-Stockfish|1963
 #64|@PyChessBot|1957
-#65|@OpeningsBot|1951
+#65|@OpeningsBot|1954
 #66|@abhisun_bot|1947
 #67|@Resolved-Bot|1942
 #68|@Pineapple-Friendly|1937
@@ -110,11 +110,11 @@ Rank|Bot|Rating
 #108|@Toxic_Bot|1541
 #109|@SXDEFENDER|1534
 #110|@Light_To_The_Rescue|1523
-#111|@DavidsGuterBot|1495
-#112|@Z-Move|1495
-#113|@TFRChessClub|1494
-#114|@hyperchessbot1|1493
-#115|@NimsiluBot|1493
+#111|@Z-Move|1495
+#112|@TFRChessClub|1494
+#113|@hyperchessbot1|1493
+#114|@NimsiluBot|1493
+#115|@DavidsGuterBot|1492
 #116|@MagnusCarlsen1507|1492
 #117|@SugarAndSpice|1489
 #118|@rtx3080tibot|1487

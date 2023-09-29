@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@LudwigBOT|2536
 #11|@Coolman2021|2527
 #12|@EmptikBot|2526
-#13|@ToromBot|2504
+#13|@ToromBot|2507
 #14|@Dark_evil_bot|2496
 #15|@mrchessmanager|2494
 #16|@TeamChelsie|2489
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@Trumpfor2O2O|2103
 #74|@CloudBOT|2073
 #75|@JustDontFlagMe|2048
-#76|@OpeningsBot|2045
-#77|@Stockfish-MEDIUM|2043
+#76|@Stockfish-MEDIUM|2043
+#77|@OpeningsBot|2042
 #78|@Crepusculum|2036
 #79|@bananaaaaaaaaa_test|2031
 #80|@EstmileBot|2018
