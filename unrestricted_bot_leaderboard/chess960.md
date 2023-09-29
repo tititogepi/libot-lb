@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@ToromBot|2169
 #23|@EmptikBot|2168
 #24|@rtx3080tibot|2162
-#25|@YoBot_v2|2162
-#26|@too_ez4me|2160
+#25|@too_ez4me|2160
+#26|@YoBot_v2|2159
 #27|@YellowFlash-X|2158
 #28|@TheMatrix2025|2156
 #29|@YellowFlash_v2|2156
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@VariantsTop|2152
 #32|@ReinforcementTrial|2151
 #33|@TTC-BOT_2|2148
-#34|@faith_bot|2137
+#34|@faith_bot|2138
 #35|@EmptikVariantsBot|2132
 #36|@F1R3BOT|2128
 #37|@Lc0Test|2128
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@Kizbuurb|2100
 #52|@lol7241Bot|2100
 #53|@EvenMatchup|2099
-#54|@Intron014|2098
+#54|@Intron014|2099
 #55|@RaspFish|2098
 #56|@ChessBot2156|2095
 #57|@Shineshou90_BOT|2093
@@ -90,9 +90,9 @@ Rank|Bot|Rating
 #88|@Coolman2021|2028
 #89|@HiarcsFish|2028
 #90|@Beyondcomprehension|2024
-#91|@EmptikBot247|2022
-#92|@DeepChessEngine|2020
-#93|@Nikitosik-ai|2019
+#91|@Nikitosik-ai|2024
+#92|@EmptikBot247|2022
+#93|@DeepChessEngine|2020
 #94|@LudwigBOT|2018
 #95|@SF-NNUE|2014
 #96|@Cloud_Bot|2013
@@ -185,7 +185,7 @@ Rank|Bot|Rating
 #183|@LordNTR|1837
 #184|@Simpafteur|1833
 #185|@ChessHunterBot|1831
-#186|@Tundra4|1829
+#186|@Tundra4|1831
 #187|@FrozenightEngine|1823
 #188|@ZamuChess|1822
 #189|@AI69|1821
@@ -280,9 +280,9 @@ Rank|Bot|Rating
 #278|@misteick_bot|1472
 #279|@MagicverseBOT|1471
 #280|@CBNguyen_Bot|1465
-#281|@FataliiBot|1463
-#282|@MQBot|1460
-#283|@stonks_fish|1460
+#281|@MQBot|1460
+#282|@stonks_fish|1460
+#283|@FataliiBot|1458
 #284|@Teamleaderbot|1458
 #285|@NeilDandekarBot|1453
 #286|@DespacitoBot|1451
