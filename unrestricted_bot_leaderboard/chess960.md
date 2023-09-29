@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@ToromBot|2169
 #22|@EmptikBot|2168
 #23|@Nikitosikbot|2164
-#24|@YoBot_v2|2164
+#24|@YoBot_v2|2163
 #25|@rtx3080tibot|2162
 #26|@too_ez4me|2160
 #27|@YellowFlash-X|2158
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@VariantsTop|2152
 #32|@ReinforcementTrial|2151
 #33|@TTC-BOT_2|2148
-#34|@faith_bot|2135
+#34|@faith_bot|2133
 #35|@EmptikVariantsBot|2132
 #36|@F1R3BOT|2128
 #37|@Lc0Test|2128
@@ -51,10 +51,10 @@ Rank|Bot|Rating
 #49|@EmptikBotEman|2103
 #50|@RaspFish|2103
 #51|@Vinh_VariantsBot|2103
-#52|@Kizbuurb|2100
-#53|@lol7241Bot|2100
-#54|@EvenMatchup|2099
-#55|@Intron014|2099
+#52|@Intron014|2101
+#53|@Kizbuurb|2100
+#54|@lol7241Bot|2100
+#55|@EvenMatchup|2099
 #56|@ChessBot2156|2095
 #57|@Shineshou90_BOT|2093
 #58|@UnDisstoppableBot|2090
@@ -87,9 +87,9 @@ Rank|Bot|Rating
 #85|@ItsATry|2033
 #86|@pistol-play|2032
 #87|@CrayyBot|2030
-#88|@Coolman2021|2028
-#89|@HiarcsFish|2028
-#90|@Nikitosik-ai|2026
+#88|@Nikitosik-ai|2029
+#89|@Coolman2021|2028
+#90|@HiarcsFish|2028
 #91|@Beyondcomprehension|2024
 #92|@EmptikBot247|2022
 #93|@DeepChessEngine|2020
@@ -179,9 +179,9 @@ Rank|Bot|Rating
 #177|@Sovereign_bot|1851
 #178|@TheEnsemble|1851
 #179|@tt-challenge|1850
-#180|@Test_God_50_BOT|1843
-#181|@newengine2022|1842
-#182|@Tundra4|1839
+#180|@Tundra4|1845
+#181|@Test_God_50_BOT|1843
+#182|@newengine2022|1842
 #183|@GodelEscherBot|1837
 #184|@LordNTR|1837
 #185|@Simpafteur|1833
@@ -218,7 +218,7 @@ Rank|Bot|Rating
 #216|@spaceisbot|1744
 #217|@Magnus-BOT|1733
 #218|@Velvet-Engine|1732
-#219|@Cheng-4|1720
+#219|@Cheng-4|1722
 #220|@stockfish12_Johan|1717
 #221|@TungJohn|1714
 #222|@TeamChelsie|1712
@@ -283,7 +283,7 @@ Rank|Bot|Rating
 #281|@MQBot|1460
 #282|@stonks_fish|1460
 #283|@Teamleaderbot|1458
-#284|@FataliiBot|1457
+#284|@FataliiBot|1454
 #285|@NeilDandekarBot|1453
 #286|@DespacitoBot|1451
 #287|@fishm0ley|1450
@@ -339,7 +339,7 @@ Rank|Bot|Rating
 #337|@DrunkenMasterEngine|1204
 #338|@MrKING74_btw|1191
 #339|@schnecken_bot|1182
-#340|@Demolito_L5|1171
+#340|@Demolito_L5|1164
 #341|@BerntBOT|1162
 #342|@naughty-dottie|1158
 #343|@Pineapple-Friendly|1151
@@ -350,8 +350,8 @@ Rank|Bot|Rating
 #348|@ZX-Chess|1119
 #349|@Jobabot|1110
 #350|@Dummyette|1107
-#351|@admin-bot|1003
-#352|@Demolito_L4|1003
+#351|@Demolito_L4|1009
+#352|@admin-bot|1003
 #353|@TuroBot|997
 #354|@sudobot_chess|991
 #355|@GeraldBOT|988

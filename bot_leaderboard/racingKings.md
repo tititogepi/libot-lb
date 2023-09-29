@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2510
-#2|@OpeningsBot|2040
+#1|@ToromBot|2512
+#2|@OpeningsBot|2039
