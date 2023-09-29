@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@Vinh_VariantsBot|2346
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
-#75|@OpeningsBot|2319
+#75|@OpeningsBot|2316
 #76|@AI69|2312
 #77|@BromiumAI|2312
 #78|@Kizburb|2307
@@ -101,8 +101,8 @@ Rank|Bot|Rating
 #99|@YellowFlash_v2|2214
 #100|@NormalBlitzBulletBot|2205
 #101|@EstmileBot|2200
-#102|@HerokuHasnotplay|2196
-#103|@CatNail|2193
+#102|@CatNail|2197
+#103|@HerokuHasnotplay|2196
 #104|@Lucror|2178
 #105|@lightspeed_bot|2152
 #106|@AntiChessBot|2142

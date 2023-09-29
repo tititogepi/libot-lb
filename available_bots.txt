@@ -802,6 +802,7 @@ fychess_bot
 g0thamb0t
 galaxy_guardian
 gam3play3r
+gam3play3r-bot
 gambit-bot
 gambitengine
 game-bot
@@ -2338,4 +2339,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gam3play3r-bot
