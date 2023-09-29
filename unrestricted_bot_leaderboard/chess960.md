@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@VariantsTop|2152
 #32|@ReinforcementTrial|2151
 #33|@TTC-BOT_2|2148
-#34|@faith_bot|2134
+#34|@faith_bot|2133
 #35|@EmptikVariantsBot|2132
 #36|@F1R3BOT|2128
 #37|@Lc0Test|2128
@@ -52,9 +52,9 @@ Rank|Bot|Rating
 #50|@Vinh_VariantsBot|2103
 #51|@Kizbuurb|2100
 #52|@lol7241Bot|2100
-#53|@EvenMatchup|2099
-#54|@Intron014|2099
-#55|@RaspFish|2099
+#53|@RaspFish|2100
+#54|@EvenMatchup|2099
+#55|@Intron014|2099
 #56|@ChessBot2156|2095
 #57|@Shineshou90_BOT|2093
 #58|@UnDisstoppableBot|2090
@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@CrayyBot|2030
 #88|@Coolman2021|2028
 #89|@HiarcsFish|2028
-#90|@Nikitosik-ai|2025
+#90|@Nikitosik-ai|2027
 #91|@Beyondcomprehension|2024
 #92|@EmptikBot247|2022
 #93|@DeepChessEngine|2020
@@ -201,7 +201,7 @@ Rank|Bot|Rating
 #199|@JPSBOT|1781
 #200|@Zer0_Tw0|1778
 #201|@Stockfish-MEDIUM|1777
-#202|@OpeningsBot|1774
+#202|@OpeningsBot|1772
 #203|@Fairy_Belzedar|1767
 #204|@PyChessBot|1762
 #205|@TrashBot|1761
@@ -280,10 +280,10 @@ Rank|Bot|Rating
 #278|@misteick_bot|1472
 #279|@MagicverseBOT|1471
 #280|@CBNguyen_Bot|1465
-#281|@MQBot|1460
-#282|@stonks_fish|1460
-#283|@Teamleaderbot|1458
-#284|@FataliiBot|1455
+#281|@FataliiBot|1461
+#282|@MQBot|1460
+#283|@stonks_fish|1460
+#284|@Teamleaderbot|1458
 #285|@NeilDandekarBot|1453
 #286|@DespacitoBot|1451
 #287|@fishm0ley|1450
@@ -339,7 +339,7 @@ Rank|Bot|Rating
 #337|@DrunkenMasterEngine|1204
 #338|@MrKING74_btw|1191
 #339|@schnecken_bot|1182
-#340|@Demolito_L5|1173
+#340|@Demolito_L5|1168
 #341|@BerntBOT|1162
 #342|@naughty-dottie|1158
 #343|@Pineapple-Friendly|1151
@@ -350,8 +350,8 @@ Rank|Bot|Rating
 #348|@ZX-Chess|1119
 #349|@Jobabot|1110
 #350|@Dummyette|1107
-#351|@admin-bot|1003
-#352|@Demolito_L4|1002
+#351|@Demolito_L4|1004
+#352|@admin-bot|1003
 #353|@TuroBot|997
 #354|@sudobot_chess|991
 #355|@GeraldBOT|988
@@ -365,6 +365,6 @@ Rank|Bot|Rating
 #363|@botTideEval|875
 #364|@Palisade|800
 #365|@WaspBot|798
-#366|@pawnrobot|792
+#366|@pawnrobot|790
 #367|@LeelaWeak|735
 #368|@FelixLeonidovich|730
