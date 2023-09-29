@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@xiang-qi|2203
 #49|@MyNameIsWhatLOL|2200
 #50|@Zer0_Tw0|2200
-#51|@RaspFish|2198
+#51|@RaspFish|2199
 #52|@UltronBot|2197
 #53|@Viet-BOT|2185
 #54|@lightspeed_bot|2177
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
 #104|@Stockfish-MEDIUM|1717
-#105|@OpeningsBot|1707
+#105|@OpeningsBot|1705
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
 #108|@FASTCHESSBOT|1666

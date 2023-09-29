@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@ESC_BOT|2394
 #63|@CatBot_14|2393
 #64|@NormalBulletBot|2393
-#65|@NilatacBot|2373
+#65|@NilatacBot|2378
 #66|@Resolved-Bot|2369
 #67|@Trumpfor2O2O|2366
 #68|@HuxZero|2361
@@ -85,8 +85,8 @@ Rank|Bot|Rating
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
-#86|@SkyBlaster|2254
-#87|@CatNail|2252
+#86|@CatNail|2263
+#87|@SkyBlaster|2254
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
 #90|@EagleEye2021|2235
