@@ -238,8 +238,8 @@ Rank|Bot|Rating
 #236|@MeezKool|1485
 #237|@RSVMentor|1476
 #238|@TheWeakestBot|1476
-#239|@pawnrobot|1470
-#240|@thibot|1470
+#239|@thibot|1470
+#240|@pawnrobot|1468
 #241|@fastandfurious10|1464
 #242|@EDSPBOT|1463
 #243|@Dong_Xiao_Yuan|1454
