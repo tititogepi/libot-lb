@@ -1264,6 +1264,7 @@ lol7241bot
 lola-stockfish
 lolchessbot497
 lolchessbot69
+lolfish-1
 lolnogenerics
 lord-bot
 lord-chess-bot
@@ -2340,4 +2341,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lolfish-1
