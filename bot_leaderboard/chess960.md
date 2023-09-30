@@ -4,9 +4,9 @@ Rank|Bot|Rating
 #2|@TheFreshman1902|2187
 #3|@ToromBot|2174
 #4|@Nikitosikbot|2164
-#5|@YoBot_v2|2154
+#5|@YoBot_v2|2153
 #6|@VariantsTop|2152
-#7|@ReinforcementTrial|2150
+#7|@ReinforcementTrial|2151
 #8|@faith_bot|2130
 #9|@TorBot|2128
 #10|@RaspFish|2095
@@ -14,11 +14,11 @@ Rank|Bot|Rating
 #12|@CaissaChessEngine|2008
 #13|@Tundra4|1853
 #14|@FrozenightEngine|1816
-#15|@OpeningsBot|1768
+#15|@OpeningsBot|1767
 #16|@Cheng-4|1722
-#17|@FataliiBot|1451
+#17|@FataliiBot|1453
 #18|@Demolito_L6|1263
-#19|@Demolito_L5|1159
+#19|@Demolito_L5|1157
 #20|@Demolito_L4|1035
 #21|@botTideEval|875
 #22|@pawnrobot|795
