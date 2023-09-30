@@ -1006,6 +1006,7 @@ ironman2006
 isaac_terminator
 isaacwb_bot
 ishaan080808
+ishomea
 isotopebot
 itsafakeusername2k1
 itsatry
@@ -2339,4 +2340,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ishomea
+lolfish-1

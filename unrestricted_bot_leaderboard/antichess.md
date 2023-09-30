@@ -93,9 +93,9 @@ Rank|Bot|Rating
 #91|@Hyper-Stockfish|2230
 #92|@CocopikachuBOT|2226
 #93|@TungJohn|2225
-#94|@CatNail|2222
-#95|@Good-Game-123|2221
-#96|@The-Fastest-Bot|2218
+#94|@Good-Game-123|2221
+#95|@The-Fastest-Bot|2218
+#96|@CatNail|2217
 #97|@All_Except_Chess960|2214
 #98|@Emptik-AI|2214
 #99|@xDmanBOT|2214
