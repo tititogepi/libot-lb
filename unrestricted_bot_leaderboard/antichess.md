@@ -73,8 +73,8 @@ Rank|Bot|Rating
 #71|@higuyuu67776|2352
 #72|@Vinh_VariantsBot|2346
 #73|@Karpov_bot|2335
-#74|@TeamChelsie|2331
-#75|@OpeningsBot|2330
+#74|@OpeningsBot|2332
+#75|@TeamChelsie|2331
 #76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@EagleEye2021|2235
 #90|@chesshyperbot|2234
 #91|@Hyper-Stockfish|2230
-#92|@CatNail|2227
-#93|@CocopikachuBOT|2226
+#92|@CocopikachuBOT|2226
+#93|@CatNail|2225
 #94|@TungJohn|2225
 #95|@Good-Game-123|2221
 #96|@The-Fastest-Bot|2218
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@antichesssss|1964
 #121|@Menganti|1963
 #122|@CloudBOT|1950
-#123|@pawnrobot|1908
+#123|@pawnrobot|1906
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
 #126|@Lumac0|1861
