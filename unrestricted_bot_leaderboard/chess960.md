@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@Bot_McBotface|2172
 #21|@lord-bot|2171
 #22|@EmptikBot|2168
-#23|@LolFish-1|2165
+#23|@LolFish-1|2168
 #24|@Nikitosikbot|2164
 #25|@rtx3080tibot|2162
 #26|@too_ez4me|2160
@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@YellowFlash_v2|2156
 #30|@FireFishBOT|2153
 #31|@ReinforcementTrial|2153
-#32|@YoBot_v2|2153
-#33|@VariantsTop|2152
+#32|@VariantsTop|2152
+#33|@YoBot_v2|2151
 #34|@TTC-BOT_2|2148
 #35|@EmptikVariantsBot|2132
 #36|@faith_bot|2130
@@ -90,8 +90,8 @@ Rank|Bot|Rating
 #88|@CrayyBot|2030
 #89|@Coolman2021|2028
 #90|@HiarcsFish|2028
-#91|@Beyondcomprehension|2024
-#92|@Nikitosik-ai|2024
+#91|@Nikitosik-ai|2026
+#92|@Beyondcomprehension|2024
 #93|@EmptikBot247|2022
 #94|@DeepChessEngine|2020
 #95|@LudwigBOT|2018
@@ -205,7 +205,7 @@ Rank|Bot|Rating
 #203|@Stockfish-MEDIUM|1777
 #204|@TorBot_v2|1774
 #205|@Fairy_Belzedar|1767
-#206|@OpeningsBot|1767
+#206|@OpeningsBot|1765
 #207|@PyChessBot|1762
 #208|@TrashBot|1761
 #209|@relevantproblem|1760
