@@ -535,6 +535,7 @@ corvus-1
 cosettebot
 cosmic64
 cowboy_time
+crappybot
 craytox
 crayybot
 crazyara
@@ -2341,4 +2342,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-crappybot
