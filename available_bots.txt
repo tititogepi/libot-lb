@@ -894,6 +894,7 @@ hansniemannbot
 happy_one
 happydeepawali
 happyfarmer3000
+happyfarmerbot
 happyfarmerchallenge
 happyplayer_fun2019
 hardrok
@@ -2345,4 +2346,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-happyfarmerbot
+happyfarmergod
