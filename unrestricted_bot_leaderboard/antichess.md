@@ -75,12 +75,12 @@ Rank|Bot|Rating
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
 #75|@AI69|2312
-#76|@Kizburb|2307
-#77|@MagicverseBOT|2306
-#78|@abhisun_bot|2305
-#79|@NienishiEngine|2304
-#80|@EvenMatchup|2302
-#81|@OpeningsBot|2301
+#76|@OpeningsBot|2310
+#77|@Kizburb|2307
+#78|@MagicverseBOT|2306
+#79|@abhisun_bot|2305
+#80|@NienishiEngine|2304
+#81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
 #83|@BromiumAI|2279
 #84|@Dean_Summer_Bot|2279
@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@EstmileBot|2200
 #102|@HerokuHasnotplay|2196
 #103|@Lucror|2178
-#104|@anti-bot|2161
+#104|@anti-bot|2156
 #105|@lightspeed_bot|2152
 #106|@CatNail|2151
 #107|@AntiChessBot|2142
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@antichesssss|1964
 #121|@Menganti|1963
 #122|@CloudBOT|1950
-#123|@pawnrobot|1913
+#123|@pawnrobot|1910
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
 #126|@Lumac0|1861
