@@ -393,6 +393,7 @@ caissaix
 calciumbot
 calliopean_account
 callmecool
+calvin_bot
 camel_bot
 capturebot
 carlsenbot
@@ -1777,6 +1778,7 @@ s_stock
 sacgod1020
 safrad-3
 sai_srihith
+salfachessone
 salmonchess9
 salvajuega
 sampuanbot
@@ -2342,5 +2344,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-calvin_bot
-salfachessone
