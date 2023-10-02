@@ -1796,6 +1796,7 @@ sashachessengine
 satranc-efendisi
 satranc_kazansin_bot
 satrancbazyt
+saturnbot
 satyakeswara_bot
 sauwkhamari
 saxtonengine
@@ -2344,4 +2345,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-saturnbot
+happyfarmerbot
