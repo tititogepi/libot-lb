@@ -102,8 +102,8 @@ Rank|Bot|Rating
 #100|@NormalBlitzBulletBot|2205
 #101|@EstmileBot|2200
 #102|@HerokuHasnotplay|2196
-#103|@CatNail|2183
-#104|@Lucror|2178
+#103|@Lucror|2178
+#104|@CatNail|2177
 #105|@anti-bot|2155
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
