@@ -1666,6 +1666,7 @@ pyglin
 q-bith
 qalatbotengine
 qalattop
+qchessv2
 quaviverbot
 que-encrypt
 que-hyper
@@ -2347,4 +2348,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-qchessv2
