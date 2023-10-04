@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@Nikitosik-ai|2596
 #44|@RaspFish|2596
 #45|@LBOT007|2595
-#46|@ArasanX|2589
+#46|@ArasanX|2590
 #47|@Shineshou90_BOT|2586
 #48|@TheMatrix2025|2579
 #49|@HansNiemannBot|2576
@@ -160,7 +160,7 @@ Rank|Bot|Rating
 #158|@Botyuliirma|2391
 #159|@BongcloudTest|2390
 #160|@AcceleratedLearner|2385
-#161|@SalfaChessOne|2377
+#161|@SalfaChessOne|2384
 #162|@chai-chessbot|2376
 #163|@Maximumef|2375
 #164|@IUseStockfish|2374
@@ -633,9 +633,9 @@ Rank|Bot|Rating
 #631|@BRAINLEARN11_NNUE|1619
 #632|@main_line|1619
 #633|@WretchedZero|1619
-#634|@turkjs|1615
-#635|@hokmah-bot|1613
-#636|@maia5|1610
+#634|@maia5|1616
+#635|@turkjs|1615
+#636|@hokmah-bot|1613
 #637|@Mp_Ind_946|1610
 #638|@StockfishOfficial|1608
 #639|@Jibbby|1601
@@ -679,7 +679,7 @@ Rank|Bot|Rating
 #677|@pussaW|1519
 #678|@TapoBot|1519
 #679|@LeelaRecent|1512
-#680|@maia1|1506
+#680|@maia1|1505
 #681|@Bot-2564|1500
 #682|@freddystehtaufteddy|1500
 #683|@NeuralAbyss|1500
