@@ -117,11 +117,11 @@ Rank|Bot|Rating
 #115|@HuxZero|2035
 #116|@EasyWinGG|2032
 #117|@ESC_BOT|2011
-#118|@are_bots_good|2006
-#119|@Breeze-Hot|2006
-#120|@NikitosikVariantsbot|2003
-#121|@CatBot329|2000
-#122|@OpeningsBot|1994
+#118|@OpeningsBot|2011
+#119|@are_bots_good|2006
+#120|@Breeze-Hot|2006
+#121|@NikitosikVariantsbot|2003
+#122|@CatBot329|2000
 #123|@Zer0_Tw0|1991
 #124|@BigBrainen|1984
 #125|@relevantproblem|1976

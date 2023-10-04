@@ -1834,6 +1834,7 @@ shadicbot
 shaibel123
 shakboy9824453231op
 shallowengine
+shallowlearnbot
 shallowredbot
 shallowredfish
 sharkbot
@@ -2350,4 +2351,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-shallowlearnbot
