@@ -1726,6 +1726,7 @@ requinbot
 resolutebot
 resolved-bot
 resolved_bot
+reti_bot
 rewasabot
 rexbot1
 rexherbot
@@ -2349,4 +2350,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-reti_bot
