@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@djungel_lc0|2691
 #13|@SkyAttacker|2680
 #14|@EmptikWeak|2652
-#15|@ReinforcementTrial|2649
+#15|@ReinforcementTrial|2650
 #16|@Nikitosikbot|2647
 #17|@Polochon-Bot|2644
 #18|@Intron014|2642
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@ProteusSF-Turbo|2618
 #33|@ResoluteBot|2618
 #34|@LeelaMultiPoss|2617
-#35|@Africaata|2615
-#36|@LolFish-1|2612
+#35|@LolFish-1|2617
+#36|@Africaata|2615
 #37|@ProteusSF|2612
 #38|@TorBot_v2|2611
 #39|@kybot|2610
@@ -150,7 +150,7 @@ Rank|Bot|Rating
 #148|@NeilDandekarBot|2408
 #149|@Awesome32|2406
 #150|@Brabemachess-BOT|2406
-#151|@expositor|2406
+#151|@expositor|2404
 #152|@MyNameIsSpeeedy|2404
 #153|@KingfishBot|2403
 #154|@nukechess-bot|2402
@@ -178,7 +178,7 @@ Rank|Bot|Rating
 #176|@AKS-Mantissa|2360
 #177|@Future_Chess_Pro|2358
 #178|@LazyBot|2356
-#179|@catriever|2350
+#179|@catriever|2351
 #180|@Hydrovolt|2348
 #181|@ChessChipBot|2347
 #182|@TRGBot|2346
@@ -574,8 +574,8 @@ Rank|Bot|Rating
 #572|@SimpleChessEngine|1732
 #573|@GilgameshTheBot|1729
 #574|@queen_stase_approx|1729
-#575|@Demolito_L6|1726
-#576|@notropis|1726
+#575|@notropis|1726
+#576|@Demolito_L6|1725
 #577|@AshNostromo|1723
 #578|@Demolito_L5|1720
 #579|@Epiano_Bot|1718
@@ -606,10 +606,10 @@ Rank|Bot|Rating
 #604|@HulkBot|1672
 #605|@Xadreco|1670
 #606|@HyperPhoenix21|1668
-#607|@magnusglad_bot|1667
-#608|@ai-con|1666
-#609|@honzovy-sachy|1666
-#610|@maia9|1666
+#607|@maia9|1668
+#608|@magnusglad_bot|1667
+#609|@ai-con|1666
+#610|@honzovy-sachy|1666
 #611|@TheAsmFish|1666
 #612|@ExpectedOutcome|1662
 #613|@Valhalla-Bot|1662
@@ -679,7 +679,7 @@ Rank|Bot|Rating
 #677|@pussaW|1519
 #678|@TapoBot|1519
 #679|@LeelaRecent|1512
-#680|@maia1|1505
+#680|@maia1|1501
 #681|@Bot-2564|1500
 #682|@freddystehtaufteddy|1500
 #683|@NeuralAbyss|1500
