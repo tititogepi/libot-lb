@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@Nikitosikbot|2184
 #18|@Kizburb|2182
 #19|@VariantsBot|2180
-#20|@ToromBot|2178
-#21|@YoBot_v2|2176
+#20|@YoBot_v2|2180
+#21|@ToromBot|2178
 #22|@Bot_McBotface|2172
 #23|@lord-bot|2171
 #24|@EmptikBot|2168
@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@ReinforcementTrial|2154
 #31|@FireFishBOT|2153
 #32|@VariantsTop|2152
-#33|@Intron014|2148
-#34|@TTC-BOT_2|2148
+#33|@TTC-BOT_2|2148
+#34|@Intron014|2147
 #35|@LolFish-1|2137
 #36|@EmptikVariantsBot|2132
 #37|@TorBot|2129
@@ -48,9 +48,9 @@ Rank|Bot|Rating
 #46|@ibep|2111
 #47|@Galaxy_Guardian|2107
 #48|@BetaOneBot|2106
-#49|@ToromLc0|2106
-#50|@Vaxim2000|2106
-#51|@faith_bot|2104
+#49|@faith_bot|2106
+#50|@ToromLc0|2106
+#51|@Vaxim2000|2106
 #52|@EmptikBotEman|2103
 #53|@Kizbuurb|2100
 #54|@lol7241Bot|2100
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@Alehkine_cat|2053
 #75|@MastacticaTeoriabot|2053
 #76|@Nikitosik-ai|2053
-#77|@RaspFish|2053
+#77|@RaspFish|2050
 #78|@allvariants|2047
 #79|@Minhduc12|2045
 #80|@Satyakeswara_BOT|2044
@@ -202,8 +202,8 @@ Rank|Bot|Rating
 #200|@EvilFreak|1793
 #201|@Storm_Shadow2012|1788
 #202|@mrchessmanager|1784
-#203|@JPSBOT|1781
-#204|@OpeningsBot|1781
+#203|@OpeningsBot|1783
+#204|@JPSBOT|1781
 #205|@Zer0_Tw0|1778
 #206|@Stockfish-MEDIUM|1777
 #207|@Fairy_Belzedar|1767
@@ -275,9 +275,9 @@ Rank|Bot|Rating
 #273|@YourSparringBot|1503
 #274|@are_bots_good|1496
 #275|@dolegibot|1496
-#276|@feeks99|1479
-#277|@devsdaBot|1477
-#278|@FataliiBot|1477
+#276|@FataliiBot|1481
+#277|@feeks99|1479
+#278|@devsdaBot|1477
 #279|@TFRChessClub|1477
 #280|@SmallbrainPy|1474
 #281|@misteick_bot|1472
@@ -327,7 +327,7 @@ Rank|Bot|Rating
 #325|@AEBROADUSBOTTER|1279
 #326|@yolo_eldiablo15|1274
 #327|@ImpossibleWin|1272
-#328|@Demolito_L6|1268
+#328|@Demolito_L6|1263
 #329|@entebot|1261
 #330|@azdad|1258
 #331|@Itzmoi6g19|1258
