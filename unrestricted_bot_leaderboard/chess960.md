@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@VariantsBot|2180
 #19|@Nikitosikbot|2176
 #20|@ToromBot|2174
-#21|@YoBot_v2|2173
-#22|@Bot_McBotface|2172
-#23|@lord-bot|2171
+#21|@Bot_McBotface|2172
+#22|@lord-bot|2171
+#23|@YoBot_v2|2171
 #24|@EmptikBot|2168
 #25|@rtx3080tibot|2162
 #26|@too_ez4me|2160
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@VariantsTop|2152
 #33|@TTC-BOT_2|2148
 #34|@RETI_BOT|2146
-#35|@Intron014|2142
+#35|@Intron014|2143
 #36|@LolFish-1|2137
 #37|@EmptikVariantsBot|2132
 #38|@TorBot|2129
@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@pangubot|2128
 #42|@BetterAnalyze|2125
 #43|@Caissa-NNUE|2124
-#44|@faith_bot|2120
+#44|@faith_bot|2122
 #45|@JeffIO|2113
 #46|@Dragon_1906|2111
 #47|@ibep|2111
@@ -278,9 +278,9 @@ Rank|Bot|Rating
 #276|@feeks99|1479
 #277|@devsdaBot|1477
 #278|@TFRChessClub|1477
-#279|@SmallbrainPy|1474
-#280|@misteick_bot|1472
-#281|@FataliiBot|1471
+#279|@FataliiBot|1476
+#280|@SmallbrainPy|1474
+#281|@misteick_bot|1472
 #282|@MagicverseBOT|1471
 #283|@CBNguyen_Bot|1465
 #284|@MQBot|1460
@@ -326,8 +326,8 @@ Rank|Bot|Rating
 #324|@bcbchess|1282
 #325|@AEBROADUSBOTTER|1279
 #326|@yolo_eldiablo15|1274
-#327|@Demolito_L6|1273
-#328|@ImpossibleWin|1272
+#327|@ImpossibleWin|1272
+#328|@Demolito_L6|1269
 #329|@entebot|1261
 #330|@azdad|1258
 #331|@Itzmoi6g19|1258
@@ -367,6 +367,6 @@ Rank|Bot|Rating
 #365|@botTideEval|875
 #366|@Palisade|800
 #367|@WaspBot|798
-#368|@pawnrobot|788
+#368|@pawnrobot|785
 #369|@LeelaWeak|735
 #370|@FelixLeonidovich|730
