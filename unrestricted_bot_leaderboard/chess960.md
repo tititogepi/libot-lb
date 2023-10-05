@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@Corvus-1|2197
 #15|@hyperchessbot1|2189
 #16|@TheFreshman1902|2186
-#17|@Nikitosikbot|2184
+#17|@Nikitosikbot|2183
 #18|@Kizburb|2182
 #19|@VariantsBot|2180
 #20|@YoBot_v2|2180
@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@ReinforcementTrial|2154
 #31|@FireFishBOT|2153
 #32|@VariantsTop|2152
-#33|@TTC-BOT_2|2148
-#34|@Intron014|2147
+#33|@Intron014|2148
+#34|@TTC-BOT_2|2148
 #35|@LolFish-1|2137
 #36|@EmptikVariantsBot|2132
 #37|@TorBot|2129
@@ -42,13 +42,13 @@ Rank|Bot|Rating
 #40|@pangubot|2128
 #41|@BetterAnalyze|2125
 #42|@Caissa-NNUE|2124
-#43|@RETI_BOT|2117
+#43|@RETI_BOT|2118
 #44|@JeffIO|2113
 #45|@Dragon_1906|2111
 #46|@ibep|2111
-#47|@Galaxy_Guardian|2107
-#48|@BetaOneBot|2106
-#49|@faith_bot|2106
+#47|@faith_bot|2107
+#48|@Galaxy_Guardian|2107
+#49|@BetaOneBot|2106
 #50|@ToromLc0|2106
 #51|@Vaxim2000|2106
 #52|@EmptikBotEman|2103
@@ -202,7 +202,7 @@ Rank|Bot|Rating
 #200|@EvilFreak|1793
 #201|@Storm_Shadow2012|1788
 #202|@mrchessmanager|1784
-#203|@OpeningsBot|1783
+#203|@OpeningsBot|1782
 #204|@JPSBOT|1781
 #205|@Zer0_Tw0|1778
 #206|@Stockfish-MEDIUM|1777
@@ -275,7 +275,7 @@ Rank|Bot|Rating
 #273|@YourSparringBot|1503
 #274|@are_bots_good|1496
 #275|@dolegibot|1496
-#276|@FataliiBot|1481
+#276|@FataliiBot|1483
 #277|@feeks99|1479
 #278|@devsdaBot|1477
 #279|@TFRChessClub|1477
@@ -327,8 +327,8 @@ Rank|Bot|Rating
 #325|@AEBROADUSBOTTER|1279
 #326|@yolo_eldiablo15|1274
 #327|@ImpossibleWin|1272
-#328|@Demolito_L6|1263
-#329|@entebot|1261
+#328|@entebot|1261
+#329|@Demolito_L6|1260
 #330|@azdad|1258
 #331|@Itzmoi6g19|1258
 #332|@SalmonChess9|1258
