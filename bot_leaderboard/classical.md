@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ReinforcementTrial|2647
 #2|@Nikitosikbot|2646
-#3|@Intron014|2644
+#3|@Intron014|2641
 #4|@TheFreshman1902|2632
 #5|@Occhessadvanced|2630
 #6|@M-Z_Bot|2624
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@RaspFish|2589
 #14|@Mr_Chess_Berserk|2573
 #15|@faith_bot|2543
-#16|@StockFish16_2023|2506
+#16|@StockFish16_2023|2509
 #17|@NikitosikVariantsbot|2467
 #18|@expositor|2403
 #19|@FrozenightEngine|2366
@@ -23,10 +23,10 @@ Rank|Bot|Rating
 #21|@catriever|2353
 #22|@pawn_git|2310
 #23|@SaxtonEngine|2309
-#24|@Weiawaga|2289
+#24|@Weiawaga|2287
 #25|@Cheng-4|2243
 #26|@TuksuBot|2154
-#27|@Pseudo-0|2143
+#27|@Pseudo-0|2145
 #28|@Phalanx-XXV|2129
 #29|@simpleEval|2045
 #30|@bekbot|2023
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@notropis|1726
 #46|@Demolito_L6|1725
 #47|@Demolito_L5|1720
-#48|@maia9|1708
+#48|@maia9|1699
 #49|@Virutor|1696
 #50|@honzovy-sachy|1666
 #51|@simplexitor|1633

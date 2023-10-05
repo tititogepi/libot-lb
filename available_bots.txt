@@ -836,6 +836,7 @@ giffibot
 gilgameshthebot
 gilk260
 giphy_logo
+gladius_bot
 goblinbot
 god_teto
 godelescherbot
@@ -2351,4 +2352,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gladius_bot

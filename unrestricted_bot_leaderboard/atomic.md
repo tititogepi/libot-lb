@@ -238,10 +238,10 @@ Rank|Bot|Rating
 #236|@MeezKool|1485
 #237|@RSVMentor|1476
 #238|@TheWeakestBot|1476
-#239|@pawnrobot|1471
-#240|@thibot|1470
-#241|@fastandfurious10|1464
-#242|@EDSPBOT|1463
+#239|@thibot|1470
+#240|@fastandfurious10|1464
+#241|@EDSPBOT|1463
+#242|@pawnrobot|1461
 #243|@Dong_Xiao_Yuan|1454
 #244|@Future_Chess_Pro|1453
 #245|@MyNameIsSpeeedy|1453
