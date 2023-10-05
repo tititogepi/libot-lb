@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ReinforcementTrial|2647
 #2|@Nikitosikbot|2646
-#3|@Intron014|2645
-#4|@Occhessadvanced|2632
-#5|@TheFreshman1902|2632
+#3|@Intron014|2644
+#4|@TheFreshman1902|2632
+#5|@Occhessadvanced|2630
 #6|@M-Z_Bot|2624
 #7|@YoBot_v2|2624
 #8|@TorBot|2622
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Africaata|2618
 #11|@Nikitosik-ai|2594
 #12|@ArasanX|2591
-#13|@RaspFish|2588
+#13|@RaspFish|2589
 #14|@Mr_Chess_Berserk|2573
 #15|@faith_bot|2543
 #16|@StockFish16_2023|2506
@@ -23,10 +23,10 @@ Rank|Bot|Rating
 #21|@catriever|2353
 #22|@pawn_git|2310
 #23|@SaxtonEngine|2309
-#24|@Weiawaga|2291
-#25|@Cheng-4|2240
+#24|@Weiawaga|2289
+#25|@Cheng-4|2243
 #26|@TuksuBot|2154
-#27|@Pseudo-0|2140
+#27|@Pseudo-0|2143
 #28|@Phalanx-XXV|2129
 #29|@simpleEval|2045
 #30|@bekbot|2023
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@eubos|1990
 #33|@honzovy-sachy-2|1989
 #34|@Boris-Trapsky|1984
-#35|@Lynx_BOT|1967
+#35|@Lynx_BOT|1966
 #36|@MaxtheDog|1965
 #37|@jangine|1951
 #38|@GarboBot|1928
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@notropis|1726
 #46|@Demolito_L6|1725
 #47|@Demolito_L5|1720
-#48|@maia9|1698
+#48|@maia9|1708
 #49|@Virutor|1696
 #50|@honzovy-sachy|1666
 #51|@simplexitor|1633
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Trollfish-Bot|1584
 #56|@turochamp-2ply|1583
 #57|@maia5|1565
-#58|@maia1|1467
+#58|@maia1|1466
 #59|@Humaia|1442
 #60|@sargon-2ply|1379
 #61|@turochamp-1ply|1368
