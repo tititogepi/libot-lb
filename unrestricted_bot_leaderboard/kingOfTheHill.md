@@ -110,8 +110,8 @@ Rank|Bot|Rating
 #108|@Toxic_Bot|1541
 #109|@SXDEFENDER|1534
 #110|@Light_To_The_Rescue|1523
-#111|@Z-Move|1495
-#112|@DavidsGuterBot|1494
+#111|@DavidsGuterBot|1496
+#112|@Z-Move|1495
 #113|@TFRChessClub|1494
 #114|@hyperchessbot1|1493
 #115|@NimsiluBot|1493
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@knight_128|1233
 #147|@MyNameIsSpeedy|1226
 #148|@Bottios|1223
-#149|@pawnrobot|1199
+#149|@pawnrobot|1196
 #150|@RSVMentor|1196
 #151|@Boom_Bot|1176
 #152|@TrashBot|1168
