@@ -557,6 +557,7 @@ cultr
 currenter_ai
 cva728_bot_1
 cxrmt
+czech-bot
 czesc-bot
 d2d4go
 dabestfarmer
@@ -2353,4 +2354,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-czech-bot
