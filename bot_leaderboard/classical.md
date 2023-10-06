@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Intron014|2651
-#2|@Nikitosikbot|2648
-#3|@ReinforcementTrial|2646
+#2|@ReinforcementTrial|2646
+#3|@Nikitosikbot|2645
 #4|@TheFreshman1902|2632
 #5|@Occhessadvanced|2629
 #6|@YoBot_v2|2623
@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@ResoluteBot|2605
 #11|@Nikitosik-ai|2596
 #12|@ArasanX|2592
-#13|@RaspFish|2587
+#13|@RaspFish|2588
 #14|@Mr_Chess_Berserk|2573
 #15|@faith_bot|2545
-#16|@StockFish16_2023|2528
+#16|@StockFish16_2023|2530
 #17|@NikitosikVariantsbot|2467
 #18|@expositor|2399
 #19|@FrozenightEngine|2366
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@simpleEval|2045
 #30|@bekbot|2023
 #31|@Humaia-Strong|2016
-#32|@Boris-Trapsky|2005
+#32|@Boris-Trapsky|2003
 #33|@HistoryExplorer|1996
 #34|@eubos|1990
 #35|@honzovy-sachy-2|1989
@@ -44,11 +44,11 @@ Rank|Bot|Rating
 #42|@LeelaRogue|1872
 #43|@baby_eubos|1797
 #44|@ChessChildren|1775
-#45|@Demolito_L6|1725
+#45|@Demolito_L6|1738
 #46|@Demolito_L5|1720
-#47|@notropis|1717
-#48|@maia9|1695
-#49|@Virutor|1695
+#47|@notropis|1705
+#48|@Virutor|1695
+#49|@maia9|1686
 #50|@honzovy-sachy|1666
 #51|@simplexitor|1633
 #52|@ZE_ROOK|1629
@@ -61,5 +61,5 @@ Rank|Bot|Rating
 #59|@Humaia|1447
 #60|@sargon-2ply|1379
 #61|@turochamp-1ply|1368
-#62|@sargon-1ply|1334
+#62|@sargon-1ply|1340
 #63|@G0thamB0t|786
