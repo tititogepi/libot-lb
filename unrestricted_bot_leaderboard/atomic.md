@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@MagnusCarlsen1507|2037
 #115|@HuxZero|2035
 #116|@EasyWinGG|2032
-#117|@OpeningsBot|2017
+#117|@OpeningsBot|2022
 #118|@ESC_BOT|2011
 #119|@are_bots_good|2006
 #120|@Breeze-Hot|2006
