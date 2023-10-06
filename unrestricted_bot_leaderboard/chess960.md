@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@Nikitosikbot|2185
 #18|@ToromBot|2183
 #19|@Kizburb|2182
-#20|@YoBot_v2|2182
-#21|@VariantsBot|2180
+#20|@VariantsBot|2180
+#21|@YoBot_v2|2177
 #22|@Bot_McBotface|2172
 #23|@lord-bot|2171
 #24|@EmptikBot|2168
@@ -32,8 +32,8 @@ Rank|Bot|Rating
 #30|@ReinforcementTrial|2154
 #31|@FireFishBOT|2153
 #32|@VariantsTop|2152
-#33|@TTC-BOT_2|2148
-#34|@Intron014|2147
+#33|@Intron014|2148
+#34|@TTC-BOT_2|2148
 #35|@LolFish-1|2137
 #36|@EmptikVariantsBot|2132
 #37|@TorBot|2131
@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@JeffIO|2113
 #44|@Dragon_1906|2111
 #45|@ibep|2111
-#46|@Galaxy_Guardian|2107
-#47|@RETI_BOT|2107
+#46|@RETI_BOT|2108
+#47|@Galaxy_Guardian|2107
 #48|@BetaOneBot|2106
 #49|@ToromLc0|2106
 #50|@Vaxim2000|2106
@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@Kizbuurb|2100
 #53|@lol7241Bot|2100
 #54|@EvenMatchup|2099
-#55|@Vinh_VariantsBot|2098
-#56|@faith_bot|2096
+#55|@faith_bot|2099
+#56|@Vinh_VariantsBot|2098
 #57|@ChessBot2156|2095
 #58|@Shineshou90_BOT|2093
 #59|@UnDisstoppableBot|2090
@@ -71,10 +71,10 @@ Rank|Bot|Rating
 #69|@Viet-AI|2060
 #70|@AI-Electro|2059
 #71|@Nikitosik-ai|2057
-#72|@chessbot2880|2055
-#73|@Botyuliirma|2054
-#74|@Hien-Vinh_Bot2|2054
-#75|@RaspFish|2054
+#72|@RaspFish|2056
+#73|@chessbot2880|2055
+#74|@Botyuliirma|2054
+#75|@Hien-Vinh_Bot2|2054
 #76|@Alehkine_cat|2053
 #77|@MastacticaTeoriabot|2053
 #78|@allvariants|2047
@@ -200,7 +200,7 @@ Rank|Bot|Rating
 #198|@CloudBOT|1807
 #199|@Lalis1|1804
 #200|@EvilFreak|1793
-#201|@OpeningsBot|1792
+#201|@OpeningsBot|1790
 #202|@Storm_Shadow2012|1788
 #203|@mrchessmanager|1784
 #204|@JPSBOT|1781
@@ -275,7 +275,7 @@ Rank|Bot|Rating
 #273|@YourSparringBot|1503
 #274|@are_bots_good|1496
 #275|@dolegibot|1496
-#276|@FataliiBot|1483
+#276|@FataliiBot|1486
 #277|@feeks99|1479
 #278|@devsdaBot|1477
 #279|@TFRChessClub|1477
@@ -331,7 +331,7 @@ Rank|Bot|Rating
 #329|@azdad|1258
 #330|@Itzmoi6g19|1258
 #331|@SalmonChess9|1258
-#332|@Demolito_L6|1249
+#332|@Demolito_L6|1256
 #333|@Sparring_Bot|1248
 #334|@RootEngine|1245
 #335|@Future_Chess_Pro|1233
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@DrunkenMasterEngine|1204
 #340|@MrKING74_btw|1191
 #341|@schnecken_bot|1182
-#342|@Demolito_L5|1178
+#342|@Demolito_L5|1169
 #343|@BerntBOT|1162
 #344|@naughty-dottie|1158
 #345|@Pineapple-Friendly|1151
