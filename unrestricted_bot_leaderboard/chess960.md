@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
 #13|@Corvus-1|2197
-#14|@ResoluteBot|2192
-#15|@Nikitosikbot|2190
+#14|@Nikitosikbot|2190
+#15|@ResoluteBot|2190
 #16|@hyperchessbot1|2189
 #17|@TheFreshman1902|2186
 #18|@Kizburb|2182
@@ -51,10 +51,10 @@ Rank|Bot|Rating
 #49|@ToromLc0|2106
 #50|@Vaxim2000|2106
 #51|@EmptikBotEman|2103
-#52|@Kizbuurb|2100
-#53|@lol7241Bot|2100
-#54|@EvenMatchup|2099
-#55|@faith_bot|2099
+#52|@faith_bot|2101
+#53|@Kizbuurb|2100
+#54|@lol7241Bot|2100
+#55|@EvenMatchup|2099
 #56|@Vinh_VariantsBot|2098
 #57|@ChessBot2156|2095
 #58|@Shineshou90_BOT|2093
@@ -199,8 +199,8 @@ Rank|Bot|Rating
 #197|@xiang-qi|1809
 #198|@CloudBOT|1807
 #199|@Lalis1|1804
-#200|@EvilFreak|1793
-#201|@OpeningsBot|1791
+#200|@OpeningsBot|1800
+#201|@EvilFreak|1793
 #202|@Storm_Shadow2012|1788
 #203|@mrchessmanager|1784
 #204|@JPSBOT|1781
@@ -222,7 +222,7 @@ Rank|Bot|Rating
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
 #222|@Viridithas|1728
-#223|@Cheng-4|1726
+#223|@Cheng-4|1722
 #224|@stockfish12_Johan|1717
 #225|@TungJohn|1714
 #226|@TeamChelsie|1712
@@ -273,9 +273,9 @@ Rank|Bot|Rating
 #271|@david9426_bot|1517
 #272|@LioCT|1516
 #273|@YourSparringBot|1503
-#274|@FataliiBot|1502
-#275|@are_bots_good|1496
-#276|@dolegibot|1496
+#274|@are_bots_good|1496
+#275|@dolegibot|1496
+#276|@FataliiBot|1496
 #277|@feeks99|1479
 #278|@devsdaBot|1477
 #279|@TFRChessClub|1477
@@ -333,7 +333,7 @@ Rank|Bot|Rating
 #331|@SalmonChess9|1258
 #332|@Sparring_Bot|1248
 #333|@RootEngine|1245
-#334|@Demolito_L6|1242
+#334|@Demolito_L6|1241
 #335|@Future_Chess_Pro|1233
 #336|@AlphaLeela0|1229
 #337|@WorstBotEver123|1222
@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@MrKING74_btw|1191
 #341|@schnecken_bot|1182
 #342|@BerntBOT|1162
-#343|@Demolito_L5|1161
+#343|@Demolito_L5|1162
 #344|@naughty-dottie|1158
 #345|@Pineapple-Friendly|1151
 #346|@WeakBot|1151

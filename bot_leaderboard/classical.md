@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Intron014|2649
-#2|@Nikitosikbot|2645
+#2|@Nikitosikbot|2643
 #3|@ReinforcementTrial|2642
 #4|@TheFreshman1902|2632
 #5|@Occhessadvanced|2628
@@ -9,14 +9,14 @@ Rank|Bot|Rating
 #7|@TorBot|2622
 #8|@M-Z_Bot|2619
 #9|@Africaata|2618
-#10|@ProteusSF-Godot|2607
+#10|@ProteusSF-Godot|2610
 #11|@ResoluteBot|2605
-#12|@Nikitosik-ai|2598
+#12|@Nikitosik-ai|2597
 #13|@ArasanX|2593
 #14|@RaspFish|2590
 #15|@Mr_Chess_Berserk|2573
 #16|@faith_bot|2545
-#17|@StockFish16_2023|2539
+#17|@StockFish16_2023|2540
 #18|@NikitosikVariantsbot|2467
 #19|@expositor|2408
 #20|@FrozenightEngine|2366
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Demolito_L5|1720
 #47|@notropis|1705
 #48|@Virutor|1695
-#49|@maia9|1684
+#49|@maia9|1679
 #50|@honzovy-sachy|1666
 #51|@simplexitor|1633
 #52|@ZE_ROOK|1629
@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@turkjs|1615
 #55|@Trollfish-Bot|1584
 #56|@turochamp-2ply|1583
-#57|@maia5|1579
-#58|@maia1|1510
+#57|@maia5|1578
+#58|@maia1|1512
 #59|@Humaia|1447
 #60|@sargon-2ply|1379
 #61|@turochamp-1ply|1368

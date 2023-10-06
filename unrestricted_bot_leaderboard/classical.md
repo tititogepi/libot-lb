@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@SkyAttacker|2680
 #14|@EmptikWeak|2652
 #15|@Intron014|2649
-#16|@Nikitosikbot|2645
-#17|@Polochon-Bot|2644
+#16|@Polochon-Bot|2644
+#17|@Nikitosikbot|2643
 #18|@LeelaMultiPoss|2642
 #19|@ReinforcementTrial|2642
 #20|@ProteusSF-Aureo|2640
@@ -38,11 +38,11 @@ Rank|Bot|Rating
 #36|@ProteusSF|2612
 #37|@TorBot_v2|2611
 #38|@kybot|2610
-#39|@Tunder77|2610
-#40|@ProteusSF-Godot|2607
+#39|@ProteusSF-Godot|2610
+#40|@Tunder77|2610
 #41|@ResoluteBot|2605
 #42|@Caissa-NNUE|2598
-#43|@Nikitosik-ai|2598
+#43|@Nikitosik-ai|2597
 #44|@LBOT007|2595
 #45|@ArasanX|2593
 #46|@RaspFish|2590
@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@faith_bot|2545
 #69|@Child_Beth|2542
 #70|@CloudBot_v2|2541
-#71|@StockFish16_2023|2539
+#71|@StockFish16_2023|2540
 #72|@XMetropolanXBanner|2539
 #73|@TheAstroBot|2538
 #74|@Cloud_Bot|2537
@@ -598,7 +598,7 @@ Rank|Bot|Rating
 #596|@Craytox|1693
 #597|@QuintBot|1692
 #598|@Kyle_0111|1691
-#599|@maia9|1684
+#599|@maia9|1679
 #600|@Halux-bot|1677
 #601|@OverHead_BOT|1674
 #602|@Sem1Rose|1673
@@ -652,7 +652,7 @@ Rank|Bot|Rating
 #650|@turochamp-2ply|1583
 #651|@sauwkhamari|1580
 #652|@winchess_bot|1580
-#653|@maia5|1579
+#653|@maia5|1578
 #654|@Dummyette|1570
 #655|@AEBROADUSBOTTER|1567
 #656|@LeelaClubPlayer|1567
@@ -678,7 +678,7 @@ Rank|Bot|Rating
 #676|@pussaW|1519
 #677|@TapoBot|1519
 #678|@LeelaRecent|1512
-#679|@maia1|1510
+#679|@maia1|1512
 #680|@Bot-2564|1500
 #681|@freddystehtaufteddy|1500
 #682|@NeuralAbyss|1500
