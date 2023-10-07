@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@IUseStockfish|2202
 #13|@Corvus-1|2197
 #14|@hyperchessbot1|2189
-#15|@ResoluteBot|2188
+#15|@ResoluteBot|2187
 #16|@TheFreshman1902|2186
 #17|@Nikitosikbot|2184
 #18|@Kizburb|2182
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@ToromLc0|2106
 #50|@Vaxim2000|2106
 #51|@EmptikBotEman|2103
-#52|@faith_bot|2100
+#52|@faith_bot|2102
 #53|@Kizbuurb|2100
 #54|@lol7241Bot|2100
 #55|@EvenMatchup|2099

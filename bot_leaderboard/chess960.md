@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ResoluteBot|2188
+#1|@ResoluteBot|2187
 #2|@TheFreshman1902|2186
 #3|@Nikitosikbot|2184
 #4|@ToromBot|2180
@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@TorBot|2153
 #8|@Intron014|2144
 #9|@LolFish-1|2137
-#10|@faith_bot|2100
+#10|@faith_bot|2102
 #11|@Nikitosik-ai|2070
 #12|@RaspFish|2055
 #13|@FrozenightEngine|1811
