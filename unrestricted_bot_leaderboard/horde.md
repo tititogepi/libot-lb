@@ -72,12 +72,12 @@ Rank|Bot|Rating
 #70|@newengine2022|1712
 #71|@HiddeNL|1708
 #72|@chesshyperbot|1702
-#73|@OpeningsBot|1668
+#73|@chessbot2880|1675
 #74|@relevantproblem|1667
 #75|@Epiano_Bot|1662
-#76|@VariantsTop|1644
-#77|@The_dragon_bot|1625
-#78|@chessbot2880|1622
+#76|@OpeningsBot|1653
+#77|@VariantsTop|1644
+#78|@The_dragon_bot|1625
 #79|@Cowboy_Time|1622
 #80|@ElFinsBoT|1617
 #81|@Lila-Stockfish|1616
