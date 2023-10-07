@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@FireFishBOT|2385
 #12|@Coolman2021|2378
 #13|@Karpov_bot|2359
-#14|@ToromBot|2352
+#14|@ToromBot|2355
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
@@ -66,8 +66,8 @@ Rank|Bot|Rating
 #64|@chessbot2880|1961
 #65|@PyChessBot|1957
 #66|@abhisun_bot|1947
-#67|@OpeningsBot|1942
-#68|@Resolved-Bot|1942
+#67|@Resolved-Bot|1942
+#68|@OpeningsBot|1941
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
 #71|@HyperLitikBOT|1930
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@NimsiluBot|1493
 #115|@MagnusCarlsen1507|1492
 #116|@SugarAndSpice|1489
-#117|@DavidsGuterBot|1487
-#118|@rtx3080tibot|1487
+#117|@rtx3080tibot|1487
+#118|@DavidsGuterBot|1486
 #119|@SUMAL_BRO|1476
 #120|@Less_of_a_threat|1470
 #121|@Bbao23-chess|1469

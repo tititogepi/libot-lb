@@ -13,11 +13,11 @@ Rank|Bot|Rating
 #11|@F0rgot|2434
 #12|@AjedrezChamberi|2413
 #13|@HulkBot|2387
-#14|@Mega_BOT|2371
-#15|@CorrespondenceBot|2353
-#16|@IAMSTOCKFISH123|2305
-#17|@Magnus-BOT|2304
-#18|@pawn_git|2301
+#14|@pawn_git|2372
+#15|@Mega_BOT|2371
+#16|@CorrespondenceBot|2353
+#17|@IAMSTOCKFISH123|2305
+#18|@Magnus-BOT|2304
 #19|@Xmas_dragon|2300
 #20|@Ujwal1001|2297
 #21|@bekbot|2289
