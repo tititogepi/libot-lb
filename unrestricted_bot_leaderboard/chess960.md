@@ -15,12 +15,12 @@ Rank|Bot|Rating
 #13|@Corvus-1|2197
 #14|@hyperchessbot1|2189
 #15|@Nikitosikbot|2187
-#16|@ResoluteBot|2186
-#17|@TheFreshman1902|2186
+#16|@TheFreshman1902|2186
+#17|@ResoluteBot|2184
 #18|@Kizburb|2182
-#19|@YoBot_v2|2181
-#20|@ToromBot|2180
-#21|@VariantsBot|2180
+#19|@ToromBot|2180
+#20|@VariantsBot|2180
+#21|@YoBot_v2|2180
 #22|@Bot_McBotface|2172
 #23|@lord-bot|2171
 #24|@EmptikBot|2168
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@VariantsTop|2152
 #33|@TorBot|2148
 #34|@TTC-BOT_2|2148
-#35|@Intron014|2146
+#35|@Intron014|2144
 #36|@LolFish-1|2137
 #37|@EmptikVariantsBot|2132
 #38|@F1R3BOT|2128
@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@Kizbuurb|2100
 #53|@lol7241Bot|2100
 #54|@EvenMatchup|2099
-#55|@faith_bot|2098
+#55|@faith_bot|2099
 #56|@Vinh_VariantsBot|2098
 #57|@ChessBot2156|2095
 #58|@Shineshou90_BOT|2093
@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@TorBot_v2|2079
 #64|@KhanhStockfish|2074
 #65|@mrohBOT|2074
-#66|@Mega_BOT|2066
-#67|@Nikitosik-ai|2064
+#66|@Nikitosik-ai|2067
+#67|@Mega_BOT|2066
 #68|@Karpov_bot|2063
 #69|@chessfyBOT|2060
 #70|@Viet-AI|2060
@@ -222,7 +222,7 @@ Rank|Bot|Rating
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
 #222|@Viridithas|1728
-#223|@Cheng-4|1722
+#223|@Cheng-4|1723
 #224|@stockfish12_Johan|1717
 #225|@TungJohn|1714
 #226|@TeamChelsie|1712
@@ -275,7 +275,7 @@ Rank|Bot|Rating
 #273|@YourSparringBot|1503
 #274|@are_bots_good|1496
 #275|@dolegibot|1496
-#276|@FataliiBot|1495
+#276|@FataliiBot|1493
 #277|@feeks99|1479
 #278|@devsdaBot|1477
 #279|@TFRChessClub|1477
