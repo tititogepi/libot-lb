@@ -34,12 +34,12 @@ Rank|Bot|Rating
 #32|@Lila-Stockfish|2350
 #33|@Viet-BOT|2349
 #34|@NormalBlitzBulletBot|2347
-#35|@chessbot2880|2345
-#36|@HyperLitikBOT|2341
-#37|@LudwigBOT|2339
-#38|@newengine2022|2337
-#39|@NotNateBot|2336
-#40|@No-Varants-No|2335
+#35|@HyperLitikBOT|2341
+#36|@LudwigBOT|2339
+#37|@newengine2022|2337
+#38|@NotNateBot|2336
+#39|@No-Varants-No|2335
+#40|@chessbot2880|2333
 #41|@The-Fastest-Bot|2314
 #42|@Alehkine_cat|2312
 #43|@lord-bot|2311
@@ -116,7 +116,7 @@ Rank|Bot|Rating
 #114|@MagnusCarlsen1507|2037
 #115|@HuxZero|2035
 #116|@EasyWinGG|2032
-#117|@OpeningsBot|2016
+#117|@OpeningsBot|2019
 #118|@ESC_BOT|2011
 #119|@are_bots_good|2006
 #120|@Breeze-Hot|2006
