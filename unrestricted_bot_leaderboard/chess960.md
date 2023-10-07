@@ -31,10 +31,10 @@ Rank|Bot|Rating
 #29|@YellowFlash_v2|2156
 #30|@ReinforcementTrial|2154
 #31|@FireFishBOT|2153
-#32|@Intron014|2152
-#33|@VariantsTop|2152
+#32|@VariantsTop|2152
+#33|@Intron014|2149
 #34|@TTC-BOT_2|2148
-#35|@TorBot|2142
+#35|@TorBot|2147
 #36|@LolFish-1|2137
 #37|@EmptikVariantsBot|2132
 #38|@F1R3BOT|2128
@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@EvenMatchup|2099
 #55|@Vinh_VariantsBot|2098
 #56|@ChessBot2156|2095
-#57|@Shineshou90_BOT|2093
-#58|@faith_bot|2092
+#57|@faith_bot|2095
+#58|@Shineshou90_BOT|2093
 #59|@UnDisstoppableBot|2090
 #60|@Lila-Stockfish|2089
 #61|@Mittens-Bot|2081
@@ -67,8 +67,8 @@ Rank|Bot|Rating
 #65|@mrohBOT|2074
 #66|@Mega_BOT|2066
 #67|@Karpov_bot|2063
-#68|@Nikitosik-ai|2063
-#69|@chessfyBOT|2060
+#68|@chessfyBOT|2060
+#69|@Nikitosik-ai|2060
 #70|@Viet-AI|2060
 #71|@AI-Electro|2059
 #72|@chessbot2880|2055
@@ -199,7 +199,7 @@ Rank|Bot|Rating
 #197|@xiang-qi|1809
 #198|@CloudBOT|1807
 #199|@Lalis1|1804
-#200|@OpeningsBot|1796
+#200|@OpeningsBot|1795
 #201|@EvilFreak|1793
 #202|@Storm_Shadow2012|1788
 #203|@mrchessmanager|1784
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@david9426_bot|1517
 #272|@LioCT|1516
 #273|@YourSparringBot|1503
-#274|@FataliiBot|1499
+#274|@FataliiBot|1497
 #275|@are_bots_good|1496
 #276|@dolegibot|1496
 #277|@feeks99|1479
@@ -331,9 +331,9 @@ Rank|Bot|Rating
 #329|@azdad|1258
 #330|@Itzmoi6g19|1258
 #331|@SalmonChess9|1258
-#332|@Sparring_Bot|1248
-#333|@RootEngine|1245
-#334|@Demolito_L6|1244
+#332|@Demolito_L6|1248
+#333|@Sparring_Bot|1248
+#334|@RootEngine|1245
 #335|@Future_Chess_Pro|1233
 #336|@AlphaLeela0|1229
 #337|@WorstBotEver123|1222
@@ -342,8 +342,8 @@ Rank|Bot|Rating
 #340|@MrKING74_btw|1191
 #341|@schnecken_bot|1182
 #342|@BerntBOT|1162
-#343|@Demolito_L5|1158
-#344|@naughty-dottie|1158
+#343|@naughty-dottie|1158
+#344|@Demolito_L5|1153
 #345|@Pineapple-Friendly|1151
 #346|@WeakBot|1151
 #347|@St6090|1149
