@@ -36,11 +36,11 @@ Rank|Bot|Rating
 #34|@thibot|2393
 #35|@Jussicas|2373
 #36|@Viet_BOT|2344
-#37|@EvenMatchup|2336
-#38|@ibep|2333
-#39|@CloudBot_v2|2331
-#40|@ElPeonElectrico|2326
-#41|@chessbot2880|2315
+#37|@chessbot2880|2336
+#38|@EvenMatchup|2336
+#39|@ibep|2333
+#40|@CloudBot_v2|2331
+#41|@ElPeonElectrico|2326
 #42|@Bot_AOOP11|2314
 #43|@Viet-BOT|2312
 #44|@IAMSTOCKFISH123|2307
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
-#79|@OpeningsBot|2024
+#79|@OpeningsBot|2021
 #80|@EstmileBot|2018
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
