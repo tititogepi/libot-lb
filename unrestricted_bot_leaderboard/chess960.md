@@ -51,10 +51,10 @@ Rank|Bot|Rating
 #49|@ToromLc0|2106
 #50|@Vaxim2000|2106
 #51|@EmptikBotEman|2103
-#52|@Kizbuurb|2100
-#53|@lol7241Bot|2100
-#54|@EvenMatchup|2099
-#55|@faith_bot|2099
+#52|@faith_bot|2103
+#53|@Kizbuurb|2100
+#54|@lol7241Bot|2100
+#55|@EvenMatchup|2099
 #56|@Vinh_VariantsBot|2098
 #57|@ChessBot2156|2095
 #58|@Shineshou90_BOT|2093
@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@TorBot_v2|2079
 #64|@KhanhStockfish|2074
 #65|@mrohBOT|2074
-#66|@Nikitosik-ai|2067
+#66|@Nikitosik-ai|2069
 #67|@Mega_BOT|2066
 #68|@Karpov_bot|2063
 #69|@chessfyBOT|2060
@@ -199,8 +199,8 @@ Rank|Bot|Rating
 #197|@xiang-qi|1809
 #198|@CloudBOT|1807
 #199|@Lalis1|1804
-#200|@OpeningsBot|1797
-#201|@EvilFreak|1793
+#200|@EvilFreak|1793
+#201|@OpeningsBot|1792
 #202|@Storm_Shadow2012|1788
 #203|@mrchessmanager|1784
 #204|@JPSBOT|1781
@@ -222,7 +222,7 @@ Rank|Bot|Rating
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
 #222|@Viridithas|1728
-#223|@Cheng-4|1723
+#223|@Cheng-4|1726
 #224|@stockfish12_Johan|1717
 #225|@TungJohn|1714
 #226|@TeamChelsie|1712
@@ -275,7 +275,7 @@ Rank|Bot|Rating
 #273|@YourSparringBot|1503
 #274|@are_bots_good|1496
 #275|@dolegibot|1496
-#276|@FataliiBot|1493
+#276|@FataliiBot|1490
 #277|@feeks99|1479
 #278|@devsdaBot|1477
 #279|@TFRChessClub|1477
