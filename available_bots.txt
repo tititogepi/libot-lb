@@ -1087,6 +1087,7 @@ kalabot
 kapablanca_balls
 karl-bot
 karly64
+karpen-b
 karpov_bot
 kasabot
 kasparov_bot
@@ -2355,4 +2356,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-karpen-b
