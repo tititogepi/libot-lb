@@ -1934,6 +1934,7 @@ stockfish-nnue
 stockfish10chess
 stockfish122
 stockfish12_johan
+stockfish13-nnue
 stockfish16_2023
 stockfish1node
 stockfish2021
@@ -2354,4 +2355,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-stockfish13-nnue
+karpen-b

@@ -48,11 +48,11 @@ Rank|Bot|Rating
 #46|@AlfaBot|2278
 #47|@Mega_BOT|2264
 #48|@MalanChess|2261
-#49|@chesshyperbot|2259
-#50|@ESC_BOT|2253
-#51|@relevantproblem|2251
-#52|@GodelEscherBot|2244
-#53|@chessbot2880|2234
+#49|@chessbot2880|2260
+#50|@chesshyperbot|2259
+#51|@ESC_BOT|2253
+#52|@relevantproblem|2251
+#53|@GodelEscherBot|2244
 #54|@ResoluteBot|2225
 #55|@XXIstCentury|2225
 #56|@Resolved-Bot|2223
@@ -77,8 +77,8 @@ Rank|Bot|Rating
 #75|@JustDontFlagMe|2048
 #76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
-#78|@OpeningsBot|2034
-#79|@bananaaaaaaaaa_test|2031
+#78|@bananaaaaaaaaa_test|2031
+#79|@OpeningsBot|2030
 #80|@EstmileBot|2018
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
