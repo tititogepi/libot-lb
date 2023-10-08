@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Fairy_Belzedar|2544
 #18|@ToromBot|2541
 #19|@KizVariant|2529
-#20|@RaspFish|2491
+#20|@RaspFish|2492
 #21|@ESC_BOT|2476
 #22|@Less_of_a_threat|2469
 #23|@NormalBlitzBulletBot|2463
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@relevantproblem|1514
 #108|@Toxic_Bot|1511
 #109|@NoobMasterBOT|1507
-#110|@DavidsGuterBot|1503
+#110|@DavidsGuterBot|1502
 #111|@Epiano_Bot|1491
 #112|@CVA728_BOT_1|1489
 #113|@Rishab_Bindal|1489
