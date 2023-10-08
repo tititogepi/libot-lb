@@ -105,8 +105,8 @@ Rank|Bot|Rating
 #103|@HerokuHasnotplay|2196
 #104|@Lucror|2178
 #105|@lightspeed_bot|2152
-#106|@anti-bot|2149
-#107|@AntiChessBot|2142
+#106|@AntiChessBot|2142
+#107|@anti-bot|2139
 #108|@AnUtterlyKarBot|2134
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
