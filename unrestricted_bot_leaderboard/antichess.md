@@ -106,12 +106,12 @@ Rank|Bot|Rating
 #104|@Lucror|2178
 #105|@lightspeed_bot|2152
 #106|@AntiChessBot|2142
-#107|@anti-bot|2139
+#107|@anti-bot|2141
 #108|@AnUtterlyKarBot|2134
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2081
+#112|@CatNail|2077
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
