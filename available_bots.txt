@@ -1255,6 +1255,7 @@ likeawizard-bot
 lila-stockfish
 lildoctorjank
 liligirlplay
+linklake1532
 linuxguru_bot0
 lioct
 lionfishbot
@@ -2357,4 +2358,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-linklake1532

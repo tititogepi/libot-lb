@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@faith_bot|2447
 #26|@NikitosikVariantsbot|2420
 #27|@Viet_BOT|2367
-#28|@chessbot2880|2336
+#28|@chessbot2880|2345
 #29|@Zer0_Tw0|2332
 #30|@LudwigBOT|2304
 #31|@KingfishX|2283
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@Resolved-Bot|2026
 #58|@Lila-Stockfish|2010
 #59|@firstrobot|2003
-#60|@OpeningsBot|1989
+#60|@OpeningsBot|1988
 #61|@Hyper-Stockfish|1986
 #62|@GodelEscherBot|1974
 #63|@XXIstCentury|1973

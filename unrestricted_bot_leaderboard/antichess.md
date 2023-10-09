@@ -24,10 +24,10 @@ Rank|Bot|Rating
 #22|@AmudhanHyperBot|2615
 #23|@bananaaaaaaaaa_test|2608
 #24|@IAMSTOCKFISH123|2603
-#25|@ChessBot3021|2599
-#26|@Viet-BOT|2598
-#27|@firstrobot|2593
-#28|@chessbot2880|2590
+#25|@chessbot2880|2601
+#26|@ChessBot3021|2599
+#27|@Viet-BOT|2598
+#28|@firstrobot|2593
 #29|@AIAlphaAI|2589
 #30|@ElPeonElectrico|2568
 #31|@NimsiluBot|2566
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@Dark_evil_bot|2525
 #40|@Bot_AOOP11|2521
 #41|@HyperLitikBOT|2511
-#42|@Nakshatra3|2510
+#42|@Nakshatra3|2504
 #43|@pistol-play|2498
 #44|@MrBOThacker|2477
 #45|@hauptschuleBOT|2475
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
-#75|@OpeningsBot|2319
+#75|@OpeningsBot|2322
 #76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
