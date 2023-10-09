@@ -1190,6 +1190,7 @@ leela-test
 leela1node
 leela2200
 leela420
+leela8-test
 leela_bot
 leela_policy
 leela_t40_42810
@@ -2356,4 +2357,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leela8-test
