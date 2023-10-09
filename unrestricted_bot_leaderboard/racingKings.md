@@ -45,10 +45,10 @@ Rank|Bot|Rating
 #43|@IAMSTOCKFISH123|2307
 #44|@NormalBulletBot|2291
 #45|@YoBot_v2|2287
-#46|@AlfaBot|2278
-#47|@Mega_BOT|2264
-#48|@MalanChess|2261
-#49|@chessbot2880|2260
+#46|@chessbot2880|2283
+#47|@AlfaBot|2278
+#48|@Mega_BOT|2264
+#49|@MalanChess|2261
 #50|@chesshyperbot|2259
 #51|@ESC_BOT|2253
 #52|@relevantproblem|2251
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@atomicli|2111
 #73|@Trumpfor2O2O|2103
 #74|@CloudBOT|2073
-#75|@OpeningsBot|2055
+#75|@OpeningsBot|2051
 #76|@JustDontFlagMe|2048
 #77|@Stockfish-MEDIUM|2043
 #78|@Crepusculum|2036

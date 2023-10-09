@@ -72,9 +72,9 @@ Rank|Bot|Rating
 #70|@ESC_BOT|1966
 #71|@mrchessmanager|1962
 #72|@Hyper-Stockfish|1947
-#73|@PolyBOT|1945
-#74|@bananaaaaaaaaa_test|1942
-#75|@chessbot2880|1932
+#73|@chessbot2880|1945
+#74|@PolyBOT|1945
+#75|@bananaaaaaaaaa_test|1942
 #76|@NikitosikVariantsbot|1926
 #77|@AndromedaSX1|1919
 #78|@Dean_Summer_Bot|1898
@@ -105,8 +105,8 @@ Rank|Bot|Rating
 #103|@TJchessBot|1741
 #104|@Stockfish-MEDIUM|1717
 #105|@Lightning_SpeedChess|1696
-#106|@OpeningsBot|1688
-#107|@B0T5_RU13|1683
+#106|@B0T5_RU13|1683
+#107|@OpeningsBot|1683
 #108|@FASTCHESSBOT|1666
 #109|@SipsonsamsonBOT|1665
 #110|@MistakeBOT|1655

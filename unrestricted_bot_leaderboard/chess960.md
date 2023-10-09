@@ -284,8 +284,8 @@ Rank|Bot|Rating
 #282|@CBNguyen_Bot|1465
 #283|@MQBot|1460
 #284|@stonks_fish|1460
-#285|@Teamleaderbot|1458
-#286|@FataliiBot|1456
+#285|@FataliiBot|1458
+#286|@Teamleaderbot|1458
 #287|@NeilDandekarBot|1453
 #288|@DespacitoBot|1451
 #289|@fishm0ley|1450
@@ -341,8 +341,8 @@ Rank|Bot|Rating
 #339|@DrunkenMasterEngine|1204
 #340|@MrKING74_btw|1191
 #341|@schnecken_bot|1182
-#342|@BerntBOT|1162
-#343|@Demolito_L5|1162
+#342|@Demolito_L5|1163
+#343|@BerntBOT|1162
 #344|@naughty-dottie|1158
 #345|@Pineapple-Friendly|1151
 #346|@WeakBot|1151
@@ -354,7 +354,7 @@ Rank|Bot|Rating
 #352|@Dummyette|1107
 #353|@admin-bot|1003
 #354|@TuroBot|997
-#355|@Demolito_L4|995
+#355|@Demolito_L4|994
 #356|@sudobot_chess|991
 #357|@GeraldBOT|988
 #358|@Bot2000|983
@@ -367,6 +367,6 @@ Rank|Bot|Rating
 #365|@botTideEval|875
 #366|@Palisade|800
 #367|@WaspBot|798
-#368|@pawnrobot|775
+#368|@pawnrobot|772
 #369|@LeelaWeak|735
 #370|@FelixLeonidovich|730
