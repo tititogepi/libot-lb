@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Kizburb|2182
 #18|@Nikitosikbot|2180
 #19|@VariantsBot|2180
-#20|@YoBot_v2|2177
+#20|@YoBot_v2|2174
 #21|@Bot_McBotface|2172
 #22|@ToromBot|2172
 #23|@lord-bot|2171
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@TorBot|2150
 #35|@TTC-BOT_2|2148
 #36|@LolFish-1|2144
-#37|@EmptikVariantsBot|2132
-#38|@TorBot_v2|2132
+#37|@TorBot_v2|2134
+#38|@EmptikVariantsBot|2132
 #39|@F1R3BOT|2128
 #40|@Lc0Test|2128
 #41|@pangubot|2128
@@ -46,9 +46,9 @@ Rank|Bot|Rating
 #44|@JeffIO|2113
 #45|@Dragon_1906|2111
 #46|@ibep|2111
-#47|@Galaxy_Guardian|2107
-#48|@BetaOneBot|2106
-#49|@faith_bot|2106
+#47|@faith_bot|2108
+#48|@Galaxy_Guardian|2107
+#49|@BetaOneBot|2106
 #50|@ToromLc0|2106
 #51|@Vaxim2000|2106
 #52|@EmptikBotEman|2103
@@ -318,7 +318,7 @@ Rank|Bot|Rating
 #316|@Filipo6900|1310
 #317|@GarboBot|1309
 #318|@DavidsGuterBot|1308
-#319|@Leela8-Test|1303
+#319|@Leela8-Test|1301
 #320|@ClubAjedrezChileno|1288
 #321|@LeelaZero-UK|1288
 #322|@queen_stase_approx|1288
@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@DrunkenMasterEngine|1204
 #341|@MrKING74_btw|1191
 #342|@schnecken_bot|1182
-#343|@Demolito_L5|1163
+#343|@Demolito_L5|1169
 #344|@BerntBOT|1162
 #345|@naughty-dottie|1158
 #346|@Pineapple-Friendly|1151
@@ -357,8 +357,8 @@ Rank|Bot|Rating
 #355|@TuroBot|997
 #356|@sudobot_chess|991
 #357|@GeraldBOT|988
-#358|@Demolito_L4|985
-#359|@Bot2000|983
+#358|@Bot2000|983
+#359|@Demolito_L4|979
 #360|@BogoBot|974
 #361|@ZokBot|969
 #362|@RandomTree77|956
