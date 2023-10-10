@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@chicken_farmer|1926
 #128|@RootEngine|1920
 #129|@Simpafteur|1912
-#130|@ZE_ROOK|1904
+#130|@ZE_ROOK|1912
 #131|@ClubAjedrezChileno|1898
 #132|@TrolliumBot|1894
 #133|@honzovy-sachy-2|1892
@@ -148,8 +148,8 @@ Rank|Bot|Rating
 #146|@ChessChildren|1856
 #147|@Boris-Trapsky|1853
 #148|@natural-disaster|1853
-#149|@yeoldwiz|1848
-#150|@Rinestro|1837
+#149|@Rinestro|1837
+#150|@yeoldwiz|1837
 #151|@OurBot|1836
 #152|@Aromik_s_bot|1831
 #153|@BestJSEngine|1826
