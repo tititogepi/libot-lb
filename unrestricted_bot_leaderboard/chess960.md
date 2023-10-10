@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@ToromBot|2172
 #23|@lord-bot|2171
 #24|@EmptikBot|2168
-#25|@Intron014|2163
+#25|@Intron014|2164
 #26|@rtx3080tibot|2162
 #27|@too_ez4me|2160
 #28|@YellowFlash-X|2158
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@Vaxim2000|2106
 #51|@EmptikBotEman|2103
 #52|@RETI_BOT|2103
-#53|@faith_bot|2100
+#53|@faith_bot|2102
 #54|@Kizbuurb|2100
 #55|@lol7241Bot|2100
 #56|@EvenMatchup|2099
@@ -127,9 +127,9 @@ Rank|Bot|Rating
 #125|@X2-ITL|1973
 #126|@TasmanRevenge|1971
 #127|@Vetinari_Computer|1970
-#128|@NormalBulletBot|1967
-#129|@ararimbelami|1964
-#130|@MphoBot|1964
+#128|@MphoBot|1968
+#129|@NormalBulletBot|1967
+#130|@ararimbelami|1964
 #131|@ttBOT|1963
 #132|@Dean_Summer_Bot|1960
 #133|@Rishab_Bindal|1960
@@ -202,8 +202,8 @@ Rank|Bot|Rating
 #200|@EvilFreak|1793
 #201|@Storm_Shadow2012|1788
 #202|@mrchessmanager|1784
-#203|@OpeningsBot|1783
-#204|@JPSBOT|1781
+#203|@JPSBOT|1781
+#204|@OpeningsBot|1780
 #205|@Zer0_Tw0|1778
 #206|@Stockfish-MEDIUM|1777
 #207|@Fairy_Belzedar|1767
@@ -219,7 +219,7 @@ Rank|Bot|Rating
 #217|@Ch4rl3s|1748
 #218|@DxrkOnBot|1746
 #219|@spaceisbot|1744
-#220|@Cheng-4|1736
+#220|@Cheng-4|1733
 #221|@Magnus-BOT|1733
 #222|@Velvet-Engine|1732
 #223|@Viridithas|1728
