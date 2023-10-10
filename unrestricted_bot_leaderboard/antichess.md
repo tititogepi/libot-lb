@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@Bot_AOOP11|2521
 #41|@HyperLitikBOT|2511
 #42|@pistol-play|2498
-#43|@Nakshatra3|2479
+#43|@Nakshatra3|2483
 #44|@MrBOThacker|2477
 #45|@hauptschuleBOT|2475
 #46|@Alehkine_cat|2474
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@Less_of_a_threat|2357
 #71|@Viet_BOT|2354
 #72|@higuyuu67776|2352
-#73|@OpeningsBot|2352
+#73|@OpeningsBot|2348
 #74|@Karpov_bot|2335
 #75|@TeamChelsie|2331
 #76|@AI69|2312
@@ -109,8 +109,8 @@ Rank|Bot|Rating
 #107|@AntiChessBot|2142
 #108|@AnUtterlyKarBot|2134
 #109|@XXIstCentury|2131
-#110|@CatNail|2113
-#111|@PyChessBot|2102
+#110|@PyChessBot|2102
+#111|@CatNail|2101
 #112|@TurkiyeHogwartsBOT|2099
 #113|@ZamuChess|2049
 #114|@Botzer|2020
