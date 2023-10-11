@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@VariantsTop|1644
 #77|@The_dragon_bot|1625
 #78|@Cowboy_Time|1622
-#79|@ElFinsBoT|1617
-#80|@OpeningsBot|1617
+#79|@OpeningsBot|1619
+#80|@ElFinsBoT|1617
 #81|@Lila-Stockfish|1616
 #82|@Stockfish-MEDIUM|1604
 #83|@Zer0_Tw0|1580
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@St6090|1191
 #129|@Simpafteur|1188
 #130|@BetaOneBot|1166
-#131|@pawnrobot|1162
+#131|@pawnrobot|1160
 #132|@ZX-Chess|1145
 #133|@alvin-chess-bot|1091
 #134|@GuineaBot2|851

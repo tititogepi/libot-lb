@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@PyChessBot|1957
 #66|@abhisun_bot|1947
 #67|@Resolved-Bot|1942
-#68|@OpeningsBot|1940
+#68|@OpeningsBot|1941
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
 #71|@HyperLitikBOT|1930
@@ -110,7 +110,7 @@ Rank|Bot|Rating
 #108|@Toxic_Bot|1541
 #109|@SXDEFENDER|1534
 #110|@Light_To_The_Rescue|1523
-#111|@DavidsGuterBot|1495
+#111|@DavidsGuterBot|1496
 #112|@Z-Move|1495
 #113|@TFRChessClub|1494
 #114|@hyperchessbot1|1493
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@MyNameIsSpeedy|1226
 #148|@Bottios|1223
 #149|@RSVMentor|1196
-#150|@pawnrobot|1195
+#150|@pawnrobot|1193
 #151|@Boom_Bot|1176
 #152|@TrashBot|1168
 #153|@shakboy9824453231op|1152
