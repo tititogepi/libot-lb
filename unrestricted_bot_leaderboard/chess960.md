@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@TheFreshman1902|2186
 #16|@Nikitosikbot|2183
 #17|@Kizburb|2182
-#18|@ResoluteBot|2182
+#18|@ResoluteBot|2181
 #19|@YoBot_v2|2181
 #20|@VariantsBot|2180
 #21|@Bot_McBotface|2172
@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@pangubot|2128
 #42|@BetterAnalyze|2125
 #43|@Caissa-NNUE|2124
-#44|@faith_bot|2116
+#44|@faith_bot|2114
 #45|@JeffIO|2113
 #46|@Dragon_1906|2111
 #47|@ibep|2111
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@Lila-Stockfish|2089
 #62|@Nikitosik-ai|2084
 #63|@Mittens-Bot|2081
-#64|@EmptikBotLc0|2079
-#65|@chessbot2880|2075
+#64|@chessbot2880|2079
+#65|@EmptikBotLc0|2079
 #66|@KhanhStockfish|2074
 #67|@mrohBOT|2074
 #68|@Mega_BOT|2066
@@ -136,9 +136,9 @@ Rank|Bot|Rating
 #134|@TuroChamp1948|1955
 #135|@Hagfish|1954
 #136|@crocodile5|1953
-#137|@chesshyperbot|1951
-#138|@StockfishPro-BOT|1950
-#139|@MphoBot|1948
+#137|@MphoBot|1952
+#138|@chesshyperbot|1951
+#139|@StockfishPro-BOT|1950
 #140|@SkyBlaster|1945
 #141|@WindowsI5Bot|1944
 #142|@Stockfish-NNUE|1942
@@ -284,8 +284,8 @@ Rank|Bot|Rating
 #282|@Leela8-Test|1462
 #283|@MQBot|1460
 #284|@stonks_fish|1460
-#285|@Teamleaderbot|1458
-#286|@FataliiBot|1457
+#285|@FataliiBot|1458
+#286|@Teamleaderbot|1458
 #287|@NeilDandekarBot|1453
 #288|@DespacitoBot|1451
 #289|@fishm0ley|1450
@@ -341,9 +341,9 @@ Rank|Bot|Rating
 #339|@DrunkenMasterEngine|1204
 #340|@MrKING74_btw|1191
 #341|@schnecken_bot|1182
-#342|@Demolito_L5|1165
-#343|@BerntBOT|1162
-#344|@naughty-dottie|1158
+#342|@BerntBOT|1162
+#343|@naughty-dottie|1158
+#344|@Demolito_L5|1155
 #345|@Pineapple-Friendly|1151
 #346|@WeakBot|1151
 #347|@St6090|1149
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@Jobabot|1110
 #352|@Dummyette|1107
 #353|@LeElaGuess|1049
-#354|@Demolito_L4|1013
+#354|@Demolito_L4|1021
 #355|@admin-bot|1003
 #356|@TuroBot|997
 #357|@sudobot_chess|991
