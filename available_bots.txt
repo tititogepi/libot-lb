@@ -976,6 +976,7 @@ i3_1115g4
 i3_5005u
 i7_stockfish
 i_-alphazero-_i
+iambotlol
 iamdadda96
 iamstockfish123
 iamthebot1
@@ -2360,4 +2361,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-iambotlol

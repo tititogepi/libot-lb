@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2785
 #13|@VariantsTop|2765
 #14|@Viet-AI|2765
-#15|@RaspFish|2747
+#15|@RaspFish|2749
 #16|@ibep|2733
 #17|@lord-bot|2679
 #18|@LoseisnotAvailablehe|2677
@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@Less_of_a_threat|2357
 #71|@Viet_BOT|2354
 #72|@higuyuu67776|2352
-#73|@OpeningsBot|2336
-#74|@Karpov_bot|2335
+#73|@Karpov_bot|2335
+#74|@OpeningsBot|2335
 #75|@TeamChelsie|2331
 #76|@AI69|2312
 #77|@Kizburb|2307

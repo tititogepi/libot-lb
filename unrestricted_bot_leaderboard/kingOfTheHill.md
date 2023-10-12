@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
 #12|@Coolman2021|2378
-#13|@ToromBot|2360
+#13|@ToromBot|2366
 #14|@Karpov_bot|2359
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
@@ -66,8 +66,8 @@ Rank|Bot|Rating
 #64|@chessbot2880|1961
 #65|@PyChessBot|1957
 #66|@abhisun_bot|1947
-#67|@OpeningsBot|1942
-#68|@Resolved-Bot|1942
+#67|@Resolved-Bot|1942
+#68|@OpeningsBot|1939
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
 #71|@HyperLitikBOT|1930
