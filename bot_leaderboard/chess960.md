@@ -10,10 +10,10 @@ Rank|Bot|Rating
 #8|@faith_bot|2114
 #9|@Nikitosik-ai|2084
 #10|@RaspFish|2054
-#11|@OpeningsBot|1797
+#11|@OpeningsBot|1800
 #12|@Cheng-4|1737
-#13|@FataliiBot|1454
+#13|@FataliiBot|1455
 #14|@Demolito_L6|1260
-#15|@Demolito_L5|1171
-#16|@Demolito_L4|1004
-#17|@pawnrobot|744
+#15|@Demolito_L5|1175
+#16|@Demolito_L4|1002
+#17|@pawnrobot|740

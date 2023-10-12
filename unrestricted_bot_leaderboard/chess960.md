@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@xiang-qi|1809
 #197|@CloudBOT|1807
 #198|@Lalis1|1804
-#199|@OpeningsBot|1797
+#199|@OpeningsBot|1800
 #200|@EvilFreak|1793
 #201|@Storm_Shadow2012|1788
 #202|@mrchessmanager|1784
@@ -284,11 +284,11 @@ Rank|Bot|Rating
 #282|@MQBot|1460
 #283|@stonks_fish|1460
 #284|@Teamleaderbot|1458
-#285|@FataliiBot|1454
+#285|@FataliiBot|1455
 #286|@NeilDandekarBot|1453
 #287|@DespacitoBot|1451
 #288|@fishm0ley|1450
-#289|@Leela8-Test|1449
+#289|@Leela8-Test|1445
 #290|@Chess_ni_BOSS|1437
 #291|@FN_Waldi|1436
 #292|@chicken_farmer|1435
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@DrunkenMasterEngine|1204
 #340|@MrKING74_btw|1191
 #341|@schnecken_bot|1182
-#342|@Demolito_L5|1171
+#342|@Demolito_L5|1175
 #343|@BerntBOT|1162
 #344|@naughty-dottie|1158
 #345|@Pineapple-Friendly|1151
@@ -353,8 +353,8 @@ Rank|Bot|Rating
 #351|@Jobabot|1110
 #352|@Dummyette|1107
 #353|@LeElaGuess|1049
-#354|@Demolito_L4|1004
-#355|@admin-bot|1003
+#354|@admin-bot|1003
+#355|@Demolito_L4|1002
 #356|@TuroBot|997
 #357|@sudobot_chess|991
 #358|@GeraldBOT|988
@@ -368,6 +368,6 @@ Rank|Bot|Rating
 #366|@botTideEval|875
 #367|@Palisade|800
 #368|@WaspBot|798
-#369|@pawnrobot|744
+#369|@pawnrobot|740
 #370|@LeelaWeak|735
 #371|@FelixLeonidovich|730

@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@EmptikVariantsBot|2557
 #9|@FireFishBOT|2547
 #10|@LudwigBOT|2536
-#11|@ToromBot|2529
+#11|@ToromBot|2532
 #12|@Coolman2021|2527
 #13|@EmptikBot|2526
 #14|@Dark_evil_bot|2496
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@Trumpfor2O2O|2103
 #74|@CloudBOT|2073
 #75|@JustDontFlagMe|2048
-#76|@OpeningsBot|2047
+#76|@OpeningsBot|2045
 #77|@Stockfish-MEDIUM|2043
 #78|@Crepusculum|2036
 #79|@bananaaaaaaaaa_test|2031
