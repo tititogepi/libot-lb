@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@YoBot_v2|2187
 #2|@Nikitosikbot|2183
-#3|@ResoluteBot|2183
-#4|@ToromBot|2183
+#3|@ToromBot|2183
+#4|@ResoluteBot|2180
 #5|@Intron014|2167
 #6|@TorBot|2150
 #7|@LolFish-1|2144
@@ -11,10 +11,10 @@ Rank|Bot|Rating
 #9|@Nikitosik-ai|2084
 #10|@RaspFish|2054
 #11|@OpeningsBot|1781
-#12|@Cheng-4|1735
+#12|@Cheng-4|1737
 #13|@Leela8-Test|1476
-#14|@FataliiBot|1461
+#14|@FataliiBot|1459
 #15|@Demolito_L6|1260
-#16|@Demolito_L5|1156
-#17|@Demolito_L4|1016
-#18|@pawnrobot|734
+#16|@Demolito_L5|1163
+#17|@Demolito_L4|1011
+#18|@pawnrobot|732

@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
 #9|@pistol-play|2590
-#10|@RaspFish|2567
-#11|@UltronBot|2556
-#12|@Viet-AI|2556
+#10|@UltronBot|2556
+#11|@Viet-AI|2556
+#12|@RaspFish|2540
 #13|@NimsiluBot|2535
 #14|@BitExtender128|2526
 #15|@ResoluteBot|2525
@@ -51,10 +51,10 @@ Rank|Bot|Rating
 #49|@xiang-qi|2268
 #50|@CocopikachuBOT|2265
 #51|@ElPeonElectrico|2262
-#52|@chesshyperbot|2260
-#53|@Yes-Standerd-Yes|2260
-#54|@Johnsun|2257
-#55|@NikitosikVariantsbot|2247
+#52|@NikitosikVariantsbot|2261
+#53|@chesshyperbot|2260
+#54|@Yes-Standerd-Yes|2260
+#55|@Johnsun|2257
 #56|@YoBot_v2|2243
 #57|@MalanChess|2238
 #58|@TheMatrix2025|2234
