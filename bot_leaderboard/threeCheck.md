@@ -2,5 +2,5 @@ Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2492
 #2|@OpeningsBot|1990
-#3|@DavidsGuterBot|1495
-#4|@pawnrobot|1245
+#3|@DavidsGuterBot|1486
+#4|@pawnrobot|1255

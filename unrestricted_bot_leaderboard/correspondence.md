@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@chicken_farmer|1926
 #128|@RootEngine|1920
 #129|@Simpafteur|1912
-#130|@ZE_ROOK|1905
+#130|@ZE_ROOK|1911
 #131|@ClubAjedrezChileno|1898
 #132|@TrolliumBot|1894
 #133|@Jibbby|1893
@@ -150,9 +150,9 @@ Rank|Bot|Rating
 #148|@natural-disaster|1853
 #149|@Rinestro|1837
 #150|@OurBot|1836
-#151|@yeoldwiz|1835
-#152|@Aromik_s_bot|1831
-#153|@BestJSEngine|1826
+#151|@Aromik_s_bot|1831
+#152|@BestJSEngine|1826
+#153|@yeoldwiz|1826
 #154|@Black_Knight2006|1815
 #155|@Hoplites|1813
 #156|@Sub_Bot|1808
