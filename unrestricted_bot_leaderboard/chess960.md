@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@Vaxim2000|2106
 #51|@EmptikBotEman|2103
 #52|@RETI_BOT|2103
-#53|@faith_bot|2102
+#53|@faith_bot|2101
 #54|@Kizbuurb|2100
 #55|@lol7241Bot|2100
 #56|@EvenMatchup|2099
@@ -198,7 +198,7 @@ Rank|Bot|Rating
 #196|@xiang-qi|1809
 #197|@CloudBOT|1807
 #198|@Lalis1|1804
-#199|@OpeningsBot|1798
+#199|@OpeningsBot|1794
 #200|@EvilFreak|1793
 #201|@Storm_Shadow2012|1788
 #202|@mrchessmanager|1784
@@ -217,8 +217,8 @@ Rank|Bot|Rating
 #215|@MikhailTal_AI|1750
 #216|@Ch4rl3s|1748
 #217|@DxrkOnBot|1746
-#218|@spaceisbot|1744
-#219|@Cheng-4|1739
+#218|@Cheng-4|1744
+#219|@spaceisbot|1744
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
 #222|@Viridithas|1728
@@ -342,8 +342,8 @@ Rank|Bot|Rating
 #340|@MrKING74_btw|1191
 #341|@schnecken_bot|1182
 #342|@BerntBOT|1162
-#343|@naughty-dottie|1158
-#344|@Demolito_L5|1157
+#343|@Demolito_L5|1160
+#344|@naughty-dottie|1158
 #345|@Pineapple-Friendly|1151
 #346|@WeakBot|1151
 #347|@St6090|1149
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@Jobabot|1110
 #352|@Dummyette|1107
 #353|@LeElaGuess|1049
-#354|@Demolito_L4|1015
+#354|@Demolito_L4|1012
 #355|@admin-bot|1003
 #356|@TuroBot|997
 #357|@sudobot_chess|991
