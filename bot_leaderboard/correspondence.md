@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ZE_ROOK|1922
-#2|@Jibbby|1883
+#1|@ZE_ROOK|1921
+#2|@Jibbby|1885
 #3|@yeoldwiz|1820
