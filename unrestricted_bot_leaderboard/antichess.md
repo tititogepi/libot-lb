@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@Dark_evil_bot|2525
 #40|@Bot_AOOP11|2521
 #41|@HyperLitikBOT|2511
-#42|@Nakshatra3|2500
+#42|@Nakshatra3|2503
 #43|@pistol-play|2498
 #44|@MrBOThacker|2477
 #45|@hauptschuleBOT|2475
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@Viet_BOT|2354
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
-#74|@OpeningsBot|2335
+#74|@OpeningsBot|2332
 #75|@TeamChelsie|2331
 #76|@AI69|2312
 #77|@Kizburb|2307

@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
-#3|@ToromBot|2765
+#3|@ToromBot|2768
 #4|@Coolman2021|2757
 #5|@FireFishBOT|2726
 #6|@Fairy_Belzedar|2712
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@ResoluteBot|2155
 #26|@TheMatrix2025|2146
 #27|@Karpov_bot|2145
-#28|@ttBOT|2145
+#28|@ttBOT|2143
 #29|@Bobby_Fischer_BOT|2136
 #30|@jasans_bot|2116
 #31|@xiang-qi|2115
@@ -77,8 +77,8 @@ Rank|Bot|Rating
 #75|@Epiano_Bot|1662
 #76|@VariantsTop|1644
 #77|@The_dragon_bot|1625
-#78|@OpeningsBot|1624
-#79|@Cowboy_Time|1622
+#78|@Cowboy_Time|1622
+#79|@OpeningsBot|1622
 #80|@ElFinsBoT|1617
 #81|@Lila-Stockfish|1616
 #82|@Stockfish-MEDIUM|1604
