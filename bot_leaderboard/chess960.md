@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@OpeningsBot|1781
 #12|@Cheng-4|1739
 #13|@Leela8-Test|1498
-#14|@FataliiBot|1452
+#14|@FataliiBot|1453
 #15|@Demolito_L6|1260
-#16|@Demolito_L5|1163
-#17|@Demolito_L4|1010
+#16|@Demolito_L5|1153
+#17|@Demolito_L4|1018
 #18|@pawnrobot|732
