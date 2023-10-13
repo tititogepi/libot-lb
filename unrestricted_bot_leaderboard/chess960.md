@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@YoBot_v2|2187
 #16|@TheFreshman1902|2186
 #17|@Nikitosikbot|2183
-#18|@ToromBot|2183
-#19|@Kizburb|2182
-#20|@ResoluteBot|2180
+#18|@ResoluteBot|2183
+#19|@ToromBot|2183
+#20|@Kizburb|2182
 #21|@VariantsBot|2180
 #22|@Bot_McBotface|2172
 #23|@lord-bot|2171
@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@lol7241Bot|2100
 #55|@EvenMatchup|2099
 #56|@Vinh_VariantsBot|2098
-#57|@faith_bot|2097
-#58|@ChessBot2156|2095
+#57|@ChessBot2156|2095
+#58|@faith_bot|2094
 #59|@Shineshou90_BOT|2093
 #60|@UnDisstoppableBot|2090
 #61|@Lila-Stockfish|2089
@@ -72,9 +72,9 @@ Rank|Bot|Rating
 #70|@chessfyBOT|2060
 #71|@Viet-AI|2060
 #72|@AI-Electro|2059
-#73|@Botyuliirma|2054
-#74|@Hien-Vinh_Bot2|2054
-#75|@RaspFish|2054
+#73|@RaspFish|2059
+#74|@Botyuliirma|2054
+#75|@Hien-Vinh_Bot2|2054
 #76|@Alehkine_cat|2053
 #77|@MastacticaTeoriabot|2053
 #78|@allvariants|2047
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@TasmanRevenge|1971
 #128|@Vetinari_Computer|1970
 #129|@NormalBulletBot|1967
-#130|@MphoBot|1965
+#130|@MphoBot|1966
 #131|@ararimbelami|1964
 #132|@Dean_Summer_Bot|1960
 #133|@Rishab_Bindal|1960
@@ -201,8 +201,8 @@ Rank|Bot|Rating
 #199|@EvilFreak|1793
 #200|@Storm_Shadow2012|1788
 #201|@mrchessmanager|1784
-#202|@JPSBOT|1781
-#203|@OpeningsBot|1781
+#202|@OpeningsBot|1783
+#203|@JPSBOT|1781
 #204|@Zer0_Tw0|1778
 #205|@Stockfish-MEDIUM|1777
 #206|@Fairy_Belzedar|1767
@@ -272,9 +272,9 @@ Rank|Bot|Rating
 #270|@david9426_bot|1517
 #271|@LioCT|1516
 #272|@YourSparringBot|1503
-#273|@Leela8-Test|1498
-#274|@are_bots_good|1496
-#275|@dolegibot|1496
+#273|@are_bots_good|1496
+#274|@dolegibot|1496
+#275|@Leela8-Test|1495
 #276|@feeks99|1479
 #277|@devsdaBot|1477
 #278|@TFRChessClub|1477
@@ -285,7 +285,7 @@ Rank|Bot|Rating
 #283|@MQBot|1460
 #284|@stonks_fish|1460
 #285|@Teamleaderbot|1458
-#286|@FataliiBot|1453
+#286|@FataliiBot|1454
 #287|@NeilDandekarBot|1453
 #288|@DespacitoBot|1451
 #289|@fishm0ley|1450
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@schnecken_bot|1182
 #342|@BerntBOT|1162
 #343|@naughty-dottie|1158
-#344|@Demolito_L5|1153
+#344|@Demolito_L5|1151
 #345|@Pineapple-Friendly|1151
 #346|@WeakBot|1151
 #347|@St6090|1149
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@Jobabot|1110
 #352|@Dummyette|1107
 #353|@LeElaGuess|1049
-#354|@Demolito_L4|1018
+#354|@Demolito_L4|1019
 #355|@admin-bot|1003
 #356|@TuroBot|997
 #357|@sudobot_chess|991
@@ -369,5 +369,5 @@ Rank|Bot|Rating
 #367|@Palisade|800
 #368|@WaspBot|798
 #369|@LeelaWeak|735
-#370|@pawnrobot|732
-#371|@FelixLeonidovich|730
+#370|@FelixLeonidovich|730
+#371|@pawnrobot|730
