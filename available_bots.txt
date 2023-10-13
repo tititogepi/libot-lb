@@ -1433,6 +1433,7 @@ mtaim
 mtalofficial
 multichessmcts
 multimodal-int
+munfish
 mustafayilmazbot
 mustaley
 mxnet-gamemaster
@@ -2361,4 +2362,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-munfish
