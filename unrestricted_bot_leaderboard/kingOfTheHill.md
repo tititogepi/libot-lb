@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
-#75|@MistakeBOT|1886
-#76|@OpeningsBot|1884
+#75|@OpeningsBot|1887
+#76|@MistakeBOT|1886
 #77|@EagleEye2021|1880
 #78|@xiang-qi|1868
 #79|@relevantproblem|1857
@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@hyperchessbot1|1493
 #114|@NimsiluBot|1493
 #115|@MagnusCarlsen1507|1492
-#116|@DavidsGuterBot|1491
-#117|@SugarAndSpice|1489
+#116|@SugarAndSpice|1489
+#117|@DavidsGuterBot|1488
 #118|@rtx3080tibot|1487
 #119|@SUMAL_BRO|1476
 #120|@Less_of_a_threat|1470
