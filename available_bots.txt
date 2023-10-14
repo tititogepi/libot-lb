@@ -558,6 +558,7 @@ currenter_ai
 cva728_bot_1
 cxrmt
 czech-bot
+czech-bot-turbo
 czesc-bot
 d2d4go
 dabestfarmer
@@ -1256,6 +1257,7 @@ lightspeed_bot
 likeawizard-bot
 lila-stockfish
 lildoctorjank
+lili-ai
 liligirlplay
 linklake1532
 linuxguru_bot0
@@ -2362,5 +2364,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lili-ai
-czech-bot-turbo
+kazakhfirstbot

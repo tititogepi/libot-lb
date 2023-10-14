@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@LeelaChessTest|2208
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
-#13|@YoBot_v2|2199
-#14|@Corvus-1|2197
+#13|@Corvus-1|2197
+#14|@YoBot_v2|2197
 #15|@hyperchessbot1|2189
-#16|@TheFreshman1902|2186
+#16|@TheFreshman1902|2184
 #17|@Kizburb|2182
 #18|@ToromBot|2181
 #19|@ResoluteBot|2180
@@ -52,11 +52,11 @@ Rank|Bot|Rating
 #50|@Vaxim2000|2106
 #51|@EmptikBotEman|2103
 #52|@RETI_BOT|2103
-#53|@Kizbuurb|2100
-#54|@lol7241Bot|2100
-#55|@EvenMatchup|2099
-#56|@Vinh_VariantsBot|2098
-#57|@faith_bot|2096
+#53|@faith_bot|2100
+#54|@Kizbuurb|2100
+#55|@lol7241Bot|2100
+#56|@EvenMatchup|2099
+#57|@Vinh_VariantsBot|2098
 #58|@ChessBot2156|2095
 #59|@Shineshou90_BOT|2093
 #60|@UnDisstoppableBot|2090
@@ -204,8 +204,8 @@ Rank|Bot|Rating
 #202|@JPSBOT|1781
 #203|@Zer0_Tw0|1778
 #204|@Stockfish-MEDIUM|1777
-#205|@OpeningsBot|1771
-#206|@Fairy_Belzedar|1767
+#205|@Fairy_Belzedar|1767
+#206|@OpeningsBot|1762
 #207|@PyChessBot|1762
 #208|@TrashBot|1761
 #209|@relevantproblem|1760
@@ -254,9 +254,9 @@ Rank|Bot|Rating
 #252|@HotLeela|1589
 #253|@M07002|1589
 #254|@EftalBot|1587
-#255|@The-Fastest-Bot|1582
-#256|@lightspeed_bot|1571
-#257|@Leela8-Test|1570
+#255|@Leela8-Test|1586
+#256|@The-Fastest-Bot|1582
+#257|@lightspeed_bot|1571
 #258|@XXXTryandTryXXX|1569
 #259|@itsafakeusername2k1|1562
 #260|@jumbot|1545
@@ -269,7 +269,7 @@ Rank|Bot|Rating
 #267|@beststockfish16|1532
 #268|@SimplerEval|1532
 #269|@XiDM|1525
-#270|@clueless-bot|1524
+#270|@clueless-bot|1523
 #271|@david9426_bot|1517
 #272|@LioCT|1516
 #273|@YourSparringBot|1503
@@ -294,7 +294,7 @@ Rank|Bot|Rating
 #292|@NeuralLeela|1431
 #293|@LilDoctorJank|1430
 #294|@LeelaLevel5|1427
-#295|@FataliiBot|1425
+#295|@FataliiBot|1422
 #296|@TheSystem_Bot|1416
 #297|@jasans_bot|1396
 #298|@NienishiEngine|1388
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@Jobabot|1110
 #352|@Dummyette|1107
 #353|@LeElaGuess|1049
-#354|@Demolito_L4|1005
+#354|@Demolito_L4|1007
 #355|@admin-bot|1003
 #356|@TuroBot|997
 #357|@sudobot_chess|991
@@ -370,4 +370,4 @@ Rank|Bot|Rating
 #368|@WaspBot|798
 #369|@LeelaWeak|735
 #370|@FelixLeonidovich|730
-#371|@pawnrobot|719
+#371|@pawnrobot|717
