@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@relevantproblem|1667
 #75|@Epiano_Bot|1662
 #76|@VariantsTop|1644
-#77|@OpeningsBot|1635
+#77|@OpeningsBot|1636
 #78|@The_dragon_bot|1625
 #79|@Cowboy_Time|1622
 #80|@ElFinsBoT|1617
@@ -131,6 +131,6 @@ Rank|Bot|Rating
 #129|@Simpafteur|1188
 #130|@BetaOneBot|1166
 #131|@ZX-Chess|1145
-#132|@pawnrobot|1143
+#132|@pawnrobot|1141
 #133|@alvin-chess-bot|1091
 #134|@GuineaBot2|851

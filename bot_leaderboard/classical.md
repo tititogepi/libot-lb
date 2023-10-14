@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Occhessadvanced|2644
+#1|@Occhessadvanced|2648
 #2|@Intron014|2635
 #3|@ReinforcementTrial|2635
 #4|@M-Z_Bot|2633
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@RaspFish|2588
 #12|@ArasanX|2587
 #13|@Mr_Chess_Berserk|2580
-#14|@faith_bot|2559
+#14|@faith_bot|2554
 #15|@JuroJ|2542
 #16|@StockFish16_2023|2538
 #17|@ELO_1500|2441
@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@SaxtonEngine|2315
 #22|@pawn_git|2309
 #23|@Cheng-4|2275
-#24|@Weiawaga|2267
+#24|@Weiawaga|2269
 #25|@Phalanx-XXV|2146
 #26|@TuksuBot|2133
 #27|@Pseudo-0|2132
@@ -32,14 +32,14 @@ Rank|Bot|Rating
 #30|@Humaia-Strong|2039
 #31|@bekbot|2037
 #32|@simpleEval|2028
-#33|@Boris-Trapsky|2018
+#33|@Boris-Trapsky|2017
 #34|@HistoryExplorer|1997
 #35|@eubos|1990
 #36|@honzovy-sachy-2|1988
 #37|@Lynx_BOT|1978
-#38|@jangine|1948
+#38|@jangine|1958
 #39|@MaxtheDog|1927
-#40|@zeekat|1920
+#40|@zeekat|1915
 #41|@GarboBot|1905
 #42|@likeawizard-bot|1888
 #43|@LeelaRogue|1865
@@ -56,9 +56,9 @@ Rank|Bot|Rating
 #54|@maia5|1565
 #55|@sargon-3ply|1553
 #56|@sargon-2ply|1536
-#57|@maia1|1488
-#58|@Humaia|1485
+#57|@Humaia|1485
+#58|@maia1|1482
 #59|@turochamp-1ply|1364
-#60|@sargon-1ply|1329
+#60|@sargon-1ply|1327
 #61|@CHoMPBoT|1111
 #62|@G0thamB0t|783
