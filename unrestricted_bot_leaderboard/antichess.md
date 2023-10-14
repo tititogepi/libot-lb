@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2785
 #13|@VariantsTop|2765
 #14|@Viet-AI|2765
-#15|@RaspFish|2757
+#15|@RaspFish|2759
 #16|@ibep|2733
 #17|@lord-bot|2679
 #18|@LoseisnotAvailablehe|2677
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
-#75|@OpeningsBot|2323
+#75|@OpeningsBot|2322
 #76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
 #104|@Lucror|2178
-#105|@anti-bot|2155
+#105|@anti-bot|2156
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
 #108|@AnUtterlyKarBot|2134

@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
 #75|@MistakeBOT|1886
-#76|@OpeningsBot|1883
+#76|@OpeningsBot|1884
 #77|@EagleEye2021|1880
 #78|@xiang-qi|1868
 #79|@relevantproblem|1857
@@ -112,9 +112,9 @@ Rank|Bot|Rating
 #110|@Light_To_The_Rescue|1523
 #111|@Z-Move|1495
 #112|@TFRChessClub|1494
-#113|@DavidsGuterBot|1493
-#114|@hyperchessbot1|1493
-#115|@NimsiluBot|1493
+#113|@hyperchessbot1|1493
+#114|@NimsiluBot|1493
+#115|@DavidsGuterBot|1492
 #116|@MagnusCarlsen1507|1492
 #117|@SugarAndSpice|1489
 #118|@rtx3080tibot|1487
