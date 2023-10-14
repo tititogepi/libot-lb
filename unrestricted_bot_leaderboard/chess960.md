@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
 #13|@Corvus-1|2197
-#14|@YoBot_v2|2197
+#14|@TheFreshman1902|2194
 #15|@hyperchessbot1|2189
-#16|@TheFreshman1902|2184
+#16|@YoBot_v2|2185
 #17|@Kizburb|2182
 #18|@ToromBot|2181
 #19|@ResoluteBot|2180
@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@KhanhStockfish|2074
 #67|@mrohBOT|2074
 #68|@Mega_BOT|2066
-#69|@Karpov_bot|2063
-#70|@chessfyBOT|2060
-#71|@RaspFish|2060
+#69|@RaspFish|2064
+#70|@Karpov_bot|2063
+#71|@chessfyBOT|2060
 #72|@Viet-AI|2060
 #73|@AI-Electro|2059
 #74|@Botyuliirma|2054
@@ -250,11 +250,11 @@ Rank|Bot|Rating
 #248|@YoBot_v1|1610
 #249|@NeuralAbyss|1608
 #250|@STockfishdestroyBot|1601
-#251|@Lucror|1595
-#252|@HotLeela|1589
-#253|@M07002|1589
-#254|@EftalBot|1587
-#255|@Leela8-Test|1586
+#251|@Leela8-Test|1598
+#252|@Lucror|1595
+#253|@HotLeela|1589
+#254|@M07002|1589
+#255|@EftalBot|1587
 #256|@The-Fastest-Bot|1582
 #257|@lightspeed_bot|1571
 #258|@XXXTryandTryXXX|1569
@@ -269,7 +269,7 @@ Rank|Bot|Rating
 #267|@beststockfish16|1532
 #268|@SimplerEval|1532
 #269|@XiDM|1525
-#270|@clueless-bot|1523
+#270|@clueless-bot|1521
 #271|@david9426_bot|1517
 #272|@LioCT|1516
 #273|@YourSparringBot|1503
@@ -294,8 +294,8 @@ Rank|Bot|Rating
 #292|@NeuralLeela|1431
 #293|@LilDoctorJank|1430
 #294|@LeelaLevel5|1427
-#295|@FataliiBot|1422
-#296|@TheSystem_Bot|1416
+#295|@TheSystem_Bot|1416
+#296|@FataliiBot|1415
 #297|@jasans_bot|1396
 #298|@NienishiEngine|1388
 #299|@All_Except_Chess960|1387
@@ -327,7 +327,7 @@ Rank|Bot|Rating
 #325|@AEBROADUSBOTTER|1279
 #326|@yolo_eldiablo15|1274
 #327|@ImpossibleWin|1272
-#328|@Demolito_L6|1265
+#328|@Demolito_L6|1266
 #329|@entebot|1261
 #330|@azdad|1258
 #331|@Itzmoi6g19|1258
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@Jobabot|1110
 #352|@Dummyette|1107
 #353|@LeElaGuess|1049
-#354|@Demolito_L4|1007
+#354|@Demolito_L4|1008
 #355|@admin-bot|1003
 #356|@TuroBot|997
 #357|@sudobot_chess|991
@@ -370,4 +370,4 @@ Rank|Bot|Rating
 #368|@WaspBot|798
 #369|@LeelaWeak|735
 #370|@FelixLeonidovich|730
-#371|@pawnrobot|717
+#371|@pawnrobot|713

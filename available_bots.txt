@@ -1098,6 +1098,7 @@ kasparovbot
 kasparovkarpov_bot
 kathhhh
 kayrakropro_bot
+kazakhfirstbot
 kazumibot
 keks_bot
 kelpbot
@@ -2364,4 +2365,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-kazakhfirstbot
+thera_engine
+lc0-bot
