@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@Dark_evil_bot|2525
 #40|@Bot_AOOP11|2521
 #41|@HyperLitikBOT|2511
-#42|@pistol-play|2498
-#43|@Nakshatra3|2494
+#42|@Nakshatra3|2501
+#43|@pistol-play|2498
 #44|@MrBOThacker|2477
 #45|@hauptschuleBOT|2475
 #46|@Alehkine_cat|2474
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@EmptikBot247|2422
 #57|@xiang-qi|2422
 #58|@faith_bot|2420
-#59|@NilatacBot|2414
-#60|@DrSmartBugs|2412
+#59|@DrSmartBugs|2412
+#60|@NilatacBot|2411
 #61|@AttackingOrDefending|2409
 #62|@NikitosikVariantsbot|2409
 #63|@BitExtender128|2403
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
-#75|@OpeningsBot|2325
+#75|@OpeningsBot|2328
 #76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@AntiChessBot|2142
 #108|@AnUtterlyKarBot|2134
 #109|@XXIstCentury|2131
-#110|@CatNail|2111
+#110|@CatNail|2108
 #111|@PyChessBot|2102
 #112|@TurkiyeHogwartsBOT|2099
 #113|@ZamuChess|2049

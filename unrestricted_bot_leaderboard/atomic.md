@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@pistol-play|2590
 #10|@UltronBot|2556
 #11|@Viet-AI|2556
-#12|@RaspFish|2540
+#12|@RaspFish|2541
 #13|@NimsiluBot|2535
 #14|@BitExtender128|2526
 #15|@ResoluteBot|2525
@@ -143,8 +143,8 @@ Rank|Bot|Rating
 #141|@AX2XB2|1893
 #142|@TheAwesomeBot|1891
 #143|@SimplerEval|1881
-#144|@kostasvl-bot|1877
-#145|@OpeningsBot|1877
+#144|@OpeningsBot|1878
+#145|@kostasvl-bot|1877
 #146|@B0T5_RU13|1871
 #147|@RobotTigerSlav|1871
 #148|@ItsHyperBot|1855
@@ -233,7 +233,7 @@ Rank|Bot|Rating
 #231|@UnDisstoppableBot|1498
 #232|@Hedgehog_BOT|1497
 #233|@Pikachu_270|1497
-#234|@pawnrobot|1489
+#234|@pawnrobot|1488
 #235|@Iwantedtoplaychess|1486
 #236|@Chess_Pro9600|1485
 #237|@MeezKool|1485
