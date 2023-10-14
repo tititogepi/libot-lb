@@ -129,12 +129,12 @@ Rank|Bot|Rating
 #127|@Virutor|1934
 #128|@chicken_farmer|1926
 #129|@RootEngine|1920
-#130|@ZE_ROOK|1920
+#130|@ZE_ROOK|1919
 #131|@Simpafteur|1912
 #132|@ClubAjedrezChileno|1898
 #133|@TrolliumBot|1894
 #134|@honzovy-sachy-2|1892
-#135|@Jibbby|1886
+#135|@Jibbby|1887
 #136|@XXXTryandTryXXX|1884
 #137|@KingsGamBot|1882
 #138|@lol7241Bot|1878

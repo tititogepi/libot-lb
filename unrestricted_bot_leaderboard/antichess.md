@@ -55,10 +55,10 @@ Rank|Bot|Rating
 #53|@Bobby_Fischer_BOT|2435
 #54|@Nobody11892|2435
 #55|@Hagfish|2432
-#56|@NilatacBot|2426
-#57|@EmptikBot247|2422
-#58|@xiang-qi|2422
-#59|@faith_bot|2420
+#56|@EmptikBot247|2422
+#57|@xiang-qi|2422
+#58|@faith_bot|2420
+#59|@NilatacBot|2418
 #60|@DrSmartBugs|2412
 #61|@AttackingOrDefending|2409
 #62|@NikitosikVariantsbot|2409
@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
-#75|@AI69|2312
-#76|@OpeningsBot|2308
+#75|@OpeningsBot|2318
+#76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
 #79|@abhisun_bot|2305
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2092
+#112|@CatNail|2089
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019

@@ -15,8 +15,8 @@ Rank|Bot|Rating
 #13|@Corvus-1|2197
 #14|@TheFreshman1902|2194
 #15|@hyperchessbot1|2189
-#16|@YoBot_v2|2185
-#17|@Kizburb|2182
+#16|@Kizburb|2182
+#17|@YoBot_v2|2182
 #18|@ToromBot|2181
 #19|@ResoluteBot|2180
 #20|@VariantsBot|2180
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@Vaxim2000|2106
 #51|@EmptikBotEman|2103
 #52|@RETI_BOT|2103
-#53|@faith_bot|2100
+#53|@faith_bot|2101
 #54|@Kizbuurb|2100
 #55|@lol7241Bot|2100
 #56|@EvenMatchup|2099
@@ -67,8 +67,8 @@ Rank|Bot|Rating
 #65|@EmptikBotLc0|2079
 #66|@KhanhStockfish|2074
 #67|@mrohBOT|2074
-#68|@Mega_BOT|2066
-#69|@RaspFish|2064
+#68|@RaspFish|2067
+#69|@Mega_BOT|2066
 #70|@Karpov_bot|2063
 #71|@chessfyBOT|2060
 #72|@Viet-AI|2060
@@ -269,7 +269,7 @@ Rank|Bot|Rating
 #267|@beststockfish16|1532
 #268|@SimplerEval|1532
 #269|@XiDM|1525
-#270|@clueless-bot|1521
+#270|@clueless-bot|1522
 #271|@david9426_bot|1517
 #272|@LioCT|1516
 #273|@YourSparringBot|1503
@@ -294,8 +294,8 @@ Rank|Bot|Rating
 #292|@NeuralLeela|1431
 #293|@LilDoctorJank|1430
 #294|@LeelaLevel5|1427
-#295|@TheSystem_Bot|1416
-#296|@FataliiBot|1415
+#295|@FataliiBot|1420
+#296|@TheSystem_Bot|1416
 #297|@jasans_bot|1396
 #298|@NienishiEngine|1388
 #299|@All_Except_Chess960|1387
@@ -327,8 +327,8 @@ Rank|Bot|Rating
 #325|@AEBROADUSBOTTER|1279
 #326|@yolo_eldiablo15|1274
 #327|@ImpossibleWin|1272
-#328|@Demolito_L6|1266
-#329|@entebot|1261
+#328|@entebot|1261
+#329|@Demolito_L6|1260
 #330|@azdad|1258
 #331|@Itzmoi6g19|1258
 #332|@SalmonChess9|1258

@@ -1176,6 +1176,7 @@ lazybotjr
 lbegui12_bot
 lbot007
 lc0
+lc0-bot
 lc0_bongclown
 lc0_bs
 lc0_chess
@@ -2104,6 +2105,7 @@ theoden8_uci
 theomegaone
 thepepsiisgoingcrazy
 thepinecone1
+thera_engine
 thesystem_bot
 thethanosbot
 theultimatechzb
@@ -2365,5 +2367,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-thera_engine
-lc0-bot
