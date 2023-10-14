@@ -8,13 +8,13 @@ Rank|Bot|Rating
 #6|@TorBot|2150
 #7|@VariantsTop|2147
 #8|@LolFish-1|2144
-#9|@faith_bot|2094
+#9|@faith_bot|2096
 #10|@RaspFish|2060
-#11|@OpeningsBot|1772
+#11|@OpeningsBot|1771
 #12|@Cheng-4|1744
 #13|@Leela8-Test|1570
 #14|@FataliiBot|1425
 #15|@Demolito_L6|1265
 #16|@Demolito_L5|1154
-#17|@Demolito_L4|1003
-#18|@pawnrobot|721
+#17|@Demolito_L4|1005
+#18|@pawnrobot|719

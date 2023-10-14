@@ -2362,3 +2362,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+lili-ai
+czech-bot-turbo
