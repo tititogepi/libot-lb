@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2820
+#1|@fibonachi|2821
 #2|@H-Zero|2650
 #3|@Nikitosik-ai|2617
 #4|@Viet-BOT|2603
@@ -128,12 +128,12 @@ Rank|Bot|Rating
 #126|@Virutor|1934
 #127|@chicken_farmer|1926
 #128|@RootEngine|1920
-#129|@ZE_ROOK|1913
+#129|@ZE_ROOK|1920
 #130|@Simpafteur|1912
 #131|@ClubAjedrezChileno|1898
-#132|@Jibbby|1896
-#133|@TrolliumBot|1894
-#134|@honzovy-sachy-2|1892
+#132|@TrolliumBot|1894
+#133|@honzovy-sachy-2|1892
+#134|@Jibbby|1886
 #135|@XXXTryandTryXXX|1884
 #136|@KingsGamBot|1882
 #137|@lol7241Bot|1878
