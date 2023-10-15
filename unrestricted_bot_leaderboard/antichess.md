@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@Leelabotmaster|2538
 #39|@Dark_evil_bot|2525
 #40|@Bot_AOOP11|2521
-#41|@HyperLitikBOT|2511
-#42|@Nakshatra3|2509
+#41|@Nakshatra3|2512
+#42|@HyperLitikBOT|2511
 #43|@pistol-play|2498
 #44|@MrBOThacker|2477
 #45|@hauptschuleBOT|2475
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@Bobby_Fischer_BOT|2435
 #54|@Nobody11892|2435
 #55|@Hagfish|2432
-#56|@NilatacBot|2430
+#56|@NilatacBot|2431
 #57|@EmptikBot247|2422
 #58|@xiang-qi|2422
 #59|@faith_bot|2420
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2295
+#82|@OpeningsBot|2293
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
