@@ -645,6 +645,7 @@ duchessai
 dumb_fish
 dummyette
 dundu
+duythong1402
 dx4iot_chessbot
 dxrkonbot
 dynamite3000
@@ -2368,4 +2369,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-duythong1402

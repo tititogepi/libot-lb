@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
-#24|@RaspFish|2261
+#24|@RaspFish|2263
 #25|@YoBot_v2|2242
 #26|@ResoluteBot|2233
 #27|@Magnus-BOT|2224
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@NimsiluBot|1493
 #115|@MagnusCarlsen1507|1492
 #116|@SugarAndSpice|1489
-#117|@DavidsGuterBot|1487
-#118|@rtx3080tibot|1487
+#117|@rtx3080tibot|1487
+#118|@DavidsGuterBot|1486
 #119|@SUMAL_BRO|1476
 #120|@Less_of_a_threat|1470
 #121|@Bbao23-chess|1469
