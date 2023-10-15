@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@Bobby_Fischer_BOT|2435
 #54|@Nobody11892|2435
 #55|@Hagfish|2432
-#56|@NilatacBot|2431
+#56|@NilatacBot|2423
 #57|@EmptikBot247|2422
 #58|@xiang-qi|2422
 #59|@faith_bot|2420
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2293
+#82|@OpeningsBot|2301
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
