@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@JeffIO|2113
 #45|@Dragon_1906|2111
 #46|@ibep|2111
-#47|@faith_bot|2108
+#47|@faith_bot|2109
 #48|@Galaxy_Guardian|2107
 #49|@BetaOneBot|2106
 #50|@ToromLc0|2106
@@ -264,10 +264,10 @@ Rank|Bot|Rating
 #262|@Just-a-random-bot|1541
 #263|@magnusglad_bot|1538
 #264|@CocopikachuBOT|1535
-#265|@Variantenkoning|1534
-#266|@anarchychess-bot|1532
-#267|@beststockfish16|1532
-#268|@clueless-bot|1532
+#265|@clueless-bot|1534
+#266|@Variantenkoning|1534
+#267|@anarchychess-bot|1532
+#268|@beststockfish16|1532
 #269|@SimplerEval|1532
 #270|@XiDM|1525
 #271|@david9426_bot|1517
@@ -294,7 +294,7 @@ Rank|Bot|Rating
 #292|@NeuralLeela|1431
 #293|@LilDoctorJank|1430
 #294|@LeelaLevel5|1427
-#295|@FataliiBot|1418
+#295|@FataliiBot|1425
 #296|@TheSystem_Bot|1416
 #297|@jasans_bot|1396
 #298|@NienishiEngine|1388
@@ -327,7 +327,7 @@ Rank|Bot|Rating
 #325|@AEBROADUSBOTTER|1279
 #326|@yolo_eldiablo15|1274
 #327|@ImpossibleWin|1272
-#328|@Demolito_L6|1268
+#328|@Demolito_L6|1263
 #329|@entebot|1261
 #330|@azdad|1258
 #331|@Itzmoi6g19|1258
@@ -355,8 +355,8 @@ Rank|Bot|Rating
 #353|@LeElaGuess|1049
 #354|@admin-bot|1003
 #355|@TuroBot|997
-#356|@Demolito_L4|993
-#357|@sudobot_chess|991
+#356|@sudobot_chess|991
+#357|@Demolito_L4|989
 #358|@GeraldBOT|988
 #359|@Bot2000|983
 #360|@BogoBot|974
