@@ -229,6 +229,7 @@ bigbrainen
 bigbrainernn
 bigearschess
 binarybrain
+bingo202
 bionic_x
 bishop-bot
 bitbybyte
@@ -2367,4 +2368,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bingo202
+duythong1402
