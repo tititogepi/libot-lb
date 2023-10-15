@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@SimplerEval|1881
 #144|@kostasvl-bot|1877
 #145|@B0T5_RU13|1871
-#146|@RobotTigerSlav|1871
-#147|@OpeningsBot|1870
+#146|@OpeningsBot|1871
+#147|@RobotTigerSlav|1871
 #148|@ItsHyperBot|1855
 #149|@the_checkmating_bot|1855
 #150|@StrongChessEngine|1852
@@ -236,7 +236,7 @@ Rank|Bot|Rating
 #234|@Iwantedtoplaychess|1486
 #235|@Chess_Pro9600|1485
 #236|@MeezKool|1485
-#237|@pawnrobot|1478
+#237|@pawnrobot|1477
 #238|@RSVMentor|1476
 #239|@TheWeakestBot|1476
 #240|@thibot|1470

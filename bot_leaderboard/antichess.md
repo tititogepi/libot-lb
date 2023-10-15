@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@RaspFish|2759
 #2|@Nakshatra3|2512
 #3|@NilatacBot|2418
-#4|@OpeningsBot|2318
-#5|@anti-bot|2146
+#4|@OpeningsBot|2322
+#5|@anti-bot|2142
 #6|@CatNail|2089
-#7|@pawnrobot|1899
+#7|@pawnrobot|1898
