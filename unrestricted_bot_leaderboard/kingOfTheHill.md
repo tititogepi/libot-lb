@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
 #12|@Coolman2021|2378
-#13|@ToromBot|2372
+#13|@ToromBot|2374
 #14|@Karpov_bot|2359
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
-#75|@OpeningsBot|1889
+#75|@OpeningsBot|1888
 #76|@MistakeBOT|1886
 #77|@EagleEye2021|1880
 #78|@xiang-qi|1868
