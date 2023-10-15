@@ -128,7 +128,7 @@ Rank|Bot|Rating
 #126|@TheLegendaryKnight|1935
 #127|@Virutor|1934
 #128|@chicken_farmer|1926
-#129|@ZE_ROOK|1926
+#129|@ZE_ROOK|1925
 #130|@RootEngine|1920
 #131|@Simpafteur|1912
 #132|@ClubAjedrezChileno|1898
@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@honzovy-sachy-2|1892
 #135|@XXXTryandTryXXX|1884
 #136|@KingsGamBot|1882
-#137|@Jibbby|1879
+#137|@Jibbby|1880
 #138|@lol7241Bot|1878
 #139|@PiratesBot|1876
 #140|@Yukoo-BOT|1876
