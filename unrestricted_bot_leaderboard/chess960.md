@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@JeffIO|2113
 #45|@Dragon_1906|2111
 #46|@ibep|2111
-#47|@faith_bot|2109
+#47|@faith_bot|2108
 #48|@Galaxy_Guardian|2107
 #49|@BetaOneBot|2106
 #50|@ToromLc0|2106
@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@EmptikBotLc0|2079
 #66|@KhanhStockfish|2074
 #67|@mrohBOT|2074
-#68|@RaspFish|2070
+#68|@RaspFish|2071
 #69|@Mega_BOT|2066
 #70|@Karpov_bot|2063
 #71|@chessfyBOT|2060
@@ -327,7 +327,7 @@ Rank|Bot|Rating
 #325|@AEBROADUSBOTTER|1279
 #326|@yolo_eldiablo15|1274
 #327|@ImpossibleWin|1272
-#328|@Demolito_L6|1263
+#328|@Demolito_L6|1265
 #329|@entebot|1261
 #330|@azdad|1258
 #331|@Itzmoi6g19|1258
@@ -356,8 +356,8 @@ Rank|Bot|Rating
 #354|@admin-bot|1003
 #355|@TuroBot|997
 #356|@sudobot_chess|991
-#357|@Demolito_L4|989
-#358|@GeraldBOT|988
+#357|@GeraldBOT|988
+#358|@Demolito_L4|987
 #359|@Bot2000|983
 #360|@BogoBot|974
 #361|@ZokBot|969
