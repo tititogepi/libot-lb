@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@TheFreshman1902|2196
 #16|@hyperchessbot1|2189
 #17|@Kizburb|2182
-#18|@ToromBot|2182
+#18|@ToromBot|2181
 #19|@VariantsBot|2180
 #20|@YoBot_v2|2174
 #21|@Bot_McBotface|2172
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@FireFishBOT|2153
 #33|@TorBot|2150
 #34|@TTC-BOT_2|2148
-#35|@VariantsTop|2147
+#35|@VariantsTop|2146
 #36|@LolFish-1|2144
 #37|@EmptikVariantsBot|2132
 #38|@TorBot_v2|2132
@@ -52,10 +52,10 @@ Rank|Bot|Rating
 #50|@ToromLc0|2106
 #51|@Vaxim2000|2106
 #52|@EmptikBotEman|2103
-#53|@Kizbuurb|2100
-#54|@lol7241Bot|2100
-#55|@EvenMatchup|2099
-#56|@faith_bot|2098
+#53|@faith_bot|2100
+#54|@Kizbuurb|2100
+#55|@lol7241Bot|2100
+#56|@EvenMatchup|2099
 #57|@RETI_BOT|2098
 #58|@Vinh_VariantsBot|2098
 #59|@ChessBot2156|2095
@@ -284,9 +284,9 @@ Rank|Bot|Rating
 #282|@misteick_bot|1472
 #283|@MagicverseBOT|1471
 #284|@CBNguyen_Bot|1465
-#285|@MQBot|1460
-#286|@stonks_fish|1460
-#287|@FataliiBot|1458
+#285|@FataliiBot|1461
+#286|@MQBot|1460
+#287|@stonks_fish|1460
 #288|@Teamleaderbot|1458
 #289|@NeilDandekarBot|1453
 #290|@DespacitoBot|1451
@@ -307,10 +307,10 @@ Rank|Bot|Rating
 #305|@embla|1375
 #306|@PiratesBot|1373
 #307|@hjhjhjhjhjhj|1370
-#308|@KhepriChess|1361
-#309|@theoden8_uci|1352
-#310|@bestchessbot|1347
-#311|@kazakhfirstbot|1344
+#308|@kazakhfirstbot|1370
+#309|@KhepriChess|1361
+#310|@theoden8_uci|1352
+#311|@bestchessbot|1347
 #312|@Nobody11892|1340
 #313|@magnum_carl|1338
 #314|@Jannik08_FAN|1337
@@ -336,7 +336,7 @@ Rank|Bot|Rating
 #334|@SalmonChess9|1258
 #335|@Sparring_Bot|1248
 #336|@RootEngine|1245
-#337|@Demolito_L6|1237
+#337|@Demolito_L6|1235
 #338|@Future_Chess_Pro|1233
 #339|@AlphaLeela0|1229
 #340|@WorstBotEver123|1222
@@ -362,7 +362,7 @@ Rank|Bot|Rating
 #360|@GeraldBOT|988
 #361|@Bot2000|983
 #362|@BogoBot|974
-#363|@Demolito_L4|972
+#363|@Demolito_L4|970
 #364|@ZokBot|969
 #365|@RandomTree77|956
 #366|@Bot_Swana|943
@@ -373,4 +373,4 @@ Rank|Bot|Rating
 #371|@WaspBot|798
 #372|@LeelaWeak|735
 #373|@FelixLeonidovich|730
-#374|@pawnrobot|703
+#374|@pawnrobot|701
