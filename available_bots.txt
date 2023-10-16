@@ -1798,6 +1798,7 @@ s_stock
 sacgod1020
 safrad-3
 sai_srihith
+sakunia
 salfachessone
 salmonchess9
 salvajuega
@@ -2369,4 +2370,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sakunia
