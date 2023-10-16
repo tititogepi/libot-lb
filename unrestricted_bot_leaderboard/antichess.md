@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@Leelabotmaster|2538
 #39|@Dark_evil_bot|2525
 #40|@Bot_AOOP11|2521
-#41|@Nakshatra3|2512
+#41|@Nakshatra3|2515
 #42|@HyperLitikBOT|2511
 #43|@pistol-play|2498
 #44|@MrBOThacker|2477
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
 #75|@AI69|2312
-#76|@OpeningsBot|2309
-#77|@Kizburb|2307
+#76|@Kizburb|2307
+#77|@OpeningsBot|2307
 #78|@MagicverseBOT|2306
 #79|@abhisun_bot|2305
 #80|@NienishiEngine|2304
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2075
+#112|@CatNail|2080
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
