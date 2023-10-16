@@ -39,7 +39,7 @@ Rank|Bot|Rating
 #37|@AlfaBot|2541
 #38|@Leelabotmaster|2538
 #39|@Dark_evil_bot|2525
-#40|@Nakshatra3|2523
+#40|@Nakshatra3|2525
 #41|@Bot_AOOP11|2521
 #42|@HyperLitikBOT|2511
 #43|@pistol-play|2498
@@ -59,9 +59,9 @@ Rank|Bot|Rating
 #57|@xiang-qi|2422
 #58|@faith_bot|2420
 #59|@DrSmartBugs|2412
-#60|@AttackingOrDefending|2409
-#61|@NikitosikVariantsbot|2409
-#62|@NilatacBot|2409
+#60|@NilatacBot|2410
+#61|@AttackingOrDefending|2409
+#62|@NikitosikVariantsbot|2409
 #63|@BitExtender128|2403
 #64|@ESC_BOT|2394
 #65|@CatBot_14|2393
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2296
+#82|@OpeningsBot|2294
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2084
+#112|@CatNail|2070
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
