@@ -146,7 +146,7 @@ Rank|Bot|Rating
 #144|@kostasvl-bot|1877
 #145|@B0T5_RU13|1871
 #146|@RobotTigerSlav|1871
-#147|@OpeningsBot|1867
+#147|@OpeningsBot|1868
 #148|@ItsHyperBot|1855
 #149|@the_checkmating_bot|1855
 #150|@StrongChessEngine|1852
@@ -262,9 +262,9 @@ Rank|Bot|Rating
 #260|@Trumpfor2O2O|1386
 #261|@DrunkenMasterEngine|1385
 #262|@anonymous5612|1384
-#263|@kazakhfirstbot|1369
-#264|@SLvov-bot|1359
-#265|@ChessBotHere|1351
+#263|@SLvov-bot|1359
+#264|@ChessBotHere|1351
+#265|@kazakhfirstbot|1340
 #266|@TheBullyBot|1339
 #267|@AveragePlayer757|1337
 #268|@mertovic119|1337

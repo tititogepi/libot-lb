@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@Giphy_Logo|1741
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
-#104|@OpeningsBot|1720
+#104|@OpeningsBot|1722
 #105|@Stockfish-MEDIUM|1717
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
@@ -165,10 +165,10 @@ Rank|Bot|Rating
 #163|@Epiano_Bot|1258
 #164|@Rishab_Bindal|1258
 #165|@zeynep001|1258
-#166|@kazakhfirstbot|1252
-#167|@pussaW|1252
-#168|@ReallyCrazyBOT|1245
-#169|@NightStarFox|1243
+#166|@pussaW|1252
+#167|@ReallyCrazyBOT|1245
+#168|@NightStarFox|1243
+#169|@kazakhfirstbot|1233
 #170|@Happy_One|1223
 #171|@Grand_MefBartu-BOT|1200
 #172|@magnusglad_bot|1196
