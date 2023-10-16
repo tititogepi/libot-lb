@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@EmptikBot247|2422
 #57|@xiang-qi|2422
 #58|@faith_bot|2420
-#59|@NilatacBot|2418
+#59|@NilatacBot|2420
 #60|@DrSmartBugs|2412
 #61|@AttackingOrDefending|2409
 #62|@NikitosikVariantsbot|2409

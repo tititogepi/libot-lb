@@ -128,8 +128,8 @@ Rank|Bot|Rating
 #126|@TheLegendaryKnight|1935
 #127|@Virutor|1934
 #128|@chicken_farmer|1926
-#129|@RootEngine|1920
-#130|@ZE_ROOK|1917
+#129|@ZE_ROOK|1922
+#130|@RootEngine|1920
 #131|@Simpafteur|1912
 #132|@ClubAjedrezChileno|1898
 #133|@TrolliumBot|1894
@@ -153,9 +153,9 @@ Rank|Bot|Rating
 #151|@OurBot|1836
 #152|@Aromik_s_bot|1831
 #153|@BestJSEngine|1826
-#154|@yeoldwiz|1820
-#155|@Black_Knight2006|1815
-#156|@Hoplites|1813
+#154|@Black_Knight2006|1815
+#155|@Hoplites|1813
+#156|@yeoldwiz|1813
 #157|@Sub_Bot|1808
 #158|@DrMeowMeow|1800
 #159|@stockfish12_Johan|1798
