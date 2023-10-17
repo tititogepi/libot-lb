@@ -1490,6 +1490,7 @@ nienishiengine
 nightstarfox
 nikitosik-ai
 nikitosikbot
+nikitosikrandombot
 nikitosikvariantsbot
 nikolaengine_lux
 nilatacbot
@@ -2370,4 +2371,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nikitosikrandombot
+chessloser2021_bot
