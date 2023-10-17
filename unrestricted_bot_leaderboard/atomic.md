@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@AlfaBot|2674
 #3|@EmptikVariantsBot|2671
 #4|@ToromBot|2665
-#5|@Nikitosikbot|2653
+#5|@Nikitosikbot|2651
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -47,8 +47,8 @@ Rank|Bot|Rating
 #45|@PsychedelicAtomic|2296
 #46|@AndromedaSX1|2284
 #47|@BGSBot|2272
-#48|@AtomicVsEngineBot|2268
-#49|@NikitosikVariantsbot|2268
+#48|@NikitosikVariantsbot|2270
+#49|@AtomicVsEngineBot|2268
 #50|@xiang-qi|2268
 #51|@CocopikachuBOT|2265
 #52|@ElPeonElectrico|2262
@@ -146,7 +146,7 @@ Rank|Bot|Rating
 #144|@kostasvl-bot|1877
 #145|@B0T5_RU13|1871
 #146|@RobotTigerSlav|1871
-#147|@OpeningsBot|1868
+#147|@OpeningsBot|1867
 #148|@ItsHyperBot|1855
 #149|@the_checkmating_bot|1855
 #150|@StrongChessEngine|1852
