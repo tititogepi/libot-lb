@@ -19,10 +19,10 @@ Rank|Bot|Rating
 #17|@Kizburb|2182
 #18|@ToromBot|2180
 #19|@VariantsBot|2180
-#20|@YoBot_v2|2174
+#20|@YoBot_v2|2177
 #21|@Bot_McBotface|2172
-#22|@lord-bot|2171
-#23|@Intron014|2170
+#22|@Intron014|2171
+#23|@lord-bot|2171
 #24|@EmptikBot|2168
 #25|@rtx3080tibot|2162
 #26|@Nikitosikbot|2161
@@ -45,9 +45,9 @@ Rank|Bot|Rating
 #43|@Caissa-NNUE|2124
 #44|@duythong1402|2122
 #45|@JeffIO|2113
-#46|@faith_bot|2112
-#47|@Dragon_1906|2111
-#48|@ibep|2111
+#46|@Dragon_1906|2111
+#47|@ibep|2111
+#48|@faith_bot|2109
 #49|@Galaxy_Guardian|2107
 #50|@BetaOneBot|2106
 #51|@ToromLc0|2106
@@ -215,8 +215,8 @@ Rank|Bot|Rating
 #213|@Fairy-Stockfish|1755
 #214|@BishoP-BOT|1752
 #215|@XXIstCentury|1752
-#216|@OpeningsBot|1751
-#217|@MikhailTal_AI|1750
+#216|@MikhailTal_AI|1750
+#217|@OpeningsBot|1750
 #218|@Ch4rl3s|1748
 #219|@Cheng-4|1746
 #220|@DxrkOnBot|1746
@@ -249,7 +249,7 @@ Rank|Bot|Rating
 #247|@MeetraBot|1624
 #248|@l_Taurus_l|1616
 #249|@TheBullyBot|1616
-#250|@Leela8-Test|1612
+#250|@Leela8-Test|1615
 #251|@YoBot_v1|1610
 #252|@NeuralAbyss|1608
 #253|@STockfishdestroyBot|1601
@@ -289,8 +289,8 @@ Rank|Bot|Rating
 #287|@Teamleaderbot|1458
 #288|@NeilDandekarBot|1453
 #289|@DespacitoBot|1451
-#290|@FataliiBot|1451
-#291|@fishm0ley|1450
+#290|@fishm0ley|1450
+#291|@FataliiBot|1448
 #292|@Chess_ni_BOSS|1437
 #293|@FN_Waldi|1436
 #294|@chicken_farmer|1435
@@ -373,4 +373,4 @@ Rank|Bot|Rating
 #371|@WaspBot|798
 #372|@LeelaWeak|735
 #373|@FelixLeonidovich|730
-#374|@pawnrobot|695
+#374|@pawnrobot|710
