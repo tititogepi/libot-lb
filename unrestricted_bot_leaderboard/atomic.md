@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@AlfaBot|2674
 #3|@EmptikVariantsBot|2671
 #4|@ToromBot|2665
-#5|@Nikitosikbot|2661
+#5|@Nikitosikbot|2653
 #6|@Fairy_Belzedar|2628
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
@@ -48,10 +48,10 @@ Rank|Bot|Rating
 #46|@AndromedaSX1|2284
 #47|@BGSBot|2272
 #48|@AtomicVsEngineBot|2268
-#49|@xiang-qi|2268
-#50|@CocopikachuBOT|2265
-#51|@ElPeonElectrico|2262
-#52|@NikitosikVariantsbot|2261
+#49|@NikitosikVariantsbot|2268
+#50|@xiang-qi|2268
+#51|@CocopikachuBOT|2265
+#52|@ElPeonElectrico|2262
 #53|@chesshyperbot|2260
 #54|@Yes-Standerd-Yes|2260
 #55|@Johnsun|2257
