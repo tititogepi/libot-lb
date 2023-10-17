@@ -43,10 +43,10 @@ Rank|Bot|Rating
 #41|@pangubot|2128
 #42|@BetterAnalyze|2125
 #43|@Caissa-NNUE|2124
-#44|@JeffIO|2113
-#45|@Dragon_1906|2111
-#46|@duythong1402|2111
-#47|@faith_bot|2111
+#44|@faith_bot|2114
+#45|@JeffIO|2113
+#46|@Dragon_1906|2111
+#47|@duythong1402|2111
 #48|@ibep|2111
 #49|@Galaxy_Guardian|2107
 #50|@BetaOneBot|2106
@@ -217,9 +217,9 @@ Rank|Bot|Rating
 #215|@XXIstCentury|1752
 #216|@MikhailTal_AI|1750
 #217|@Ch4rl3s|1748
-#218|@OpeningsBot|1748
-#219|@Cheng-4|1746
-#220|@DxrkOnBot|1746
+#218|@Cheng-4|1747
+#219|@DxrkOnBot|1746
+#220|@OpeningsBot|1746
 #221|@spaceisbot|1744
 #222|@Magnus-BOT|1733
 #223|@Velvet-Engine|1732
@@ -246,8 +246,8 @@ Rank|Bot|Rating
 #244|@Los-Guerreros1|1643
 #245|@CatBot_14|1627
 #246|@Lumac0|1625
-#247|@MeetraBot|1624
-#248|@Leela8-Test|1622
+#247|@Leela8-Test|1624
+#248|@MeetraBot|1624
 #249|@l_Taurus_l|1616
 #250|@TheBullyBot|1616
 #251|@YoBot_v1|1610
@@ -290,7 +290,7 @@ Rank|Bot|Rating
 #288|@NeilDandekarBot|1453
 #289|@DespacitoBot|1451
 #290|@fishm0ley|1450
-#291|@FataliiBot|1448
+#291|@FataliiBot|1444
 #292|@Chess_ni_BOSS|1437
 #293|@FN_Waldi|1436
 #294|@chicken_farmer|1435
