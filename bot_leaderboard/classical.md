@@ -12,14 +12,14 @@ Rank|Bot|Rating
 #10|@ArasanX|2594
 #11|@RaspFish|2589
 #12|@Mr_Chess_Berserk|2580
-#13|@JuroJ|2565
+#13|@JuroJ|2569
 #14|@faith_bot|2553
-#15|@sf_bot|2512
-#16|@Berserk-Test|2511
+#15|@Berserk-Test|2511
+#16|@sf_bot|2502
 #17|@ELO_1500|2435
 #18|@LazyBot|2391
-#19|@AKS-Mantissa|2372
-#20|@expositor|2371
+#19|@expositor|2371
+#20|@AKS-Mantissa|2369
 #21|@catriever|2349
 #22|@pawn_git|2314
 #23|@SaxtonEngine|2305
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@Phalanx-XXV|2148
 #28|@TuksuBot|2123
 #29|@ChessNoobComp|2111
-#30|@Boris-Trapsky|2042
+#30|@Boris-Trapsky|2046
 #31|@Nakshatra3|2028
 #32|@bekbot|2024
 #33|@simpleEval|2024
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@Trollfish-Bot|1585
 #59|@sargon-3ply|1564
 #60|@maia5|1526
-#61|@maia1|1518
+#61|@maia1|1508
 #62|@sargon-2ply|1489
 #63|@Humaia|1475
 #64|@turochamp-1ply|1354

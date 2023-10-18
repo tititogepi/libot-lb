@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
 #19|@LudwigBOT|2281
-#20|@Nikitosikbot|2277
+#20|@Nikitosikbot|2281
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
-#74|@OpeningsBot|1901
+#74|@OpeningsBot|1902
 #75|@Variantenkoning|1892
 #76|@MistakeBOT|1886
 #77|@EagleEye2021|1880
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@MyNameIsSpeedy|1226
 #148|@Bottios|1223
 #149|@RSVMentor|1196
-#150|@pawnrobot|1182
+#150|@pawnrobot|1180
 #151|@Boom_Bot|1176
 #152|@TrashBot|1168
 #153|@shakboy9824453231op|1152
