@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@Dean_Summer_Bot|2305
 #45|@PsychedelicAtomic|2296
 #46|@AndromedaSX1|2284
-#47|@NikitosikVariantsbot|2277
+#47|@NikitosikVariantsbot|2280
 #48|@BGSBot|2272
 #49|@AtomicVsEngineBot|2268
 #50|@xiang-qi|2268
@@ -147,9 +147,9 @@ Rank|Bot|Rating
 #145|@kostasvl-bot|1877
 #146|@B0T5_RU13|1871
 #147|@RobotTigerSlav|1871
-#148|@OpeningsBot|1857
-#149|@ItsHyperBot|1855
-#150|@the_checkmating_bot|1855
+#148|@ItsHyperBot|1855
+#149|@the_checkmating_bot|1855
+#150|@OpeningsBot|1854
 #151|@StrongChessEngine|1852
 #152|@david9426_bot|1849
 #153|@Bbao23-chess|1846
