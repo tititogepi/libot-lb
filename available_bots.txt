@@ -629,6 +629,7 @@ dqn-chess
 dr0p_m1c
 dr4x0n
 dragobot
+dragon-komodo_1
 dragon_1906
 dragon_shadow_bot
 dragonballzfan
@@ -1067,6 +1068,7 @@ jonnierman
 jonox
 joseppegodo
 joshuachessbot
+jpg-bot
 jpsbot
 jryan_bot
 ju-ke-box
@@ -1104,6 +1106,7 @@ kathhhh
 kayrakropro_bot
 kazakhfirstbot
 kazumibot
+kdpchess
 keks_bot
 kelpbot
 kerchbot
@@ -2373,6 +2376,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-kdpchess
-jpg-bot
-dragon-komodo_1
