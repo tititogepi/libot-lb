@@ -59,9 +59,9 @@ Rank|Bot|Rating
 #57|@xiang-qi|2422
 #58|@faith_bot|2420
 #59|@DrSmartBugs|2412
-#60|@AttackingOrDefending|2409
-#61|@NikitosikVariantsbot|2409
-#62|@NilatacBot|2407
+#60|@NilatacBot|2411
+#61|@AttackingOrDefending|2409
+#62|@NikitosikVariantsbot|2409
 #63|@BitExtender128|2403
 #64|@ESC_BOT|2394
 #65|@CatBot_14|2393
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2301
+#82|@OpeningsBot|2297
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
@@ -109,9 +109,9 @@ Rank|Bot|Rating
 #107|@AntiChessBot|2142
 #108|@AnUtterlyKarBot|2134
 #109|@XXIstCentury|2131
-#110|@PyChessBot|2102
-#111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2098
+#110|@CatNail|2122
+#111|@PyChessBot|2102
+#112|@TurkiyeHogwartsBOT|2099
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019

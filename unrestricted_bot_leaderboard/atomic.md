@@ -50,11 +50,11 @@ Rank|Bot|Rating
 #48|@AtomicVsEngineBot|2268
 #49|@xiang-qi|2268
 #50|@CocopikachuBOT|2265
-#51|@NikitosikVariantsbot|2263
-#52|@ElPeonElectrico|2262
-#53|@chesshyperbot|2260
-#54|@Yes-Standerd-Yes|2260
-#55|@Johnsun|2257
+#51|@ElPeonElectrico|2262
+#52|@chesshyperbot|2260
+#53|@Yes-Standerd-Yes|2260
+#54|@Johnsun|2257
+#55|@NikitosikVariantsbot|2257
 #56|@YoBot_v2|2243
 #57|@MalanChess|2238
 #58|@TheMatrix2025|2234
@@ -144,8 +144,8 @@ Rank|Bot|Rating
 #142|@AX2XB2|1893
 #143|@TheAwesomeBot|1891
 #144|@SimplerEval|1881
-#145|@kostasvl-bot|1877
-#146|@OpeningsBot|1873
+#145|@OpeningsBot|1878
+#146|@kostasvl-bot|1877
 #147|@B0T5_RU13|1871
 #148|@RobotTigerSlav|1871
 #149|@ItsHyperBot|1855
