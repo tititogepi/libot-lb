@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@RaspFish|2590
 #12|@Mr_Chess_Berserk|2580
 #13|@JuroJ|2571
-#14|@faith_bot|2554
+#14|@faith_bot|2552
 #15|@Berserk-Test|2508
 #16|@sf_bot|2497
 #17|@ELO_1500|2435
@@ -54,15 +54,15 @@ Rank|Bot|Rating
 #52|@turochamp-2ply|1651
 #53|@ZE_ROOK|1631
 #54|@sargon-4ply|1621
-#55|@maia9|1616
+#55|@maia9|1611
 #56|@turkjs|1611
 #57|@Trollfish-Bot|1602
 #58|@simplexitor|1598
 #59|@sargon-3ply|1564
 #60|@maia5|1539
 #61|@sargon-2ply|1506
-#62|@maia1|1479
-#63|@Humaia|1475
+#62|@Humaia|1475
+#63|@maia1|1474
 #64|@turochamp-1ply|1354
 #65|@sargon-1ply|1316
 #66|@CHoMPBoT|1105
