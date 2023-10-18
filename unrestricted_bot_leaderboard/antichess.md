@@ -75,9 +75,9 @@ Rank|Bot|Rating
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
 #75|@AI69|2312
-#76|@Kizburb|2307
-#77|@MagicverseBOT|2306
-#78|@OpeningsBot|2306
+#76|@OpeningsBot|2309
+#77|@Kizburb|2307
+#78|@MagicverseBOT|2306
 #79|@abhisun_bot|2305
 #80|@NienishiEngine|2304
 #81|@BromiumAI|2302
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2096
+#112|@CatNail|2087
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
