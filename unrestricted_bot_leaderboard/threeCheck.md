@@ -23,9 +23,9 @@ Rank|Bot|Rating
 #21|@ESC_BOT|2476
 #22|@Less_of_a_threat|2469
 #23|@NormalBlitzBulletBot|2463
-#24|@NikitosikVariantsbot|2459
-#25|@Fairy-Stockfish|2451
-#26|@faith_bot|2447
+#24|@Fairy-Stockfish|2451
+#25|@faith_bot|2447
+#26|@NikitosikVariantsbot|2408
 #27|@chessbot2880|2367
 #28|@Viet_BOT|2367
 #29|@Zer0_Tw0|2332
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@relevantproblem|1514
 #108|@Toxic_Bot|1511
 #109|@NoobMasterBOT|1507
-#110|@DavidsGuterBot|1497
+#110|@DavidsGuterBot|1496
 #111|@Epiano_Bot|1491
 #112|@CVA728_BOT_1|1489
 #113|@Rishab_Bindal|1489

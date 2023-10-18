@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
-#24|@RaspFish|2263
+#24|@RaspFish|2266
 #25|@YoBot_v2|2242
 #26|@ResoluteBot|2233
 #27|@Magnus-BOT|2224
@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@UnDisstoppableBot|2193
 #32|@Amrobotone|2184
 #33|@HuxZero|2163
-#34|@Mega_BOT|2148
-#35|@NikitosikVariantsbot|2146
+#34|@NikitosikVariantsbot|2153
+#35|@Mega_BOT|2148
 #36|@AI69|2143
 #37|@RobotTigerSlav|2136
 #38|@pistol-play|2121
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
-#74|@OpeningsBot|1899
+#74|@OpeningsBot|1896
 #75|@Variantenkoning|1892
 #76|@MistakeBOT|1886
 #77|@EagleEye2021|1880
