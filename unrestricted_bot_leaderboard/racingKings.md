@@ -53,9 +53,9 @@ Rank|Bot|Rating
 #51|@ESC_BOT|2253
 #52|@relevantproblem|2251
 #53|@GodelEscherBot|2244
-#54|@ResoluteBot|2225
-#55|@XXIstCentury|2225
-#56|@NikitosikVariantsbot|2223
+#54|@NikitosikVariantsbot|2231
+#55|@ResoluteBot|2225
+#56|@XXIstCentury|2225
 #57|@Resolved-Bot|2223
 #58|@HerokuHasnotplay|2215
 #59|@Zer0_Tw0|2210
@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
-#79|@OpeningsBot|2024
+#79|@OpeningsBot|2020
 #80|@EstmileBot|2018
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
