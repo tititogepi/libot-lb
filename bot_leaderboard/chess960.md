@@ -7,14 +7,14 @@ Rank|Bot|Rating
 #5|@Intron014|2170
 #6|@VariantsTop|2156
 #7|@LolFish-1|2144
-#8|@faith_bot|2106
+#8|@faith_bot|2110
 #9|@RETI_BOT|2098
 #10|@RaspFish|2088
 #11|@Cheng-4|1745
-#12|@OpeningsBot|1738
+#12|@OpeningsBot|1736
 #13|@Leela8-Test|1629
 #14|@clueless-bot|1534
-#15|@FataliiBot|1426
+#15|@FataliiBot|1421
 #16|@Demolito_L6|1224
 #17|@Demolito_L5|1154
 #18|@Demolito_L4|974
