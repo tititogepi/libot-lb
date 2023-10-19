@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@Nikitosikbot|2281
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
-#23|@Bobby_Fischer_BOT|2267
-#24|@RaspFish|2266
+#23|@RaspFish|2268
+#24|@Bobby_Fischer_BOT|2267
 #25|@YoBot_v2|2242
 #26|@ResoluteBot|2233
 #27|@Magnus-BOT|2224
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
-#75|@OpeningsBot|1889
+#75|@OpeningsBot|1888
 #76|@MistakeBOT|1886
 #77|@EagleEye2021|1880
 #78|@xiang-qi|1868

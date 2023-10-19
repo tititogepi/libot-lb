@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2824
-#2|@Bingo202|2650
+#2|@Bingo202|2726
 #3|@H-Zero|2650
 #4|@Nikitosik-ai|2620
 #5|@Viet-BOT|2611
@@ -16,9 +16,9 @@ Rank|Bot|Rating
 #14|@HulkBot|2387
 #15|@Mega_BOT|2371
 #16|@CorrespondenceBot|2353
-#17|@pawn_git|2321
-#18|@IAMSTOCKFISH123|2305
-#19|@Magnus-BOT|2304
+#17|@IAMSTOCKFISH123|2305
+#18|@Magnus-BOT|2304
+#19|@pawn_git|2304
 #20|@Xmas_dragon|2300
 #21|@Ujwal1001|2297
 #22|@bekbot|2289

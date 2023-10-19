@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@xiang-qi|2268
 #50|@CocopikachuBOT|2265
 #51|@ElPeonElectrico|2262
-#52|@NikitosikVariantsbot|2261
+#52|@NikitosikVariantsbot|2262
 #53|@chesshyperbot|2260
 #54|@Yes-Standerd-Yes|2260
 #55|@Johnsun|2257
@@ -143,7 +143,7 @@ Rank|Bot|Rating
 #141|@Just-a-random-bot|1898
 #142|@AX2XB2|1893
 #143|@TheAwesomeBot|1891
-#144|@OpeningsBot|1889
+#144|@OpeningsBot|1888
 #145|@SimplerEval|1881
 #146|@kostasvl-bot|1877
 #147|@B0T5_RU13|1871
