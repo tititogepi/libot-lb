@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@JeffIO|2113
 #45|@Dragon_1906|2111
 #46|@ibep|2111
-#47|@faith_bot|2107
+#47|@faith_bot|2110
 #48|@Galaxy_Guardian|2107
 #49|@BetaOneBot|2106
 #50|@ToromLc0|2106
@@ -219,8 +219,8 @@ Rank|Bot|Rating
 #217|@Ch4rl3s|1748
 #218|@DxrkOnBot|1746
 #219|@spaceisbot|1744
-#220|@OpeningsBot|1737
-#221|@Cheng-4|1735
+#220|@OpeningsBot|1736
+#221|@Cheng-4|1734
 #222|@Magnus-BOT|1733
 #223|@Velvet-Engine|1732
 #224|@Viridithas|1728

@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@Bobby_Fischer_BOT|2251
 #46|@Mega_BOT|2240
 #47|@Coolman2021|2219
-#48|@RaspFish|2214
+#48|@RaspFish|2215
 #49|@xiang-qi|2203
 #50|@MyNameIsWhatLOL|2200
 #51|@Zer0_Tw0|2200
@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@Giphy_Logo|1741
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
-#104|@OpeningsBot|1717
-#105|@Stockfish-MEDIUM|1717
+#104|@Stockfish-MEDIUM|1717
+#105|@OpeningsBot|1716
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
 #108|@FASTCHESSBOT|1666
