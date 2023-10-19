@@ -141,9 +141,9 @@ Rank|Bot|Rating
 #139|@B4dF1sh|1903
 #140|@Isotopebot|1900
 #141|@Just-a-random-bot|1898
-#142|@OpeningsBot|1896
-#143|@AX2XB2|1893
-#144|@TheAwesomeBot|1891
+#142|@AX2XB2|1893
+#143|@TheAwesomeBot|1891
+#144|@OpeningsBot|1886
 #145|@SimplerEval|1881
 #146|@kostasvl-bot|1877
 #147|@B0T5_RU13|1871
@@ -237,10 +237,10 @@ Rank|Bot|Rating
 #235|@Iwantedtoplaychess|1486
 #236|@Chess_Pro9600|1485
 #237|@MeezKool|1485
-#238|@RSVMentor|1476
-#239|@TheWeakestBot|1476
-#240|@thibot|1470
-#241|@pawnrobot|1468
+#238|@pawnrobot|1479
+#239|@RSVMentor|1476
+#240|@TheWeakestBot|1476
+#241|@thibot|1470
 #242|@fastandfurious10|1464
 #243|@EDSPBOT|1463
 #244|@Dong_Xiao_Yuan|1454

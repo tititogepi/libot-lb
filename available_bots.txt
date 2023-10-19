@@ -152,6 +152,7 @@ attackbot2023
 attackerbot
 attackingordefending
 aureliuszero
+austerlitzengine
 autokillerzero
 automachess
 ava-chess-engine
@@ -2377,4 +2378,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-austerlitzengine
