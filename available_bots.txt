@@ -1933,6 +1933,7 @@ sscg13-engine
 ssech_bot
 ssehcilx
 st6090
+starfaith
 starker_bot
 starplumberbot
 stashbot
@@ -2376,4 +2377,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-starfaith
