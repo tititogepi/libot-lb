@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
 #75|@MistakeBOT|1886
-#76|@OpeningsBot|1882
+#76|@OpeningsBot|1883
 #77|@EagleEye2021|1880
 #78|@xiang-qi|1868
 #79|@relevantproblem|1857
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@MyNameIsSpeedy|1226
 #148|@Bottios|1223
 #149|@RSVMentor|1196
-#150|@pawnrobot|1180
+#150|@pawnrobot|1178
 #151|@Boom_Bot|1176
 #152|@TrashBot|1168
 #153|@shakboy9824453231op|1152
