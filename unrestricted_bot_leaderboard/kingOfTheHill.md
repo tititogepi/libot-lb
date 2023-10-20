@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@SkyBlaster|2220
 #30|@PowerOnBot|2195
 #31|@UnDisstoppableBot|2193
-#32|@Amrobotone|2184
-#33|@NikitosikVariantsbot|2184
+#32|@NikitosikVariantsbot|2188
+#33|@Amrobotone|2184
 #34|@HuxZero|2163
 #35|@Mega_BOT|2148
 #36|@AI69|2143
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
 #75|@MistakeBOT|1886
-#76|@OpeningsBot|1883
+#76|@OpeningsBot|1881
 #77|@EagleEye2021|1880
 #78|@xiang-qi|1868
 #79|@relevantproblem|1857
