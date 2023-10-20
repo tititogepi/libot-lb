@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@JeffIO|2113
 #45|@Dragon_1906|2111
 #46|@ibep|2111
-#47|@faith_bot|2107
+#47|@faith_bot|2109
 #48|@Galaxy_Guardian|2107
 #49|@BetaOneBot|2106
 #50|@ToromLc0|2106
@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@Vinh_VariantsBot|2098
 #59|@ChessBot2156|2095
 #60|@Shineshou90_BOT|2093
-#61|@UnDisstoppableBot|2090
-#62|@Lila-Stockfish|2089
-#63|@RaspFish|2088
+#61|@RaspFish|2091
+#62|@UnDisstoppableBot|2090
+#63|@Lila-Stockfish|2089
 #64|@Nikitosik-ai|2084
 #65|@Mittens-Bot|2081
 #66|@chessbot2880|2079
@@ -157,9 +157,9 @@ Rank|Bot|Rating
 #155|@KingfishX|1920
 #156|@Viet-BOT|1917
 #157|@EndoKingsSpade|1911
-#158|@NikitosikVariantsbot|1910
-#159|@WennDieSoldatBOT|1910
-#160|@StockfishPower|1909
+#158|@WennDieSoldatBOT|1910
+#159|@StockfishPower|1909
+#160|@NikitosikVariantsbot|1903
 #161|@RobotTigerSlav|1902
 #162|@Leelabotmaster|1895
 #163|@Maximumef|1895
@@ -219,7 +219,7 @@ Rank|Bot|Rating
 #217|@Ch4rl3s|1748
 #218|@DxrkOnBot|1746
 #219|@spaceisbot|1744
-#220|@OpeningsBot|1737
+#220|@OpeningsBot|1735
 #221|@Cheng-4|1734
 #222|@Magnus-BOT|1733
 #223|@Velvet-Engine|1732

@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@H-Zero|2650
 #3|@Nikitosik-ai|2620
 #4|@Viet-BOT|2611
-#5|@Bingo202|2564
-#6|@Nikitosikbot|2525
-#7|@peonasesino71|2512
-#8|@ServerFish|2494
+#5|@Nikitosikbot|2525
+#6|@peonasesino71|2512
+#7|@ServerFish|2494
+#8|@Bingo202|2484
 #9|@TorBot|2475
 #10|@Viet-AI|2471
 #11|@EmptikBot|2454
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@HulkBot|2387
 #15|@Mega_BOT|2371
 #16|@CorrespondenceBot|2353
-#17|@pawn_git|2333
+#17|@pawn_git|2351
 #18|@IAMSTOCKFISH123|2305
 #19|@Magnus-BOT|2304
 #20|@Xmas_dragon|2300

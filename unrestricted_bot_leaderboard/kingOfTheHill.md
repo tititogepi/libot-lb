@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@Stockfish-MEDIUM|2224
 #29|@SkyBlaster|2220
 #30|@PowerOnBot|2195
-#31|@UnDisstoppableBot|2193
-#32|@NikitosikVariantsbot|2188
+#31|@NikitosikVariantsbot|2193
+#32|@UnDisstoppableBot|2193
 #33|@Amrobotone|2184
 #34|@HuxZero|2163
 #35|@Mega_BOT|2148
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@MagnusCarlsen1507|1492
 #116|@SugarAndSpice|1489
 #117|@rtx3080tibot|1487
-#118|@DavidsGuterBot|1481
+#118|@DavidsGuterBot|1480
 #119|@SUMAL_BRO|1476
 #120|@Less_of_a_threat|1470
 #121|@Bbao23-chess|1469
