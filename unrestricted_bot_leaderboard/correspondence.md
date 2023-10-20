@@ -129,13 +129,13 @@ Rank|Bot|Rating
 #127|@TheLegendaryKnight|1935
 #128|@Virutor|1934
 #129|@chicken_farmer|1926
-#130|@ZE_ROOK|1926
+#130|@ZE_ROOK|1925
 #131|@RootEngine|1920
 #132|@Simpafteur|1912
 #133|@ClubAjedrezChileno|1898
 #134|@TrolliumBot|1894
 #135|@honzovy-sachy-2|1892
-#136|@Jibbby|1885
+#136|@Jibbby|1886
 #137|@XXXTryandTryXXX|1884
 #138|@KingsGamBot|1882
 #139|@lol7241Bot|1878
