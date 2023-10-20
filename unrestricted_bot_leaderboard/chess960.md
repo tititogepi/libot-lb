@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@LeelaFish1|2212
 #9|@Xerus_1|2211
 #10|@LeelaChessTest|2208
-#11|@YoBot_v2|2207
+#11|@YoBot_v2|2205
 #12|@SfishChess2021|2204
 #13|@IUseStockfish|2202
 #14|@ResoluteBot|2199
@@ -51,8 +51,8 @@ Rank|Bot|Rating
 #49|@BetaOneBot|2106
 #50|@ToromLc0|2106
 #51|@Vaxim2000|2106
-#52|@EmptikBotEman|2103
-#53|@duythong1402|2101
+#52|@duythong1402|2104
+#53|@EmptikBotEman|2103
 #54|@Kizbuurb|2100
 #55|@lol7241Bot|2100
 #56|@EvenMatchup|2099
