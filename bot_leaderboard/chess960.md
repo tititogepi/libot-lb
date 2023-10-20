@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2204
+#1|@YoBot_v2|2207
 #2|@ResoluteBot|2199
-#3|@TheFreshman1902|2193
+#3|@TheFreshman1902|2197
 #4|@ToromBot|2176
 #5|@Intron014|2174
 #6|@VariantsTop|2152
 #7|@LolFish-1|2144
-#8|@faith_bot|2109
+#8|@faith_bot|2107
 #9|@RETI_BOT|2098
 #10|@RaspFish|2095
 #11|@Cheng-4|1734
