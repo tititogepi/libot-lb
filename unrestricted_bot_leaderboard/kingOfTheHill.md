@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
 #75|@MistakeBOT|1886
-#76|@OpeningsBot|1881
+#76|@OpeningsBot|1882
 #77|@EagleEye2021|1880
 #78|@xiang-qi|1868
 #79|@relevantproblem|1857
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@MagnusCarlsen1507|1492
 #116|@SugarAndSpice|1489
 #117|@rtx3080tibot|1487
-#118|@DavidsGuterBot|1480
+#118|@DavidsGuterBot|1479
 #119|@SUMAL_BRO|1476
 #120|@Less_of_a_threat|1470
 #121|@Bbao23-chess|1469

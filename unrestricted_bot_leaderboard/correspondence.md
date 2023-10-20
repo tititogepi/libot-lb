@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2824
 #2|@H-Zero|2650
-#3|@Nikitosik-ai|2620
+#3|@Nikitosik-ai|2636
 #4|@Viet-BOT|2611
 #5|@Nikitosikbot|2525
 #6|@peonasesino71|2512
@@ -98,12 +98,12 @@ Rank|Bot|Rating
 #96|@misteick_bot|2049
 #97|@Emmamaster|2043
 #98|@TeamChelsie|2043
-#99|@zeekat|2040
-#100|@abhisun_bot|2039
-#101|@Beyondcomprehension|2039
-#102|@faith_bot|2037
-#103|@CocopikachuBOT|2036
-#104|@HyperPhoenix21|2035
+#99|@abhisun_bot|2039
+#100|@Beyondcomprehension|2039
+#101|@faith_bot|2037
+#102|@CocopikachuBOT|2036
+#103|@HyperPhoenix21|2035
+#104|@zeekat|2034
 #105|@EmptikCorrespondence|2031
 #106|@StrongMagnusCarlsen|2027
 #107|@kybot|2025
