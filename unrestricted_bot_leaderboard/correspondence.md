@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2824
 #2|@H-Zero|2650
-#3|@Nikitosik-ai|2636
+#3|@Nikitosik-ai|2615
 #4|@Viet-BOT|2611
 #5|@Nikitosikbot|2525
 #6|@peonasesino71|2512
@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@F0rgot|2434
 #13|@AjedrezChamberi|2413
 #14|@HulkBot|2387
-#15|@Mega_BOT|2371
-#16|@CorrespondenceBot|2353
-#17|@pawn_git|2351
+#15|@pawn_git|2381
+#16|@Mega_BOT|2371
+#17|@CorrespondenceBot|2353
 #18|@IAMSTOCKFISH123|2305
 #19|@Magnus-BOT|2304
 #20|@Xmas_dragon|2300
