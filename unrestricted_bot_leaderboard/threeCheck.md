@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@CloudBot_v2|2544
 #18|@Fairy_Belzedar|2544
 #19|@KizVariant|2529
-#20|@RaspFish|2495
+#20|@RaspFish|2496
 #21|@ESC_BOT|2476
 #22|@Less_of_a_threat|2469
 #23|@NormalBlitzBulletBot|2463
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@ttBOT|2031
 #57|@Resolved-Bot|2026
 #58|@firstrobot|2003
-#59|@OpeningsBot|2003
+#59|@OpeningsBot|2002
 #60|@Hyper-Stockfish|1986
 #61|@GodelEscherBot|1974
 #62|@XXIstCentury|1973
