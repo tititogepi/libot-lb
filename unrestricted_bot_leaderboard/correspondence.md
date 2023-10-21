@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2824
 #2|@H-Zero|2650
-#3|@Viet-BOT|2611
-#4|@Nikitosik-ai|2597
+#3|@Nikitosik-ai|2612
+#4|@Viet-BOT|2611
 #5|@Nikitosikbot|2525
 #6|@peonasesino71|2512
 #7|@ServerFish|2494
