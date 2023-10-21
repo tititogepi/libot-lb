@@ -552,6 +552,7 @@ crepusculum
 crocodile5
 crocrodile
 crocrodile-dev
+croissantdealer
 cruelbot
 cruisemissile
 cubeofrubik
@@ -2378,4 +2379,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-croissantdealer
