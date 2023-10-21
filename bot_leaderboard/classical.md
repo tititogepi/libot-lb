@@ -5,11 +5,11 @@ Rank|Bot|Rating
 #3|@TheFreshman1902|2635
 #4|@Intron014|2634
 #5|@YoBot_v2|2633
-#6|@Africaata|2620
+#6|@Africaata|2625
 #7|@ttBOT|2616
 #8|@ResoluteBot|2615
-#9|@RaspFish|2590
-#10|@ArasanX|2587
+#9|@ArasanX|2587
+#10|@RaspFish|2585
 #11|@faith_bot|2554
 #12|@JuroJ|2546
 #13|@sf_bot|2531
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@catriever|2340
 #20|@pawn_git|2309
 #21|@SaxtonEngine|2303
-#22|@Weiawaga|2272
+#22|@Weiawaga|2276
 #23|@Cheng-4|2257
 #24|@Pseudo-0|2145
 #25|@Phalanx-XXV|2141
@@ -32,10 +32,10 @@ Rank|Bot|Rating
 #30|@Humaia-Strong|2026
 #31|@bekbot|2024
 #32|@Nakshatra3|2020
-#33|@Lynx_BOT|1997
+#33|@Lynx_BOT|2002
 #34|@HistoryExplorer|1995
 #35|@eubos|1992
-#36|@honzovy-sachy-2|1975
+#36|@honzovy-sachy-2|1985
 #37|@zeekat|1956
 #38|@MaxtheDog|1945
 #39|@jangine|1939
@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@notropis|1702
 #49|@honzovy-sachy|1696
 #50|@Virutor|1690
-#51|@maia9|1668
+#51|@maia9|1663
 #52|@turochamp-2ply|1642
 #53|@turkjs|1624
 #54|@sargon-4ply|1621
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@ZE_ROOK|1615
 #57|@simplexitor|1614
 #58|@sargon-3ply|1564
-#59|@maia1|1528
-#60|@maia5|1509
+#59|@maia1|1548
+#60|@maia5|1505
 #61|@sargon-2ply|1487
 #62|@Humaia|1475
 #63|@turochamp-1ply|1342
