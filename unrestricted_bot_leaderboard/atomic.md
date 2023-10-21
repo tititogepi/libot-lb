@@ -140,9 +140,9 @@ Rank|Bot|Rating
 #138|@FyChess2|1921
 #139|@B4dF1sh|1903
 #140|@Isotopebot|1900
-#141|@Just-a-random-bot|1898
-#142|@AX2XB2|1893
-#143|@OpeningsBot|1893
+#141|@OpeningsBot|1900
+#142|@Just-a-random-bot|1898
+#143|@AX2XB2|1893
 #144|@TheAwesomeBot|1891
 #145|@SimplerEval|1881
 #146|@kostasvl-bot|1877

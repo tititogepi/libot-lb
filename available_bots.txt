@@ -118,6 +118,7 @@ apollobot
 apotheosis_bot
 appleatebananabot
 apraz
+aquaflame
 aqwert123
 ara-online
 ararimbelami
@@ -2379,4 +2380,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-aquaflame
