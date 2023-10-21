@@ -47,9 +47,9 @@ Rank|Bot|Rating
 #45|@hauptschuleBOT|2475
 #46|@Alehkine_cat|2474
 #47|@ttBOT|2468
-#48|@Fairy-Stockfish|2460
-#49|@PepsiForAll|2460
-#50|@NilatacBot|2458
+#48|@NilatacBot|2465
+#49|@Fairy-Stockfish|2460
+#50|@PepsiForAll|2460
 #51|@CloudBot_v2|2455
 #52|@ResoluteBot|2455
 #53|@NikitosikVariantsbot|2446
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
-#83|@OpeningsBot|2284
+#83|@OpeningsBot|2282
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
 #86|@SkyBlaster|2254
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
 #104|@Lucror|2178
-#105|@anti-bot|2163
+#105|@anti-bot|2159
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
 #108|@AnUtterlyKarBot|2134

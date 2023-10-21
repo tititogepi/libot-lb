@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2824
 #2|@H-Zero|2650
-#3|@Nikitosik-ai|2612
+#3|@Nikitosik-ai|2613
 #4|@Viet-BOT|2611
 #5|@Nikitosikbot|2525
 #6|@peonasesino71|2512
@@ -352,7 +352,7 @@ Rank|Bot|Rating
 #350|@AXWChessBot|1096
 #351|@StashBot|1075
 #352|@Light_To_The_Rescue|1057
-#353|@G0thamB0t|1045
+#353|@G0thamB0t|1044
 #354|@mustaley|973
 #355|@BerserkRandomMover|963
 #356|@grandQ_AI|876
