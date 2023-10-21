@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@LeelaChessTest|2208
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
-#13|@YoBot_v2|2202
+#13|@YoBot_v2|2200
 #14|@Corvus-1|2197
-#15|@TheFreshman1902|2196
+#15|@TheFreshman1902|2194
 #16|@ResoluteBot|2193
 #17|@hyperchessbot1|2189
 #18|@Kizburb|2182
@@ -47,9 +47,9 @@ Rank|Bot|Rating
 #45|@JeffIO|2113
 #46|@Dragon_1906|2111
 #47|@ibep|2111
-#48|@Galaxy_Guardian|2107
-#49|@BetaOneBot|2106
-#50|@faith_bot|2106
+#48|@faith_bot|2109
+#49|@Galaxy_Guardian|2107
+#50|@BetaOneBot|2106
 #51|@ToromLc0|2106
 #52|@Vaxim2000|2106
 #53|@EmptikBotEman|2103
@@ -226,7 +226,7 @@ Rank|Bot|Rating
 #224|@stockfish12_Johan|1717
 #225|@TungJohn|1714
 #226|@TeamChelsie|1712
-#227|@OpeningsBot|1702
+#227|@OpeningsBot|1706
 #228|@fantasticbot|1699
 #229|@Peaceful4Life|1694
 #230|@Crepusculum|1693
@@ -297,8 +297,8 @@ Rank|Bot|Rating
 #295|@NeuralLeela|1431
 #296|@LilDoctorJank|1430
 #297|@LeelaLevel5|1427
-#298|@FataliiBot|1418
-#299|@TheSystem_Bot|1416
+#298|@TheSystem_Bot|1416
+#299|@FataliiBot|1414
 #300|@jasans_bot|1396
 #301|@NienishiEngine|1388
 #302|@All_Except_Chess960|1387
