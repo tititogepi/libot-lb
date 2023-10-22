@@ -102,8 +102,8 @@ Rank|Bot|Rating
 #100|@Beyondcomprehension|2039
 #101|@faith_bot|2037
 #102|@CocopikachuBOT|2036
-#103|@zeekat|2036
-#104|@HyperPhoenix21|2035
+#103|@HyperPhoenix21|2035
+#104|@zeekat|2033
 #105|@EmptikCorrespondence|2031
 #106|@StrongMagnusCarlsen|2027
 #107|@kybot|2025
@@ -125,7 +125,7 @@ Rank|Bot|Rating
 #123|@Thera_Engine|1955
 #124|@honzovy-sachy|1953
 #125|@BOTsharpchess|1952
-#126|@ZE_ROOK|1940
+#126|@ZE_ROOK|1942
 #127|@Los-Guerreros1|1935
 #128|@TheLegendaryKnight|1935
 #129|@Virutor|1934

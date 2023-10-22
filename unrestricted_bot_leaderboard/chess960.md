@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@LeelaChessTest|2208
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
-#13|@YoBot_v2|2199
-#14|@Corvus-1|2197
+#13|@Corvus-1|2197
+#14|@YoBot_v2|2197
 #15|@TheFreshman1902|2194
 #16|@ResoluteBot|2193
 #17|@hyperchessbot1|2189
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@pangubot|2128
 #43|@BetterAnalyze|2125
 #44|@Caissa-NNUE|2124
-#45|@faith_bot|2113
+#45|@faith_bot|2115
 #46|@JeffIO|2113
 #47|@Dragon_1906|2111
 #48|@ibep|2111
@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@Vinh_VariantsBot|2098
 #59|@ChessBot2156|2095
 #60|@Shineshou90_BOT|2093
-#61|@UnDisstoppableBot|2090
-#62|@Lila-Stockfish|2089
-#63|@RaspFish|2089
+#61|@RaspFish|2091
+#62|@UnDisstoppableBot|2090
+#63|@Lila-Stockfish|2089
 #64|@Nikitosik-ai|2084
 #65|@Mittens-Bot|2081
 #66|@chessbot2880|2079
@@ -153,10 +153,10 @@ Rank|Bot|Rating
 #151|@nukechess-bot|1927
 #152|@AI-Energy|1922
 #153|@lc0_GPU|1922
-#154|@NikitosikVariantsbot|1922
-#155|@Chess-Freelancer|1920
-#156|@KingfishX|1920
-#157|@Viet-BOT|1917
+#154|@Chess-Freelancer|1920
+#155|@KingfishX|1920
+#156|@Viet-BOT|1917
+#157|@NikitosikVariantsbot|1915
 #158|@EndoKingsSpade|1911
 #159|@WennDieSoldatBOT|1910
 #160|@StockfishPower|1909
@@ -187,9 +187,9 @@ Rank|Bot|Rating
 #185|@newengine2022|1842
 #186|@GodelEscherBot|1837
 #187|@LordNTR|1837
-#188|@Simpafteur|1833
-#189|@ChessHunterBot|1831
-#190|@Tundra4|1831
+#188|@Tundra4|1834
+#189|@Simpafteur|1833
+#190|@ChessHunterBot|1831
 #191|@ZamuChess|1822
 #192|@AI69|1821
 #193|@StormphraxEngine|1820
@@ -226,7 +226,7 @@ Rank|Bot|Rating
 #224|@stockfish12_Johan|1717
 #225|@TungJohn|1714
 #226|@TeamChelsie|1712
-#227|@OpeningsBot|1700
+#227|@OpeningsBot|1701
 #228|@fantasticbot|1699
 #229|@Peaceful4Life|1694
 #230|@Crepusculum|1693
@@ -298,7 +298,7 @@ Rank|Bot|Rating
 #296|@LilDoctorJank|1430
 #297|@LeelaLevel5|1427
 #298|@TheSystem_Bot|1416
-#299|@FataliiBot|1414
+#299|@FataliiBot|1412
 #300|@jasans_bot|1396
 #301|@NienishiEngine|1388
 #302|@All_Except_Chess960|1387
@@ -344,7 +344,7 @@ Rank|Bot|Rating
 #342|@DrunkenMasterEngine|1204
 #343|@MrKING74_btw|1191
 #344|@schnecken_bot|1182
-#345|@Demolito_L5|1166
+#345|@Demolito_L5|1168
 #346|@BerntBOT|1162
 #347|@naughty-dottie|1158
 #348|@Pineapple-Friendly|1151
@@ -363,7 +363,7 @@ Rank|Bot|Rating
 #361|@Bot2000|983
 #362|@BogoBot|974
 #363|@ZokBot|969
-#364|@Demolito_L4|964
+#364|@Demolito_L4|961
 #365|@RandomTree77|956
 #366|@Bot_Swana|943
 #367|@bobandi|940

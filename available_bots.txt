@@ -1906,6 +1906,7 @@ skywalker_bot
 skzapbot
 slav-tech
 sldeadshot22
+slothengine
 slvov-bot
 smallbrainpy
 smartieandyou
@@ -2380,4 +2381,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-slothengine
