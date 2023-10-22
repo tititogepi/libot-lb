@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@Lc0Test|2128
 #42|@pangubot|2128
 #43|@BetterAnalyze|2125
-#44|@faith_bot|2125
-#45|@Caissa-NNUE|2124
+#44|@Caissa-NNUE|2124
+#45|@faith_bot|2122
 #46|@JeffIO|2113
 #47|@Dragon_1906|2111
 #48|@ibep|2111
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@EvenMatchup|2099
 #57|@Vinh_VariantsBot|2098
 #58|@ChessBot2156|2095
-#59|@RaspFish|2095
-#60|@Shineshou90_BOT|2093
+#59|@Shineshou90_BOT|2093
+#60|@RaspFish|2090
 #61|@UnDisstoppableBot|2090
 #62|@Lila-Stockfish|2089
 #63|@Nikitosik-ai|2084
@@ -181,8 +181,8 @@ Rank|Bot|Rating
 #179|@PerseveranceRover|1851
 #180|@Sovereign_bot|1851
 #181|@TheEnsemble|1851
-#182|@tt-challenge|1850
-#183|@Tundra4|1844
+#182|@Tundra4|1851
+#183|@tt-challenge|1850
 #184|@Test_God_50_BOT|1843
 #185|@newengine2022|1842
 #186|@GodelEscherBot|1837
@@ -221,7 +221,7 @@ Rank|Bot|Rating
 #219|@Magnus-BOT|1733
 #220|@Velvet-Engine|1732
 #221|@Viridithas|1728
-#222|@OpeningsBot|1719
+#222|@OpeningsBot|1725
 #223|@stockfish12_Johan|1717
 #224|@TungJohn|1714
 #225|@TeamChelsie|1712
@@ -296,7 +296,7 @@ Rank|Bot|Rating
 #294|@NeuralLeela|1431
 #295|@LilDoctorJank|1430
 #296|@LeelaLevel5|1427
-#297|@FataliiBot|1421
+#297|@FataliiBot|1424
 #298|@TheSystem_Bot|1416
 #299|@jasans_bot|1396
 #300|@NienishiEngine|1388
@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@Bot8983|1210
 #341|@DrunkenMasterEngine|1204
 #342|@MrKING74_btw|1191
-#343|@Demolito_L5|1182
+#343|@Demolito_L5|1184
 #344|@schnecken_bot|1182
 #345|@BerntBOT|1162
 #346|@naughty-dottie|1158
@@ -363,9 +363,9 @@ Rank|Bot|Rating
 #361|@BogoBot|974
 #362|@ZokBot|969
 #363|@RandomTree77|956
-#364|@Demolito_L4|945
-#365|@Bot_Swana|943
-#366|@bobandi|940
+#364|@Bot_Swana|943
+#365|@bobandi|940
+#366|@Demolito_L4|938
 #367|@YellowJackets_Bot|925
 #368|@botTideEval|875
 #369|@Palisade|800
