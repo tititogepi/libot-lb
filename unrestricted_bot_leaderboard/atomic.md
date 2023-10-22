@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@Yes-Standerd-Yes|2260
 #54|@Johnsun|2257
 #55|@YoBot_v2|2243
-#56|@NikitosikVariantsbot|2239
+#56|@NikitosikVariantsbot|2242
 #57|@MalanChess|2238
 #58|@TheMatrix2025|2234
 #59|@STockfishdestroyBot|2227
@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@EagleEye2021|1935
 #137|@hjhjhjhjhjhj|1923
 #138|@FyChess2|1921
-#139|@OpeningsBot|1912
+#139|@OpeningsBot|1909
 #140|@B4dF1sh|1903
 #141|@Isotopebot|1900
 #142|@Just-a-random-bot|1898

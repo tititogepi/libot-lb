@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@Lc0Test|2128
 #42|@pangubot|2128
 #43|@BetterAnalyze|2125
-#44|@Caissa-NNUE|2124
-#45|@faith_bot|2122
+#44|@faith_bot|2125
+#45|@Caissa-NNUE|2124
 #46|@JeffIO|2113
 #47|@Dragon_1906|2111
 #48|@ibep|2111
@@ -155,8 +155,8 @@ Rank|Bot|Rating
 #153|@lc0_GPU|1922
 #154|@Chess-Freelancer|1920
 #155|@KingfishX|1920
-#156|@NikitosikVariantsbot|1920
-#157|@Viet-BOT|1917
+#156|@Viet-BOT|1917
+#157|@NikitosikVariantsbot|1916
 #158|@EndoKingsSpade|1911
 #159|@WennDieSoldatBOT|1910
 #160|@StockfishPower|1909
@@ -222,11 +222,11 @@ Rank|Bot|Rating
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
 #222|@Viridithas|1728
-#223|@stockfish12_Johan|1717
-#224|@TungJohn|1714
-#225|@OpeningsBot|1713
+#223|@OpeningsBot|1718
+#224|@stockfish12_Johan|1717
+#225|@TungJohn|1714
 #226|@TeamChelsie|1712
-#227|@Cheng-4|1704
+#227|@Cheng-4|1702
 #228|@fantasticbot|1699
 #229|@Peaceful4Life|1694
 #230|@Crepusculum|1693
@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@Mariana-031|1667
 #239|@TurkiyeHogwarts|1663
 #240|@Lightning_SpeedChess|1660
-#241|@Leela8-Test|1659
+#241|@Leela8-Test|1658
 #242|@DrSmartBugs|1655
 #243|@AndromedaSX1|1650
 #244|@CloudBotZero|1645
@@ -297,7 +297,7 @@ Rank|Bot|Rating
 #295|@NeuralLeela|1431
 #296|@LilDoctorJank|1430
 #297|@LeelaLevel5|1427
-#298|@FataliiBot|1422
+#298|@FataliiBot|1425
 #299|@TheSystem_Bot|1416
 #300|@jasans_bot|1396
 #301|@NienishiEngine|1388
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@Bot8983|1210
 #342|@DrunkenMasterEngine|1204
 #343|@MrKING74_btw|1191
-#344|@Demolito_L5|1186
+#344|@Demolito_L5|1185
 #345|@schnecken_bot|1182
 #346|@BerntBOT|1162
 #347|@naughty-dottie|1158
@@ -364,7 +364,7 @@ Rank|Bot|Rating
 #362|@BogoBot|974
 #363|@ZokBot|969
 #364|@RandomTree77|956
-#365|@Demolito_L4|946
+#365|@Demolito_L4|945
 #366|@Bot_Swana|943
 #367|@bobandi|940
 #368|@YellowJackets_Bot|925

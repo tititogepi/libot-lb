@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Viet-AI|2471
 #11|@EmptikBot|2454
 #12|@F0rgot|2434
-#13|@AjedrezChamberi|2413
+#13|@AjedrezChamberi|2415
 #14|@pawn_git|2405
 #15|@HulkBot|2387
 #16|@Mega_BOT|2371
