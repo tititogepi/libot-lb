@@ -50,10 +50,10 @@ Rank|Bot|Rating
 #48|@Mega_BOT|2264
 #49|@MalanChess|2261
 #50|@chesshyperbot|2259
-#51|@ESC_BOT|2253
-#52|@relevantproblem|2251
-#53|@GodelEscherBot|2244
-#54|@NikitosikVariantsbot|2240
+#51|@NikitosikVariantsbot|2258
+#52|@ESC_BOT|2253
+#53|@relevantproblem|2251
+#54|@GodelEscherBot|2244
 #55|@ResoluteBot|2225
 #56|@XXIstCentury|2225
 #57|@Resolved-Bot|2223
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@xiang-qi|2113
 #72|@atomicli|2111
 #73|@Trumpfor2O2O|2103
-#74|@OpeningsBot|2081
+#74|@OpeningsBot|2074
 #75|@CloudBOT|2073
 #76|@JustDontFlagMe|2048
 #77|@Stockfish-MEDIUM|2043
