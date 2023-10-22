@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@Dean_Summer_Bot|1898
 #78|@Galaxy_Guardian|1898
 #79|@azdad|1895
-#80|@NikitosikVariantsbot|1893
-#81|@The-Fastest-Bot|1885
+#80|@The-Fastest-Bot|1885
+#81|@NikitosikVariantsbot|1880
 #82|@XXIstCentury|1875
 #83|@ChessBot3021|1872
 #84|@CocopikachuBOT|1868
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
 #104|@Stockfish-MEDIUM|1717
-#105|@OpeningsBot|1707
+#105|@OpeningsBot|1713
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
 #108|@FASTCHESSBOT|1666
