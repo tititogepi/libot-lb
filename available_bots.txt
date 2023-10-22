@@ -461,6 +461,7 @@ chess_pro9600
 chess_star_01
 chess_technik
 chessandtechsbot
+chessatronbot
 chessbot2156
 chessbot2880
 chessbot3021
@@ -2381,4 +2382,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chessatronbot
