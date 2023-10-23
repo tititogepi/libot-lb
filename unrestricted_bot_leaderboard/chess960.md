@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@TheFreshman1902|2194
 #15|@ResoluteBot|2193
 #16|@hyperchessbot1|2189
-#17|@YoBot_v2|2185
+#17|@YoBot_v2|2183
 #18|@Kizburb|2182
 #19|@VariantsBot|2180
 #20|@ToromBot|2175
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@Nikitosikbot|2168
 #26|@rtx3080tibot|2162
 #27|@too_ez4me|2160
-#28|@TorBot_v2|2159
+#28|@TorBot_v2|2160
 #29|@YellowFlash-X|2158
 #30|@TheMatrix2025|2156
 #31|@YellowFlash_v2|2156
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@pangubot|2128
 #43|@BetterAnalyze|2125
 #44|@Caissa-NNUE|2124
-#45|@faith_bot|2122
+#45|@faith_bot|2123
 #46|@JeffIO|2113
 #47|@Dragon_1906|2111
 #48|@ibep|2111
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@Vinh_VariantsBot|2098
 #58|@ChessBot2156|2095
 #59|@Shineshou90_BOT|2093
-#60|@RaspFish|2090
+#60|@RaspFish|2092
 #61|@UnDisstoppableBot|2090
 #62|@Lila-Stockfish|2089
 #63|@Nikitosik-ai|2084
@@ -152,9 +152,9 @@ Rank|Bot|Rating
 #150|@nukechess-bot|1927
 #151|@AI-Energy|1922
 #152|@lc0_GPU|1922
-#153|@Chess-Freelancer|1920
-#154|@KingfishX|1920
-#155|@NikitosikVariantsbot|1919
+#153|@NikitosikVariantsbot|1922
+#154|@Chess-Freelancer|1920
+#155|@KingfishX|1920
 #156|@Viet-BOT|1917
 #157|@EndoKingsSpade|1911
 #158|@WennDieSoldatBOT|1910
@@ -237,8 +237,8 @@ Rank|Bot|Rating
 #235|@StashBot|1669
 #236|@eubos|1667
 #237|@Mariana-031|1667
-#238|@TurkiyeHogwarts|1663
-#239|@Leela8-Test|1661
+#238|@Leela8-Test|1663
+#239|@TurkiyeHogwarts|1663
 #240|@Lightning_SpeedChess|1660
 #241|@DrSmartBugs|1655
 #242|@AndromedaSX1|1650
@@ -296,7 +296,7 @@ Rank|Bot|Rating
 #294|@NeuralLeela|1431
 #295|@LilDoctorJank|1430
 #296|@LeelaLevel5|1427
-#297|@FataliiBot|1424
+#297|@FataliiBot|1420
 #298|@TheSystem_Bot|1416
 #299|@jasans_bot|1396
 #300|@NienishiEngine|1388

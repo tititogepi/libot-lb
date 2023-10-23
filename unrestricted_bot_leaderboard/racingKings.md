@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@NormalBulletBot|2291
 #46|@YoBot_v2|2287
 #47|@AlfaBot|2278
-#48|@Mega_BOT|2264
-#49|@MalanChess|2261
-#50|@chesshyperbot|2259
-#51|@NikitosikVariantsbot|2258
+#48|@NikitosikVariantsbot|2265
+#49|@Mega_BOT|2264
+#50|@MalanChess|2261
+#51|@chesshyperbot|2259
 #52|@ESC_BOT|2253
 #53|@relevantproblem|2251
 #54|@GodelEscherBot|2244
@@ -73,8 +73,8 @@ Rank|Bot|Rating
 #71|@xiang-qi|2113
 #72|@atomicli|2111
 #73|@Trumpfor2O2O|2103
-#74|@OpeningsBot|2074
-#75|@CloudBOT|2073
+#74|@CloudBOT|2073
+#75|@OpeningsBot|2071
 #76|@JustDontFlagMe|2048
 #77|@Stockfish-MEDIUM|2043
 #78|@Crepusculum|2036

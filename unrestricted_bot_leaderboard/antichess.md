@@ -43,10 +43,10 @@ Rank|Bot|Rating
 #41|@Bot_AOOP11|2521
 #42|@HyperLitikBOT|2511
 #43|@pistol-play|2498
-#44|@NilatacBot|2483
-#45|@MrBOThacker|2477
-#46|@hauptschuleBOT|2475
-#47|@Alehkine_cat|2474
+#44|@MrBOThacker|2477
+#45|@hauptschuleBOT|2475
+#46|@Alehkine_cat|2474
+#47|@NilatacBot|2474
 #48|@ttBOT|2468
 #49|@Fairy-Stockfish|2460
 #50|@PepsiForAll|2460
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2286
+#82|@OpeningsBot|2295
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
