@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@lord-bot|2037
 #56|@ttBOT|2031
 #57|@Resolved-Bot|2026
-#58|@OpeningsBot|2007
+#58|@OpeningsBot|2008
 #59|@firstrobot|2003
 #60|@Hyper-Stockfish|1986
 #61|@GodelEscherBot|1974

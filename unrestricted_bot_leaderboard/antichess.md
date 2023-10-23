@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
-#83|@Dean_Summer_Bot|2279
-#84|@OpeningsBot|2275
+#83|@OpeningsBot|2281
+#84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
 #86|@SkyBlaster|2254
 #87|@mrchessmanager|2240
@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@NormalBlitzBulletBot|2205
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
-#104|@anti-bot|2183
+#104|@anti-bot|2179
 #105|@Lucror|2178
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
