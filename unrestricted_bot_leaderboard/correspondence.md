@@ -352,7 +352,7 @@ Rank|Bot|Rating
 #350|@AXWChessBot|1096
 #351|@StashBot|1075
 #352|@Light_To_The_Rescue|1057
-#353|@G0thamB0t|1044
+#353|@G0thamB0t|1022
 #354|@mustaley|973
 #355|@BerserkRandomMover|963
 #356|@grandQ_AI|874

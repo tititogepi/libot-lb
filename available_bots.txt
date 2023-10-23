@@ -1228,6 +1228,7 @@ leelaguess
 leelahatena
 leelainstinct
 leelaisbeautiful
+leelaknightodds
 leelalevel5
 leelamultiposs
 leelanice
@@ -2382,4 +2383,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leelaknightodds

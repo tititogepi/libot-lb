@@ -17,10 +17,10 @@ Rank|Bot|Rating
 #15|@Fairy-Stockfish|2289
 #16|@Kizburb|2276
 #17|@lord-bot|2271
-#18|@ibep|2258
-#19|@LudwigBOT|2256
-#20|@CloudBot_v2|2252
-#21|@NikitosikVariantsbot|2241
+#18|@NikitosikVariantsbot|2271
+#19|@ibep|2258
+#20|@LudwigBOT|2256
+#21|@CloudBot_v2|2252
 #22|@ElPeonElectrico|2203
 #23|@UltronBot|2199
 #24|@Trumpfor2O2O|2162
