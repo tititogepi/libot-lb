@@ -842,6 +842,7 @@ ghdes
 ghostfacebot
 ghostfreak123
 ghosty_347
+gianmarcochessbot
 giffibot
 gilgameshthebot
 gilk260
@@ -2383,4 +2384,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gianmarcochessbot

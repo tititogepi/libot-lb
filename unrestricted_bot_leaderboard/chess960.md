@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@Kizburb|2182
 #18|@VariantsBot|2180
 #19|@YoBot_v2|2178
-#20|@ToromBot|2176
-#21|@Intron014|2174
+#20|@Intron014|2177
+#21|@ToromBot|2176
 #22|@Bot_McBotface|2172
 #23|@lord-bot|2171
 #24|@EmptikBot|2168
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2150
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@faith_bot|2139
+#38|@faith_bot|2141
 #39|@duythong1402|2133
 #40|@EmptikVariantsBot|2132
 #41|@F1R3BOT|2128
@@ -150,9 +150,9 @@ Rank|Bot|Rating
 #148|@Johnsun|1932
 #149|@Lord-Chess-Bot|1930
 #150|@nukechess-bot|1927
-#151|@NikitosikVariantsbot|1924
-#152|@AI-Energy|1922
-#153|@lc0_GPU|1922
+#151|@AI-Energy|1922
+#152|@lc0_GPU|1922
+#153|@NikitosikVariantsbot|1922
 #154|@Chess-Freelancer|1920
 #155|@KingfishX|1920
 #156|@Viet-BOT|1917
@@ -220,12 +220,12 @@ Rank|Bot|Rating
 #218|@spaceisbot|1744
 #219|@Magnus-BOT|1733
 #220|@Velvet-Engine|1732
-#221|@OpeningsBot|1730
+#221|@OpeningsBot|1731
 #222|@Viridithas|1728
 #223|@stockfish12_Johan|1717
 #224|@TungJohn|1714
 #225|@TeamChelsie|1712
-#226|@Cheng-4|1702
+#226|@Cheng-4|1699
 #227|@fantasticbot|1699
 #228|@Peaceful4Life|1694
 #229|@Crepusculum|1693
@@ -238,8 +238,8 @@ Rank|Bot|Rating
 #236|@eubos|1667
 #237|@Mariana-031|1667
 #238|@TurkiyeHogwarts|1663
-#239|@Lightning_SpeedChess|1660
-#240|@Leela8-Test|1659
+#239|@Leela8-Test|1661
+#240|@Lightning_SpeedChess|1660
 #241|@DrSmartBugs|1655
 #242|@AndromedaSX1|1650
 #243|@CloudBotZero|1645
@@ -294,9 +294,9 @@ Rank|Bot|Rating
 #292|@FN_Waldi|1436
 #293|@chicken_farmer|1435
 #294|@NeuralLeela|1431
-#295|@FataliiBot|1430
-#296|@LilDoctorJank|1430
-#297|@LeelaLevel5|1427
+#295|@LilDoctorJank|1430
+#296|@LeelaLevel5|1427
+#297|@FataliiBot|1417
 #298|@TheSystem_Bot|1416
 #299|@jasans_bot|1396
 #300|@NienishiEngine|1388
@@ -342,8 +342,8 @@ Rank|Bot|Rating
 #340|@Bot8983|1210
 #341|@DrunkenMasterEngine|1204
 #342|@MrKING74_btw|1191
-#343|@schnecken_bot|1182
-#344|@Demolito_L5|1177
+#343|@Demolito_L5|1186
+#344|@schnecken_bot|1182
 #345|@BerntBOT|1162
 #346|@naughty-dottie|1158
 #347|@Pineapple-Friendly|1151
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@RandomTree77|956
 #364|@Bot_Swana|943
 #365|@bobandi|940
-#366|@Demolito_L4|929
+#366|@Demolito_L4|933
 #367|@YellowJackets_Bot|925
 #368|@botTideEval|875
 #369|@Palisade|800
@@ -373,4 +373,4 @@ Rank|Bot|Rating
 #371|@LeelaWeak|735
 #372|@FelixLeonidovich|730
 #373|@pawnrobot|718
-#374|@konaz|677
+#374|@konaz|625
