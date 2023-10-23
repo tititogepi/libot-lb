@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@Fairy_Belzedar|2559
 #8|@EmptikVariantsBot|2557
 #9|@FireFishBOT|2547
-#10|@ToromBot|2541
-#11|@LudwigBOT|2536
+#10|@LudwigBOT|2536
+#11|@ToromBot|2530
 #12|@Coolman2021|2527
 #13|@EmptikBot|2526
 #14|@Dark_evil_bot|2496
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@NormalBulletBot|2291
 #46|@YoBot_v2|2287
 #47|@AlfaBot|2278
-#48|@NikitosikVariantsbot|2265
+#48|@NikitosikVariantsbot|2273
 #49|@Mega_BOT|2264
 #50|@MalanChess|2261
 #51|@chesshyperbot|2259
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@atomicli|2111
 #73|@Trumpfor2O2O|2103
 #74|@CloudBOT|2073
-#75|@OpeningsBot|2071
+#75|@OpeningsBot|2073
 #76|@JustDontFlagMe|2048
 #77|@Stockfish-MEDIUM|2043
 #78|@Crepusculum|2036
