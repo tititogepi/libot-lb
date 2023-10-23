@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Kizburb|2182
 #18|@YoBot_v2|2181
 #19|@VariantsBot|2180
-#20|@ToromBot|2175
+#20|@ToromBot|2176
 #21|@Intron014|2174
 #22|@Bot_McBotface|2172
 #23|@lord-bot|2171
@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@lc0_GPU|1922
 #153|@Chess-Freelancer|1920
 #154|@KingfishX|1920
-#155|@NikitosikVariantsbot|1918
+#155|@NikitosikVariantsbot|1920
 #156|@Viet-BOT|1917
 #157|@EndoKingsSpade|1911
 #158|@WennDieSoldatBOT|1910
@@ -218,7 +218,7 @@ Rank|Bot|Rating
 #216|@Ch4rl3s|1748
 #217|@DxrkOnBot|1746
 #218|@spaceisbot|1744
-#219|@OpeningsBot|1736
+#219|@OpeningsBot|1737
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
 #222|@Viridithas|1728
@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@TurkiyeHogwarts|1663
 #239|@Lightning_SpeedChess|1660
 #240|@DrSmartBugs|1655
-#241|@Leela8-Test|1654
+#241|@Leela8-Test|1652
 #242|@AndromedaSX1|1650
 #243|@CloudBotZero|1645
 #244|@Los-Guerreros1|1643
@@ -295,7 +295,7 @@ Rank|Bot|Rating
 #293|@chicken_farmer|1435
 #294|@NeuralLeela|1431
 #295|@LilDoctorJank|1430
-#296|@FataliiBot|1429
+#296|@FataliiBot|1428
 #297|@LeelaLevel5|1427
 #298|@TheSystem_Bot|1416
 #299|@jasans_bot|1396
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@DrunkenMasterEngine|1204
 #342|@MrKING74_btw|1191
 #343|@schnecken_bot|1182
-#344|@Demolito_L5|1174
+#344|@Demolito_L5|1177
 #345|@BerntBOT|1162
 #346|@naughty-dottie|1158
 #347|@Pineapple-Friendly|1151
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@RandomTree77|956
 #364|@Bot_Swana|943
 #365|@bobandi|940
-#366|@Demolito_L4|940
+#366|@Demolito_L4|928
 #367|@YellowJackets_Bot|925
 #368|@botTideEval|875
 #369|@Palisade|800
@@ -373,4 +373,4 @@ Rank|Bot|Rating
 #371|@LeelaWeak|735
 #372|@FelixLeonidovich|730
 #373|@konaz|719
-#374|@pawnrobot|707
+#374|@pawnrobot|718
