@@ -13,12 +13,12 @@ Rank|Bot|Rating
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
 #13|@Corvus-1|2197
-#14|@ResoluteBot|2191
-#15|@TheFreshman1902|2191
+#14|@TheFreshman1902|2191
+#15|@ResoluteBot|2190
 #16|@hyperchessbot1|2189
 #17|@Kizburb|2182
 #18|@VariantsBot|2180
-#19|@YoBot_v2|2179
+#19|@YoBot_v2|2178
 #20|@ToromBot|2176
 #21|@Intron014|2174
 #22|@Bot_McBotface|2172
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2150
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@faith_bot|2137
+#38|@faith_bot|2139
 #39|@duythong1402|2133
 #40|@EmptikVariantsBot|2132
 #41|@F1R3BOT|2128
@@ -136,10 +136,10 @@ Rank|Bot|Rating
 #134|@BerserkEngine|1956
 #135|@TuroChamp1948|1955
 #136|@Hagfish|1954
-#137|@ararimbelami|1953
-#138|@crocodile5|1953
-#139|@chesshyperbot|1951
-#140|@StockfishPro-BOT|1950
+#137|@crocodile5|1953
+#138|@chesshyperbot|1951
+#139|@StockfishPro-BOT|1950
+#140|@ararimbelami|1947
 #141|@SkyBlaster|1945
 #142|@WindowsI5Bot|1944
 #143|@Stockfish-NNUE|1942
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@DrunkenMasterEngine|1204
 #342|@MrKING74_btw|1191
 #343|@schnecken_bot|1182
-#344|@Demolito_L5|1174
+#344|@Demolito_L5|1177
 #345|@BerntBOT|1162
 #346|@naughty-dottie|1158
 #347|@Pineapple-Friendly|1151
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@RandomTree77|956
 #364|@Bot_Swana|943
 #365|@bobandi|940
-#366|@Demolito_L4|931
+#366|@Demolito_L4|929
 #367|@YellowJackets_Bot|925
 #368|@botTideEval|875
 #369|@Palisade|800

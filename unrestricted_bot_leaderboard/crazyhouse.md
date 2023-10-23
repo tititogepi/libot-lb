@@ -105,7 +105,7 @@ Rank|Bot|Rating
 #103|@TJchessBot|1741
 #104|@Stockfish-MEDIUM|1717
 #105|@Lightning_SpeedChess|1696
-#106|@OpeningsBot|1690
+#106|@OpeningsBot|1691
 #107|@B0T5_RU13|1683
 #108|@FASTCHESSBOT|1666
 #109|@SipsonsamsonBOT|1665
@@ -170,8 +170,8 @@ Rank|Bot|Rating
 #168|@NightStarFox|1243
 #169|@Happy_One|1223
 #170|@Grand_MefBartu-BOT|1200
-#171|@pawnrobot|1197
-#172|@magnusglad_bot|1196
+#171|@magnusglad_bot|1196
+#172|@pawnrobot|1195
 #173|@FluffBallCuddly|1191
 #174|@heatseeker223|1191
 #175|@ChessPlayer1225|1183
