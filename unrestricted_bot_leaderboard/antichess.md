@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@HyperLitikBOT|2511
 #43|@pistol-play|2498
 #44|@NikitosikVariantsbot|2483
-#45|@NilatacBot|2478
+#45|@NilatacBot|2481
 #46|@MrBOThacker|2477
 #47|@hauptschuleBOT|2475
 #48|@Alehkine_cat|2474
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2295
+#82|@OpeningsBot|2285
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1913
+#124|@pawnrobot|1921
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861

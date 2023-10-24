@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@azdad|1936
 #71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
-#73|@DrSmartBugs|1904
-#74|@OpeningsBot|1902
+#73|@OpeningsBot|1905
+#74|@DrSmartBugs|1904
 #75|@Variantenkoning|1892
 #76|@MistakeBOT|1886
 #77|@EagleEye2021|1880
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@MagnusCarlsen1507|1492
 #116|@SugarAndSpice|1489
 #117|@rtx3080tibot|1487
-#118|@DavidsGuterBot|1479
+#118|@DavidsGuterBot|1476
 #119|@SUMAL_BRO|1476
 #120|@Less_of_a_threat|1470
 #121|@Bbao23-chess|1469

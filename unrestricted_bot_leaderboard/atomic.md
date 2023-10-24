@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@atomicli|1951
 #135|@HappyDeepawali|1941
 #136|@EagleEye2021|1935
-#137|@OpeningsBot|1929
+#137|@OpeningsBot|1930
 #138|@hjhjhjhjhjhj|1923
 #139|@FyChess2|1921
 #140|@B4dF1sh|1903
