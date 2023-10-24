@@ -1,5 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|1904
-#2|@DavidsGuterBot|1479
-#3|@pawnrobot|1178
+#1|@RaspFish|2280
+#2|@OpeningsBot|1903
+#3|@DavidsGuterBot|1479
+#4|@pawnrobot|1178

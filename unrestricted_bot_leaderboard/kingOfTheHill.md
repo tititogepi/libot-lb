@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@MalanChess|2292
 #19|@LudwigBOT|2281
 #20|@Nikitosikbot|2281
-#21|@RaspFish|2278
+#21|@RaspFish|2280
 #22|@LoseisnotAvailablehe|2274
 #23|@bananaaaaaaaaa_test|2269
 #24|@Bobby_Fischer_BOT|2267
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
-#74|@OpeningsBot|1904
+#74|@OpeningsBot|1903
 #75|@Variantenkoning|1892
 #76|@MistakeBOT|1886
 #77|@EagleEye2021|1880
