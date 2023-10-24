@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@Occhessadvanced|2638
 #4|@TheFreshman1902|2634
 #5|@Africaata|2631
-#6|@YoBot_v2|2625
+#6|@YoBot_v2|2626
 #7|@ttBOT|2617
 #8|@ResoluteBot|2611
 #9|@RaspFish|2591
@@ -54,12 +54,12 @@ Rank|Bot|Rating
 #52|@simplexitor|1620
 #53|@sargon-4ply|1618
 #54|@Trollfish-Bot|1616
-#55|@maia5|1608
+#55|@maia1|1615
 #56|@ZE_ROOK|1606
-#57|@maia1|1601
+#57|@maia5|1605
 #58|@sargon-3ply|1584
-#59|@sargon-2ply|1489
+#59|@sargon-2ply|1490
 #60|@Humaia|1456
-#61|@turochamp-1ply|1342
-#62|@sargon-1ply|1277
-#63|@G0thamB0t|776
+#61|@turochamp-1ply|1339
+#62|@sargon-1ply|1291
+#63|@G0thamB0t|772
