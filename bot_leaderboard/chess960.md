@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@duythong1402|2133
 #11|@RaspFish|2105
 #12|@Tundra4|1856
-#13|@OpeningsBot|1746
+#13|@OpeningsBot|1748
 #14|@Cheng-4|1697
 #15|@Leela8-Test|1659
-#16|@FataliiBot|1426
-#17|@Demolito_L5|1156
-#18|@Demolito_L4|930
+#16|@FataliiBot|1430
+#17|@Demolito_L5|1143
+#18|@Demolito_L4|939
 #19|@pawnrobot|718

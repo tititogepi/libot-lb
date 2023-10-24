@@ -216,8 +216,8 @@ Rank|Bot|Rating
 #214|@XXIstCentury|1752
 #215|@MikhailTal_AI|1750
 #216|@Ch4rl3s|1748
-#217|@DxrkOnBot|1746
-#218|@OpeningsBot|1746
+#217|@OpeningsBot|1748
+#218|@DxrkOnBot|1746
 #219|@spaceisbot|1744
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
@@ -294,9 +294,9 @@ Rank|Bot|Rating
 #292|@FN_Waldi|1436
 #293|@chicken_farmer|1435
 #294|@NeuralLeela|1431
-#295|@LilDoctorJank|1430
-#296|@LeelaLevel5|1427
-#297|@FataliiBot|1426
+#295|@FataliiBot|1430
+#296|@LilDoctorJank|1430
+#297|@LeelaLevel5|1427
 #298|@TheSystem_Bot|1416
 #299|@jasans_bot|1396
 #300|@NienishiEngine|1388
@@ -345,10 +345,10 @@ Rank|Bot|Rating
 #343|@schnecken_bot|1182
 #344|@BerntBOT|1162
 #345|@naughty-dottie|1158
-#346|@Demolito_L5|1156
-#347|@Pineapple-Friendly|1151
-#348|@WeakBot|1151
-#349|@St6090|1149
+#346|@Pineapple-Friendly|1151
+#347|@WeakBot|1151
+#348|@St6090|1149
+#349|@Demolito_L5|1143
 #350|@Light_To_The_Rescue|1126
 #351|@GuineaBot3|1123
 #352|@ZX-Chess|1119
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@RandomTree77|956
 #364|@Bot_Swana|943
 #365|@bobandi|940
-#366|@Demolito_L4|930
+#366|@Demolito_L4|939
 #367|@YellowJackets_Bot|925
 #368|@botTideEval|875
 #369|@Palisade|800

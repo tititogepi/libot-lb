@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@TheMatrix2025|2389
 #10|@Corvus-1|2386
 #11|@FireFishBOT|2385
-#12|@ToromBot|2382
+#12|@ToromBot|2383
 #13|@Coolman2021|2378
 #14|@Karpov_bot|2359
 #15|@AndromedaSX1|2344
@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@MagnusCarlsen1507|1492
 #116|@SugarAndSpice|1489
 #117|@rtx3080tibot|1487
-#118|@DavidsGuterBot|1480
+#118|@DavidsGuterBot|1479
 #119|@SUMAL_BRO|1476
 #120|@Less_of_a_threat|1470
 #121|@Bbao23-chess|1469

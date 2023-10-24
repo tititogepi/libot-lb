@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@OpeningsBot|1902
-#2|@DavidsGuterBot|1480
+#2|@DavidsGuterBot|1479
 #3|@pawnrobot|1175
