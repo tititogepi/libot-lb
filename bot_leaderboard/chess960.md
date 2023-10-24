@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@YoBot_v2|2177
 #4|@Intron014|2175
 #5|@ToromBot|2175
-#6|@TorBot_v2|2152
+#6|@TorBot_v2|2153
 #7|@TorBot|2151
 #8|@VariantsTop|2150
 #9|@faith_bot|2137
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@Tundra4|1856
 #13|@OpeningsBot|1746
 #14|@Cheng-4|1697
-#15|@Leela8-Test|1658
-#16|@FataliiBot|1418
-#17|@Demolito_L5|1156
-#18|@Demolito_L4|940
+#15|@Leela8-Test|1660
+#16|@FataliiBot|1416
+#17|@Demolito_L5|1159
+#18|@Demolito_L4|938
 #19|@pawnrobot|718

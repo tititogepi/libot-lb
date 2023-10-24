@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2785
 #13|@VariantsTop|2765
 #14|@Viet-AI|2765
-#15|@RaspFish|2759
+#15|@RaspFish|2760
 #16|@ibep|2733
 #17|@lord-bot|2679
 #18|@LoseisnotAvailablehe|2677
