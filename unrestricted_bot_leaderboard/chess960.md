@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@hyperchessbot1|2189
 #17|@Kizburb|2182
 #18|@VariantsBot|2180
-#19|@YoBot_v2|2177
+#19|@YoBot_v2|2176
 #20|@Intron014|2175
 #21|@ToromBot|2175
 #22|@Bot_McBotface|2172
@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@TheMatrix2025|2156
 #30|@YellowFlash_v2|2156
 #31|@ReinforcementTrial|2154
-#32|@FireFishBOT|2153
-#33|@TorBot_v2|2153
+#32|@TorBot_v2|2154
+#33|@FireFishBOT|2153
 #34|@TorBot|2151
 #35|@VariantsTop|2150
 #36|@TTC-BOT_2|2148
@@ -296,7 +296,7 @@ Rank|Bot|Rating
 #294|@NeuralLeela|1431
 #295|@LilDoctorJank|1430
 #296|@LeelaLevel5|1427
-#297|@FataliiBot|1416
+#297|@FataliiBot|1418
 #298|@TheSystem_Bot|1416
 #299|@jasans_bot|1396
 #300|@NienishiEngine|1388
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@RandomTree77|956
 #364|@Bot_Swana|943
 #365|@bobandi|940
-#366|@Demolito_L4|938
+#366|@Demolito_L4|935
 #367|@YellowJackets_Bot|925
 #368|@botTideEval|875
 #369|@Palisade|800
