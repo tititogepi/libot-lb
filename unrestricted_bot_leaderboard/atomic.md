@@ -240,8 +240,8 @@ Rank|Bot|Rating
 #238|@RSVMentor|1476
 #239|@TheWeakestBot|1476
 #240|@thibot|1470
-#241|@pawnrobot|1465
-#242|@fastandfurious10|1464
+#241|@fastandfurious10|1464
+#242|@pawnrobot|1464
 #243|@EDSPBOT|1463
 #244|@Dong_Xiao_Yuan|1454
 #245|@Future_Chess_Pro|1453
