@@ -132,9 +132,9 @@ Rank|Bot|Rating
 #130|@VarianteBOT|1970
 #131|@Ssech_BOT|1967
 #132|@AEBROADUSBOTTER|1958
-#133|@AtomicRouletteBot|1955
-#134|@atomicli|1951
-#135|@OpeningsBot|1947
+#133|@OpeningsBot|1957
+#134|@AtomicRouletteBot|1955
+#135|@atomicli|1951
 #136|@HappyDeepawali|1941
 #137|@EagleEye2021|1935
 #138|@hjhjhjhjhjhj|1923
