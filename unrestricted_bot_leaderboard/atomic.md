@@ -134,8 +134,8 @@ Rank|Bot|Rating
 #132|@AEBROADUSBOTTER|1958
 #133|@AtomicRouletteBot|1955
 #134|@atomicli|1951
-#135|@HappyDeepawali|1941
-#136|@OpeningsBot|1936
+#135|@OpeningsBot|1947
+#136|@HappyDeepawali|1941
 #137|@EagleEye2021|1935
 #138|@hjhjhjhjhjhj|1923
 #139|@FyChess2|1921
