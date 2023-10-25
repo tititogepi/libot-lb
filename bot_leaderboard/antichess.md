@@ -5,4 +5,4 @@ Rank|Bot|Rating
 #3|@OpeningsBot|2292
 #4|@anti-bot|2173
 #5|@CatNail|2045
-#6|@pawnrobot|1920
+#6|@pawnrobot|1926

@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@VariantsTop|2654
 #17|@ReinforcementTrial|2653
 #18|@EmptikWeak|2652
-#19|@Intron014|2645
+#19|@Intron014|2647
 #20|@Polochon-Bot|2644
 #21|@linklake1532|2641
 #22|@ProteusSF-Aureo|2639
@@ -181,8 +181,8 @@ Rank|Bot|Rating
 #179|@SergioFransiss21|2362
 #180|@Xmas_dragon|2361
 #181|@Future_Chess_Pro|2358
-#182|@expositor|2350
-#183|@AKS-Mantissa|2348
+#182|@AKS-Mantissa|2348
+#183|@expositor|2348
 #184|@Hydrovolt|2348
 #185|@ChessChipBot|2347
 #186|@TRGBot|2346
@@ -397,7 +397,7 @@ Rank|Bot|Rating
 #395|@EstmileBot|2015
 #396|@LeelaPi|2015
 #397|@Barbotte|2014
-#398|@Lynx_BOT|2012
+#398|@Lynx_BOT|2014
 #399|@ChessBotHere|2010
 #400|@USAchess_TIME|2004
 #401|@MeetraBot|1998
@@ -586,10 +586,10 @@ Rank|Bot|Rating
 #584|@QuintiumBotAccount|1717
 #585|@Jaymombot|1715
 #586|@leela_policy|1715
-#587|@Demolito_L5|1714
-#588|@embla|1713
-#589|@less_than_one|1712
-#590|@PlanktonEngine|1712
+#587|@embla|1713
+#588|@less_than_one|1712
+#589|@PlanktonEngine|1712
+#590|@Demolito_L5|1711
 #591|@AshNostromo|1710
 #592|@Atomicbot1|1710
 #593|@MagicverseBOT|1709
@@ -768,8 +768,8 @@ Rank|Bot|Rating
 #766|@apollo_bot|1291
 #767|@Hulk990|1290
 #768|@haibrid_bot|1289
-#769|@sargon-1ply|1288
-#770|@MasterbulletArin|1286
+#769|@MasterbulletArin|1286
+#770|@sargon-1ply|1283
 #771|@sudobot_chess|1281
 #772|@DrawFish|1263
 #773|@TheLegitLegend2|1263

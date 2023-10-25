@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ReinforcementTrial|2653
-#2|@Intron014|2645
+#2|@Intron014|2647
 #3|@Occhessadvanced|2637
 #4|@TheFreshman1902|2632
 #5|@Africaata|2631
@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@Berserk-Test|2538
 #15|@sf_bot|2531
 #16|@LazyBot|2377
-#17|@expositor|2350
-#18|@AKS-Mantissa|2348
+#17|@AKS-Mantissa|2348
+#18|@expositor|2348
 #19|@catriever|2344
 #20|@SaxtonEngine|2299
 #21|@Weiawaga|2299
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Humaia-Strong|2026
 #30|@simpleEval|2022
 #31|@Nakshatra3|2020
-#32|@Lynx_BOT|2012
+#32|@Lynx_BOT|2014
 #33|@eubos|1996
 #34|@HistoryExplorer|1987
 #35|@honzovy-sachy-2|1979
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@LeelaRogue|1868
 #43|@baby_eubos|1797
 #44|@ChessChildren|1747
-#45|@Demolito_L5|1714
+#45|@Demolito_L5|1711
 #46|@notropis|1697
 #47|@Virutor|1695
 #48|@honzovy-sachy|1691
@@ -61,6 +61,6 @@ Rank|Bot|Rating
 #59|@sargon-2ply|1490
 #60|@Humaia|1456
 #61|@turochamp-1ply|1339
-#62|@sargon-1ply|1288
+#62|@sargon-1ply|1283
 #63|@CHoMPBoT|1092
 #64|@G0thamB0t|772
