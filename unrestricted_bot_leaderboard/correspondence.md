@@ -103,10 +103,10 @@ Rank|Bot|Rating
 #101|@faith_bot|2037
 #102|@CocopikachuBOT|2036
 #103|@HyperPhoenix21|2035
-#104|@EmptikCorrespondence|2031
-#105|@StrongMagnusCarlsen|2027
-#106|@kybot|2025
-#107|@zeekat|2024
+#104|@zeekat|2033
+#105|@EmptikCorrespondence|2031
+#106|@StrongMagnusCarlsen|2027
+#107|@kybot|2025
 #108|@MalanChess|2020
 #109|@RoyalLeela|2014
 #110|@SchachProg|2010
@@ -125,7 +125,7 @@ Rank|Bot|Rating
 #123|@Thera_Engine|1955
 #124|@honzovy-sachy|1953
 #125|@BOTsharpchess|1952
-#126|@ZE_ROOK|1941
+#126|@ZE_ROOK|1936
 #127|@Los-Guerreros1|1935
 #128|@TheLegendaryKnight|1935
 #129|@Virutor|1934

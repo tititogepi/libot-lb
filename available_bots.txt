@@ -2177,6 +2177,7 @@ tt-challenge
 ttbot
 ttc-bot_2
 ttgmxliewrush
+tuanbn14
 tuksubot
 tunder77
 tundra4
@@ -2384,4 +2385,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-tuanbn14
