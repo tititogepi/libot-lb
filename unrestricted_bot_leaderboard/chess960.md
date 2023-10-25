@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@hyperchessbot1|2189
 #17|@Kizburb|2182
 #18|@VariantsBot|2180
-#19|@Intron014|2175
-#20|@YoBot_v2|2175
+#19|@YoBot_v2|2175
+#20|@Intron014|2174
 #21|@ToromBot|2173
 #22|@Bot_McBotface|2172
 #23|@lord-bot|2171
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2150
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@faith_bot|2140
+#38|@faith_bot|2136
 #39|@duythong1402|2133
 #40|@EmptikVariantsBot|2132
 #41|@F1R3BOT|2128
@@ -45,10 +45,10 @@ Rank|Bot|Rating
 #43|@pangubot|2128
 #44|@BetterAnalyze|2125
 #45|@Caissa-NNUE|2124
-#46|@JeffIO|2113
-#47|@Dragon_1906|2111
-#48|@ibep|2111
-#49|@RaspFish|2110
+#46|@RaspFish|2116
+#47|@JeffIO|2113
+#48|@Dragon_1906|2111
+#49|@ibep|2111
 #50|@Galaxy_Guardian|2107
 #51|@BetaOneBot|2106
 #52|@ToromLc0|2106
@@ -226,7 +226,7 @@ Rank|Bot|Rating
 #224|@TungJohn|1714
 #225|@TeamChelsie|1712
 #226|@fantasticbot|1699
-#227|@Cheng-4|1697
+#227|@Cheng-4|1696
 #228|@Peaceful4Life|1694
 #229|@Crepusculum|1693
 #230|@BetaZ|1686
@@ -241,8 +241,8 @@ Rank|Bot|Rating
 #239|@Lightning_SpeedChess|1660
 #240|@DrSmartBugs|1655
 #241|@AndromedaSX1|1650
-#242|@Leela8-Test|1650
-#243|@CloudBotZero|1645
+#242|@CloudBotZero|1645
+#243|@Leela8-Test|1644
 #244|@Los-Guerreros1|1643
 #245|@CatBot_14|1627
 #246|@Lumac0|1625
@@ -289,8 +289,8 @@ Rank|Bot|Rating
 #287|@kazakhfirstbot|1454
 #288|@NeilDandekarBot|1453
 #289|@DespacitoBot|1451
-#290|@fishm0ley|1450
-#291|@FataliiBot|1444
+#290|@FataliiBot|1451
+#291|@fishm0ley|1450
 #292|@Chess_ni_BOSS|1437
 #293|@FN_Waldi|1436
 #294|@chicken_farmer|1435
@@ -344,8 +344,8 @@ Rank|Bot|Rating
 #342|@MrKING74_btw|1191
 #343|@schnecken_bot|1182
 #344|@BerntBOT|1162
-#345|@naughty-dottie|1158
-#346|@Demolito_L5|1153
+#345|@Demolito_L5|1158
+#346|@naughty-dottie|1158
 #347|@Pineapple-Friendly|1151
 #348|@WeakBot|1151
 #349|@St6090|1149
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@RandomTree77|956
 #364|@Bot_Swana|943
 #365|@bobandi|940
-#366|@Demolito_L4|936
+#366|@Demolito_L4|931
 #367|@YellowJackets_Bot|925
 #368|@botTideEval|875
 #369|@Palisade|800
