@@ -136,7 +136,7 @@ Rank|Bot|Rating
 #134|@atomicli|1951
 #135|@HappyDeepawali|1941
 #136|@EagleEye2021|1935
-#137|@OpeningsBot|1931
+#137|@OpeningsBot|1935
 #138|@hjhjhjhjhjhj|1923
 #139|@FyChess2|1921
 #140|@B4dF1sh|1903
@@ -239,8 +239,8 @@ Rank|Bot|Rating
 #237|@MeezKool|1485
 #238|@RSVMentor|1476
 #239|@TheWeakestBot|1476
-#240|@pawnrobot|1470
-#241|@thibot|1470
+#240|@thibot|1470
+#241|@pawnrobot|1465
 #242|@fastandfurious10|1464
 #243|@EDSPBOT|1463
 #244|@Dong_Xiao_Yuan|1454

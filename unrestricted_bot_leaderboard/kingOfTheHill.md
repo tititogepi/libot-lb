@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
-#19|@RaspFish|2283
+#19|@RaspFish|2285
 #20|@LudwigBOT|2281
 #21|@Nikitosikbot|2281
 #22|@LoseisnotAvailablehe|2274
@@ -117,8 +117,8 @@ Rank|Bot|Rating
 #115|@MagnusCarlsen1507|1492
 #116|@SugarAndSpice|1489
 #117|@rtx3080tibot|1487
-#118|@DavidsGuterBot|1476
-#119|@SUMAL_BRO|1476
+#118|@SUMAL_BRO|1476
+#119|@DavidsGuterBot|1475
 #120|@Less_of_a_threat|1470
 #121|@Bbao23-chess|1469
 #122|@Trainspotter|1466
