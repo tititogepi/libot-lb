@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@Kizburb|2182
 #18|@VariantsBot|2180
 #19|@YoBot_v2|2176
-#20|@ToromBot|2175
-#21|@Intron014|2174
+#20|@Intron014|2175
+#21|@ToromBot|2173
 #22|@Bot_McBotface|2172
 #23|@lord-bot|2171
 #24|@EmptikBot|2168
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2150
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@faith_bot|2139
+#38|@faith_bot|2140
 #39|@duythong1402|2133
 #40|@EmptikVariantsBot|2132
 #41|@F1R3BOT|2128
@@ -217,7 +217,7 @@ Rank|Bot|Rating
 #215|@MikhailTal_AI|1750
 #216|@Ch4rl3s|1748
 #217|@DxrkOnBot|1746
-#218|@OpeningsBot|1745
+#218|@OpeningsBot|1746
 #219|@spaceisbot|1744
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
@@ -345,7 +345,7 @@ Rank|Bot|Rating
 #343|@schnecken_bot|1182
 #344|@BerntBOT|1162
 #345|@naughty-dottie|1158
-#346|@Demolito_L5|1153
+#346|@Demolito_L5|1154
 #347|@Pineapple-Friendly|1151
 #348|@WeakBot|1151
 #349|@St6090|1149
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@RandomTree77|956
 #364|@Bot_Swana|943
 #365|@bobandi|940
-#366|@Demolito_L4|939
+#366|@Demolito_L4|936
 #367|@YellowJackets_Bot|925
 #368|@botTideEval|875
 #369|@Palisade|800

@@ -135,8 +135,8 @@ Rank|Bot|Rating
 #133|@AtomicRouletteBot|1955
 #134|@atomicli|1951
 #135|@HappyDeepawali|1941
-#136|@EagleEye2021|1935
-#137|@OpeningsBot|1935
+#136|@OpeningsBot|1936
+#137|@EagleEye2021|1935
 #138|@hjhjhjhjhjhj|1923
 #139|@FyChess2|1921
 #140|@B4dF1sh|1903
@@ -241,8 +241,8 @@ Rank|Bot|Rating
 #239|@TheWeakestBot|1476
 #240|@thibot|1470
 #241|@fastandfurious10|1464
-#242|@pawnrobot|1464
-#243|@EDSPBOT|1463
+#242|@EDSPBOT|1463
+#243|@pawnrobot|1463
 #244|@Dong_Xiao_Yuan|1454
 #245|@Future_Chess_Pro|1453
 #246|@MyNameIsSpeeedy|1453
