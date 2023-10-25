@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@LeelaChessTest|2208
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
-#13|@ResoluteBot|2201
+#13|@ResoluteBot|2200
 #14|@Corvus-1|2197
 #15|@TheFreshman1902|2192
 #16|@hyperchessbot1|2189
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2150
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@faith_bot|2136
+#38|@faith_bot|2138
 #39|@duythong1402|2133
 #40|@EmptikVariantsBot|2132
 #41|@F1R3BOT|2128
@@ -226,7 +226,7 @@ Rank|Bot|Rating
 #224|@TungJohn|1714
 #225|@TeamChelsie|1712
 #226|@fantasticbot|1699
-#227|@Cheng-4|1696
+#227|@Cheng-4|1698
 #228|@Peaceful4Life|1694
 #229|@Crepusculum|1693
 #230|@BetaZ|1686
@@ -289,8 +289,8 @@ Rank|Bot|Rating
 #287|@kazakhfirstbot|1454
 #288|@NeilDandekarBot|1453
 #289|@DespacitoBot|1451
-#290|@FataliiBot|1451
-#291|@fishm0ley|1450
+#290|@fishm0ley|1450
+#291|@FataliiBot|1448
 #292|@Chess_ni_BOSS|1437
 #293|@FN_Waldi|1436
 #294|@chicken_farmer|1435
@@ -372,5 +372,5 @@ Rank|Bot|Rating
 #370|@WaspBot|798
 #371|@LeelaWeak|735
 #372|@FelixLeonidovich|730
-#373|@pawnrobot|719
-#374|@konaz|582
+#373|@pawnrobot|723
+#374|@konaz|550

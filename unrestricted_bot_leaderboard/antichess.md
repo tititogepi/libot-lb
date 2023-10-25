@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@pistol-play|2498
 #44|@NikitosikVariantsbot|2483
 #45|@MrBOThacker|2477
-#46|@hauptschuleBOT|2475
-#47|@NilatacBot|2475
+#46|@NilatacBot|2477
+#47|@hauptschuleBOT|2475
 #48|@Alehkine_cat|2474
 #49|@ttBOT|2468
 #50|@Fairy-Stockfish|2460
