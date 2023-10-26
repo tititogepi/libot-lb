@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ReinforcementTrial|2670
+#1|@ReinforcementTrial|2671
 #2|@Intron014|2644
 #3|@Occhessadvanced|2641
-#4|@TheFreshman1902|2633
-#5|@Africaata|2632
+#4|@Africaata|2633
+#5|@TheFreshman1902|2633
 #6|@TorBot|2626
 #7|@YoBot_v2|2624
 #8|@ttBOT|2617
@@ -18,9 +18,9 @@ Rank|Bot|Rating
 #16|@sf_bot|2531
 #17|@LazyBot|2377
 #18|@catriever|2352
-#19|@expositor|2342
-#20|@AKS-Mantissa|2339
-#21|@SaxtonEngine|2294
+#19|@expositor|2345
+#20|@AKS-Mantissa|2338
+#21|@SaxtonEngine|2292
 #22|@pawn_git|2288
 #23|@Weiawaga|2281
 #24|@Cheng-4|2265
@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@Pseudo-0|2129
 #29|@Boris-Trapsky|2053
 #30|@Humaia-Strong|2041
-#31|@Lynx_BOT|2035
+#31|@Lynx_BOT|2036
 #32|@simpleEval|2022
 #33|@eubos|2001
 #34|@HistoryExplorer|1987
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Virutor|1698
 #47|@notropis|1697
 #48|@maia9|1693
-#49|@honzovy-sachy|1691
+#49|@honzovy-sachy|1688
 #50|@turochamp-2ply|1636
 #51|@turkjs|1630
 #52|@sargon-4ply|1617
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@simplexitor|1607
 #56|@maia5|1585
 #57|@sargon-3ply|1584
-#58|@maia1|1577
+#58|@maia1|1567
 #59|@sargon-2ply|1494
 #60|@Humaia|1454
 #61|@turochamp-1ply|1339

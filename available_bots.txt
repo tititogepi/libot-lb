@@ -1841,6 +1841,7 @@ scp079
 sea_leopard
 seaborg1
 seechessbot
+seer-dev
 selflearnbot
 sem1rose
 senp4a1_bot
@@ -2388,4 +2389,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-seer-dev
