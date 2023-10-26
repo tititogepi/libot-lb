@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ReinforcementTrial|2668
-#2|@Intron014|2644
+#2|@Intron014|2645
 #3|@Occhessadvanced|2641
 #4|@Africaata|2633
 #5|@TheFreshman1902|2633
@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@ttBOT|2617
 #9|@ResoluteBot|2614
 #10|@ArasanX|2587
-#11|@RaspFish|2578
+#11|@RaspFish|2580
 #12|@Mr_Chess_Berserk|2571
 #13|@JuroJ|2551
 #14|@faith_bot|2550
@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@catriever|2355
 #19|@expositor|2344
 #20|@AKS-Mantissa|2341
-#21|@SaxtonEngine|2297
-#22|@Weiawaga|2293
+#21|@SaxtonEngine|2295
+#22|@Weiawaga|2291
 #23|@pawn_git|2285
 #24|@Cheng-4|2259
 #25|@TuksuBot|2165
@@ -29,14 +29,14 @@ Rank|Bot|Rating
 #27|@Pseudo-0|2133
 #28|@Phalanx-XXV|2132
 #29|@Boris-Trapsky|2053
-#30|@Lynx_BOT|2033
+#30|@Lynx_BOT|2038
 #31|@simpleEval|2027
 #32|@Humaia-Strong|2026
 #33|@Nakshatra3|2020
 #34|@eubos|1996
 #35|@HistoryExplorer|1987
 #36|@honzovy-sachy-2|1977
-#37|@zeekat|1941
+#37|@zeekat|1942
 #38|@jangine|1940
 #39|@MaxtheDog|1928
 #40|@likeawizard-bot|1915
@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@LeelaRogue|1848
 #44|@baby_eubos|1797
 #45|@ChessChildren|1747
-#46|@Virutor|1700
-#47|@Demolito_L5|1699
+#46|@Demolito_L5|1699
+#47|@Virutor|1698
 #48|@notropis|1697
 #49|@honzovy-sachy|1691
 #50|@maia9|1682
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@ZE_ROOK|1614
 #56|@simplexitor|1607
 #57|@maia5|1601
-#58|@maia1|1593
+#58|@maia1|1587
 #59|@sargon-3ply|1584
 #60|@sargon-2ply|1498
 #61|@Humaia|1454
