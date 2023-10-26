@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@LeelaFish1|2212
 #9|@Xerus_1|2211
 #10|@LeelaChessTest|2208
-#11|@ResoluteBot|2205
+#11|@ResoluteBot|2204
 #12|@SfishChess2021|2204
 #13|@IUseStockfish|2202
 #14|@Corvus-1|2197
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@JeffIO|2113
 #47|@Dragon_1906|2111
 #48|@ibep|2111
-#49|@RaspFish|2109
+#49|@RaspFish|2110
 #50|@Galaxy_Guardian|2107
 #51|@BetaOneBot|2106
 #52|@ToromLc0|2106
@@ -215,8 +215,8 @@ Rank|Bot|Rating
 #213|@BishoP-BOT|1752
 #214|@XXIstCentury|1752
 #215|@MikhailTal_AI|1750
-#216|@Ch4rl3s|1748
-#217|@OpeningsBot|1748
+#216|@OpeningsBot|1750
+#217|@Ch4rl3s|1748
 #218|@DxrkOnBot|1746
 #219|@spaceisbot|1744
 #220|@Magnus-BOT|1733
@@ -283,7 +283,7 @@ Rank|Bot|Rating
 #281|@misteick_bot|1472
 #282|@MagicverseBOT|1471
 #283|@CBNguyen_Bot|1465
-#284|@FataliiBot|1463
+#284|@FataliiBot|1461
 #285|@MQBot|1460
 #286|@stonks_fish|1460
 #287|@Teamleaderbot|1458
@@ -345,9 +345,9 @@ Rank|Bot|Rating
 #343|@schnecken_bot|1182
 #344|@BerntBOT|1162
 #345|@naughty-dottie|1158
-#346|@Demolito_L5|1155
-#347|@Pineapple-Friendly|1151
-#348|@WeakBot|1151
+#346|@Pineapple-Friendly|1151
+#347|@WeakBot|1151
+#348|@Demolito_L5|1149
 #349|@St6090|1149
 #350|@Light_To_The_Rescue|1126
 #351|@GuineaBot3|1123
@@ -363,8 +363,8 @@ Rank|Bot|Rating
 #361|@Bot2000|983
 #362|@BogoBot|974
 #363|@ZokBot|969
-#364|@RandomTree77|956
-#365|@Demolito_L4|947
+#364|@Demolito_L4|956
+#365|@RandomTree77|956
 #366|@Bot_Swana|943
 #367|@bobandi|940
 #368|@YellowJackets_Bot|925
@@ -373,5 +373,5 @@ Rank|Bot|Rating
 #371|@WaspBot|798
 #372|@LeelaWeak|735
 #373|@FelixLeonidovich|730
-#374|@pawnrobot|708
+#374|@pawnrobot|706
 #375|@konaz|503
