@@ -1870,6 +1870,7 @@ sharkbot
 sharkbotfish
 shashchess2020
 shashchess_msp
+shashchessbot
 shashchesspower
 shineshou90_bot
 shirozer0
@@ -2387,4 +2388,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-shashchessbot
