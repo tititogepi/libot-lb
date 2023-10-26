@@ -2146,6 +2146,7 @@ tmfish
 tobegen
 tomewyrm
 too_ez4me
+toodfish
 topple
 torbot
 torbot_sl
@@ -2304,6 +2305,7 @@ wittenbergadmin
 wmatt
 wmwmmmwmwmmmwmwmwmmw
 wolftacticsv1
+wolfuhfuhbot
 wombatengine
 world-best-ninja-jnr
 worldofchampions
@@ -2385,5 +2387,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-toodfish
-wolfuhfuhbot

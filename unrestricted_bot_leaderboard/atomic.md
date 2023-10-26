@@ -129,10 +129,10 @@ Rank|Bot|Rating
 #127|@Cowboy_Time|1974
 #128|@Sub_Bot|1974
 #129|@VariantsTop|1974
-#130|@VarianteBOT|1970
-#131|@Ssech_BOT|1967
-#132|@AEBROADUSBOTTER|1958
-#133|@OpeningsBot|1957
+#130|@OpeningsBot|1971
+#131|@VarianteBOT|1970
+#132|@Ssech_BOT|1967
+#133|@AEBROADUSBOTTER|1958
 #134|@AtomicRouletteBot|1955
 #135|@atomicli|1951
 #136|@HappyDeepawali|1941
