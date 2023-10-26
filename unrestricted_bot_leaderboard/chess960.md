@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@LeelaFish1|2212
 #9|@Xerus_1|2211
 #10|@LeelaChessTest|2208
-#11|@ResoluteBot|2207
+#11|@ResoluteBot|2206
 #12|@SfishChess2021|2204
 #13|@IUseStockfish|2202
 #14|@Corvus-1|2197
@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Intron014|2184
 #18|@Kizburb|2182
 #19|@VariantsBot|2180
-#20|@YoBot_v2|2173
+#20|@YoBot_v2|2177
 #21|@Bot_McBotface|2172
 #22|@ToromBot|2172
 #23|@lord-bot|2171
@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@EmptikVariantsBot|2132
-#39|@faith_bot|2132
+#38|@faith_bot|2133
+#39|@EmptikVariantsBot|2132
 #40|@duythong1402|2131
 #41|@F1R3BOT|2128
 #42|@Lc0Test|2128
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@JeffIO|2113
 #47|@Dragon_1906|2111
 #48|@ibep|2111
-#49|@RaspFish|2111
+#49|@RaspFish|2109
 #50|@Galaxy_Guardian|2107
 #51|@BetaOneBot|2106
 #52|@ToromLc0|2106
@@ -214,11 +214,11 @@ Rank|Bot|Rating
 #212|@Fairy-Stockfish|1755
 #213|@BishoP-BOT|1752
 #214|@XXIstCentury|1752
-#215|@OpeningsBot|1751
-#216|@MikhailTal_AI|1750
-#217|@Ch4rl3s|1748
-#218|@DxrkOnBot|1746
-#219|@spaceisbot|1744
+#215|@MikhailTal_AI|1750
+#216|@Ch4rl3s|1748
+#217|@DxrkOnBot|1746
+#218|@spaceisbot|1744
+#219|@OpeningsBot|1742
 #220|@Magnus-BOT|1733
 #221|@Velvet-Engine|1732
 #222|@Viridithas|1728
@@ -280,10 +280,10 @@ Rank|Bot|Rating
 #278|@devsdaBot|1477
 #279|@TFRChessClub|1477
 #280|@SmallbrainPy|1474
-#281|@misteick_bot|1472
-#282|@MagicverseBOT|1471
-#283|@CBNguyen_Bot|1465
-#284|@FataliiBot|1462
+#281|@FataliiBot|1472
+#282|@misteick_bot|1472
+#283|@MagicverseBOT|1471
+#284|@CBNguyen_Bot|1465
 #285|@MQBot|1460
 #286|@stonks_fish|1460
 #287|@Teamleaderbot|1458
@@ -345,7 +345,7 @@ Rank|Bot|Rating
 #343|@schnecken_bot|1182
 #344|@BerntBOT|1162
 #345|@naughty-dottie|1158
-#346|@Demolito_L5|1157
+#346|@Demolito_L5|1156
 #347|@Pineapple-Friendly|1151
 #348|@WeakBot|1151
 #349|@St6090|1149
@@ -373,5 +373,5 @@ Rank|Bot|Rating
 #371|@WaspBot|798
 #372|@LeelaWeak|735
 #373|@FelixLeonidovich|730
-#374|@pawnrobot|705
-#375|@konaz|525
+#374|@pawnrobot|708
+#375|@konaz|503
