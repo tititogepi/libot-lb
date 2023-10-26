@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@Kizburb|2182
 #19|@VariantsBot|2180
 #20|@Bot_McBotface|2172
-#21|@ToromBot|2172
+#21|@YoBot_v2|2172
 #22|@lord-bot|2171
-#23|@YoBot_v2|2171
+#23|@ToromBot|2171
 #24|@EmptikBot|2168
 #25|@TorBot_v2|2165
 #26|@rtx3080tibot|2162
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@faith_bot|2133
+#38|@faith_bot|2134
 #39|@EmptikVariantsBot|2132
 #40|@duythong1402|2131
 #41|@F1R3BOT|2128
@@ -225,7 +225,7 @@ Rank|Bot|Rating
 #223|@stockfish12_Johan|1717
 #224|@TungJohn|1714
 #225|@TeamChelsie|1712
-#226|@Cheng-4|1701
+#226|@Cheng-4|1702
 #227|@fantasticbot|1699
 #228|@Peaceful4Life|1694
 #229|@Crepusculum|1693
@@ -283,7 +283,7 @@ Rank|Bot|Rating
 #281|@misteick_bot|1472
 #282|@MagicverseBOT|1471
 #283|@CBNguyen_Bot|1465
-#284|@FataliiBot|1465
+#284|@FataliiBot|1463
 #285|@MQBot|1460
 #286|@stonks_fish|1460
 #287|@Teamleaderbot|1458
@@ -345,7 +345,7 @@ Rank|Bot|Rating
 #343|@schnecken_bot|1182
 #344|@BerntBOT|1162
 #345|@naughty-dottie|1158
-#346|@Demolito_L5|1156
+#346|@Demolito_L5|1155
 #347|@Pineapple-Friendly|1151
 #348|@WeakBot|1151
 #349|@St6090|1149
