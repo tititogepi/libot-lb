@@ -2281,6 +2281,7 @@ walleye_bot
 walrusbot
 wandererofchess
 waspbot
+waspbot2023
 wasternew
 watcher31_bot
 waterbirdchess
@@ -2389,4 +2390,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-waspbot2023
