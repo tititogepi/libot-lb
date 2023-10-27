@@ -355,6 +355,6 @@ Rank|Bot|Rating
 #353|@G0thamB0t|1025
 #354|@mustaley|973
 #355|@BerserkRandomMover|963
-#356|@GuineaBot|951
+#356|@GuineaBot|947
 #357|@grandQ_AI|887
 #358|@BogoBot|865
