@@ -680,6 +680,7 @@ elo3800
 elo_1500
 elpeonelectrico
 elrincho
+emanbot
 emanchessengine
 emanpurenn
 emanueltavares07bot
@@ -744,6 +745,7 @@ fairgamekavvadias
 fairy-stockfish
 fairy_belzedar
 faith_bot
+fantacticeman
 fantasticbot
 faruk_yvuz47
 fast_chess_king
@@ -1157,6 +1159,7 @@ komodofish12
 komorebi_bot
 konaz
 kostasvl-bot
+kqrbnpkqrbnp
 krs013-bot
 kubikbot
 kuhusbot
@@ -1761,6 +1764,7 @@ rezdarservan
 rigorousmoron
 rinestro
 riojacomp
+riptorn
 rishab_bindal
 robbai_3j
 roberts_child
@@ -2390,6 +2394,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-emanbot
-fantacticeman
-kqrbnpkqrbnp
