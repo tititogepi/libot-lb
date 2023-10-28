@@ -49,9 +49,9 @@ Rank|Bot|Rating
 #47|@Alehkine_cat|2474
 #48|@ttBOT|2468
 #49|@Fairy-Stockfish|2460
-#50|@NilatacBot|2460
-#51|@PepsiForAll|2460
-#52|@CloudBot_v2|2455
+#50|@PepsiForAll|2460
+#51|@CloudBot_v2|2455
+#52|@NilatacBot|2455
 #53|@ResoluteBot|2455
 #54|@KingfishX|2436
 #55|@Bobby_Fischer_BOT|2435
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
-#75|@OpeningsBot|2316
+#75|@OpeningsBot|2320
 #76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@ZamuChess|2049
 #113|@Botzer|2020
 #114|@Jussicas|2019
-#115|@CloudBotZero|2018
-#116|@CatNail|2013
+#115|@CatNail|2018
+#116|@CloudBotZero|2018
 #117|@B0T5_RU13|2011
 #118|@TheLegitLegend|2010
 #119|@CrayyBot|1989
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1946
+#124|@pawnrobot|1943
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861

@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2200
-#2|@TheFreshman1902|2193
+#2|@TheFreshman1902|2192
 #3|@Intron014|2186
 #4|@TorBot_v2|2175
-#5|@ToromBot|2171
+#5|@ToromBot|2172
 #6|@YoBot_v2|2165
 #7|@TorBot|2155
 #8|@VariantsTop|2149
@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@OpeningsBot|1759
 #14|@Cheng-4|1708
 #15|@Leela8-Test|1640
-#16|@FataliiBot|1456
+#16|@FataliiBot|1459
 #17|@camel_bot|1238
 #18|@Demolito_L6|1218
 #19|@Demolito_L5|1131
-#20|@Demolito_L4|927
+#20|@Demolito_L4|925
 #21|@pawnrobot|690
