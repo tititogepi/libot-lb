@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2785
 #13|@VariantsTop|2765
 #14|@Viet-AI|2765
-#15|@RaspFish|2760
+#15|@RaspFish|2762
 #16|@ibep|2733
 #17|@lord-bot|2679
 #18|@LoseisnotAvailablehe|2677
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@hauptschuleBOT|2475
 #47|@Alehkine_cat|2474
 #48|@ttBOT|2468
-#49|@NilatacBot|2462
-#50|@Fairy-Stockfish|2460
+#49|@Fairy-Stockfish|2460
+#50|@NilatacBot|2460
 #51|@PepsiForAll|2460
 #52|@CloudBot_v2|2455
 #53|@ResoluteBot|2455
@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
-#75|@AI69|2312
-#76|@OpeningsBot|2311
+#75|@OpeningsBot|2313
+#76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
 #79|@abhisun_bot|2305
@@ -115,9 +115,9 @@ Rank|Bot|Rating
 #113|@Botzer|2020
 #114|@Jussicas|2019
 #115|@CloudBotZero|2018
-#116|@CatNail|2014
-#117|@B0T5_RU13|2011
-#118|@TheLegitLegend|2010
+#116|@B0T5_RU13|2011
+#117|@TheLegitLegend|2010
+#118|@CatNail|2003
 #119|@CrayyBot|1989
 #120|@BetaZ|1973
 #121|@antichesssss|1964
