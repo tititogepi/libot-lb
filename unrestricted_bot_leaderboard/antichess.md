@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@EmptikVariantsBot|2957
 #6|@Nikitosikbot|2892
 #7|@Coolman2021|2879
-#8|@ToromBot|2876
+#8|@ToromBot|2877
 #9|@UltronBot|2859
 #10|@TorBot|2824
 #11|@WennDieSoldatBOT|2818
@@ -48,9 +48,9 @@ Rank|Bot|Rating
 #46|@hauptschuleBOT|2475
 #47|@Alehkine_cat|2474
 #48|@ttBOT|2468
-#49|@Fairy-Stockfish|2460
-#50|@PepsiForAll|2460
-#51|@NilatacBot|2459
+#49|@NilatacBot|2462
+#50|@Fairy-Stockfish|2460
+#51|@PepsiForAll|2460
 #52|@CloudBot_v2|2455
 #53|@ResoluteBot|2455
 #54|@KingfishX|2436
@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Botzer|2020
 #114|@Jussicas|2019
 #115|@CloudBotZero|2018
-#116|@CatNail|2016
+#116|@CatNail|2014
 #117|@B0T5_RU13|2011
 #118|@TheLegitLegend|2010
 #119|@CrayyBot|1989
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1943
+#124|@pawnrobot|1941
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
