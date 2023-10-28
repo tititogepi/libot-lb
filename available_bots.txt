@@ -1923,6 +1923,7 @@ smoking_python
 smoothrotation
 sofcheck
 sohamchessbot
+solistabot
 somebot
 sovereign_bot
 sovereignking
@@ -2395,4 +2396,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-solistabot

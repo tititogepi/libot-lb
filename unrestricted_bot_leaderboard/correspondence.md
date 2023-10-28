@@ -331,8 +331,8 @@ Rank|Bot|Rating
 #329|@johnwick_babayoga|1258
 #330|@kiarashfarahmandi|1258
 #331|@littlejennyren|1258
-#332|@ZX-Chess|1258
-#333|@SolistaBot|1258
+#332|@SolistaBot|1258
+#333|@ZX-Chess|1258
 #334|@blitzz_bot|1252
 #335|@Bottios|1251
 #336|@Lozza-Bot|1223
