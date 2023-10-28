@@ -153,10 +153,10 @@ Rank|Bot|Rating
 #151|@Rinestro|1837
 #152|@OurBot|1836
 #153|@Aromik_s_bot|1831
-#154|@BestJSEngine|1826
-#155|@Black_Knight2006|1815
-#156|@Hoplites|1813
-#157|@yeoldwiz|1813
+#154|@yeoldwiz|1830
+#155|@BestJSEngine|1826
+#156|@Black_Knight2006|1815
+#157|@Hoplites|1813
 #158|@Sub_Bot|1808
 #159|@DrMeowMeow|1800
 #160|@stockfish12_Johan|1798
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@AXWChessBot|1096
 #352|@StashBot|1075
 #353|@Light_To_The_Rescue|1057
-#354|@G0thamB0t|1023
+#354|@G0thamB0t|1022
 #355|@mustaley|973
 #356|@BerserkRandomMover|963
 #357|@GuineaBot|936
