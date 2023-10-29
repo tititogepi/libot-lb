@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@VariantsTop|1974
 #130|@VarianteBOT|1970
 #131|@Ssech_BOT|1967
-#132|@OpeningsBot|1965
+#132|@OpeningsBot|1966
 #133|@AEBROADUSBOTTER|1958
 #134|@AtomicRouletteBot|1955
 #135|@atomicli|1951
