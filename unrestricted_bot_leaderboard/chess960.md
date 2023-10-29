@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@YellowFlash_v2|2156
 #32|@TorBot|2155
 #33|@ReinforcementTrial|2154
-#34|@FireFishBOT|2149
+#34|@FireFishBOT|2151
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@WorstBotEver123|1222
 #341|@Bot8983|1210
 #342|@DrunkenMasterEngine|1204
-#343|@Demolito_L6|1193
+#343|@Demolito_L6|1195
 #344|@MrKING74_btw|1191
 #345|@schnecken_bot|1182
 #346|@BerntBOT|1162
@@ -367,12 +367,12 @@ Rank|Bot|Rating
 #365|@RandomTree77|956
 #366|@Bot_Swana|943
 #367|@bobandi|940
-#368|@Demolito_L4|925
-#369|@YellowJackets_Bot|925
+#368|@YellowJackets_Bot|925
+#369|@Demolito_L4|923
 #370|@botTideEval|875
 #371|@Palisade|800
 #372|@WaspBot|798
 #373|@LeelaWeak|735
 #374|@FelixLeonidovich|730
 #375|@pawnrobot|662
-#376|@konaz|456
+#376|@konaz|453

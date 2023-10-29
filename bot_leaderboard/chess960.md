@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@TorBot_v2|2175
 #6|@ToromBot|2174
 #7|@TorBot|2155
-#8|@FireFishBOT|2149
+#8|@FireFishBOT|2151
 #9|@VariantsTop|2149
 #10|@duythong1402|2142
 #11|@faith_bot|2131
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Leela8-Test|1640
 #17|@FataliiBot|1460
 #18|@camel_bot|1298
-#19|@Demolito_L6|1193
+#19|@Demolito_L6|1195
 #20|@Demolito_L5|1131
-#21|@Demolito_L4|925
+#21|@Demolito_L4|923
 #22|@pawnrobot|662
