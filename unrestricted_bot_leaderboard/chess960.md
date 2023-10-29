@@ -321,7 +321,7 @@ Rank|Bot|Rating
 #319|@Filipo6900|1310
 #320|@GarboBot|1309
 #321|@DavidsGuterBot|1308
-#322|@camel_bot|1306
+#322|@camel_bot|1298
 #323|@ClubAjedrezChileno|1288
 #324|@LeelaZero-UK|1288
 #325|@queen_stase_approx|1288
@@ -342,8 +342,8 @@ Rank|Bot|Rating
 #340|@WorstBotEver123|1222
 #341|@Bot8983|1210
 #342|@DrunkenMasterEngine|1204
-#343|@MrKING74_btw|1191
-#344|@Demolito_L6|1187
+#343|@Demolito_L6|1195
+#344|@MrKING74_btw|1191
 #345|@schnecken_bot|1182
 #346|@BerntBOT|1162
 #347|@naughty-dottie|1158
@@ -368,11 +368,11 @@ Rank|Bot|Rating
 #366|@Bot_Swana|943
 #367|@bobandi|940
 #368|@YellowJackets_Bot|925
-#369|@Demolito_L4|916
+#369|@Demolito_L4|918
 #370|@botTideEval|875
 #371|@Palisade|800
 #372|@WaspBot|798
 #373|@LeelaWeak|735
 #374|@FelixLeonidovich|730
-#375|@pawnrobot|671
+#375|@pawnrobot|669
 #376|@konaz|456
