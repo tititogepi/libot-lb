@@ -1475,6 +1475,7 @@ nagasakihero
 nagranis
 naive_chess
 nakshatra3
+nam-robot
 nam-stockfish
 nastmardov
 natbee_bot
@@ -2113,6 +2114,7 @@ theensemble
 theepicbot2
 thefastrobot608
 thefreshman1902
+thegamesknow
 thegladiatorbot
 thegreatmompati2004
 thejoeatsussy
@@ -2397,5 +2399,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-thegamesknow
-nam-robot

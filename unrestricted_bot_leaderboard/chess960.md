@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
 #13|@Corvus-1|2197
-#14|@ResoluteBot|2196
+#14|@ResoluteBot|2195
 #15|@TheFreshman1902|2191
 #16|@hyperchessbot1|2189
 #17|@Intron014|2188
@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@YellowFlash_v2|2156
 #32|@TorBot|2155
 #33|@ReinforcementTrial|2154
-#34|@FireFishBOT|2151
+#34|@FireFishBOT|2150
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
@@ -283,7 +283,7 @@ Rank|Bot|Rating
 #281|@misteick_bot|1472
 #282|@MagicverseBOT|1471
 #283|@CBNguyen_Bot|1465
-#284|@FataliiBot|1460
+#284|@FataliiBot|1464
 #285|@MQBot|1460
 #286|@stonks_fish|1460
 #287|@Teamleaderbot|1458
@@ -368,11 +368,11 @@ Rank|Bot|Rating
 #366|@Bot_Swana|943
 #367|@bobandi|940
 #368|@YellowJackets_Bot|925
-#369|@Demolito_L4|923
+#369|@Demolito_L4|921
 #370|@botTideEval|875
 #371|@Palisade|800
 #372|@WaspBot|798
 #373|@LeelaWeak|735
 #374|@FelixLeonidovich|730
-#375|@pawnrobot|662
+#375|@pawnrobot|660
 #376|@konaz|453
