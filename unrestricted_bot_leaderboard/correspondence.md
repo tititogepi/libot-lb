@@ -126,10 +126,10 @@ Rank|Bot|Rating
 #124|@Thera_Engine|1955
 #125|@honzovy-sachy|1953
 #126|@BOTsharpchess|1952
-#127|@ZE_ROOK|1942
-#128|@Los-Guerreros1|1935
-#129|@TheLegendaryKnight|1935
-#130|@Virutor|1934
+#127|@Los-Guerreros1|1935
+#128|@TheLegendaryKnight|1935
+#129|@Virutor|1934
+#130|@ZE_ROOK|1934
 #131|@chicken_farmer|1926
 #132|@RootEngine|1920
 #133|@Simpafteur|1912
@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@RoboTal|1874
 #144|@yowCapablanca|1874
 #145|@TheMatrix2025|1872
-#146|@ViVe_2_chess_pro|1869
-#147|@Jibbby|1861
+#146|@Jibbby|1871
+#147|@ViVe_2_chess_pro|1869
 #148|@Official_bot|1857
 #149|@ChessChildren|1856
 #150|@Boris-Trapsky|1853
@@ -357,6 +357,6 @@ Rank|Bot|Rating
 #355|@G0thamB0t|1022
 #356|@mustaley|973
 #357|@BerserkRandomMover|963
-#358|@GuineaBot|936
+#358|@GuineaBot|931
 #359|@grandQ_AI|887
 #360|@BogoBot|865

@@ -18,10 +18,10 @@ Rank|Bot|Rating
 #16|@hyperchessbot1|2189
 #17|@Intron014|2187
 #18|@Kizburb|2182
-#19|@YoBot_v2|2182
-#20|@VariantsBot|2180
+#19|@VariantsBot|2180
+#20|@YoBot_v2|2180
 #21|@TorBot_v2|2175
-#22|@ToromBot|2173
+#22|@ToromBot|2174
 #23|@Bot_McBotface|2172
 #24|@lord-bot|2171
 #25|@EmptikBot|2168
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@FireFishBOT|2149
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
-#37|@duythong1402|2145
+#37|@duythong1402|2146
 #38|@LolFish-1|2144
 #39|@EmptikVariantsBot|2132
 #40|@faith_bot|2131
@@ -206,7 +206,7 @@ Rank|Bot|Rating
 #204|@Zer0_Tw0|1778
 #205|@Stockfish-MEDIUM|1777
 #206|@Fairy_Belzedar|1767
-#207|@OpeningsBot|1762
+#207|@OpeningsBot|1764
 #208|@PyChessBot|1762
 #209|@TrashBot|1761
 #210|@relevantproblem|1760
@@ -285,8 +285,8 @@ Rank|Bot|Rating
 #283|@CBNguyen_Bot|1465
 #284|@MQBot|1460
 #285|@stonks_fish|1460
-#286|@Teamleaderbot|1458
-#287|@FataliiBot|1456
+#286|@FataliiBot|1458
+#287|@Teamleaderbot|1458
 #288|@kazakhfirstbot|1454
 #289|@NeilDandekarBot|1453
 #290|@DespacitoBot|1451
@@ -321,7 +321,7 @@ Rank|Bot|Rating
 #319|@Filipo6900|1310
 #320|@GarboBot|1309
 #321|@DavidsGuterBot|1308
-#322|@camel_bot|1292
+#322|@camel_bot|1306
 #323|@ClubAjedrezChileno|1288
 #324|@LeelaZero-UK|1288
 #325|@queen_stase_approx|1288
@@ -342,8 +342,8 @@ Rank|Bot|Rating
 #340|@WorstBotEver123|1222
 #341|@Bot8983|1210
 #342|@DrunkenMasterEngine|1204
-#343|@Demolito_L6|1200
-#344|@MrKING74_btw|1191
+#343|@MrKING74_btw|1191
+#344|@Demolito_L6|1187
 #345|@schnecken_bot|1182
 #346|@BerntBOT|1162
 #347|@naughty-dottie|1158
@@ -368,11 +368,11 @@ Rank|Bot|Rating
 #366|@Bot_Swana|943
 #367|@bobandi|940
 #368|@YellowJackets_Bot|925
-#369|@Demolito_L4|917
+#369|@Demolito_L4|916
 #370|@botTideEval|875
 #371|@Palisade|800
 #372|@WaspBot|798
 #373|@LeelaWeak|735
 #374|@FelixLeonidovich|730
-#375|@pawnrobot|674
+#375|@pawnrobot|671
 #376|@konaz|456
