@@ -237,7 +237,7 @@ Rank|Bot|Rating
 #235|@Iwantedtoplaychess|1486
 #236|@Chess_Pro9600|1485
 #237|@MeezKool|1485
-#238|@pawnrobot|1485
+#238|@pawnrobot|1483
 #239|@RSVMentor|1476
 #240|@TheWeakestBot|1476
 #241|@thibot|1470

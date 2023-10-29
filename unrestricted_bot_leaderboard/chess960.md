@@ -342,7 +342,7 @@ Rank|Bot|Rating
 #340|@WorstBotEver123|1222
 #341|@Bot8983|1210
 #342|@DrunkenMasterEngine|1204
-#343|@Demolito_L6|1197
+#343|@Demolito_L6|1199
 #344|@MrKING74_btw|1191
 #345|@schnecken_bot|1182
 #346|@BerntBOT|1162
@@ -374,5 +374,5 @@ Rank|Bot|Rating
 #372|@WaspBot|798
 #373|@LeelaWeak|735
 #374|@FelixLeonidovich|730
-#375|@pawnrobot|658
+#375|@pawnrobot|656
 #376|@konaz|453
