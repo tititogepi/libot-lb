@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@LeelaChessTest|2208
 #11|@SfishChess2021|2204
 #12|@IUseStockfish|2202
-#13|@ResoluteBot|2200
+#13|@ResoluteBot|2199
 #14|@Corvus-1|2197
 #15|@TheFreshman1902|2191
 #16|@hyperchessbot1|2189
@@ -283,7 +283,7 @@ Rank|Bot|Rating
 #281|@misteick_bot|1472
 #282|@MagicverseBOT|1471
 #283|@CBNguyen_Bot|1465
-#284|@FataliiBot|1461
+#284|@FataliiBot|1465
 #285|@MQBot|1460
 #286|@stonks_fish|1460
 #287|@Teamleaderbot|1458
@@ -374,5 +374,5 @@ Rank|Bot|Rating
 #372|@WaspBot|798
 #373|@LeelaWeak|735
 #374|@FelixLeonidovich|730
-#375|@pawnrobot|660
+#375|@pawnrobot|658
 #376|@konaz|453

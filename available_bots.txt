@@ -1594,6 +1594,7 @@ palrishabh
 palrishabheasy
 panda_engine
 pangubot
+parrotfish1
 parth_dhage_2
 passivebot
 patientjellyfish
@@ -2399,4 +2400,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-parrotfish1
