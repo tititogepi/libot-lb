@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@BishoP-BOT|2708
 #11|@SatrancbazYT|2701
 #12|@djungel_lc0|2691
-#13|@SkyAttacker|2680
-#14|@ReinforcementTrial|2677
+#13|@ReinforcementTrial|2681
+#14|@SkyAttacker|2680
 #15|@Bingo202|2664
 #16|@MphoBot|2656
 #17|@VariantsTop|2653
@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@LolFish-1|2604
 #46|@European_Chess_Bot|2602
 #47|@Caissa-NNUE|2598
-#48|@LBOT007|2595
-#49|@ArasanX|2594
+#48|@Nikitosikbot|2596
+#49|@LBOT007|2595
 #50|@FireFishBOT|2591
-#51|@Nikitosikbot|2591
+#51|@ArasanX|2590
 #52|@RaspFish|2587
 #53|@Shineshou90_BOT|2586
 #54|@TheMatrix2025|2579
@@ -143,8 +143,8 @@ Rank|Bot|Rating
 #141|@HyperLitikBOT|2440
 #142|@TTC-BOT_2|2440
 #143|@TeamChelsie|2434
-#144|@try2defeatme|2433
-#145|@ELO_1500|2432
+#144|@ELO_1500|2433
+#145|@try2defeatme|2433
 #146|@Zackes|2429
 #147|@david9426_bot|2424
 #148|@FairGameKavvadias|2418
@@ -378,7 +378,7 @@ Rank|Bot|Rating
 #376|@Lynx_BOT|2047
 #377|@EndoKingsSpade|2046
 #378|@Humaia-Strong|2041
-#379|@simpleEval|2041
+#379|@simpleEval|2040
 #380|@TMFish|2037
 #381|@MagiC-engine|2036
 #382|@ibep|2034
@@ -436,7 +436,7 @@ Rank|Bot|Rating
 #434|@No-Varants-No|1955
 #435|@Chess_Pro9600|1954
 #436|@kostasvl-bot|1954
-#437|@zeekat|1952
+#437|@zeekat|1950
 #438|@leelarades|1945
 #439|@MRT23|1940
 #440|@Sparring_Bot|1938
@@ -485,7 +485,7 @@ Rank|Bot|Rating
 #483|@Betazerowins|1873
 #484|@AutoKillerZero|1872
 #485|@EagleEye2021|1871
-#486|@Elmichess|1870
+#486|@Elmichess|1869
 #487|@fastchess-engine|1869
 #488|@BetaOneBot|1867
 #489|@NemorinoBot|1865
@@ -538,9 +538,9 @@ Rank|Bot|Rating
 #536|@Flawed_Formula|1801
 #537|@Official_bot|1800
 #538|@Nicarao_Chess|1798
-#539|@Thuban_official|1796
-#540|@Goldfish-Engine|1793
-#541|@baby_eubos|1791
+#539|@baby_eubos|1797
+#540|@Thuban_official|1796
+#541|@Goldfish-Engine|1793
 #542|@B0T5_RU13|1788
 #543|@bcbchess|1787
 #544|@chmod-bot|1785

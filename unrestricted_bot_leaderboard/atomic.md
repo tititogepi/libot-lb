@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Cowboy_Time|1974
 #128|@Sub_Bot|1974
 #129|@VariantsTop|1974
-#130|@OpeningsBot|1973
+#130|@OpeningsBot|1972
 #131|@VarianteBOT|1970
 #132|@Ssech_BOT|1967
 #133|@AEBROADUSBOTTER|1958
@@ -144,8 +144,8 @@ Rank|Bot|Rating
 #142|@Just-a-random-bot|1898
 #143|@AX2XB2|1893
 #144|@TheAwesomeBot|1891
-#145|@kostasvl-bot|1877
-#146|@SimplerEval|1877
+#145|@SimplerEval|1881
+#146|@kostasvl-bot|1877
 #147|@B0T5_RU13|1871
 #148|@RobotTigerSlav|1871
 #149|@ItsHyperBot|1855
