@@ -2026,6 +2026,7 @@ sumeetthepro
 sun_bird
 sunfish-engine
 sunfish_rs
+sunstone_bot
 super_sus
 superbot090
 superchessbot2222
@@ -2396,4 +2397,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sunstone_bot
