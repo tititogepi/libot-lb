@@ -77,9 +77,9 @@ Rank|Bot|Rating
 #75|@AI69|2312
 #76|@Kizburb|2307
 #77|@MagicverseBOT|2306
-#78|@abhisun_bot|2305
-#79|@NienishiEngine|2304
-#80|@OpeningsBot|2303
+#78|@OpeningsBot|2306
+#79|@abhisun_bot|2305
+#80|@NienishiEngine|2304
 #81|@BromiumAI|2302
 #82|@EvenMatchup|2302
 #83|@GodelEscherBot|2284
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1940
+#124|@pawnrobot|1938
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
