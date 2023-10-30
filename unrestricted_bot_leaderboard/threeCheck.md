@@ -95,8 +95,8 @@ Rank|Bot|Rating
 #93|@Crepusculum|1724
 #94|@SUMEETTHEPRO|1708
 #95|@Yemmi-Yemmi|1702
-#96|@clueless-bot|1685
-#97|@SimplerEval|1683
+#96|@SimplerEval|1690
+#97|@clueless-bot|1685
 #98|@NormalBulletBot|1657
 #99|@the_checkmating_bot|1643
 #100|@Botkingteam33|1633
@@ -106,9 +106,9 @@ Rank|Bot|Rating
 #104|@Galaxy_Guardian|1561
 #105|@Alehkine_cat|1549
 #106|@TrashBot|1519
-#107|@DavidsGuterBot|1514
-#108|@relevantproblem|1514
-#109|@Toxic_Bot|1511
+#107|@relevantproblem|1514
+#108|@Toxic_Bot|1511
+#109|@DavidsGuterBot|1510
 #110|@NoobMasterBOT|1507
 #111|@Epiano_Bot|1491
 #112|@CVA728_BOT_1|1489

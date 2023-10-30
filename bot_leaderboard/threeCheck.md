@@ -2,5 +2,5 @@ Rank|Bot|Rating
 ---|---|---
 #1|@RaspFish|2516
 #2|@OpeningsBot|2021
-#3|@DavidsGuterBot|1514
+#3|@DavidsGuterBot|1510
 #4|@pawnrobot|1203

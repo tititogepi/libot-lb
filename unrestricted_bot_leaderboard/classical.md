@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@Occhessadvanced|2636
 #25|@UltimateL|2636
 #26|@YoBot_v2|2636
-#27|@Intron014|2634
-#28|@Africaata|2633
+#27|@Africaata|2633
+#28|@Intron014|2633
 #29|@M-Z_Bot|2633
 #30|@blitzz_bot|2631
 #31|@TheFreshman1902|2626
@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@Nikitosikbot|2598
 #49|@FireFishBOT|2597
 #50|@LBOT007|2595
-#51|@RaspFish|2590
+#51|@RaspFish|2591
 #52|@ArasanX|2588
 #53|@Shineshou90_BOT|2586
 #54|@TheMatrix2025|2579
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@TTC-BOT_2|2440
 #143|@TeamChelsie|2434
 #144|@try2defeatme|2433
-#145|@ELO_1500|2431
+#145|@ELO_1500|2432
 #146|@Zackes|2429
 #147|@david9426_bot|2424
 #148|@FairGameKavvadias|2418
@@ -371,7 +371,7 @@ Rank|Bot|Rating
 #369|@LeelaHatena|2054
 #370|@bot64jaques|2053
 #371|@GoetheBOT|2050
-#372|@Lynx_BOT|2050
+#372|@Lynx_BOT|2049
 #373|@Melphess|2049
 #374|@Boris-Trapsky|2048
 #375|@simpleEval|2048
@@ -639,7 +639,7 @@ Rank|Bot|Rating
 #637|@BRAINLEARN11_NNUE|1619
 #638|@main_line|1619
 #639|@WretchedZero|1619
-#640|@maia5|1614
+#640|@maia5|1618
 #641|@SimpleChessEngine|1614
 #642|@Trollfish-Bot|1614
 #643|@hokmah-bot|1613
@@ -697,9 +697,9 @@ Rank|Bot|Rating
 #695|@ssehcilx|1495
 #696|@BotKajmen|1492
 #697|@TuroBot|1491
-#698|@MaiaMystery|1487
-#699|@JEDDYCOCO12345|1486
-#700|@maia1|1484
+#698|@maia1|1489
+#699|@MaiaMystery|1487
+#700|@JEDDYCOCO12345|1486
 #701|@SolistaBot|1483
 #702|@ANTON_Bot|1481
 #703|@ronideniz|1481
