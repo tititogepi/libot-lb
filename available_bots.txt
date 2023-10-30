@@ -2276,6 +2276,7 @@ viridithas
 virutor
 vishynotanand_thebot
 vive_2_chess_pro
+vividmind
 vlad_777_0
 vodkabot
 volkchessengine
@@ -2400,4 +2401,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-vividmind
