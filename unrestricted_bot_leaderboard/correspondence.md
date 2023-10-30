@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@ChessChildren|1856
 #150|@Boris-Trapsky|1853
 #151|@natural-disaster|1853
-#152|@yeoldwiz|1838
+#152|@yeoldwiz|1848
 #153|@Rinestro|1837
 #154|@OurBot|1836
 #155|@Aromik_s_bot|1831
