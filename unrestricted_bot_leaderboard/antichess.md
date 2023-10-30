@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@PepsiForAll|2460
 #51|@CloudBot_v2|2455
 #52|@ResoluteBot|2455
-#53|@NilatacBot|2443
+#53|@NilatacBot|2447
 #54|@KingfishX|2436
 #55|@Bobby_Fischer_BOT|2435
 #56|@Nobody11892|2435
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
-#75|@OpeningsBot|2326
+#75|@OpeningsBot|2314
 #76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
 #104|@Lucror|2178
-#105|@anti-bot|2160
+#105|@anti-bot|2168
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
 #108|@AnUtterlyKarBot|2134
