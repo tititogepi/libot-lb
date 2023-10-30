@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@VariantsTop|1974
 #131|@VarianteBOT|1970
 #132|@Ssech_BOT|1967
-#133|@OpeningsBot|1962
+#133|@OpeningsBot|1964
 #134|@AEBROADUSBOTTER|1958
 #135|@AtomicRouletteBot|1955
 #136|@atomicli|1951
@@ -237,7 +237,7 @@ Rank|Bot|Rating
 #235|@Iwantedtoplaychess|1486
 #236|@Chess_Pro9600|1485
 #237|@MeezKool|1485
-#238|@pawnrobot|1485
+#238|@pawnrobot|1480
 #239|@RSVMentor|1476
 #240|@TheWeakestBot|1476
 #241|@thibot|1470
