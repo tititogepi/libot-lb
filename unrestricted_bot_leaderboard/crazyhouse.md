@@ -139,9 +139,9 @@ Rank|Bot|Rating
 #137|@Trumpfor2O2O|1458
 #138|@asdfbot2|1448
 #139|@thousandatom|1445
-#140|@TorBot|1436
-#141|@Rapid_WorldChamp|1432
-#142|@SimplerEval|1432
+#140|@SimplerEval|1440
+#141|@TorBot|1436
+#142|@Rapid_WorldChamp|1432
 #143|@MagnusCarlsen1507|1431
 #144|@Nicholaswb_BOT|1426
 #145|@Itzmoi6g19|1425
@@ -173,7 +173,7 @@ Rank|Bot|Rating
 #171|@magnusglad_bot|1196
 #172|@FluffBallCuddly|1191
 #173|@heatseeker223|1191
-#174|@pawnrobot|1191
+#174|@pawnrobot|1184
 #175|@ChessPlayer1225|1183
 #176|@Jannik08_FAN|1163
 #177|@BotOfAtomicChess|1153

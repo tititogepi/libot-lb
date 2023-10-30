@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@TheFreshman1902|2191
 #16|@hyperchessbot1|2189
 #17|@Intron014|2188
-#18|@Kizburb|2182
-#19|@VariantsBot|2180
-#20|@YoBot_v2|2180
+#18|@YoBot_v2|2184
+#19|@Kizburb|2182
+#20|@VariantsBot|2180
 #21|@TorBot_v2|2175
 #22|@ToromBot|2174
 #23|@Bot_McBotface|2172
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@Shineshou90_BOT|2093
 #60|@UnDisstoppableBot|2090
 #61|@Lila-Stockfish|2089
-#62|@RaspFish|2087
-#63|@Nikitosik-ai|2084
+#62|@Nikitosik-ai|2084
+#63|@RaspFish|2083
 #64|@Mittens-Bot|2081
 #65|@chessbot2880|2079
 #66|@EmptikBotLc0|2079
@@ -282,8 +282,8 @@ Rank|Bot|Rating
 #280|@SmallbrainPy|1474
 #281|@misteick_bot|1472
 #282|@MagicverseBOT|1471
-#283|@CBNguyen_Bot|1465
-#284|@FataliiBot|1465
+#283|@FataliiBot|1467
+#284|@CBNguyen_Bot|1465
 #285|@MQBot|1460
 #286|@stonks_fish|1460
 #287|@Teamleaderbot|1458
@@ -340,9 +340,9 @@ Rank|Bot|Rating
 #338|@Future_Chess_Pro|1233
 #339|@AlphaLeela0|1229
 #340|@WorstBotEver123|1222
-#341|@Bot8983|1210
-#342|@DrunkenMasterEngine|1204
-#343|@Demolito_L6|1202
+#341|@Demolito_L6|1212
+#342|@Bot8983|1210
+#343|@DrunkenMasterEngine|1204
 #344|@MrKING74_btw|1191
 #345|@schnecken_bot|1182
 #346|@BerntBOT|1162
@@ -368,7 +368,7 @@ Rank|Bot|Rating
 #366|@Bot_Swana|943
 #367|@bobandi|940
 #368|@YellowJackets_Bot|925
-#369|@Demolito_L4|914
+#369|@Demolito_L4|912
 #370|@botTideEval|875
 #371|@Palisade|800
 #372|@WaspBot|798
