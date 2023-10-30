@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@Ujwal1001|2297
 #22|@bekbot|2289
 #23|@mrohCentaur|2285
-#24|@ChamberiAjedrez|2281
+#24|@ChamberiAjedrez|2284
 #25|@Cheng-4|2269
 #26|@HansNiemannBot|2260
 #27|@nukechess-bot|2244
@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Los-Guerreros1|1935
 #128|@TheLegendaryKnight|1935
 #129|@Virutor|1934
-#130|@ZE_ROOK|1932
+#130|@ZE_ROOK|1931
 #131|@chicken_farmer|1926
 #132|@RootEngine|1920
 #133|@Simpafteur|1912
@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@PiratesBot|1876
 #141|@Yukoo-BOT|1876
 #142|@beststockfish16|1875
-#143|@Jibbby|1874
+#143|@Jibbby|1875
 #144|@RoboTal|1874
 #145|@yowCapablanca|1874
 #146|@TheMatrix2025|1872
@@ -354,9 +354,9 @@ Rank|Bot|Rating
 #352|@AXWChessBot|1096
 #353|@StashBot|1075
 #354|@Light_To_The_Rescue|1057
-#355|@G0thamB0t|1014
+#355|@G0thamB0t|999
 #356|@mustaley|973
 #357|@BerserkRandomMover|963
-#358|@GuineaBot|922
+#358|@GuineaBot|910
 #359|@grandQ_AI|887
 #360|@BogoBot|865
