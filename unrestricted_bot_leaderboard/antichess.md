@@ -100,8 +100,8 @@ Rank|Bot|Rating
 #98|@SaturnBot|2214
 #99|@xDmanBOT|2214
 #100|@YellowFlash_v2|2214
-#101|@NormalBlitzBulletBot|2205
-#102|@anti-bot|2203
+#101|@anti-bot|2207
+#102|@NormalBlitzBulletBot|2205
 #103|@EstmileBot|2200
 #104|@HerokuHasnotplay|2196
 #105|@Lucror|2178
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1950
+#124|@pawnrobot|1946
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861

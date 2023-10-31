@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@LeelaChessTest|2208
 #12|@SfishChess2021|2204
 #13|@IUseStockfish|2202
-#14|@ResoluteBot|2201
+#14|@ResoluteBot|2200
 #15|@Corvus-1|2197
 #16|@TheFreshman1902|2191
 #17|@hyperchessbot1|2189
@@ -275,9 +275,9 @@ Rank|Bot|Rating
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
-#276|@are_bots_good|1496
-#277|@dolegibot|1496
-#278|@FataliiBot|1493
+#276|@FataliiBot|1502
+#277|@are_bots_good|1496
+#278|@dolegibot|1496
 #279|@feeks99|1479
 #280|@devsdaBot|1477
 #281|@TFRChessClub|1477
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@Future_Chess_Pro|1233
 #340|@AlphaLeela0|1229
 #341|@WorstBotEver123|1222
-#342|@Demolito_L6|1221
+#342|@Demolito_L6|1215
 #343|@Bot8983|1210
 #344|@DrunkenMasterEngine|1204
 #345|@MrKING74_btw|1191
