@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@Leela8-Test|1640
 #16|@FataliiBot|1483
 #17|@camel_bot|1298
-#18|@Demolito_L6|1213
-#19|@Demolito_L5|1137
+#18|@Demolito_L6|1223
+#19|@Demolito_L5|1131
 #20|@Demolito_L4|914
 #21|@pawnrobot|626
