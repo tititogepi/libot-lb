@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@xiang-qi|2113
 #72|@atomicli|2111
 #73|@Trumpfor2O2O|2103
-#74|@OpeningsBot|2079
+#74|@OpeningsBot|2084
 #75|@CloudBOT|2073
 #76|@JustDontFlagMe|2048
 #77|@Stockfish-MEDIUM|2043
