@@ -497,6 +497,7 @@ chessuniverse-guy
 chessvbot
 chessvissy
 chesswinner_56
+chesswizbot
 chesz_art
 chicken_farmer
 child_beth
@@ -2402,4 +2403,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chesswizbot
