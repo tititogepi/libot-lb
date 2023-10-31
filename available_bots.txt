@@ -2269,6 +2269,7 @@ viet-ai
 viet-bot
 viet_bot
 vigneshjohanbot
+vimbot
 vinh_variantsbot
 vinnikk
 virgo_andlogos
@@ -2401,4 +2402,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-vimbot
