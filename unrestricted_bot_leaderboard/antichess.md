@@ -101,9 +101,9 @@ Rank|Bot|Rating
 #99|@xDmanBOT|2214
 #100|@YellowFlash_v2|2214
 #101|@NormalBlitzBulletBot|2205
-#102|@EstmileBot|2200
-#103|@HerokuHasnotplay|2196
-#104|@anti-bot|2195
+#102|@anti-bot|2203
+#103|@EstmileBot|2200
+#104|@HerokuHasnotplay|2196
 #105|@Lucror|2178
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
