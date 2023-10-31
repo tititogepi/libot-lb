@@ -756,6 +756,7 @@ fastchess-engine
 fastchessbot
 fataliibot
 fateh_seferli_4d-63
+fathzer-jchess
 fatmoon
 fbot
 featbeweir
@@ -2403,4 +2404,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-fathzer-jchess
