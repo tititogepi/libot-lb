@@ -358,6 +358,6 @@ Rank|Bot|Rating
 #356|@G0thamB0t|974
 #357|@mustaley|973
 #358|@BerserkRandomMover|963
-#359|@GuineaBot|910
+#359|@GuineaBot|906
 #360|@grandQ_AI|887
 #361|@BogoBot|865
