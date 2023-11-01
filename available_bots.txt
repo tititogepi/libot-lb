@@ -542,6 +542,7 @@ corvus-1
 cosettebot
 cosmic64
 cowboy_time
+crabchess
 crappybot
 craytox
 crayybot
@@ -2404,4 +2405,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-crabchess
