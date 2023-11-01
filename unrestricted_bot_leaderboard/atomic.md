@@ -234,10 +234,10 @@ Rank|Bot|Rating
 #232|@UnDisstoppableBot|1498
 #233|@Hedgehog_BOT|1497
 #234|@Pikachu_270|1497
-#235|@pawnrobot|1488
-#236|@Iwantedtoplaychess|1486
-#237|@Chess_Pro9600|1485
-#238|@MeezKool|1485
+#235|@Iwantedtoplaychess|1486
+#236|@Chess_Pro9600|1485
+#237|@MeezKool|1485
+#238|@pawnrobot|1476
 #239|@RSVMentor|1476
 #240|@TheWeakestBot|1476
 #241|@thibot|1470
