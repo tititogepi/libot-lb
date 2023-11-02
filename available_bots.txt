@@ -136,6 +136,7 @@ arny_bot
 aromik_s_bot
 artjom_bot
 arundina
+asalfish_15
 asdfbot2
 ashnostromo
 asimusbot
@@ -2406,4 +2407,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-asalfish_15
