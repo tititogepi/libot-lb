@@ -200,7 +200,7 @@ Rank|Bot|Rating
 #198|@xiang-qi|1809
 #199|@CloudBOT|1807
 #200|@Lalis1|1804
-#201|@OpeningsBot|1797
+#201|@OpeningsBot|1799
 #202|@EvilFreak|1793
 #203|@Storm_Shadow2012|1788
 #204|@mrchessmanager|1784
@@ -265,9 +265,9 @@ Rank|Bot|Rating
 #263|@Less_of_a_threat|1542
 #264|@Just-a-random-bot|1541
 #265|@magnusglad_bot|1538
-#266|@FataliiBot|1536
-#267|@CocopikachuBOT|1535
-#268|@clueless-bot|1534
+#266|@CocopikachuBOT|1535
+#267|@clueless-bot|1534
+#268|@FataliiBot|1534
 #269|@SimplerEval|1534
 #270|@Variantenkoning|1534
 #271|@anarchychess-bot|1532
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@ZX-Chess|1119
 #356|@Jobabot|1110
 #357|@Dummyette|1107
-#358|@Demolito_L5|1062
+#358|@Demolito_L5|1053
 #359|@LeElaGuess|1049
 #360|@admin-bot|1003
 #361|@TuroBot|997
@@ -369,8 +369,8 @@ Rank|Bot|Rating
 #367|@RandomTree77|956
 #368|@Bot_Swana|943
 #369|@bobandi|940
-#370|@YellowJackets_Bot|925
-#371|@Demolito_L4|916
+#370|@Demolito_L4|925
+#371|@YellowJackets_Bot|925
 #372|@botTideEval|875
 #373|@Palisade|800
 #374|@WaspBot|798
