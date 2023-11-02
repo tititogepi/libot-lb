@@ -119,6 +119,7 @@ apotheosis_bot
 appleatebananabot
 apraz
 aquaflame
+aquafrenzy
 aqwert123
 ara-online
 ararimbelami
@@ -1982,6 +1983,7 @@ stockfish1node
 stockfish2021
 stockfish224
 stockfish9-fullpower
+stockfish_dev
 stockfish_i7
 stockfish_johan
 stockfish_killer
@@ -2407,5 +2409,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-aquafrenzy
-stockfish_dev
