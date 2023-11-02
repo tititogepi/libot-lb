@@ -337,8 +337,8 @@ Rank|Bot|Rating
 #335|@Itzmoi6g19|1258
 #336|@SalmonChess9|1258
 #337|@Sparring_Bot|1248
-#338|@RootEngine|1245
-#339|@Demolito_L6|1242
+#338|@Demolito_L6|1245
+#339|@RootEngine|1245
 #340|@Future_Chess_Pro|1233
 #341|@AlphaLeela0|1229
 #342|@WorstBotEver123|1222
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@ZX-Chess|1119
 #356|@Jobabot|1110
 #357|@Dummyette|1107
-#358|@Demolito_L5|1083
+#358|@Demolito_L5|1080
 #359|@LeElaGuess|1049
 #360|@admin-bot|1003
 #361|@TuroBot|997
