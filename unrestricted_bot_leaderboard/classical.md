@@ -50,7 +50,7 @@ Rank|Bot|Rating
 #48|@Caissa-NNUE|2598
 #49|@LBOT007|2595
 #50|@FireFishBOT|2593
-#51|@RaspFish|2588
+#51|@RaspFish|2590
 #52|@Shineshou90_BOT|2586
 #53|@ArasanX|2581
 #54|@TheMatrix2025|2579
@@ -184,7 +184,7 @@ Rank|Bot|Rating
 #182|@expositor|2358
 #183|@Future_Chess_Pro|2358
 #184|@catriever|2357
-#185|@AKS-Mantissa|2355
+#185|@AKS-Mantissa|2352
 #186|@Hydrovolt|2348
 #187|@ChessChipBot|2347
 #188|@TRGBot|2346
@@ -580,9 +580,9 @@ Rank|Bot|Rating
 #578|@Aromik_s_bot|1737
 #579|@ChessFbot|1735
 #580|@PVICE|1734
-#581|@GilgameshTheBot|1729
-#582|@queen_stase_approx|1729
-#583|@maia9|1728
+#581|@maia9|1732
+#582|@GilgameshTheBot|1729
+#583|@queen_stase_approx|1729
 #584|@Epiano_Bot|1718
 #585|@Zagreus_Engine|1718
 #586|@QuintiumBotAccount|1717
@@ -643,11 +643,11 @@ Rank|Bot|Rating
 #641|@main_line|1619
 #642|@WretchedZero|1619
 #643|@hokmah-bot|1613
-#644|@maia5|1612
-#645|@ZE_ROOK|1612
-#646|@Mp_Ind_946|1610
-#647|@StockfishOfficial|1608
-#648|@Trollfish-Bot|1606
+#644|@ZE_ROOK|1612
+#645|@Mp_Ind_946|1610
+#646|@StockfishOfficial|1608
+#647|@Trollfish-Bot|1606
+#648|@maia5|1605
 #649|@sargon-4ply|1604
 #650|@LeelaWeak|1601
 #651|@Alehkine_cat|1599
