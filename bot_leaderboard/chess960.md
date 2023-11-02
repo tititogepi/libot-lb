@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@ResoluteBot|2208
 #2|@TheFreshman1902|2191
 #3|@Intron014|2188
-#4|@YoBot_v2|2180
+#4|@YoBot_v2|2179
 #5|@ToromBot|2178
 #6|@TorBot_v2|2175
 #7|@FireFishBOT|2138
@@ -14,6 +14,6 @@ Rank|Bot|Rating
 #12|@FataliiBot|1536
 #13|@camel_bot|1298
 #14|@Demolito_L6|1245
-#15|@Demolito_L5|1067
-#16|@Demolito_L4|911
+#15|@Demolito_L5|1062
+#16|@Demolito_L4|916
 #17|@pawnrobot|634
