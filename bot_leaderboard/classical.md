@@ -13,9 +13,9 @@ Rank|Bot|Rating
 #11|@ArasanX|2581
 #12|@StockFish16_2023|2557
 #13|@JuroJ|2541
-#14|@ELO_1500|2434
+#14|@ELO_1500|2435
 #15|@LazyBot|2384
-#16|@expositor|2362
+#16|@expositor|2363
 #17|@catriever|2358
 #18|@AKS-Mantissa|2349
 #19|@pawn_git|2323
@@ -23,10 +23,10 @@ Rank|Bot|Rating
 #21|@Weiawaga|2277
 #22|@ChessNoobComp|2161
 #23|@TuksuBot|2153
-#24|@Lynx_BOT|2085
-#25|@Boris-Trapsky|2039
+#24|@Lynx_BOT|2090
+#25|@Boris-Trapsky|2037
 #26|@simpleEval|2037
-#27|@eubos|1992
+#27|@eubos|1991
 #28|@HistoryExplorer|1978
 #29|@jangine|1930
 #30|@MaxtheDog|1930
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@LeelaRogue|1845
 #35|@baby_eubos|1817
 #36|@Demolito_L6|1785
-#37|@maia9|1728
+#37|@maia9|1730
 #38|@Demolito_L5|1725
 #39|@notropis|1686
 #40|@turkjs|1624
@@ -46,9 +46,9 @@ Rank|Bot|Rating
 #44|@sargon-4ply|1604
 #45|@simplexitor|1598
 #46|@sargon-3ply|1597
-#47|@maia5|1596
+#47|@maia5|1583
 #48|@chat_bot|1538
-#49|@maia1|1493
+#49|@maia1|1484
 #50|@sargon-2ply|1460
 #51|@Humaia|1454
 #52|@turochamp-1ply|1333
