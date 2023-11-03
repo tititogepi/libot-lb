@@ -112,9 +112,9 @@ Rank|Bot|Rating
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
-#113|@Botzer|2020
-#114|@Jussicas|2019
-#115|@CatNail|2018
+#113|@CatNail|2021
+#114|@Botzer|2020
+#115|@Jussicas|2019
 #116|@CloudBotZero|2018
 #117|@B0T5_RU13|2011
 #118|@TheLegitLegend|2010
