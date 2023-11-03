@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@TheLegendaryKnight|1935
 #129|@Virutor|1934
 #130|@chicken_farmer|1926
-#131|@ZE_ROOK|1921
+#131|@ZE_ROOK|1926
 #132|@RootEngine|1920
 #133|@Simpafteur|1912
 #134|@ClubAjedrezChileno|1898
@@ -143,11 +143,11 @@ Rank|Bot|Rating
 #141|@PiratesBot|1876
 #142|@Yukoo-BOT|1876
 #143|@beststockfish16|1875
-#144|@Jibbby|1875
-#145|@RoboTal|1874
-#146|@yowCapablanca|1874
-#147|@TheMatrix2025|1872
-#148|@ViVe_2_chess_pro|1869
+#144|@RoboTal|1874
+#145|@yowCapablanca|1874
+#146|@TheMatrix2025|1872
+#147|@ViVe_2_chess_pro|1869
+#148|@Jibbby|1868
 #149|@Official_bot|1857
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853

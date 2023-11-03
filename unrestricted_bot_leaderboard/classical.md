@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@ProteusSF-lite|2621
 #37|@EmptikBot247|2618
 #38|@ProteusSF-Turbo|2618
-#39|@ResoluteBot|2616
+#39|@ResoluteBot|2617
 #40|@ProteusSF|2613
 #41|@Nikitosikbot|2611
 #42|@kybot|2610
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@LolFish-1|2604
 #47|@RipTorn|2604
 #48|@European_Chess_Bot|2602
-#49|@RaspFish|2600
-#50|@Caissa-NNUE|2598
+#49|@Caissa-NNUE|2598
+#50|@RaspFish|2598
 #51|@LBOT007|2595
 #52|@FireFishBOT|2593
 #53|@Shineshou90_BOT|2586
@@ -144,7 +144,7 @@ Rank|Bot|Rating
 #142|@Nezh-BOT|2444
 #143|@HyperLitikBOT|2440
 #144|@TTC-BOT_2|2440
-#145|@ELO_1500|2437
+#145|@ELO_1500|2439
 #146|@TeamChelsie|2434
 #147|@try2defeatme|2433
 #148|@Zackes|2429
@@ -656,12 +656,12 @@ Rank|Bot|Rating
 #654|@simplexitor|1598
 #655|@Kiwibot|1597
 #656|@sargon-3ply|1597
-#657|@RavenLiteEngine|1594
-#658|@IOs_bot|1591
-#659|@NiyaziCarlsen|1591
-#660|@ShallowLearnBot|1590
-#661|@rchessbot|1587
-#662|@maia5|1586
+#657|@maia5|1596
+#658|@RavenLiteEngine|1594
+#659|@IOs_bot|1591
+#660|@NiyaziCarlsen|1591
+#661|@ShallowLearnBot|1590
+#662|@rchessbot|1587
 #663|@JonoX|1584
 #664|@PlanktonEngineRust|1584
 #665|@FENder_Bender|1583
