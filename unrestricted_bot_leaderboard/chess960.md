@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@ResoluteBot|2206
 #13|@SfishChess2021|2204
 #14|@IUseStockfish|2202
-#15|@Corvus-1|2197
-#16|@YoBot_v2|2195
+#15|@YoBot_v2|2199
+#16|@Corvus-1|2197
 #17|@TheFreshman1902|2191
 #18|@hyperchessbot1|2189
 #19|@Intron014|2187
@@ -66,9 +66,9 @@ Rank|Bot|Rating
 #64|@Mittens-Bot|2081
 #65|@chessbot2880|2079
 #66|@EmptikBotLc0|2079
-#67|@RaspFish|2075
-#68|@KhanhStockfish|2074
-#69|@mrohBOT|2074
+#67|@KhanhStockfish|2074
+#68|@mrohBOT|2074
+#69|@RaspFish|2071
 #70|@Mega_BOT|2066
 #71|@Karpov_bot|2063
 #72|@chessfyBOT|2060
@@ -337,7 +337,7 @@ Rank|Bot|Rating
 #335|@SalmonChess9|1258
 #336|@Sparring_Bot|1248
 #337|@RootEngine|1245
-#338|@Demolito_L6|1240
+#338|@Demolito_L6|1243
 #339|@Future_Chess_Pro|1233
 #340|@AlphaLeela0|1229
 #341|@WorstBotEver123|1222
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@ZX-Chess|1119
 #355|@Jobabot|1110
 #356|@Dummyette|1107
-#357|@Demolito_L5|1073
+#357|@Demolito_L5|1077
 #358|@LeElaGuess|1049
 #359|@admin-bot|1003
 #360|@TuroBot|997

@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@Thera_Engine|1955
 #125|@honzovy-sachy|1953
 #126|@BOTsharpchess|1952
-#127|@ZE_ROOK|1945
+#127|@ZE_ROOK|1944
 #128|@Los-Guerreros1|1935
 #129|@TheLegendaryKnight|1935
 #130|@Virutor|1934
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@TheMatrix2025|1872
 #146|@ViVe_2_chess_pro|1869
 #147|@yeoldwiz|1866
-#148|@Jibbby|1863
+#148|@Jibbby|1864
 #149|@Official_bot|1857
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853
