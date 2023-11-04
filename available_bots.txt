@@ -1835,6 +1835,7 @@ samuraix_v2
 samwchess2022
 sanayiyeverinbeni
 sanjana_kambala-bot
+santana64
 sargon-1ply
 sargon-2ply
 sargon-3ply
@@ -2412,4 +2413,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-santana64

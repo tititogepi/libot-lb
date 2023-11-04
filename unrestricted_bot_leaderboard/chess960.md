@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@ResoluteBot|2206
 #13|@SfishChess2021|2204
 #14|@IUseStockfish|2202
-#15|@YoBot_v2|2199
-#16|@Corvus-1|2197
+#15|@Corvus-1|2197
+#16|@YoBot_v2|2196
 #17|@TheFreshman1902|2191
 #18|@hyperchessbot1|2189
 #19|@Intron014|2187
@@ -24,11 +24,11 @@ Rank|Bot|Rating
 #22|@ToromBot|2178
 #23|@TorBot_v2|2175
 #24|@Bot_McBotface|2172
-#25|@EmptikBot|2168
-#26|@lord-bot|2168
+#25|@lord-bot|2172
+#26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
-#29|@Nikitosikbot|2158
+#29|@Nikitosikbot|2159
 #30|@YellowFlash-X|2158
 #31|@TheMatrix2025|2156
 #32|@YellowFlash_v2|2156
@@ -337,9 +337,9 @@ Rank|Bot|Rating
 #335|@SalmonChess9|1258
 #336|@Sparring_Bot|1248
 #337|@RootEngine|1245
-#338|@Future_Chess_Pro|1233
-#339|@AlphaLeela0|1229
-#340|@Demolito_L6|1226
+#338|@Demolito_L6|1233
+#339|@Future_Chess_Pro|1233
+#340|@AlphaLeela0|1229
 #341|@WorstBotEver123|1222
 #342|@Bot8983|1210
 #343|@DrunkenMasterEngine|1204
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@ZX-Chess|1119
 #355|@Jobabot|1110
 #356|@Dummyette|1107
-#357|@Demolito_L5|1080
+#357|@Demolito_L5|1073
 #358|@LeElaGuess|1049
 #359|@admin-bot|1003
 #360|@TuroBot|997

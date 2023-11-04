@@ -237,10 +237,10 @@ Rank|Bot|Rating
 #235|@Iwantedtoplaychess|1486
 #236|@Chess_Pro9600|1485
 #237|@MeezKool|1485
-#238|@RSVMentor|1476
-#239|@TheWeakestBot|1476
-#240|@thibot|1470
-#241|@pawnrobot|1465
+#238|@pawnrobot|1482
+#239|@RSVMentor|1476
+#240|@TheWeakestBot|1476
+#241|@thibot|1470
 #242|@fastandfurious10|1464
 #243|@EDSPBOT|1463
 #244|@Dong_Xiao_Yuan|1454
