@@ -115,8 +115,8 @@ Rank|Bot|Rating
 #113|@Botzer|2020
 #114|@Jussicas|2019
 #115|@CloudBotZero|2018
-#116|@CatNail|2015
-#117|@B0T5_RU13|2011
+#116|@B0T5_RU13|2011
+#117|@CatNail|2010
 #118|@TheLegitLegend|2010
 #119|@CrayyBot|1989
 #120|@BetaZ|1973
