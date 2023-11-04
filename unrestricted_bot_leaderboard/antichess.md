@@ -115,7 +115,7 @@ Rank|Bot|Rating
 #113|@Botzer|2020
 #114|@Jussicas|2019
 #115|@CloudBotZero|2018
-#116|@CatNail|2012
+#116|@CatNail|2016
 #117|@B0T5_RU13|2011
 #118|@TheLegitLegend|2010
 #119|@CrayyBot|1989
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1940
+#124|@pawnrobot|1935
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
