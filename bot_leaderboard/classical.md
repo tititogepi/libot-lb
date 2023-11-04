@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Occhessadvanced|2635
 #6|@TheFreshman1902|2625
 #7|@ResoluteBot|2620
-#8|@RaspFish|2603
+#8|@RaspFish|2605
 #9|@FireFishBOT|2594
 #10|@ArasanX|2581
 #11|@StockFish16_2023|2557
@@ -19,11 +19,11 @@ Rank|Bot|Rating
 #17|@AKS-Mantissa|2355
 #18|@pawn_git|2323
 #19|@SaxtonEngine|2302
-#20|@Weiawaga|2284
+#20|@Weiawaga|2282
 #21|@TuksuBot|2162
 #22|@ChessNoobComp|2161
 #23|@Lynx_BOT|2083
-#24|@Boris-Trapsky|2042
+#24|@Boris-Trapsky|2041
 #25|@simpleEval|2035
 #26|@eubos|1992
 #27|@HistoryExplorer|1962
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@LeelaRogue|1833
 #34|@baby_eubos|1817
 #35|@Demolito_L6|1785
-#36|@maia9|1749
+#36|@maia9|1744
 #37|@Demolito_L5|1726
 #38|@notropis|1686
 #39|@turochamp-2ply|1625
@@ -47,10 +47,10 @@ Rank|Bot|Rating
 #45|@simplexitor|1598
 #46|@sargon-3ply|1597
 #47|@chat_bot|1538
-#48|@maia1|1479
-#49|@Humaia|1474
+#48|@Humaia|1474
+#49|@maia1|1467
 #50|@sargon-2ply|1460
-#51|@turochamp-1ply|1338
-#52|@sargon-1ply|1260
+#51|@turochamp-1ply|1336
+#52|@sargon-1ply|1263
 #53|@CHoMPBoT|1124
 #54|@G0thamB0t|759

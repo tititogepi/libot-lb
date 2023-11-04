@@ -114,8 +114,8 @@ Rank|Bot|Rating
 #112|@ZamuChess|2049
 #113|@Botzer|2020
 #114|@Jussicas|2019
-#115|@CatNail|2018
-#116|@CloudBotZero|2018
+#115|@CloudBotZero|2018
+#116|@CatNail|2015
 #117|@B0T5_RU13|2011
 #118|@TheLegitLegend|2010
 #119|@CrayyBot|1989
