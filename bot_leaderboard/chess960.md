@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@duythong1402|2142
 #7|@FireFishBOT|2139
 #8|@RaspFish|2075
-#9|@OpeningsBot|1806
-#10|@FataliiBot|1547
+#9|@OpeningsBot|1808
+#10|@FataliiBot|1545
 #11|@camel_bot|1298
-#12|@Demolito_L6|1241
-#13|@Demolito_L5|1065
+#12|@Demolito_L6|1233
+#13|@Demolito_L5|1073
 #14|@Demolito_L4|922
 #15|@pawnrobot|631
