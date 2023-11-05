@@ -132,9 +132,9 @@ Rank|Bot|Rating
 #130|@VariantsTop|1974
 #131|@VarianteBOT|1970
 #132|@Ssech_BOT|1967
-#133|@OpeningsBot|1964
-#134|@AEBROADUSBOTTER|1958
-#135|@AtomicRouletteBot|1955
+#133|@AEBROADUSBOTTER|1958
+#134|@AtomicRouletteBot|1955
+#135|@OpeningsBot|1954
 #136|@atomicli|1951
 #137|@HappyDeepawali|1941
 #138|@EagleEye2021|1935
@@ -234,10 +234,10 @@ Rank|Bot|Rating
 #232|@UnDisstoppableBot|1498
 #233|@Hedgehog_BOT|1497
 #234|@Pikachu_270|1497
-#235|@Iwantedtoplaychess|1486
-#236|@Chess_Pro9600|1485
-#237|@MeezKool|1485
-#238|@pawnrobot|1482
+#235|@pawnrobot|1492
+#236|@Iwantedtoplaychess|1486
+#237|@Chess_Pro9600|1485
+#238|@MeezKool|1485
 #239|@RSVMentor|1476
 #240|@TheWeakestBot|1476
 #241|@thibot|1470

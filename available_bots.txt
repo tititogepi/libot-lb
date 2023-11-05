@@ -1747,6 +1747,7 @@ ravenengine
 ravenengine_depth2
 ravenliteengine
 raveonette-bot
+ravingcrab
 raybotchess123
 rayking311
 razanvn
@@ -2414,4 +2415,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ravingcrab
