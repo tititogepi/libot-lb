@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@SatrancbazYT|2701
 #12|@djungel_lc0|2691
 #13|@SkyAttacker|2680
-#14|@ReinforcementTrial|2669
+#14|@ReinforcementTrial|2670
 #15|@Bingo202|2664
 #16|@MphoBot|2656
 #17|@EmptikWeak|2652
@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@EmptikBot247|2618
 #40|@ProteusSF-Turbo|2618
 #41|@Nikitosikbot|2614
-#42|@RaspFish|2614
-#43|@ProteusSF|2613
+#42|@ProteusSF|2613
+#43|@RaspFish|2612
 #44|@kybot|2610
 #45|@Tunder77|2610
 #46|@Nikitosik-ai|2606
@@ -86,8 +86,8 @@ Rank|Bot|Rating
 #84|@EmptikBotLc0|2536
 #85|@Coolman2021|2534
 #86|@Mega_BOT|2534
-#87|@sf_bot|2531
-#88|@Berserk-Test|2530
+#87|@Berserk-Test|2531
+#88|@sf_bot|2531
 #89|@jest-bot|2530
 #90|@Md211bot|2530
 #91|@Turkish_BOT|2530
@@ -203,8 +203,8 @@ Rank|Bot|Rating
 #201|@AttackingOrDefending|2334
 #202|@ElPeonElectrico|2326
 #203|@mrohBOT|2326
-#204|@pawn_git|2326
-#205|@ImpossibleWin|2325
+#204|@ImpossibleWin|2325
+#205|@pawn_git|2324
 #206|@DeepChessEngine|2323
 #207|@isaac_terminator|2323
 #208|@Sturddle|2323
@@ -666,9 +666,9 @@ Rank|Bot|Rating
 #664|@ShallowLearnBot|1590
 #665|@rchessbot|1587
 #666|@JonoX|1584
-#667|@PlanktonEngineRust|1584
-#668|@FENder_Bender|1583
-#669|@maia1|1582
+#667|@maia1|1584
+#668|@PlanktonEngineRust|1584
+#669|@FENder_Bender|1583
 #670|@sauwkhamari|1580
 #671|@winchess_bot|1580
 #672|@yeoldwiz|1579

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2824
+#1|@fibonachi|2815
 #2|@H-Zero|2650
 #3|@Viet-BOT|2619
 #4|@Nikitosik-ai|2613
@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@Thera_Engine|1955
 #125|@honzovy-sachy|1953
 #126|@BOTsharpchess|1952
-#127|@ZE_ROOK|1944
+#127|@ZE_ROOK|1948
 #128|@Los-Guerreros1|1935
 #129|@TheLegendaryKnight|1935
 #130|@Virutor|1934
@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@TheMatrix2025|1872
 #146|@ViVe_2_chess_pro|1869
 #147|@yeoldwiz|1866
-#148|@Jibbby|1864
+#148|@Jibbby|1859
 #149|@Official_bot|1857
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853
