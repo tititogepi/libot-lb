@@ -7,13 +7,13 @@ Rank|Bot|Rating
 #5|@Occhessadvanced|2636
 #6|@TheFreshman1902|2625
 #7|@ResoluteBot|2621
-#8|@RaspFish|2609
+#8|@RaspFish|2614
 #9|@FireFishBOT|2594
 #10|@ArasanX|2581
 #11|@StockFish16_2023|2557
-#12|@Berserk-Test|2535
+#12|@Berserk-Test|2530
 #13|@JuroJ|2529
-#14|@ELO_1500|2427
+#14|@ELO_1500|2424
 #15|@LazyBot|2384
 #16|@expositor|2372
 #17|@catriever|2366
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@maia5|1598
 #46|@simplexitor|1598
 #47|@sargon-3ply|1597
-#48|@maia1|1575
+#48|@maia1|1582
 #49|@chat_bot|1538
 #50|@Humaia|1474
 #51|@sargon-2ply|1473

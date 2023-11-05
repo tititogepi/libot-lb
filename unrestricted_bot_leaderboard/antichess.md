@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@PepsiForAll|2460
 #51|@CloudBot_v2|2455
 #52|@ResoluteBot|2455
-#53|@NilatacBot|2447
+#53|@NilatacBot|2439
 #54|@KingfishX|2436
 #55|@Bobby_Fischer_BOT|2435
 #56|@Nobody11892|2435
@@ -73,8 +73,8 @@ Rank|Bot|Rating
 #71|@Viet_BOT|2354
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
-#74|@TeamChelsie|2331
-#75|@OpeningsBot|2320
+#74|@OpeningsBot|2332
+#75|@TeamChelsie|2331
 #76|@AI69|2312
 #77|@Kizburb|2307
 #78|@MagicverseBOT|2306
@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@NormalBlitzBulletBot|2205
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
-#104|@anti-bot|2190
+#104|@anti-bot|2187
 #105|@Lucror|2178
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
@@ -113,9 +113,9 @@ Rank|Bot|Rating
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
 #113|@Botzer|2020
-#114|@Jussicas|2019
-#115|@CloudBotZero|2018
-#116|@CatNail|2015
+#114|@CatNail|2020
+#115|@Jussicas|2019
+#116|@CloudBotZero|2018
 #117|@B0T5_RU13|2011
 #118|@TheLegitLegend|2010
 #119|@CrayyBot|1989
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1949
+#124|@pawnrobot|1944
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861

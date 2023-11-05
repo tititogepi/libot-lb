@@ -261,9 +261,9 @@ Rank|Bot|Rating
 #259|@XXXTryandTryXXX|1569
 #260|@itsafakeusername2k1|1562
 #261|@jumbot|1545
-#262|@Less_of_a_threat|1542
-#263|@Just-a-random-bot|1541
-#264|@FataliiBot|1540
+#262|@FataliiBot|1542
+#263|@Less_of_a_threat|1542
+#264|@Just-a-random-bot|1541
 #265|@magnusglad_bot|1538
 #266|@CocopikachuBOT|1535
 #267|@clueless-bot|1534
@@ -337,7 +337,7 @@ Rank|Bot|Rating
 #335|@SalmonChess9|1258
 #336|@Sparring_Bot|1248
 #337|@RootEngine|1245
-#338|@Demolito_L6|1240
+#338|@Demolito_L6|1241
 #339|@Future_Chess_Pro|1233
 #340|@AlphaLeela0|1229
 #341|@WorstBotEver123|1222
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@ZX-Chess|1119
 #355|@Jobabot|1110
 #356|@Dummyette|1107
-#357|@Demolito_L5|1073
+#357|@Demolito_L5|1070
 #358|@LeElaGuess|1049
 #359|@admin-bot|1003
 #360|@TuroBot|997
