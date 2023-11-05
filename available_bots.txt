@@ -377,6 +377,7 @@ bruceleela
 brutestrength
 bryan_12345
 bsergey11-bot
+budgetsnorkel
 buildabot
 bulletbotmaster
 bulletchess134
@@ -2413,4 +2414,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-budgetsnorkel
+ravingcrab
