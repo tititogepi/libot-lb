@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ReinforcementTrial|2665
-#2|@Intron014|2650
+#2|@Intron014|2648
 #3|@Africaata|2639
 #4|@Occhessadvanced|2637
 #5|@YoBot_v2|2637
@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@FireFishBOT|2594
 #10|@ArasanX|2581
 #11|@StockFish16_2023|2557
-#12|@Berserk-Test|2530
+#12|@Berserk-Test|2532
 #13|@JuroJ|2529
 #14|@ELO_1500|2421
 #15|@LazyBot|2384
@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@AKS-Mantissa|2355
 #19|@pawn_git|2326
 #20|@SaxtonEngine|2313
-#21|@Weiawaga|2292
+#21|@Weiawaga|2296
 #22|@ChessNoobComp|2162
-#23|@TuksuBot|2154
+#23|@TuksuBot|2150
 #24|@Lynx_BOT|2095
 #25|@simpleEval|2030
 #26|@Boris-Trapsky|2029
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@baby_eubos|1817
 #36|@Demolito_L6|1785
 #37|@Demolito_L5|1741
-#38|@maia9|1714
+#38|@maia9|1716
 #39|@notropis|1684
 #40|@turkjs|1624
 #41|@ZE_ROOK|1619
@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@sargon-4ply|1602
 #45|@simplexitor|1598
 #46|@sargon-3ply|1597
-#47|@maia5|1596
-#48|@maia1|1583
+#47|@maia5|1592
+#48|@maia1|1581
 #49|@chat_bot|1538
 #50|@Humaia|1474
 #51|@sargon-2ply|1468
