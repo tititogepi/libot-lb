@@ -130,13 +130,13 @@ Rank|Bot|Rating
 #128|@Sub_Bot|1974
 #129|@VariantsTop|1974
 #130|@VarianteBOT|1970
-#131|@OpeningsBot|1969
+#131|@OpeningsBot|1968
 #132|@Ssech_BOT|1967
 #133|@AEBROADUSBOTTER|1958
 #134|@AtomicRouletteBot|1955
 #135|@atomicli|1951
 #136|@HappyDeepawali|1941
-#137|@SimplerEval|1938
+#137|@SimplerEval|1941
 #138|@EagleEye2021|1935
 #139|@hjhjhjhjhjhj|1923
 #140|@FyChess2|1921
