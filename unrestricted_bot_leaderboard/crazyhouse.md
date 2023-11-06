@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@Giphy_Logo|1741
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
-#104|@Stockfish-MEDIUM|1717
-#105|@OpeningsBot|1716
+#104|@OpeningsBot|1719
+#105|@Stockfish-MEDIUM|1717
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
 #108|@FASTCHESSBOT|1666
@@ -143,8 +143,8 @@ Rank|Bot|Rating
 #141|@Rapid_WorldChamp|1432
 #142|@MagnusCarlsen1507|1431
 #143|@Nicholaswb_BOT|1426
-#144|@SimplerEval|1426
-#145|@Itzmoi6g19|1425
+#144|@Itzmoi6g19|1425
+#145|@SimplerEval|1420
 #146|@xDmanBOT|1419
 #147|@Official_bot|1414
 #148|@are_bots_good|1367

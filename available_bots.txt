@@ -1005,6 +1005,7 @@ iamthebot1
 iathena
 ibbxefbot
 ibep
+icarusbot
 icebolt194
 iceburnengine
 icysharkbot
@@ -2415,4 +2416,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-icarusbot
