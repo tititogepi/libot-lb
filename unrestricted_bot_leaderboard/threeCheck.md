@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@Nikitosikbot|2583
 #12|@Jussicas|2577
 #13|@Coolman2021|2568
-#14|@Viet-BOT|2555
-#15|@ToromBot|2554
+#14|@ToromBot|2556
+#15|@Viet-BOT|2555
 #16|@ElPeonElectrico|2549
 #17|@CloudBot_v2|2544
 #18|@Fairy_Belzedar|2544
