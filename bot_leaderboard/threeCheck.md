@@ -1,5 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2520
-#2|@OpeningsBot|2036
-#3|@pawnrobot|1202
+#1|@OpeningsBot|2036
+#2|@pawnrobot|1202
