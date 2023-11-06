@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@Magnus-BOT|2084
 #53|@Xerus_1|2070
 #54|@ROBOT_RANDEER2007|2059
-#55|@lord-bot|2037
-#56|@OpeningsBot|2036
+#55|@OpeningsBot|2039
+#56|@lord-bot|2037
 #57|@ttBOT|2031
 #58|@Resolved-Bot|2026
 #59|@firstrobot|2003
@@ -96,8 +96,8 @@ Rank|Bot|Rating
 #94|@SUMEETTHEPRO|1708
 #95|@Yemmi-Yemmi|1702
 #96|@clueless-bot|1685
-#97|@SimplerEval|1661
-#98|@NormalBulletBot|1657
+#97|@NormalBulletBot|1657
+#98|@SimplerEval|1656
 #99|@the_checkmating_bot|1643
 #100|@Botkingteam33|1633
 #101|@jasans_bot|1621

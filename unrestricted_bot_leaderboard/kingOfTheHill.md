@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@Resolved-Bot|1942
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
-#71|@OpeningsBot|1931
+#71|@OpeningsBot|1936
 #72|@HyperLitikBOT|1930
 #73|@Galaxy_Guardian|1906
 #74|@DrSmartBugs|1904
@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@Viet_BOT|1701
 #101|@QuickLiquid|1689
 #102|@chessemkabot|1625
-#103|@SimplerEval|1617
+#103|@SimplerEval|1608
 #104|@Breeze-Hot|1606
 #105|@Just-a-random-bot|1604
 #106|@Cowboy_Time|1601
