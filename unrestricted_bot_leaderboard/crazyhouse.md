@@ -173,8 +173,8 @@ Rank|Bot|Rating
 #171|@magnusglad_bot|1196
 #172|@FluffBallCuddly|1191
 #173|@heatseeker223|1191
-#174|@pawnrobot|1184
-#175|@ChessPlayer1225|1183
+#174|@ChessPlayer1225|1183
+#175|@pawnrobot|1180
 #176|@Jannik08_FAN|1163
 #177|@BotOfAtomicChess|1153
 #178|@BSergey11-BOT|1149

@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@xiang-qi|2113
 #72|@atomicli|2111
 #73|@Trumpfor2O2O|2103
-#74|@OpeningsBot|2096
+#74|@OpeningsBot|2099
 #75|@CloudBOT|2073
 #76|@JustDontFlagMe|2048
 #77|@Stockfish-MEDIUM|2043
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@Teamleaderbot|1904
 #90|@legendbot1|1893
 #91|@Hagfish|1879
-#92|@SimplerEval|1874
+#92|@SimplerEval|1867
 #93|@PyChessBot|1847
 #94|@king12345678910BOT|1833
 #95|@Just-a-random-bot|1816

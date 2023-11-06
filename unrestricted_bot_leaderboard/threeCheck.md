@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@lord-bot|2037
 #56|@ttBOT|2031
 #57|@Resolved-Bot|2026
-#58|@OpeningsBot|2020
+#58|@OpeningsBot|2022
 #59|@firstrobot|2003
 #60|@Hyper-Stockfish|1986
 #61|@GodelEscherBot|1974
@@ -95,7 +95,7 @@ Rank|Bot|Rating
 #93|@Crepusculum|1724
 #94|@SUMEETTHEPRO|1708
 #95|@Yemmi-Yemmi|1702
-#96|@SimplerEval|1690
+#96|@SimplerEval|1687
 #97|@clueless-bot|1685
 #98|@NormalBulletBot|1657
 #99|@the_checkmating_bot|1643

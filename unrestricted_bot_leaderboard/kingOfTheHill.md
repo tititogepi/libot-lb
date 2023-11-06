@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
 #71|@HyperLitikBOT|1930
-#72|@OpeningsBot|1910
+#72|@OpeningsBot|1912
 #73|@Galaxy_Guardian|1906
 #74|@DrSmartBugs|1904
 #75|@Variantenkoning|1892
@@ -101,7 +101,7 @@ Rank|Bot|Rating
 #99|@TTC-BOT_2|1703
 #100|@Viet_BOT|1701
 #101|@QuickLiquid|1689
-#102|@SimplerEval|1653
+#102|@SimplerEval|1655
 #103|@chessemkabot|1625
 #104|@Breeze-Hot|1606
 #105|@Just-a-random-bot|1604
@@ -118,7 +118,7 @@ Rank|Bot|Rating
 #116|@SugarAndSpice|1489
 #117|@rtx3080tibot|1487
 #118|@SUMAL_BRO|1476
-#119|@DavidsGuterBot|1473
+#119|@DavidsGuterBot|1470
 #120|@Less_of_a_threat|1470
 #121|@Bbao23-chess|1469
 #122|@Trainspotter|1466
