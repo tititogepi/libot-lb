@@ -129,7 +129,7 @@ Rank|Bot|Rating
 #127|@Los-Guerreros1|1935
 #128|@TheLegendaryKnight|1935
 #129|@Virutor|1934
-#130|@ZE_ROOK|1932
+#130|@ZE_ROOK|1931
 #131|@chicken_farmer|1926
 #132|@RootEngine|1920
 #133|@Simpafteur|1912
@@ -138,7 +138,7 @@ Rank|Bot|Rating
 #136|@honzovy-sachy-2|1892
 #137|@XXXTryandTryXXX|1884
 #138|@KingsGamBot|1882
-#139|@yeoldwiz|1880
+#139|@yeoldwiz|1881
 #140|@lol7241Bot|1878
 #141|@PiratesBot|1876
 #142|@Yukoo-BOT|1876
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@AXWChessBot|1096
 #354|@StashBot|1075
 #355|@Light_To_The_Rescue|1057
-#356|@G0thamB0t|974
+#356|@G0thamB0t|973
 #357|@mustaley|973
 #358|@BerserkRandomMover|963
 #359|@GuineaBot|910

@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@SimplerEval|1963
-#2|@OpeningsBot|1952
+#1|@OpeningsBot|1958
+#2|@SimplerEval|1954
 #3|@pawnrobot|1495

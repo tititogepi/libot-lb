@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@LudwigBOT|2545
 #37|@AlfaBot|2541
 #38|@Leelabotmaster|2538
-#39|@Nakshatra3|2528
+#39|@Nakshatra3|2535
 #40|@Dark_evil_bot|2525
 #41|@Bot_AOOP11|2521
 #42|@HyperLitikBOT|2511
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2302
+#82|@OpeningsBot|2297
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@NormalBlitzBulletBot|2205
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
-#104|@anti-bot|2184
+#104|@anti-bot|2187
 #105|@Lucror|2178
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
-#113|@CatNail|2043
+#113|@CatNail|2039
 #114|@Botzer|2020
 #115|@Jussicas|2019
 #116|@CloudBotZero|2018
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@BetaZ|1973
 #121|@antichesssss|1964
 #122|@Menganti|1963
-#123|@pawnrobot|1955
+#123|@pawnrobot|1952
 #124|@CloudBOT|1950
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
