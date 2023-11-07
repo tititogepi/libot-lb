@@ -143,9 +143,9 @@ Rank|Bot|Rating
 #141|@SkyBlaster|1945
 #142|@WindowsI5Bot|1944
 #143|@Stockfish-NNUE|1942
-#144|@AnUtterlyKarBot|1937
-#145|@Viet_BOT|1937
-#146|@NikitosikVariantsbot|1935
+#144|@NikitosikVariantsbot|1940
+#145|@AnUtterlyKarBot|1937
+#146|@Viet_BOT|1937
 #147|@TORTADEMANZANA023|1935
 #148|@ChessVBOT|1934
 #149|@Johnsun|1932
@@ -187,7 +187,7 @@ Rank|Bot|Rating
 #185|@Test_God_50_BOT|1843
 #186|@newengine2022|1842
 #187|@GodelEscherBot|1837
-#188|@OpeningsBot|1837
+#188|@OpeningsBot|1833
 #189|@Simpafteur|1833
 #190|@ChessHunterBot|1831
 #191|@ZamuChess|1822
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@SimplerEval|1521
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1513
+#274|@FataliiBot|1515
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -342,10 +342,10 @@ Rank|Bot|Rating
 #340|@AlphaLeela0|1229
 #341|@WorstBotEver123|1222
 #342|@Bot8983|1210
-#343|@fathzer-jchess|1205
-#344|@DrunkenMasterEngine|1204
-#345|@MrKING74_btw|1191
-#346|@schnecken_bot|1182
+#343|@DrunkenMasterEngine|1204
+#344|@MrKING74_btw|1191
+#345|@schnecken_bot|1182
+#346|@fathzer-jchess|1175
 #347|@BerntBOT|1162
 #348|@naughty-dottie|1158
 #349|@Pineapple-Friendly|1151
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1065
+#356|@Demolito_L5|1073
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
@@ -367,8 +367,8 @@ Rank|Bot|Rating
 #365|@ZokBot|969
 #366|@RandomTree77|956
 #367|@Bot_Swana|943
-#368|@Demolito_L4|941
-#369|@bobandi|940
+#368|@bobandi|940
+#369|@Demolito_L4|939
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|923
 #372|@Palisade|800
