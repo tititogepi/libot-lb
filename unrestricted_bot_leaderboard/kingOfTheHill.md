@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@Amrobotone|2184
 #33|@HuxZero|2163
 #34|@Mega_BOT|2148
-#35|@NikitosikVariantsbot|2145
-#36|@AI69|2143
+#35|@AI69|2143
+#36|@NikitosikVariantsbot|2138
 #37|@RobotTigerSlav|2136
 #38|@pistol-play|2121
 #39|@firstrobot|2114
@@ -70,7 +70,7 @@ Rank|Bot|Rating
 #68|@Resolved-Bot|1942
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
-#71|@OpeningsBot|1932
+#71|@OpeningsBot|1935
 #72|@HyperLitikBOT|1930
 #73|@Galaxy_Guardian|1906
 #74|@DrSmartBugs|1904

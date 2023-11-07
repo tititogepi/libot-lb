@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@fibonachi|2815
 #2|@stockfish_dev|2700
 #3|@H-Zero|2650
-#4|@Viet-BOT|2619
-#5|@Nikitosik-ai|2613
+#4|@Nikitosik-ai|2620
+#5|@Viet-BOT|2619
 #6|@Nikitosikbot|2525
 #7|@peonasesino71|2512
 #8|@ServerFish|2494
@@ -127,10 +127,10 @@ Rank|Bot|Rating
 #125|@Thera_Engine|1955
 #126|@honzovy-sachy|1953
 #127|@BOTsharpchess|1952
-#128|@Los-Guerreros1|1935
-#129|@TheLegendaryKnight|1935
-#130|@Virutor|1934
-#131|@ZE_ROOK|1932
+#128|@ZE_ROOK|1937
+#129|@Los-Guerreros1|1935
+#130|@TheLegendaryKnight|1935
+#131|@Virutor|1934
 #132|@chicken_farmer|1926
 #133|@RootEngine|1920
 #134|@Simpafteur|1912
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@TheMatrix2025|1872
 #147|@Jibbby|1871
 #148|@ViVe_2_chess_pro|1869
-#149|@yeoldwiz|1868
+#149|@yeoldwiz|1861
 #150|@Official_bot|1857
 #151|@ChessChildren|1856
 #152|@Boris-Trapsky|1853
