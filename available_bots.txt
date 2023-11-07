@@ -243,6 +243,7 @@ bkrivibot
 black_knight2006
 black_knight_ngalam
 blackcatengine
+blackholenn
 blackknightrisesup
 blackmat_leela
 blackmat_leela2
@@ -2416,4 +2417,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-blackholenn
