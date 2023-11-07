@@ -73,8 +73,8 @@ Rank|Bot|Rating
 #71|@mrchessmanager|1962
 #72|@Hyper-Stockfish|1947
 #73|@chessbot2880|1945
-#74|@NikitosikVariantsbot|1945
-#75|@PolyBOT|1945
+#74|@PolyBOT|1945
+#75|@NikitosikVariantsbot|1944
 #76|@bananaaaaaaaaa_test|1942
 #77|@AndromedaSX1|1919
 #78|@Dean_Summer_Bot|1898
@@ -99,8 +99,8 @@ Rank|Bot|Rating
 #97|@Pineapple-Friendly|1773
 #98|@For9e|1771
 #99|@Lila-Stockfish|1761
-#100|@bot1996123|1745
-#101|@OpeningsBot|1745
+#100|@OpeningsBot|1746
+#101|@bot1996123|1745
 #102|@Giphy_Logo|1741
 #103|@sauwkhamari|1741
 #104|@TJchessBot|1741
