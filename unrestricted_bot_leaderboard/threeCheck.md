@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@faith_bot|2447
 #26|@chessbot2880|2367
 #27|@Viet_BOT|2367
-#28|@NikitosikVariantsbot|2338
+#28|@NikitosikVariantsbot|2349
 #29|@Zer0_Tw0|2332
 #30|@LudwigBOT|2304
 #31|@KingfishX|2283
@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@Magnus-BOT|2084
 #53|@Xerus_1|2070
 #54|@ROBOT_RANDEER2007|2059
-#55|@OpeningsBot|2039
-#56|@lord-bot|2037
+#55|@lord-bot|2037
+#56|@OpeningsBot|2035
 #57|@ttBOT|2031
 #58|@Resolved-Bot|2026
 #59|@firstrobot|2003

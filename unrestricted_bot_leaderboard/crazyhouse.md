@@ -100,10 +100,10 @@ Rank|Bot|Rating
 #98|@For9e|1771
 #99|@Lila-Stockfish|1761
 #100|@bot1996123|1745
-#101|@Giphy_Logo|1741
-#102|@sauwkhamari|1741
-#103|@TJchessBot|1741
-#104|@OpeningsBot|1729
+#101|@OpeningsBot|1745
+#102|@Giphy_Logo|1741
+#103|@sauwkhamari|1741
+#104|@TJchessBot|1741
 #105|@Stockfish-MEDIUM|1717
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
