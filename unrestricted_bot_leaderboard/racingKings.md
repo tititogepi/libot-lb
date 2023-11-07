@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@atomicli|2111
 #73|@Trumpfor2O2O|2103
 #74|@CloudBOT|2073
-#75|@OpeningsBot|2069
+#75|@OpeningsBot|2065
 #76|@JustDontFlagMe|2048
 #77|@Stockfish-MEDIUM|2043
 #78|@Crepusculum|2036
@@ -84,9 +84,9 @@ Rank|Bot|Rating
 #82|@BGSBot|1969
 #83|@Yemmi-Yemmi|1964
 #84|@admin-bot|1955
-#85|@cheesepizza2363|1935
-#86|@MyNameIsSpeedy|1935
-#87|@SimplerEval|1931
+#85|@SimplerEval|1938
+#86|@cheesepizza2363|1935
+#87|@MyNameIsSpeedy|1935
 #88|@RandomTree77|1926
 #89|@Pineapple-Friendly|1912
 #90|@Teamleaderbot|1904
