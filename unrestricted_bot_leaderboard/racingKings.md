@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@EvenMatchup|2336
 #38|@ibep|2333
 #39|@CloudBot_v2|2331
-#40|@ElPeonElectrico|2326
-#41|@NikitosikVariantsbot|2324
+#40|@NikitosikVariantsbot|2329
+#41|@ElPeonElectrico|2326
 #42|@Bot_AOOP11|2314
 #43|@Viet-BOT|2312
 #44|@IAMSTOCKFISH123|2307
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@atomicli|2111
 #73|@Trumpfor2O2O|2103
 #74|@CloudBOT|2073
-#75|@OpeningsBot|2064
+#75|@OpeningsBot|2062
 #76|@JustDontFlagMe|2048
 #77|@Stockfish-MEDIUM|2043
 #78|@Crepusculum|2036

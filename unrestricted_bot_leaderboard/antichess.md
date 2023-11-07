@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@Dark_evil_bot|2525
 #41|@Bot_AOOP11|2521
 #42|@HyperLitikBOT|2511
-#43|@pistol-play|2498
-#44|@NikitosikVariantsbot|2483
+#43|@NikitosikVariantsbot|2506
+#44|@pistol-play|2498
 #45|@MrBOThacker|2477
 #46|@hauptschuleBOT|2475
 #47|@Alehkine_cat|2474
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2295
+#82|@OpeningsBot|2286
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2050
-#113|@ZamuChess|2049
+#112|@ZamuChess|2049
+#113|@CatNail|2048
 #114|@Botzer|2020
 #115|@Jussicas|2019
 #116|@CloudBotZero|2018
