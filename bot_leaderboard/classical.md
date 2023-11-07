@@ -1,16 +1,16 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ReinforcementTrial|2661
+#1|@ReinforcementTrial|2659
 #2|@Intron014|2644
 #3|@Occhessadvanced|2639
 #4|@Africaata|2636
 #5|@YoBot_v2|2632
 #6|@TheFreshman1902|2626
 #7|@ResoluteBot|2624
-#8|@RaspFish|2612
+#8|@RaspFish|2613
 #9|@FireFishBOT|2594
 #10|@ArasanX|2583
-#11|@Berserk-Test|2539
+#11|@Berserk-Test|2541
 #12|@JuroJ|2529
 #13|@ELO_1500|2417
 #14|@LazyBot|2384
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ChessNoobComp|2167
 #24|@TuksuBot|2151
 #25|@Phalanx-XXV|2130
-#26|@Pseudo-0|2126
+#26|@Pseudo-0|2125
 #27|@Lynx_BOT|2104
 #28|@simpleEval|2023
 #29|@Boris-Trapsky|2013
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@simplexitor|1598
 #54|@sargon-3ply|1597
 #55|@chat_bot|1554
-#56|@maia1|1523
+#56|@maia1|1529
 #57|@RoundMoundOfRebounds|1472
 #58|@Humaia|1468
 #59|@sargon-2ply|1468

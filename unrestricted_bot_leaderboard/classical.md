@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@djungel_lc0|2691
 #14|@SkyAttacker|2680
 #15|@Bingo202|2664
-#16|@ReinforcementTrial|2661
+#16|@ReinforcementTrial|2659
 #17|@MphoBot|2656
 #18|@EmptikWeak|2652
 #19|@VariantsTop|2649
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@EmptikBot247|2618
 #40|@ProteusSF-Turbo|2618
 #41|@ProteusSF|2613
-#42|@RaspFish|2612
+#42|@RaspFish|2613
 #43|@Nikitosikbot|2611
 #44|@kybot|2610
 #45|@Tunder77|2610
@@ -79,8 +79,8 @@ Rank|Bot|Rating
 #77|@Iwantedtoplaychess|2546
 #78|@faith_bot|2544
 #79|@Child_Beth|2542
-#80|@CloudBot_v2|2541
-#81|@Berserk-Test|2539
+#80|@Berserk-Test|2541
+#81|@CloudBot_v2|2541
 #82|@XMetropolanXBanner|2539
 #83|@TheAstroBot|2538
 #84|@Cloud_Bot|2537
@@ -333,7 +333,7 @@ Rank|Bot|Rating
 #331|@TensorPUpper|2129
 #332|@survivalfish-light|2127
 #333|@Kizburb|2126
-#334|@Pseudo-0|2126
+#334|@Pseudo-0|2125
 #335|@ThePepsiIsGoingCrazy|2123
 #336|@XD_47|2122
 #337|@Nicholaswb_BOT|2121
@@ -689,10 +689,10 @@ Rank|Bot|Rating
 #687|@Nobody11892|1538
 #688|@DespacitoBot|1530
 #689|@blue_ice_bot|1529
-#690|@NEENA-2-BOT|1528
-#691|@SLvov-bot|1527
-#692|@greko-bot|1525
-#693|@maia1|1523
+#690|@maia1|1529
+#691|@NEENA-2-BOT|1528
+#692|@SLvov-bot|1527
+#693|@greko-bot|1525
 #694|@pussaW|1519
 #695|@TapoBot|1519
 #696|@LeelaRecent|1512
