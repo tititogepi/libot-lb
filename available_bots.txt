@@ -1919,6 +1919,7 @@ sisyphosbeta0
 sitrik_asit
 sixteen-sixty
 sixtyfourengine
+skakoengine
 skiazbot
 skiullofficial
 skvrwl
@@ -2418,4 +2419,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-skakoengine

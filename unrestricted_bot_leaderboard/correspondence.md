@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@fibonachi|2815
 #2|@stockfish_dev|2700
 #3|@H-Zero|2650
-#4|@Nikitosik-ai|2620
-#5|@Viet-BOT|2619
+#4|@Viet-BOT|2622
+#5|@Nikitosik-ai|2620
 #6|@Nikitosikbot|2525
 #7|@peonasesino71|2512
 #8|@ServerFish|2494

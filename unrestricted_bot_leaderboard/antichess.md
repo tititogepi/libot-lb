@@ -39,9 +39,9 @@ Rank|Bot|Rating
 #37|@AlfaBot|2541
 #38|@Nakshatra3|2539
 #39|@Leelabotmaster|2538
-#40|@Dark_evil_bot|2525
-#41|@Bot_AOOP11|2521
-#42|@NikitosikVariantsbot|2518
+#40|@NikitosikVariantsbot|2530
+#41|@Dark_evil_bot|2525
+#42|@Bot_AOOP11|2521
 #43|@HyperLitikBOT|2511
 #44|@pistol-play|2498
 #45|@MrBOThacker|2477
@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
-#83|@OpeningsBot|2281
-#84|@Dean_Summer_Bot|2279
+#83|@Dean_Summer_Bot|2279
+#84|@OpeningsBot|2277
 #85|@Johnsun|2269
 #86|@SkyBlaster|2254
 #87|@mrchessmanager|2240

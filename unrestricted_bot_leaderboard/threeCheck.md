@@ -25,9 +25,9 @@ Rank|Bot|Rating
 #23|@NormalBlitzBulletBot|2463
 #24|@Fairy-Stockfish|2451
 #25|@faith_bot|2447
-#26|@chessbot2880|2367
-#27|@Viet_BOT|2367
-#28|@NikitosikVariantsbot|2354
+#26|@NikitosikVariantsbot|2372
+#27|@chessbot2880|2367
+#28|@Viet_BOT|2367
 #29|@Zer0_Tw0|2332
 #30|@LudwigBOT|2304
 #31|@KingfishX|2283
@@ -55,8 +55,8 @@ Rank|Bot|Rating
 #53|@Xerus_1|2070
 #54|@ROBOT_RANDEER2007|2059
 #55|@lord-bot|2037
-#56|@OpeningsBot|2033
-#57|@ttBOT|2031
+#56|@ttBOT|2031
+#57|@OpeningsBot|2027
 #58|@Resolved-Bot|2026
 #59|@firstrobot|2003
 #60|@Hyper-Stockfish|1986
