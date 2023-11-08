@@ -52,10 +52,10 @@ Rank|Bot|Rating
 #50|@PepsiForAll|2460
 #51|@CloudBot_v2|2455
 #52|@ResoluteBot|2455
-#53|@KingfishX|2436
-#54|@Bobby_Fischer_BOT|2435
-#55|@Nobody11892|2435
-#56|@NilatacBot|2434
+#53|@NilatacBot|2438
+#54|@KingfishX|2436
+#55|@Bobby_Fischer_BOT|2435
+#56|@Nobody11892|2435
 #57|@Hagfish|2432
 #58|@EmptikBot247|2422
 #59|@xiang-qi|2422
@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@OpeningsBot|2289
+#82|@OpeningsBot|2290
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2061
+#112|@CatNail|2053
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019

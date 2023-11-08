@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@Magnus-BOT|1986
 #68|@PyChessBot|1978
 #69|@ttBOT|1977
-#70|@ESC_BOT|1966
-#71|@NikitosikVariantsbot|1964
+#70|@NikitosikVariantsbot|1969
+#71|@ESC_BOT|1966
 #72|@mrchessmanager|1962
 #73|@Hyper-Stockfish|1947
 #74|@chessbot2880|1945
@@ -103,7 +103,7 @@ Rank|Bot|Rating
 #101|@Giphy_Logo|1741
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
-#104|@OpeningsBot|1733
+#104|@OpeningsBot|1730
 #105|@Stockfish-MEDIUM|1717
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
