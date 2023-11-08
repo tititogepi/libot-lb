@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@chessfyBOT|2060
 #73|@Viet-AI|2060
 #74|@AI-Electro|2059
-#75|@RaspFish|2059
+#75|@RaspFish|2058
 #76|@Botyuliirma|2054
 #77|@Hien-Vinh_Bot2|2054
 #78|@Alehkine_cat|2053
@@ -129,8 +129,8 @@ Rank|Bot|Rating
 #127|@ElPeonElectrico|1977
 #128|@Blackrood|1973
 #129|@X2-ITL|1973
-#130|@TasmanRevenge|1971
-#131|@NikitosikVariantsbot|1970
+#130|@NikitosikVariantsbot|1972
+#131|@TasmanRevenge|1971
 #132|@Vetinari_Computer|1970
 #133|@NormalBulletBot|1967
 #134|@Dean_Summer_Bot|1960
@@ -234,10 +234,10 @@ Rank|Bot|Rating
 #232|@BotifiedMoyao|1682
 #233|@Polaris2Bot|1681
 #234|@Minic-chess_engine|1678
-#235|@StashBot|1669
-#236|@eubos|1667
-#237|@Mariana-031|1667
-#238|@Leela8-Test|1666
+#235|@Leela8-Test|1669
+#236|@StashBot|1669
+#237|@eubos|1667
+#238|@Mariana-031|1667
 #239|@TurkiyeHogwarts|1663
 #240|@Lightning_SpeedChess|1660
 #241|@DrSmartBugs|1655
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1511
+#274|@FataliiBot|1508
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
