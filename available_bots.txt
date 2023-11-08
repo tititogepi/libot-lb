@@ -1489,6 +1489,7 @@ naive_chess
 nakshatra3
 nam-robot
 nam-stockfish
+narratingsince86
 nastmardov
 natbee_bot
 natesbot
@@ -2419,4 +2420,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-narratingsince86

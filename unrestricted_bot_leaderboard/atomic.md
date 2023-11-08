@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
 #9|@pistol-play|2590
-#10|@RaspFish|2559
+#10|@RaspFish|2562
 #11|@UltronBot|2556
 #12|@Viet-AI|2556
 #13|@NimsiluBot|2535
@@ -51,9 +51,9 @@ Rank|Bot|Rating
 #49|@xiang-qi|2268
 #50|@CocopikachuBOT|2265
 #51|@ElPeonElectrico|2262
-#52|@chesshyperbot|2260
-#53|@Yes-Standerd-Yes|2260
-#54|@NikitosikVariantsbot|2258
+#52|@NikitosikVariantsbot|2262
+#53|@chesshyperbot|2260
+#54|@Yes-Standerd-Yes|2260
 #55|@Johnsun|2257
 #56|@YoBot_v2|2243
 #57|@MalanChess|2238
@@ -133,7 +133,7 @@ Rank|Bot|Rating
 #131|@Ssech_BOT|1967
 #132|@AEBROADUSBOTTER|1958
 #133|@AtomicRouletteBot|1955
-#134|@OpeningsBot|1955
+#134|@OpeningsBot|1952
 #135|@atomicli|1951
 #136|@HappyDeepawali|1941
 #137|@SimplerEval|1937
@@ -286,8 +286,8 @@ Rank|Bot|Rating
 #284|@Galaxy_Guardian|1265
 #285|@Bot-31795|1258
 #286|@Mr-Bob|1258
-#287|@rayking311|1258
-#288|@NarratingSince86|1258
+#287|@NarratingSince86|1258
+#288|@rayking311|1258
 #289|@XiDM|1241
 #290|@GuineaBot3|1215
 #291|@kidobot2911|1202
