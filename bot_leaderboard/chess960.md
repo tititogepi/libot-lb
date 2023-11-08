@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@TheFreshman1902|2201
 #3|@lord-bot|2191
 #4|@Intron014|2189
-#5|@YoBot_v2|2188
+#5|@YoBot_v2|2187
 #6|@ToromBot|2179
 #7|@TorBot_v2|2178
-#8|@duythong1402|2144
+#8|@duythong1402|2142
 #9|@FireFishBOT|2137
 #10|@RaspFish|2058
 #11|@OpeningsBot|1813

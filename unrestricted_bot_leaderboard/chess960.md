@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@lord-bot|2191
 #18|@hyperchessbot1|2189
 #19|@Intron014|2189
-#20|@YoBot_v2|2188
+#20|@YoBot_v2|2187
 #21|@Kizburb|2182
 #22|@VariantsBot|2180
 #23|@ToromBot|2179
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@VariantsTop|2149
 #35|@TTC-BOT_2|2148
 #36|@Nikitosikbot|2146
-#37|@duythong1402|2144
-#38|@LolFish-1|2144
+#37|@LolFish-1|2144
+#38|@duythong1402|2142
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -127,9 +127,9 @@ Rank|Bot|Rating
 #125|@ChessChipBot|1978
 #126|@abhisun_bot|1977
 #127|@ElPeonElectrico|1977
-#128|@Blackrood|1973
-#129|@X2-ITL|1973
-#130|@NikitosikVariantsbot|1972
+#128|@NikitosikVariantsbot|1975
+#129|@Blackrood|1973
+#130|@X2-ITL|1973
 #131|@TasmanRevenge|1971
 #132|@Vetinari_Computer|1970
 #133|@NormalBulletBot|1967
