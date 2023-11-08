@@ -133,7 +133,7 @@ Rank|Bot|Rating
 #131|@Ssech_BOT|1967
 #132|@AEBROADUSBOTTER|1958
 #133|@AtomicRouletteBot|1955
-#134|@OpeningsBot|1953
+#134|@OpeningsBot|1954
 #135|@atomicli|1951
 #136|@HappyDeepawali|1941
 #137|@SimplerEval|1937
@@ -234,7 +234,7 @@ Rank|Bot|Rating
 #232|@UnDisstoppableBot|1498
 #233|@Hedgehog_BOT|1497
 #234|@Pikachu_270|1497
-#235|@pawnrobot|1495
+#235|@pawnrobot|1493
 #236|@Iwantedtoplaychess|1486
 #237|@Chess_Pro9600|1485
 #238|@MeezKool|1485

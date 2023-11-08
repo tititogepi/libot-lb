@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@The-Fastest-Bot|2402
 #33|@lightspeed_bot|2396
 #34|@thibot|2393
-#35|@Jussicas|2373
-#36|@NikitosikVariantsbot|2368
+#35|@NikitosikVariantsbot|2374
+#36|@Jussicas|2373
 #37|@Viet_BOT|2344
 #38|@EvenMatchup|2336
 #39|@ibep|2333
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@Trumpfor2O2O|2103
 #74|@CloudBOT|2073
 #75|@JustDontFlagMe|2048
-#76|@OpeningsBot|2044
-#77|@Stockfish-MEDIUM|2043
+#76|@Stockfish-MEDIUM|2043
+#77|@OpeningsBot|2041
 #78|@Crepusculum|2036
 #79|@bananaaaaaaaaa_test|2031
 #80|@EstmileBot|2018
