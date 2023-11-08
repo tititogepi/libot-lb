@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ResoluteBot|2209
+#1|@ResoluteBot|2208
 #2|@TheFreshman1902|2201
 #3|@lord-bot|2191
 #4|@Intron014|2189
-#5|@YoBot_v2|2187
+#5|@YoBot_v2|2188
 #6|@ToromBot|2179
 #7|@TorBot_v2|2178
 #8|@duythong1402|2144

@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ReinforcementTrial|2658
-#2|@Intron014|2643
+#1|@ReinforcementTrial|2657
+#2|@Intron014|2641
 #3|@Occhessadvanced|2640
 #4|@TorBot_v2|2637
 #5|@Africaata|2636
@@ -10,13 +10,13 @@ Rank|Bot|Rating
 #8|@ResoluteBot|2621
 #9|@RaspFish|2618
 #10|@FireFishBOT|2594
-#11|@ArasanX|2583
-#12|@Berserk-Test|2539
+#11|@ArasanX|2584
+#12|@Berserk-Test|2541
 #13|@JuroJ|2529
 #14|@ELO_1500|2417
 #15|@LazyBot|2384
 #16|@expositor|2372
-#17|@catriever|2366
+#17|@catriever|2367
 #18|@AKS-Mantissa|2355
 #19|@pawn_git|2336
 #20|@SaxtonEngine|2320
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@TuksuBot|2152
 #26|@Phalanx-XXV|2130
 #27|@Pseudo-0|2117
-#28|@Lynx_BOT|2110
+#28|@Lynx_BOT|2111
 #29|@simpleEval|2024
 #30|@Boris-Trapsky|2015
 #31|@Nakshatra3|2013
@@ -40,10 +40,10 @@ Rank|Bot|Rating
 #38|@LazyBotJr|1886
 #39|@zeekat|1875
 #40|@LeelaRogue|1834
-#41|@baby_eubos|1817
+#41|@baby_eubos|1812
 #42|@Demolito_L6|1781
 #43|@Demolito_L5|1741
-#44|@maia9|1709
+#44|@maia9|1718
 #45|@Virutor|1701
 #46|@honzovy-sachy|1693
 #47|@notropis|1681
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@sargon-4ply|1599
 #55|@simplexitor|1598
 #56|@chat_bot|1554
-#57|@maia1|1509
+#57|@maia1|1520
 #58|@RoundMoundOfRebounds|1472
 #59|@Humaia|1468
 #60|@sargon-2ply|1468

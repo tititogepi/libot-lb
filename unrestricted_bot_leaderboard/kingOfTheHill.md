@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@Viet_BOT|1701
 #101|@QuickLiquid|1689
 #102|@chessemkabot|1625
-#103|@SimplerEval|1611
+#103|@SimplerEval|1618
 #104|@Breeze-Hot|1606
 #105|@Just-a-random-bot|1604
 #106|@Cowboy_Time|1601
@@ -120,11 +120,11 @@ Rank|Bot|Rating
 #118|@SUMAL_BRO|1476
 #119|@Less_of_a_threat|1470
 #120|@Bbao23-chess|1469
-#121|@DavidsGuterBot|1466
-#122|@Trainspotter|1466
-#123|@NienishiEngine|1465
-#124|@XiDM|1464
-#125|@TorBot|1463
+#121|@Trainspotter|1466
+#122|@NienishiEngine|1465
+#123|@XiDM|1464
+#124|@TorBot|1463
+#125|@DavidsGuterBot|1462
 #126|@McKapran78|1435
 #127|@EZWipe|1432
 #128|@BetaOneBot|1424
