@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@lightspeed_bot|2396
 #34|@thibot|2393
 #35|@Jussicas|2373
-#36|@NikitosikVariantsbot|2361
+#36|@NikitosikVariantsbot|2364
 #37|@Viet_BOT|2344
 #38|@EvenMatchup|2336
 #39|@ibep|2333
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@Trumpfor2O2O|2103
 #74|@CloudBOT|2073
 #75|@JustDontFlagMe|2048
-#76|@OpeningsBot|2047
+#76|@OpeningsBot|2046
 #77|@Stockfish-MEDIUM|2043
 #78|@Crepusculum|2036
 #79|@bananaaaaaaaaa_test|2031
