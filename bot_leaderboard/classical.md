@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@ResoluteBot|2621
 #9|@RaspFish|2618
 #10|@FireFishBOT|2594
-#11|@ArasanX|2584
+#11|@ArasanX|2585
 #12|@Berserk-Test|2541
 #13|@JuroJ|2529
 #14|@ELO_1500|2417
@@ -20,15 +20,15 @@ Rank|Bot|Rating
 #18|@AKS-Mantissa|2355
 #19|@pawn_git|2336
 #20|@SaxtonEngine|2320
-#21|@Weiawaga|2310
+#21|@Weiawaga|2312
 #22|@Cheng-4|2263
-#23|@Leela8-Test|2242
+#23|@Leela8-Test|2245
 #24|@ChessNoobComp|2167
 #25|@TuksuBot|2152
 #26|@Phalanx-XXV|2130
 #27|@Pseudo-0|2117
 #28|@Lynx_BOT|2111
-#29|@simpleEval|2024
+#29|@simpleEval|2022
 #30|@Boris-Trapsky|2015
 #31|@Nakshatra3|2013
 #32|@eubos|1999
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@likeawizard-bot|1908
 #37|@GarboBot|1895
 #38|@LazyBotJr|1886
-#39|@zeekat|1875
+#39|@zeekat|1874
 #40|@LeelaRogue|1834
 #41|@baby_eubos|1812
 #42|@Demolito_L6|1781
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@sargon-4ply|1599
 #55|@simplexitor|1598
 #56|@chat_bot|1554
-#57|@maia1|1520
+#57|@maia1|1517
 #58|@RoundMoundOfRebounds|1472
 #59|@Humaia|1468
 #60|@sargon-2ply|1468

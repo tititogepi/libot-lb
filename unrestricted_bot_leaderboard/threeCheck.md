@@ -97,7 +97,7 @@ Rank|Bot|Rating
 #95|@Yemmi-Yemmi|1702
 #96|@clueless-bot|1685
 #97|@NormalBulletBot|1657
-#98|@SimplerEval|1647
+#98|@SimplerEval|1654
 #99|@the_checkmating_bot|1643
 #100|@Botkingteam33|1633
 #101|@jasans_bot|1621
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@relevantproblem|1514
 #108|@Toxic_Bot|1511
 #109|@NoobMasterBOT|1507
-#110|@DavidsGuterBot|1505
+#110|@DavidsGuterBot|1501
 #111|@Epiano_Bot|1491
 #112|@CVA728_BOT_1|1489
 #113|@Rishab_Bindal|1489
