@@ -134,10 +134,10 @@ Rank|Bot|Rating
 #132|@NormalBulletBot|1967
 #133|@Dean_Summer_Bot|1960
 #134|@Rishab_Bindal|1960
-#135|@BerserkEngine|1956
-#136|@TuroChamp1948|1955
-#137|@Hagfish|1954
-#138|@NikitosikVariantsbot|1954
+#135|@NikitosikVariantsbot|1958
+#136|@BerserkEngine|1956
+#137|@TuroChamp1948|1955
+#138|@Hagfish|1954
 #139|@crocodile5|1953
 #140|@chesshyperbot|1951
 #141|@StockfishPro-BOT|1950
@@ -189,9 +189,9 @@ Rank|Bot|Rating
 #187|@GodelEscherBot|1837
 #188|@Simpafteur|1833
 #189|@ChessHunterBot|1831
-#190|@OpeningsBot|1824
-#191|@ZamuChess|1822
-#192|@AI69|1821
+#190|@ZamuChess|1822
+#191|@AI69|1821
+#192|@OpeningsBot|1820
 #193|@StormphraxEngine|1820
 #194|@CVA728_BOT_1|1817
 #195|@ESC_BOT|1815
@@ -237,8 +237,8 @@ Rank|Bot|Rating
 #235|@StashBot|1669
 #236|@eubos|1667
 #237|@Mariana-031|1667
-#238|@TurkiyeHogwarts|1663
-#239|@Leela8-Test|1662
+#238|@Leela8-Test|1666
+#239|@TurkiyeHogwarts|1663
 #240|@Lightning_SpeedChess|1660
 #241|@DrSmartBugs|1655
 #242|@AndromedaSX1|1650
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1513
+#274|@FataliiBot|1511
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -339,7 +339,7 @@ Rank|Bot|Rating
 #337|@RootEngine|1245
 #338|@Future_Chess_Pro|1233
 #339|@AlphaLeela0|1229
-#340|@Demolito_L6|1223
+#340|@Demolito_L6|1225
 #341|@WorstBotEver123|1222
 #342|@fathzer-jchess|1215
 #343|@Bot8983|1210
@@ -367,8 +367,8 @@ Rank|Bot|Rating
 #365|@ZokBot|969
 #366|@RandomTree77|956
 #367|@Bot_Swana|943
-#368|@Demolito_L4|941
-#369|@bobandi|940
+#368|@bobandi|940
+#369|@Demolito_L4|938
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|923
 #372|@Palisade|800
