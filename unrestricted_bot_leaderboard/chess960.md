@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@IUseStockfish|2202
 #15|@TheFreshman1902|2201
 #16|@Corvus-1|2197
-#17|@lord-bot|2194
+#17|@lord-bot|2190
 #18|@hyperchessbot1|2189
 #19|@Intron014|2189
 #20|@Kizburb|2182
@@ -118,8 +118,8 @@ Rank|Bot|Rating
 #116|@ttBOT|2000
 #117|@LeelaChessBestEngine|1997
 #118|@StockSergio|1997
-#119|@TheMatrix2029|1992
-#120|@NikitosikVariantsbot|1991
+#119|@NikitosikVariantsbot|1994
+#120|@TheMatrix2029|1992
 #121|@NormalBlitzBulletBot|1991
 #122|@ROBOT_RANDEER2007|1988
 #123|@Hyper-Stockfish|1984
@@ -235,7 +235,7 @@ Rank|Bot|Rating
 #233|@BotifiedMoyao|1682
 #234|@Polaris2Bot|1681
 #235|@Minic-chess_engine|1678
-#236|@Leela8-Test|1671
+#236|@Leela8-Test|1674
 #237|@eubos|1667
 #238|@Mariana-031|1667
 #239|@TurkiyeHogwarts|1663
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1503
+#274|@FataliiBot|1504
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -339,8 +339,8 @@ Rank|Bot|Rating
 #337|@RootEngine|1245
 #338|@fathzer-jchess|1234
 #339|@Future_Chess_Pro|1233
-#340|@Demolito_L6|1231
-#341|@AlphaLeela0|1229
+#340|@AlphaLeela0|1229
+#341|@Demolito_L6|1229
 #342|@WorstBotEver123|1222
 #343|@Bot8983|1210
 #344|@DrunkenMasterEngine|1204
@@ -368,7 +368,7 @@ Rank|Bot|Rating
 #366|@RandomTree77|956
 #367|@Bot_Swana|943
 #368|@bobandi|940
-#369|@Demolito_L4|932
+#369|@Demolito_L4|930
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|923
 #372|@Palisade|800
