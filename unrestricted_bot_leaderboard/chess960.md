@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
 #11|@LeelaChessTest|2208
-#12|@ResoluteBot|2205
+#12|@ResoluteBot|2204
 #13|@SfishChess2021|2204
 #14|@IUseStockfish|2202
 #15|@TheFreshman1902|2201
@@ -338,8 +338,8 @@ Rank|Bot|Rating
 #336|@Sparring_Bot|1248
 #337|@RootEngine|1245
 #338|@Future_Chess_Pro|1233
-#339|@AlphaLeela0|1229
-#340|@Demolito_L6|1229
+#339|@Demolito_L6|1231
+#340|@AlphaLeela0|1229
 #341|@WorstBotEver123|1222
 #342|@fathzer-jchess|1215
 #343|@Bot8983|1210
@@ -367,8 +367,8 @@ Rank|Bot|Rating
 #365|@ZokBot|969
 #366|@RandomTree77|956
 #367|@Bot_Swana|943
-#368|@bobandi|940
-#369|@Demolito_L4|932
+#368|@Demolito_L4|941
+#369|@bobandi|940
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|923
 #372|@Palisade|800

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ResoluteBot|2205
+#1|@ResoluteBot|2204
 #2|@TheFreshman1902|2201
 #3|@lord-bot|2191
 #4|@Intron014|2189
@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@Leela8-Test|1666
 #14|@SimplerEval|1528
 #15|@FataliiBot|1511
-#16|@Demolito_L6|1229
+#16|@Demolito_L6|1231
 #17|@Demolito_L5|1058
-#18|@Demolito_L4|932
+#18|@Demolito_L4|941
 #19|@pawnrobot|626

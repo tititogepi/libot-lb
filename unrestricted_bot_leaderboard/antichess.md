@@ -83,10 +83,10 @@ Rank|Bot|Rating
 #81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
-#84|@OpeningsBot|2272
+#84|@OpeningsBot|2278
 #85|@Johnsun|2269
 #86|@SkyBlaster|2254
-#87|@anti-bot|2248
+#87|@anti-bot|2243
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
 #90|@EagleEye2021|2235
