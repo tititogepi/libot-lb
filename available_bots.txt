@@ -1567,6 +1567,7 @@ ochobot
 odonata-bot
 official_bot
 ofish
+ofish-fast
 ohnibot
 ok12435
 ok_zabu
@@ -2420,4 +2421,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ofish-fast

@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@LudwigBOT|2536
 #11|@Coolman2021|2527
 #12|@EmptikBot|2526
-#13|@ToromBot|2519
+#13|@ToromBot|2521
 #14|@Dark_evil_bot|2496
 #15|@mrchessmanager|2494
 #16|@TeamChelsie|2489
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@The-Fastest-Bot|2402
 #33|@lightspeed_bot|2396
 #34|@thibot|2393
-#35|@NikitosikVariantsbot|2374
+#35|@NikitosikVariantsbot|2377
 #36|@Jussicas|2373
 #37|@Viet_BOT|2344
 #38|@EvenMatchup|2336
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@CloudBOT|2073
 #75|@JustDontFlagMe|2048
 #76|@Stockfish-MEDIUM|2043
-#77|@OpeningsBot|2041
+#77|@OpeningsBot|2039
 #78|@Crepusculum|2036
 #79|@bananaaaaaaaaa_test|2031
 #80|@EstmileBot|2018

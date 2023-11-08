@@ -47,9 +47,9 @@ Rank|Bot|Rating
 #45|@PsychedelicAtomic|2296
 #46|@AndromedaSX1|2284
 #47|@BGSBot|2272
-#48|@AtomicVsEngineBot|2268
-#49|@xiang-qi|2268
-#50|@NikitosikVariantsbot|2266
+#48|@NikitosikVariantsbot|2270
+#49|@AtomicVsEngineBot|2268
+#50|@xiang-qi|2268
 #51|@CocopikachuBOT|2265
 #52|@ElPeonElectrico|2262
 #53|@chesshyperbot|2260
@@ -133,8 +133,8 @@ Rank|Bot|Rating
 #131|@Ssech_BOT|1967
 #132|@AEBROADUSBOTTER|1958
 #133|@AtomicRouletteBot|1955
-#134|@OpeningsBot|1954
-#135|@atomicli|1951
+#134|@atomicli|1951
+#135|@OpeningsBot|1951
 #136|@HappyDeepawali|1941
 #137|@SimplerEval|1937
 #138|@EagleEye2021|1935
