@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@fibonachi|2815
 #2|@stockfish_dev|2700
 #3|@H-Zero|2650
-#4|@Viet-BOT|2622
-#5|@Nikitosik-ai|2620
+#4|@Nikitosik-ai|2636
+#5|@Viet-BOT|2622
 #6|@Nikitosikbot|2525
 #7|@peonasesino71|2512
 #8|@ServerFish|2494
@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@TorBot|2475
 #11|@Viet-AI|2471
 #12|@EmptikBot|2454
-#13|@pawn_git|2444
-#14|@F0rgot|2434
+#13|@F0rgot|2434
+#14|@pawn_git|2424
 #15|@AjedrezChamberi|2415
 #16|@HulkBot|2387
 #17|@Mega_BOT|2371
