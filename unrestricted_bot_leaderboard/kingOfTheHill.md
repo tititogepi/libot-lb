@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@ElPeonElectrico|2414
-#8|@Peaceful4Life|2390
-#9|@ToromBot|2390
+#8|@ToromBot|2392
+#9|@Peaceful4Life|2390
 #10|@TheMatrix2025|2389
 #11|@Corvus-1|2386
 #12|@FireFishBOT|2385
@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
 #71|@HyperLitikBOT|1930
-#72|@OpeningsBot|1917
+#72|@OpeningsBot|1916
 #73|@Galaxy_Guardian|1906
 #74|@DrSmartBugs|1904
 #75|@Variantenkoning|1892
