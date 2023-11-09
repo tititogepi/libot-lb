@@ -52,8 +52,8 @@ Rank|Bot|Rating
 #50|@CocopikachuBOT|2265
 #51|@ElPeonElectrico|2262
 #52|@chesshyperbot|2260
-#53|@Yes-Standerd-Yes|2260
-#54|@NikitosikVariantsbot|2258
+#53|@NikitosikVariantsbot|2260
+#54|@Yes-Standerd-Yes|2260
 #55|@Johnsun|2257
 #56|@YoBot_v2|2243
 #57|@MalanChess|2238
@@ -133,8 +133,8 @@ Rank|Bot|Rating
 #131|@Ssech_BOT|1967
 #132|@AEBROADUSBOTTER|1958
 #133|@AtomicRouletteBot|1955
-#134|@OpeningsBot|1952
-#135|@atomicli|1951
+#134|@atomicli|1951
+#135|@OpeningsBot|1951
 #136|@HappyDeepawali|1941
 #137|@SimplerEval|1937
 #138|@EagleEye2021|1935

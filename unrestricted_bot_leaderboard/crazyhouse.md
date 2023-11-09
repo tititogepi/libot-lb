@@ -46,8 +46,8 @@ Rank|Bot|Rating
 #44|@BitExtender128|2272
 #45|@Bobby_Fischer_BOT|2251
 #46|@Mega_BOT|2240
-#47|@Coolman2021|2219
-#48|@RaspFish|2219
+#47|@RaspFish|2221
+#48|@Coolman2021|2219
 #49|@xiang-qi|2203
 #50|@MyNameIsWhatLOL|2200
 #51|@Zer0_Tw0|2200
