@@ -144,10 +144,10 @@ Rank|Bot|Rating
 #142|@Yukoo-BOT|1876
 #143|@beststockfish16|1875
 #144|@RoboTal|1874
-#145|@yeoldwiz|1874
-#146|@yowCapablanca|1874
-#147|@TheMatrix2025|1872
-#148|@ViVe_2_chess_pro|1869
+#145|@yowCapablanca|1874
+#146|@TheMatrix2025|1872
+#147|@ViVe_2_chess_pro|1869
+#148|@yeoldwiz|1867
 #149|@Jibbby|1860
 #150|@Official_bot|1857
 #151|@ChessChildren|1856

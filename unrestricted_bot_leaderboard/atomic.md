@@ -133,8 +133,8 @@ Rank|Bot|Rating
 #131|@Ssech_BOT|1967
 #132|@AEBROADUSBOTTER|1958
 #133|@AtomicRouletteBot|1955
-#134|@atomicli|1951
-#135|@OpeningsBot|1951
+#134|@OpeningsBot|1952
+#135|@atomicli|1951
 #136|@HappyDeepawali|1941
 #137|@SimplerEval|1937
 #138|@EagleEye2021|1935
@@ -228,7 +228,7 @@ Rank|Bot|Rating
 #226|@chicken_farmer|1514
 #227|@RandomTree77|1511
 #228|@Abuziddin-BOT|1508
-#229|@pawnrobot|1502
+#229|@pawnrobot|1501
 #230|@GgKedi|1500
 #231|@Kung-fuPanda|1498
 #232|@lola-stockfish|1498
