@@ -236,6 +236,7 @@ binarybrain
 bingo202
 bionic_x
 bishop-bot
+bitbitbot
 bitbybyte
 bitextender128
 bjomarchessbot
@@ -2421,4 +2422,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bitbitbot
