@@ -384,6 +384,7 @@ buildabot
 bulletbotmaster
 bulletchess134
 bulletenforcer
+bulletproof1337
 bungkustime
 bunny_2021
 bushycamper
@@ -2422,4 +2423,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bulletproof1337
