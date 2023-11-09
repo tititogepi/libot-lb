@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@Beyondcomprehension|2039
 #103|@faith_bot|2037
 #104|@CocopikachuBOT|2036
-#105|@HyperPhoenix21|2035
-#106|@zeekat|2035
+#105|@zeekat|2036
+#106|@HyperPhoenix21|2035
 #107|@EmptikCorrespondence|2031
 #108|@StrongMagnusCarlsen|2027
 #109|@kybot|2025
