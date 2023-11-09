@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@LoseisnotAvailablehe|2217
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
-#11|@LeelaChessTest|2208
-#12|@ResoluteBot|2204
+#11|@ResoluteBot|2209
+#12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
 #14|@IUseStockfish|2202
 #15|@TheFreshman1902|2201
@@ -21,10 +21,10 @@ Rank|Bot|Rating
 #19|@Intron014|2189
 #20|@Kizburb|2182
 #21|@VariantsBot|2180
-#22|@YoBot_v2|2180
-#23|@ToromBot|2179
-#24|@TorBot_v2|2178
-#25|@Bot_McBotface|2172
+#22|@ToromBot|2179
+#23|@TorBot_v2|2178
+#24|@Bot_McBotface|2172
+#25|@YoBot_v2|2172
 #26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
@@ -116,9 +116,9 @@ Rank|Bot|Rating
 #114|@Ultra-bot|2001
 #115|@Yemmi-Yemmi|2001
 #116|@ttBOT|2000
-#117|@LeelaChessBestEngine|1997
-#118|@StockSergio|1997
-#119|@NikitosikVariantsbot|1994
+#117|@NikitosikVariantsbot|1999
+#118|@LeelaChessBestEngine|1997
+#119|@StockSergio|1997
 #120|@TheMatrix2029|1992
 #121|@NormalBlitzBulletBot|1991
 #122|@ROBOT_RANDEER2007|1988
@@ -200,7 +200,7 @@ Rank|Bot|Rating
 #198|@xiang-qi|1809
 #199|@CloudBOT|1807
 #200|@Lalis1|1804
-#201|@OpeningsBot|1799
+#201|@OpeningsBot|1803
 #202|@EvilFreak|1793
 #203|@Storm_Shadow2012|1788
 #204|@mrchessmanager|1784
@@ -226,7 +226,7 @@ Rank|Bot|Rating
 #224|@stockfish12_Johan|1717
 #225|@TungJohn|1714
 #226|@TeamChelsie|1712
-#227|@Cheng-4|1706
+#227|@Cheng-4|1704
 #228|@fantasticbot|1699
 #229|@Peaceful4Life|1694
 #230|@Crepusculum|1693
@@ -235,7 +235,7 @@ Rank|Bot|Rating
 #233|@BotifiedMoyao|1682
 #234|@Polaris2Bot|1681
 #235|@Minic-chess_engine|1678
-#236|@Leela8-Test|1674
+#236|@Leela8-Test|1670
 #237|@eubos|1667
 #238|@Mariana-031|1667
 #239|@TurkiyeHogwarts|1663
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1504
+#274|@FataliiBot|1506
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -339,8 +339,8 @@ Rank|Bot|Rating
 #337|@RootEngine|1245
 #338|@fathzer-jchess|1234
 #339|@Future_Chess_Pro|1233
-#340|@AlphaLeela0|1229
-#341|@Demolito_L6|1229
+#340|@Demolito_L6|1230
+#341|@AlphaLeela0|1229
 #342|@WorstBotEver123|1222
 #343|@Bot8983|1210
 #344|@DrunkenMasterEngine|1204
@@ -368,7 +368,7 @@ Rank|Bot|Rating
 #366|@RandomTree77|956
 #367|@Bot_Swana|943
 #368|@bobandi|940
-#369|@Demolito_L4|930
+#369|@Demolito_L4|927
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|923
 #372|@Palisade|800
