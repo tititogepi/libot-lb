@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@Intron014|2185
 #5|@ToromBot|2179
 #6|@TorBot_v2|2178
-#7|@YoBot_v2|2167
+#7|@YoBot_v2|2168
 #8|@duythong1402|2145
 #9|@FireFishBOT|2137
-#10|@RaspFish|2063
+#10|@RaspFish|2058
 #11|@OpeningsBot|1812
 #12|@Cheng-4|1707
 #13|@Leela8-Test|1665
