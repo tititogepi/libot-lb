@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@LoseisnotAvailablehe|2217
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
-#11|@ResoluteBot|2209
-#12|@LeelaChessTest|2208
+#11|@LeelaChessTest|2208
+#12|@ResoluteBot|2207
 #13|@SfishChess2021|2204
 #14|@IUseStockfish|2202
 #15|@TheFreshman1902|2201
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@ToromBot|2179
 #23|@TorBot_v2|2178
 #24|@Bot_McBotface|2172
-#25|@EmptikBot|2168
-#26|@YoBot_v2|2168
+#25|@YoBot_v2|2169
+#26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
 #29|@YellowFlash-X|2158
@@ -35,8 +35,8 @@ Rank|Bot|Rating
 #33|@ReinforcementTrial|2154
 #34|@VariantsTop|2149
 #35|@TTC-BOT_2|2148
-#36|@Nikitosikbot|2146
-#37|@duythong1402|2145
+#36|@duythong1402|2145
+#37|@Nikitosikbot|2145
 #38|@LolFish-1|2144
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
@@ -99,7 +99,7 @@ Rank|Bot|Rating
 #97|@EmptikBot247|2022
 #98|@DeepChessEngine|2020
 #99|@LudwigBOT|2018
-#100|@NikitosikVariantsbot|2015
+#100|@NikitosikVariantsbot|2017
 #101|@SF-NNUE|2014
 #102|@Cloud_Bot|2013
 #103|@Iwantedtoplaychess|2013
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1510
+#274|@FataliiBot|1512
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -339,7 +339,7 @@ Rank|Bot|Rating
 #337|@RootEngine|1245
 #338|@Future_Chess_Pro|1233
 #339|@AlphaLeela0|1229
-#340|@Demolito_L6|1224
+#340|@Demolito_L6|1223
 #341|@fathzer-jchess|1222
 #342|@WorstBotEver123|1222
 #343|@Bot8983|1210
