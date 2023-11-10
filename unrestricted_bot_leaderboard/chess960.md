@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@TorBot_v2|2178
 #23|@ToromBot|2173
 #24|@Bot_McBotface|2172
-#25|@YoBot_v2|2171
-#26|@EmptikBot|2168
+#25|@EmptikBot|2168
+#26|@YoBot_v2|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
 #29|@YellowFlash-X|2158
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
-#37|@Nikitosikbot|2145
-#38|@LolFish-1|2144
+#37|@LolFish-1|2144
+#38|@Nikitosikbot|2140
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -62,8 +62,8 @@ Rank|Bot|Rating
 #60|@Shineshou90_BOT|2093
 #61|@UnDisstoppableBot|2090
 #62|@Lila-Stockfish|2089
-#63|@MastacticaTeoriabot|2087
-#64|@Nikitosik-ai|2084
+#63|@Nikitosik-ai|2084
+#64|@MastacticaTeoriabot|2082
 #65|@Mittens-Bot|2081
 #66|@chessbot2880|2079
 #67|@EmptikBotLc0|2079
@@ -97,9 +97,9 @@ Rank|Bot|Rating
 #95|@HiarcsFish|2028
 #96|@Beyondcomprehension|2024
 #97|@EmptikBot247|2022
-#98|@DeepChessEngine|2020
-#99|@LudwigBOT|2018
-#100|@NikitosikVariantsbot|2018
+#98|@NikitosikVariantsbot|2021
+#99|@DeepChessEngine|2020
+#100|@LudwigBOT|2018
 #101|@SF-NNUE|2014
 #102|@Cloud_Bot|2013
 #103|@Iwantedtoplaychess|2013
@@ -193,7 +193,7 @@ Rank|Bot|Rating
 #191|@ZamuChess|1822
 #192|@AI69|1821
 #193|@StormphraxEngine|1820
-#194|@OpeningsBot|1818
+#194|@OpeningsBot|1819
 #195|@CVA728_BOT_1|1817
 #196|@ESC_BOT|1815
 #197|@FrozenightEngine|1811
@@ -235,7 +235,7 @@ Rank|Bot|Rating
 #233|@BotifiedMoyao|1682
 #234|@Polaris2Bot|1681
 #235|@Minic-chess_engine|1678
-#236|@Leela8-Test|1673
+#236|@Leela8-Test|1671
 #237|@eubos|1667
 #238|@Mariana-031|1667
 #239|@TurkiyeHogwarts|1663
@@ -271,9 +271,9 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@david9426_bot|1517
-#273|@LioCT|1516
-#274|@FataliiBot|1509
+#272|@FataliiBot|1518
+#273|@david9426_bot|1517
+#274|@LioCT|1516
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -355,8 +355,8 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1050
-#357|@LeElaGuess|1049
+#356|@LeElaGuess|1049
+#357|@Demolito_L5|1047
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
@@ -375,5 +375,5 @@ Rank|Bot|Rating
 #373|@WaspBot|798
 #374|@LeelaWeak|735
 #375|@FelixLeonidovich|730
-#376|@pawnrobot|615
+#376|@pawnrobot|618
 #377|@konaz|400
