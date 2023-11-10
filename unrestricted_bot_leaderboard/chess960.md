@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ToromBot|2174
 #24|@Bot_McBotface|2172
 #25|@EmptikBot|2168
-#26|@YoBot_v2|2165
+#26|@YoBot_v2|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
 #29|@YellowFlash-X|2158
@@ -33,11 +33,11 @@ Rank|Bot|Rating
 #31|@YellowFlash_v2|2156
 #32|@TorBot|2155
 #33|@ReinforcementTrial|2154
-#34|@VariantsTop|2149
-#35|@TTC-BOT_2|2148
-#36|@duythong1402|2145
-#37|@LolFish-1|2144
-#38|@Nikitosikbot|2144
+#34|@duythong1402|2150
+#35|@VariantsTop|2149
+#36|@TTC-BOT_2|2148
+#37|@Nikitosikbot|2145
+#38|@LolFish-1|2144
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -96,9 +96,9 @@ Rank|Bot|Rating
 #94|@Coolman2021|2028
 #95|@HiarcsFish|2028
 #96|@Beyondcomprehension|2024
-#97|@NikitosikVariantsbot|2024
-#98|@EmptikBot247|2022
-#99|@DeepChessEngine|2020
+#97|@EmptikBot247|2022
+#98|@DeepChessEngine|2020
+#99|@NikitosikVariantsbot|2020
 #100|@LudwigBOT|2018
 #101|@SF-NNUE|2014
 #102|@Cloud_Bot|2013
@@ -189,8 +189,8 @@ Rank|Bot|Rating
 #187|@GodelEscherBot|1837
 #188|@Simpafteur|1833
 #189|@ChessHunterBot|1831
-#190|@OpeningsBot|1828
-#191|@StashBot|1826
+#190|@StashBot|1826
+#191|@OpeningsBot|1823
 #192|@ZamuChess|1822
 #193|@AI69|1821
 #194|@StormphraxEngine|1820
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1510
+#274|@FataliiBot|1512
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@AlphaLeela0|1229
 #340|@fathzer-jchess|1222
 #341|@WorstBotEver123|1222
-#342|@Demolito_L6|1219
+#342|@Demolito_L6|1220
 #343|@Bot8983|1210
 #344|@DrunkenMasterEngine|1204
 #345|@MrKING74_btw|1191
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1058
+#356|@Demolito_L5|1054
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
