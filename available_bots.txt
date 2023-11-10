@@ -2348,6 +2348,7 @@ worldplayer035bot
 worstbotever123
 worstfish
 worstfish_test
+worstfishv2
 wretchedzero
 wtrcc
 x2-itl
@@ -2423,4 +2424,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-worstfishv2
+aspyfish

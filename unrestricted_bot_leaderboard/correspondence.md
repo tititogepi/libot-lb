@@ -139,8 +139,8 @@ Rank|Bot|Rating
 #137|@honzovy-sachy-2|1892
 #138|@XXXTryandTryXXX|1884
 #139|@KingsGamBot|1882
-#140|@lol7241Bot|1878
-#141|@yeoldwiz|1878
+#140|@yeoldwiz|1879
+#141|@lol7241Bot|1878
 #142|@PiratesBot|1876
 #143|@Yukoo-BOT|1876
 #144|@beststockfish16|1875
