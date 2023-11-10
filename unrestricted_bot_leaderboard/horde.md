@@ -132,5 +132,6 @@ Rank|Bot|Rating
 #130|@BetaOneBot|1166
 #131|@pawnrobot|1158
 #132|@ZX-Chess|1145
-#133|@alvin-chess-bot|1091
-#134|@GuineaBot2|851
+#133|@duythong1402|1120
+#134|@alvin-chess-bot|1091
+#135|@GuineaBot2|851

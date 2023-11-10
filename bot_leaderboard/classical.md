@@ -12,14 +12,14 @@ Rank|Bot|Rating
 #10|@RaspFish|2611
 #11|@FireFishBOT|2594
 #12|@ArasanX|2589
-#13|@Berserk-Test|2538
+#13|@Berserk-Test|2540
 #14|@JuroJ|2529
 #15|@ELO_1500|2417
 #16|@expositor|2389
 #17|@LazyBot|2384
 #18|@catriever|2382
 #19|@AKS-Mantissa|2351
-#20|@pawn_git|2343
+#20|@pawn_git|2340
 #21|@Weiawaga|2313
 #22|@SaxtonEngine|2309
 #23|@Leela8-Test|2270
@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Lynx_BOT|2110
 #30|@simpleEval|2024
 #31|@Nakshatra3|2013
-#32|@Boris-Trapsky|2004
+#32|@Boris-Trapsky|2002
 #33|@eubos|1999
 #34|@HistoryExplorer|1981
 #35|@honzovy-sachy-2|1981
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@likeawizard-bot|1914
 #40|@LazyBotJr|1886
 #41|@zeekat|1881
-#42|@LeelaRogue|1834
+#42|@LeelaRogue|1835
 #43|@baby_eubos|1804
 #44|@Demolito_L6|1772
 #45|@Demolito_L5|1741
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@simplexitor|1602
 #57|@Trollfish-Bot|1600
 #58|@chat_bot|1554
-#59|@maia1|1495
-#60|@Humaia|1461
+#59|@maia1|1494
+#60|@Humaia|1460
 #61|@sargon-2ply|1449
 #62|@turochamp-1ply|1334
 #63|@sargon-1ply|1300

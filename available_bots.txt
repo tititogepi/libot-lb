@@ -141,6 +141,7 @@ asalfish_15
 asdfbot2
 ashnostromo
 asimusbot
+aspyfish
 assasino_legend
 asterix_20k20
 atomic_chess_bot
@@ -2424,4 +2425,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-aspyfish
