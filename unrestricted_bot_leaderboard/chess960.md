@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@IUseStockfish|2202
 #15|@TheFreshman1902|2201
 #16|@Corvus-1|2197
-#17|@lord-bot|2190
-#18|@hyperchessbot1|2189
+#17|@hyperchessbot1|2189
+#18|@lord-bot|2189
 #19|@Intron014|2184
 #20|@Kizburb|2182
 #21|@VariantsBot|2180
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ToromBot|2174
 #24|@Bot_McBotface|2172
 #25|@EmptikBot|2168
-#26|@YoBot_v2|2166
+#26|@YoBot_v2|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
 #29|@YellowFlash-X|2158
@@ -35,9 +35,9 @@ Rank|Bot|Rating
 #33|@ReinforcementTrial|2154
 #34|@VariantsTop|2149
 #35|@TTC-BOT_2|2148
-#36|@Nikitosikbot|2147
-#37|@duythong1402|2145
-#38|@LolFish-1|2144
+#36|@duythong1402|2145
+#37|@LolFish-1|2144
+#38|@Nikitosikbot|2142
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@HiarcsFish|2028
 #96|@Beyondcomprehension|2024
 #97|@EmptikBot247|2022
-#98|@DeepChessEngine|2020
-#99|@NikitosikVariantsbot|2019
+#98|@NikitosikVariantsbot|2021
+#99|@DeepChessEngine|2020
 #100|@LudwigBOT|2018
 #101|@SF-NNUE|2014
 #102|@Cloud_Bot|2013
@@ -187,7 +187,7 @@ Rank|Bot|Rating
 #185|@Test_God_50_BOT|1843
 #186|@newengine2022|1842
 #187|@GodelEscherBot|1837
-#188|@OpeningsBot|1834
+#188|@OpeningsBot|1835
 #189|@Simpafteur|1833
 #190|@ChessHunterBot|1831
 #191|@StashBot|1826
@@ -240,8 +240,8 @@ Rank|Bot|Rating
 #238|@TurkiyeHogwarts|1663
 #239|@Lightning_SpeedChess|1660
 #240|@DrSmartBugs|1655
-#241|@Leela8-Test|1655
-#242|@AndromedaSX1|1650
+#241|@AndromedaSX1|1650
+#242|@Leela8-Test|1649
 #243|@CloudBotZero|1645
 #244|@Los-Guerreros1|1643
 #245|@CatBot_14|1627
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1506
+#274|@FataliiBot|1513
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -370,7 +370,7 @@ Rank|Bot|Rating
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
 #370|@botTideEval|923
-#371|@Demolito_L4|921
+#371|@Demolito_L4|919
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735
