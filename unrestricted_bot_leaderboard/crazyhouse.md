@@ -66,8 +66,8 @@ Rank|Bot|Rating
 #64|@Jussicas|2035
 #65|@thibot|2032
 #66|@Less_of_a_threat|2025
-#67|@Magnus-BOT|1986
-#68|@NikitosikVariantsbot|1986
+#67|@NikitosikVariantsbot|1993
+#68|@Magnus-BOT|1986
 #69|@PyChessBot|1978
 #70|@ttBOT|1977
 #71|@ESC_BOT|1966
@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@Giphy_Logo|1741
 #102|@sauwkhamari|1741
 #103|@TJchessBot|1741
-#104|@OpeningsBot|1717
-#105|@Stockfish-MEDIUM|1717
+#104|@Stockfish-MEDIUM|1717
+#105|@OpeningsBot|1713
 #106|@Lightning_SpeedChess|1696
 #107|@B0T5_RU13|1683
 #108|@FASTCHESSBOT|1666
