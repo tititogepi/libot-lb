@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ToromBot|2173
 #24|@Bot_McBotface|2172
 #25|@EmptikBot|2168
-#26|@YoBot_v2|2166
+#26|@YoBot_v2|2167
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
 #29|@YellowFlash-X|2158
@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@Vinh_VariantsBot|2098
 #59|@ChessBot2156|2095
 #60|@Shineshou90_BOT|2093
-#61|@UnDisstoppableBot|2090
-#62|@Lila-Stockfish|2089
-#63|@MastacticaTeoriabot|2086
+#61|@MastacticaTeoriabot|2091
+#62|@UnDisstoppableBot|2090
+#63|@Lila-Stockfish|2089
 #64|@Nikitosik-ai|2084
 #65|@Mittens-Bot|2081
 #66|@chessbot2880|2079
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@mrohBOT|2074
 #70|@Mega_BOT|2066
 #71|@Karpov_bot|2063
-#72|@RaspFish|2061
-#73|@chessfyBOT|2060
+#72|@chessfyBOT|2060
+#73|@RaspFish|2060
 #74|@Viet-AI|2060
 #75|@AI-Electro|2059
 #76|@Botyuliirma|2054
@@ -96,8 +96,8 @@ Rank|Bot|Rating
 #94|@Coolman2021|2028
 #95|@HiarcsFish|2028
 #96|@Beyondcomprehension|2024
-#97|@NikitosikVariantsbot|2024
-#98|@EmptikBot247|2022
+#97|@EmptikBot247|2022
+#98|@NikitosikVariantsbot|2021
 #99|@DeepChessEngine|2020
 #100|@LudwigBOT|2018
 #101|@SF-NNUE|2014
@@ -187,9 +187,9 @@ Rank|Bot|Rating
 #185|@Test_God_50_BOT|1843
 #186|@newengine2022|1842
 #187|@GodelEscherBot|1837
-#188|@Simpafteur|1833
-#189|@ChessHunterBot|1831
-#190|@OpeningsBot|1827
+#188|@OpeningsBot|1835
+#189|@Simpafteur|1833
+#190|@ChessHunterBot|1831
 #191|@StashBot|1826
 #192|@ZamuChess|1822
 #193|@AI69|1821
@@ -237,9 +237,9 @@ Rank|Bot|Rating
 #235|@Minic-chess_engine|1678
 #236|@eubos|1667
 #237|@Mariana-031|1667
-#238|@Leela8-Test|1663
-#239|@TurkiyeHogwarts|1663
-#240|@Lightning_SpeedChess|1660
+#238|@TurkiyeHogwarts|1663
+#239|@Lightning_SpeedChess|1660
+#240|@Leela8-Test|1657
 #241|@DrSmartBugs|1655
 #242|@AndromedaSX1|1650
 #243|@CloudBotZero|1645
@@ -271,7 +271,7 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@FataliiBot|1522
+#272|@FataliiBot|1520
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
@@ -339,7 +339,7 @@ Rank|Bot|Rating
 #337|@RootEngine|1245
 #338|@Future_Chess_Pro|1233
 #339|@AlphaLeela0|1229
-#340|@Demolito_L6|1223
+#340|@Demolito_L6|1228
 #341|@fathzer-jchess|1222
 #342|@WorstBotEver123|1222
 #343|@Bot8983|1210
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@Jobabot|1110
 #355|@Dummyette|1107
 #356|@LeElaGuess|1049
-#357|@Demolito_L5|1040
+#357|@Demolito_L5|1035
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
