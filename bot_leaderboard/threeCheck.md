@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2012
+#1|@OpeningsBot|2011
 #2|@SimplerEval|1654
 #3|@DavidsGuterBot|1503
 #4|@pawnrobot|1199
