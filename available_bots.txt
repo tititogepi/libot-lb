@@ -201,6 +201,7 @@ bekbot
 belabot
 belgiumbot
 bellachess
+benakachess
 benbotolucam
 benmakineyim
 bera_of_bbot
@@ -2426,4 +2427,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-benakachess
