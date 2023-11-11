@@ -84,8 +84,8 @@ Rank|Bot|Rating
 #82|@anti-bot|2299
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
-#85|@OpeningsBot|2275
-#86|@Johnsun|2269
+#85|@Johnsun|2269
+#86|@OpeningsBot|2268
 #87|@SkyBlaster|2254
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
@@ -116,8 +116,8 @@ Rank|Bot|Rating
 #114|@Jussicas|2019
 #115|@CloudBotZero|2018
 #116|@B0T5_RU13|2011
-#117|@TheLegitLegend|2010
-#118|@CatNail|2003
+#117|@CatNail|2010
+#118|@TheLegitLegend|2010
 #119|@CrayyBot|1989
 #120|@BetaZ|1973
 #121|@antichesssss|1964
