@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@lord-bot|2188
 #19|@Intron014|2183
 #20|@Kizburb|2182
-#21|@YoBot_v2|2181
-#22|@VariantsBot|2180
-#23|@TorBot_v2|2178
+#21|@VariantsBot|2180
+#22|@TorBot_v2|2178
+#23|@YoBot_v2|2178
 #24|@ToromBot|2173
 #25|@Bot_McBotface|2172
 #26|@EmptikBot|2168
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@Nikitosikbot|2138
+#38|@Nikitosikbot|2139
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -97,8 +97,8 @@ Rank|Bot|Rating
 #95|@HiarcsFish|2028
 #96|@Beyondcomprehension|2024
 #97|@EmptikBot247|2022
-#98|@DeepChessEngine|2020
-#99|@NikitosikVariantsbot|2020
+#98|@NikitosikVariantsbot|2022
+#99|@DeepChessEngine|2020
 #100|@LudwigBOT|2018
 #101|@SF-NNUE|2014
 #102|@Cloud_Bot|2013
@@ -184,9 +184,9 @@ Rank|Bot|Rating
 #182|@Sovereign_bot|1851
 #183|@TheEnsemble|1851
 #184|@tt-challenge|1850
-#185|@Test_God_50_BOT|1843
-#186|@newengine2022|1842
-#187|@OpeningsBot|1840
+#185|@OpeningsBot|1848
+#186|@Test_God_50_BOT|1843
+#187|@newengine2022|1842
 #188|@GodelEscherBot|1837
 #189|@Simpafteur|1833
 #190|@ChessHunterBot|1831
@@ -241,9 +241,9 @@ Rank|Bot|Rating
 #239|@Lightning_SpeedChess|1660
 #240|@DrSmartBugs|1655
 #241|@AndromedaSX1|1650
-#242|@Leela8-Test|1648
-#243|@CloudBotZero|1645
-#244|@Los-Guerreros1|1643
+#242|@CloudBotZero|1645
+#243|@Los-Guerreros1|1643
+#244|@Leela8-Test|1642
 #245|@CatBot_14|1627
 #246|@Lumac0|1625
 #247|@MeetraBot|1624
@@ -270,7 +270,7 @@ Rank|Bot|Rating
 #268|@anarchychess-bot|1532
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
-#271|@FataliiBot|1527
+#271|@FataliiBot|1525
 #272|@XiDM|1525
 #273|@david9426_bot|1517
 #274|@LioCT|1516
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@AlphaLeela0|1229
 #340|@fathzer-jchess|1222
 #341|@WorstBotEver123|1222
-#342|@Demolito_L6|1218
+#342|@Demolito_L6|1213
 #343|@Bot8983|1210
 #344|@DrunkenMasterEngine|1204
 #345|@MrKING74_btw|1191
@@ -355,8 +355,8 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@LeElaGuess|1049
-#357|@Demolito_L5|1045
+#356|@Demolito_L5|1050
+#357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
