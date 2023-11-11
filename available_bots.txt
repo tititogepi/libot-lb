@@ -2025,6 +2025,7 @@ stonks_fish
 storm_shadow2012
 stormphraxengine
 storng766555
+strawberrycupcakee
 streamervschat
 striker_bot
 stringbot
@@ -2425,4 +2426,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-strawberrycupcakee
