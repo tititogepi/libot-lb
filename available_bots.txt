@@ -535,6 +535,7 @@ cnn_bot
 coconochao_bot
 cocopikachubot
 codingadventurebot
+codingadventuresback
 codingai
 combilation
 combuskengine
@@ -2427,4 +2428,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-codingadventuresback

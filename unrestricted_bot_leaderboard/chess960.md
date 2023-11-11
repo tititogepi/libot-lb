@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
 #8|@LoseisnotAvailablehe|2217
-#9|@LeelaFish1|2212
-#10|@ResoluteBot|2211
+#9|@ResoluteBot|2216
+#10|@LeelaFish1|2212
 #11|@Xerus_1|2211
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
@@ -22,9 +22,9 @@ Rank|Bot|Rating
 #20|@Kizburb|2182
 #21|@VariantsBot|2180
 #22|@TorBot_v2|2178
-#23|@YoBot_v2|2176
-#24|@Bot_McBotface|2172
-#25|@ToromBot|2171
+#23|@Bot_McBotface|2172
+#24|@ToromBot|2171
+#25|@YoBot_v2|2171
 #26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
@@ -186,7 +186,7 @@ Rank|Bot|Rating
 #184|@tt-challenge|1850
 #185|@Test_God_50_BOT|1843
 #186|@newengine2022|1842
-#187|@OpeningsBot|1839
+#187|@OpeningsBot|1838
 #188|@GodelEscherBot|1837
 #189|@Simpafteur|1833
 #190|@ChessHunterBot|1831
@@ -239,8 +239,8 @@ Rank|Bot|Rating
 #237|@Mariana-031|1667
 #238|@TurkiyeHogwarts|1663
 #239|@Lightning_SpeedChess|1660
-#240|@DrSmartBugs|1655
-#241|@Leela8-Test|1654
+#240|@Leela8-Test|1656
+#241|@DrSmartBugs|1655
 #242|@AndromedaSX1|1650
 #243|@CloudBotZero|1645
 #244|@Los-Guerreros1|1643
@@ -271,7 +271,7 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@FataliiBot|1521
+#272|@FataliiBot|1520
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@AlphaLeela0|1229
 #340|@fathzer-jchess|1222
 #341|@WorstBotEver123|1222
-#342|@Demolito_L6|1216
+#342|@Demolito_L6|1218
 #343|@Bot8983|1210
 #344|@DrunkenMasterEngine|1204
 #345|@MrKING74_btw|1191
@@ -369,8 +369,8 @@ Rank|Bot|Rating
 #367|@Bot_Swana|943
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
-#370|@Demolito_L4|916
-#371|@botTideEval|914
+#370|@botTideEval|914
+#371|@Demolito_L4|914
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735

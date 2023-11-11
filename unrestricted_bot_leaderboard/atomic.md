@@ -53,8 +53,8 @@ Rank|Bot|Rating
 #51|@ElPeonElectrico|2262
 #52|@chesshyperbot|2260
 #53|@Yes-Standerd-Yes|2260
-#54|@Johnsun|2257
-#55|@NikitosikVariantsbot|2255
+#54|@NikitosikVariantsbot|2258
+#55|@Johnsun|2257
 #56|@YoBot_v2|2243
 #57|@MalanChess|2238
 #58|@TheMatrix2025|2234
@@ -239,8 +239,8 @@ Rank|Bot|Rating
 #237|@MeezKool|1485
 #238|@RSVMentor|1476
 #239|@TheWeakestBot|1476
-#240|@pawnrobot|1470
-#241|@thibot|1470
+#240|@thibot|1470
+#241|@pawnrobot|1469
 #242|@fastandfurious10|1464
 #243|@EDSPBOT|1463
 #244|@Dong_Xiao_Yuan|1454
