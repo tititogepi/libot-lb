@@ -131,7 +131,7 @@ Rank|Bot|Rating
 #129|@VariantsTop|1974
 #130|@VarianteBOT|1970
 #131|@Ssech_BOT|1967
-#132|@OpeningsBot|1959
+#132|@OpeningsBot|1960
 #133|@AEBROADUSBOTTER|1958
 #134|@AtomicRouletteBot|1955
 #135|@atomicli|1951
@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@RSVMentor|1476
 #239|@TheWeakestBot|1476
 #240|@thibot|1470
-#241|@pawnrobot|1469
+#241|@pawnrobot|1468
 #242|@fastandfurious10|1464
 #243|@EDSPBOT|1463
 #244|@Dong_Xiao_Yuan|1454

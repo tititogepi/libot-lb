@@ -8,13 +8,13 @@ Rank|Bot|Rating
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
 #8|@LoseisnotAvailablehe|2217
-#9|@ResoluteBot|2216
+#9|@ResoluteBot|2215
 #10|@LeelaFish1|2212
 #11|@Xerus_1|2211
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
 #14|@IUseStockfish|2202
-#15|@TheFreshman1902|2201
+#15|@TheFreshman1902|2200
 #16|@Corvus-1|2197
 #17|@hyperchessbot1|2189
 #18|@lord-bot|2188
@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@TorBot_v2|2178
 #23|@Bot_McBotface|2172
 #24|@ToromBot|2171
-#25|@YoBot_v2|2171
+#25|@YoBot_v2|2169
 #26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@Nikitosikbot|2141
+#38|@Nikitosikbot|2142
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -74,9 +74,9 @@ Rank|Bot|Rating
 #72|@chessfyBOT|2060
 #73|@Viet-AI|2060
 #74|@AI-Electro|2059
-#75|@Hien-Vinh_Bot2|2054
-#76|@Alehkine_cat|2053
-#77|@RaspFish|2053
+#75|@RaspFish|2055
+#76|@Hien-Vinh_Bot2|2054
+#77|@Alehkine_cat|2053
 #78|@allvariants|2047
 #79|@Minhduc12|2045
 #80|@Satyakeswara_BOT|2044
@@ -239,7 +239,7 @@ Rank|Bot|Rating
 #237|@Mariana-031|1667
 #238|@TurkiyeHogwarts|1663
 #239|@Lightning_SpeedChess|1660
-#240|@Leela8-Test|1656
+#240|@Leela8-Test|1659
 #241|@DrSmartBugs|1655
 #242|@AndromedaSX1|1650
 #243|@CloudBotZero|1645
@@ -271,7 +271,7 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@FataliiBot|1520
+#272|@FataliiBot|1518
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
@@ -339,9 +339,9 @@ Rank|Bot|Rating
 #337|@RootEngine|1245
 #338|@Future_Chess_Pro|1233
 #339|@AlphaLeela0|1229
-#340|@fathzer-jchess|1222
-#341|@WorstBotEver123|1222
-#342|@Demolito_L6|1218
+#340|@Demolito_L6|1222
+#341|@fathzer-jchess|1222
+#342|@WorstBotEver123|1222
 #343|@Bot8983|1210
 #344|@DrunkenMasterEngine|1204
 #345|@MrKING74_btw|1191
@@ -375,5 +375,5 @@ Rank|Bot|Rating
 #373|@WaspBot|798
 #374|@LeelaWeak|735
 #375|@FelixLeonidovich|730
-#376|@pawnrobot|616
+#376|@pawnrobot|614
 #377|@konaz|400
