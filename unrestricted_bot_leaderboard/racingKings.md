@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@EmptikVariantsBot|2557
 #9|@FireFishBOT|2547
 #10|@LudwigBOT|2536
-#11|@Coolman2021|2527
-#12|@ToromBot|2527
+#11|@ToromBot|2529
+#12|@Coolman2021|2527
 #13|@EmptikBot|2526
 #14|@Dark_evil_bot|2496
 #15|@mrchessmanager|2494

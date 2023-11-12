@@ -190,7 +190,7 @@ Rank|Bot|Rating
 #188|@Simpafteur|1833
 #189|@ChessHunterBot|1831
 #190|@StashBot|1826
-#191|@OpeningsBot|1825
+#191|@OpeningsBot|1823
 #192|@ZamuChess|1822
 #193|@AI69|1821
 #194|@StormphraxEngine|1820
@@ -235,7 +235,7 @@ Rank|Bot|Rating
 #233|@BotifiedMoyao|1682
 #234|@Polaris2Bot|1681
 #235|@Minic-chess_engine|1678
-#236|@Leela8-Test|1677
+#236|@Leela8-Test|1672
 #237|@eubos|1667
 #238|@Mariana-031|1667
 #239|@TurkiyeHogwarts|1663
@@ -270,8 +270,8 @@ Rank|Bot|Rating
 #268|@anarchychess-bot|1532
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
-#271|@XiDM|1525
-#272|@FataliiBot|1518
+#271|@FataliiBot|1525
+#272|@XiDM|1525
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
