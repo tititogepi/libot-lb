@@ -81,8 +81,8 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@GodelEscherBot|2284
-#83|@anti-bot|2282
+#82|@anti-bot|2286
+#83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@OpeningsBot|2270
 #86|@Johnsun|2269
