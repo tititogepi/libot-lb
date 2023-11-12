@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@VariantsBot|2180
 #22|@TorBot_v2|2178
 #23|@Bot_McBotface|2172
-#24|@ToromBot|2171
-#25|@YoBot_v2|2171
+#24|@ToromBot|2170
+#25|@YoBot_v2|2169
 #26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
-#37|@LolFish-1|2144
-#38|@Nikitosikbot|2141
+#37|@Nikitosikbot|2146
+#38|@LolFish-1|2144
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -192,9 +192,9 @@ Rank|Bot|Rating
 #190|@StashBot|1826
 #191|@ZamuChess|1822
 #192|@AI69|1821
-#193|@OpeningsBot|1820
-#194|@StormphraxEngine|1820
-#195|@CVA728_BOT_1|1817
+#193|@StormphraxEngine|1820
+#194|@CVA728_BOT_1|1817
+#195|@OpeningsBot|1817
 #196|@ESC_BOT|1815
 #197|@FrozenightEngine|1811
 #198|@try2defeatme|1811
@@ -226,12 +226,12 @@ Rank|Bot|Rating
 #224|@stockfish12_Johan|1717
 #225|@TungJohn|1714
 #226|@TeamChelsie|1712
-#227|@Cheng-4|1707
+#227|@Cheng-4|1709
 #228|@fantasticbot|1699
 #229|@Peaceful4Life|1694
 #230|@Crepusculum|1693
 #231|@BetaZ|1686
-#232|@Leela8-Test|1683
+#232|@Leela8-Test|1686
 #233|@Bot_AOOP11|1682
 #234|@BotifiedMoyao|1682
 #235|@Polaris2Bot|1681
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1510
+#274|@FataliiBot|1507
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1049
+#356|@Demolito_L5|1051
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
@@ -369,7 +369,7 @@ Rank|Bot|Rating
 #367|@Bot_Swana|943
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
-#370|@Demolito_L4|917
+#370|@Demolito_L4|915
 #371|@botTideEval|914
 #372|@Palisade|800
 #373|@WaspBot|798

@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@The-Fastest-Bot|2314
 #42|@Alehkine_cat|2312
 #43|@lord-bot|2311
-#44|@NikitosikVariantsbot|2307
+#44|@NikitosikVariantsbot|2308
 #45|@Dean_Summer_Bot|2305
 #46|@PsychedelicAtomic|2296
 #47|@AndromedaSX1|2284
@@ -133,7 +133,7 @@ Rank|Bot|Rating
 #131|@Ssech_BOT|1967
 #132|@AEBROADUSBOTTER|1958
 #133|@AtomicRouletteBot|1955
-#134|@OpeningsBot|1955
+#134|@OpeningsBot|1954
 #135|@atomicli|1951
 #136|@HappyDeepawali|1941
 #137|@SimplerEval|1937
