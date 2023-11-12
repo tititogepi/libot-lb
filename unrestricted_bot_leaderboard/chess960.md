@@ -34,9 +34,9 @@ Rank|Bot|Rating
 #32|@TorBot|2155
 #33|@ReinforcementTrial|2154
 #34|@duythong1402|2150
-#35|@Nikitosikbot|2149
-#36|@VariantsTop|2149
-#37|@TTC-BOT_2|2148
+#35|@VariantsTop|2149
+#36|@TTC-BOT_2|2148
+#37|@Nikitosikbot|2147
 #38|@LolFish-1|2144
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@AI-Electro|2059
 #75|@Hien-Vinh_Bot2|2054
 #76|@Alehkine_cat|2053
-#77|@RaspFish|2052
+#77|@RaspFish|2051
 #78|@allvariants|2047
 #79|@Minhduc12|2045
 #80|@Satyakeswara_BOT|2044
@@ -91,8 +91,8 @@ Rank|Bot|Rating
 #89|@bananaaaaaaaaa_test|2033
 #90|@ItsATry|2033
 #91|@pistol-play|2032
-#92|@CrayyBot|2030
-#93|@NikitosikVariantsbot|2029
+#92|@NikitosikVariantsbot|2031
+#93|@CrayyBot|2030
 #94|@Coolman2021|2028
 #95|@HiarcsFish|2028
 #96|@Beyondcomprehension|2024
@@ -190,7 +190,7 @@ Rank|Bot|Rating
 #188|@Simpafteur|1833
 #189|@ChessHunterBot|1831
 #190|@StashBot|1826
-#191|@OpeningsBot|1823
+#191|@OpeningsBot|1825
 #192|@ZamuChess|1822
 #193|@AI69|1821
 #194|@StormphraxEngine|1820
@@ -270,8 +270,8 @@ Rank|Bot|Rating
 #268|@anarchychess-bot|1532
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
-#271|@FataliiBot|1525
-#272|@XiDM|1525
+#271|@XiDM|1525
+#272|@FataliiBot|1523
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
