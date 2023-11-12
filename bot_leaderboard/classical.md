@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Intron014|2643
 #3|@Occhessadvanced|2638
 #4|@TorBot_v2|2637
-#5|@Africaata|2632
+#5|@Africaata|2631
 #6|@YoBot_v2|2627
 #7|@kdpchess|2626
 #8|@TheFreshman1902|2626
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@Phalanx-XXV|2135
 #26|@Lynx_BOT|2131
 #27|@Pseudo-0|2116
-#28|@Boris-Trapsky|2025
+#28|@Boris-Trapsky|2026
 #29|@simpleEval|2016
 #30|@Nakshatra3|2013
 #31|@eubos|1999
@@ -55,11 +55,11 @@ Rank|Bot|Rating
 #53|@sargon-3ply|1603
 #54|@simplexitor|1602
 #55|@Trollfish-Bot|1598
-#56|@sargon-4ply|1592
-#57|@chat_bot|1554
-#58|@maia1|1550
+#56|@sargon-4ply|1591
+#57|@maia1|1564
+#58|@chat_bot|1554
 #59|@sargon-2ply|1445
-#60|@Humaia|1442
+#60|@Humaia|1439
 #61|@turochamp-1ply|1334
 #62|@sargon-1ply|1307
 #63|@CHoMPBoT|1097

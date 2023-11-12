@@ -55,8 +55,8 @@ Rank|Bot|Rating
 #53|@KingfishX|2436
 #54|@Bobby_Fischer_BOT|2435
 #55|@Nobody11892|2435
-#56|@NilatacBot|2434
-#57|@Hagfish|2432
+#56|@Hagfish|2432
+#57|@NilatacBot|2425
 #58|@EmptikBot247|2422
 #59|@xiang-qi|2422
 #60|@faith_bot|2420
@@ -86,9 +86,9 @@ Rank|Bot|Rating
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
 #86|@SkyBlaster|2254
-#87|@mrchessmanager|2240
-#88|@TurkiyeHogwarts|2240
-#89|@OpeningsBot|2236
+#87|@OpeningsBot|2245
+#88|@mrchessmanager|2240
+#89|@TurkiyeHogwarts|2240
 #90|@EagleEye2021|2235
 #91|@chesshyperbot|2234
 #92|@Hyper-Stockfish|2230
