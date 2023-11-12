@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
 #8|@LoseisnotAvailablehe|2217
-#9|@ResoluteBot|2215
+#9|@ResoluteBot|2214
 #10|@LeelaFish1|2212
 #11|@Xerus_1|2211
 #12|@LeelaChessTest|2208
@@ -17,15 +17,15 @@ Rank|Bot|Rating
 #15|@TheFreshman1902|2200
 #16|@Corvus-1|2197
 #17|@hyperchessbot1|2189
-#18|@lord-bot|2188
+#18|@lord-bot|2187
 #19|@Intron014|2183
 #20|@Kizburb|2182
 #21|@VariantsBot|2180
 #22|@TorBot_v2|2178
 #23|@Bot_McBotface|2172
 #24|@ToromBot|2171
-#25|@YoBot_v2|2170
-#26|@EmptikBot|2168
+#25|@EmptikBot|2168
+#26|@YoBot_v2|2167
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
 #29|@YellowFlash-X|2158
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
-#37|@LolFish-1|2144
-#38|@Nikitosikbot|2142
+#37|@Nikitosikbot|2145
+#38|@LolFish-1|2144
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@AI-Electro|2059
 #75|@Hien-Vinh_Bot2|2054
 #76|@Alehkine_cat|2053
-#77|@RaspFish|2050
+#77|@RaspFish|2052
 #78|@allvariants|2047
 #79|@Minhduc12|2045
 #80|@Satyakeswara_BOT|2044
@@ -271,7 +271,7 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@FataliiBot|1520
+#272|@FataliiBot|1521
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@AlphaLeela0|1229
 #340|@fathzer-jchess|1222
 #341|@WorstBotEver123|1222
-#342|@Demolito_L6|1220
+#342|@Demolito_L6|1219
 #343|@Bot8983|1210
 #344|@DrunkenMasterEngine|1204
 #345|@MrKING74_btw|1191
