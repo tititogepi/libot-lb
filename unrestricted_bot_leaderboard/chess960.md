@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
 #8|@LoseisnotAvailablehe|2217
-#9|@ResoluteBot|2213
-#10|@LeelaFish1|2212
+#9|@LeelaFish1|2212
+#10|@ResoluteBot|2212
 #11|@Xerus_1|2211
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@Kizburb|2182
 #20|@lord-bot|2181
 #21|@VariantsBot|2180
-#22|@YoBot_v2|2180
+#22|@YoBot_v2|2179
 #23|@TorBot_v2|2178
-#24|@ToromBot|2175
+#24|@ToromBot|2173
 #25|@Bot_McBotface|2172
 #26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@FireFishBOT|2137
-#39|@Nikitosikbot|2137
+#38|@Nikitosikbot|2138
+#39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
 #42|@F1R3BOT|2128
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@chessfyBOT|2060
 #73|@Viet-AI|2060
 #74|@AI-Electro|2059
-#75|@RaspFish|2056
+#75|@RaspFish|2059
 #76|@Hien-Vinh_Bot2|2054
 #77|@Alehkine_cat|2053
 #78|@allvariants|2047
@@ -83,9 +83,9 @@ Rank|Bot|Rating
 #81|@leela2200|2043
 #82|@MalanChess|2043
 #83|@BossKomodo|2042
-#84|@Bingo202|2039
-#85|@lola-stockfish|2039
-#86|@NikitosikVariantsbot|2038
+#84|@NikitosikVariantsbot|2040
+#85|@Bingo202|2039
+#86|@lola-stockfish|2039
 #87|@SFbot1|2038
 #88|@TheYoBots|2038
 #89|@SCP079|2035
@@ -223,7 +223,7 @@ Rank|Bot|Rating
 #221|@Magnus-BOT|1733
 #222|@Velvet-Engine|1732
 #223|@Viridithas|1728
-#224|@Cheng-4|1717
+#224|@Cheng-4|1720
 #225|@stockfish12_Johan|1717
 #226|@TungJohn|1714
 #227|@TeamChelsie|1712
@@ -231,7 +231,7 @@ Rank|Bot|Rating
 #229|@Peaceful4Life|1694
 #230|@Crepusculum|1693
 #231|@BetaZ|1686
-#232|@Leela8-Test|1686
+#232|@Leela8-Test|1685
 #233|@Bot_AOOP11|1682
 #234|@BotifiedMoyao|1682
 #235|@Polaris2Bot|1681
@@ -274,9 +274,9 @@ Rank|Bot|Rating
 #272|@david9426_bot|1517
 #273|@LioCT|1516
 #274|@YourSparringBot|1503
-#275|@FataliiBot|1499
-#276|@are_bots_good|1496
-#277|@dolegibot|1496
+#275|@are_bots_good|1496
+#276|@dolegibot|1496
+#277|@FataliiBot|1496
 #278|@feeks99|1479
 #279|@devsdaBot|1477
 #280|@TFRChessClub|1477
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1074
+#356|@Demolito_L5|1083
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
@@ -370,7 +370,7 @@ Rank|Bot|Rating
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
 #370|@botTideEval|914
-#371|@Demolito_L4|911
+#371|@Demolito_L4|902
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735
