@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@VariantsBot|2180
 #22|@TorBot_v2|2178
 #23|@ToromBot|2175
-#24|@Bot_McBotface|2172
-#25|@YoBot_v2|2172
+#24|@YoBot_v2|2174
+#25|@Bot_McBotface|2172
 #26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@LolFish-1|2144
-#38|@Nikitosikbot|2142
+#38|@Nikitosikbot|2138
 #39|@FireFishBOT|2137
 #40|@EmptikVariantsBot|2132
 #41|@faith_bot|2131
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@chessfyBOT|2060
 #73|@Viet-AI|2060
 #74|@AI-Electro|2059
-#75|@RaspFish|2055
+#75|@RaspFish|2056
 #76|@Hien-Vinh_Bot2|2054
 #77|@Alehkine_cat|2053
 #78|@allvariants|2047
@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@Satyakeswara_BOT|2044
 #81|@leela2200|2043
 #82|@MalanChess|2043
-#83|@BossKomodo|2042
-#84|@NikitosikVariantsbot|2041
+#83|@NikitosikVariantsbot|2043
+#84|@BossKomodo|2042
 #85|@Bingo202|2039
 #86|@lola-stockfish|2039
 #87|@SFbot1|2038
@@ -92,8 +92,8 @@ Rank|Bot|Rating
 #90|@bananaaaaaaaaa_test|2033
 #91|@ItsATry|2033
 #92|@pistol-play|2032
-#93|@CrayyBot|2030
-#94|@Botyuliirma|2029
+#93|@Botyuliirma|2031
+#94|@CrayyBot|2030
 #95|@Coolman2021|2028
 #96|@HiarcsFish|2028
 #97|@Beyondcomprehension|2024
@@ -194,8 +194,8 @@ Rank|Bot|Rating
 #192|@AI69|1821
 #193|@StormphraxEngine|1820
 #194|@CVA728_BOT_1|1817
-#195|@OpeningsBot|1817
-#196|@ESC_BOT|1815
+#195|@ESC_BOT|1815
+#196|@OpeningsBot|1814
 #197|@FrozenightEngine|1811
 #198|@try2defeatme|1811
 #199|@xiang-qi|1809
@@ -224,8 +224,8 @@ Rank|Bot|Rating
 #222|@Velvet-Engine|1732
 #223|@Viridithas|1728
 #224|@stockfish12_Johan|1717
-#225|@TungJohn|1714
-#226|@Cheng-4|1712
+#225|@Cheng-4|1715
+#226|@TungJohn|1714
 #227|@TeamChelsie|1712
 #228|@fantasticbot|1699
 #229|@Peaceful4Life|1694
@@ -273,8 +273,8 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1504
-#275|@YourSparringBot|1503
+#274|@YourSparringBot|1503
+#275|@FataliiBot|1501
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
 #278|@feeks99|1479
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1064
+#356|@Demolito_L5|1066
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
@@ -369,7 +369,7 @@ Rank|Bot|Rating
 #367|@Bot_Swana|943
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
-#370|@Demolito_L4|921
+#370|@Demolito_L4|919
 #371|@botTideEval|914
 #372|@Palisade|800
 #373|@WaspBot|798

@@ -2151,6 +2151,7 @@ thelegendarylion
 thelegendofshelly
 thelegitlegend
 thelegitlegend2
+theloserbot
 them492017bot
 thematrix2025
 thematrix2029
@@ -2429,4 +2430,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-theloserbot
