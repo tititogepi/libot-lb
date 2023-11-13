@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@AlfaBot|2293
 #15|@Fairy-Stockfish|2289
 #16|@Kizburb|2276
-#17|@lord-bot|2271
-#18|@NikitosikVariantsbot|2271
+#17|@NikitosikVariantsbot|2273
+#18|@lord-bot|2271
 #19|@ibep|2258
 #20|@LudwigBOT|2256
 #21|@CloudBot_v2|2252
@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@chesshyperbot|1702
 #74|@relevantproblem|1667
 #75|@Epiano_Bot|1662
-#76|@OpeningsBot|1662
+#76|@OpeningsBot|1661
 #77|@VariantsTop|1644
 #78|@The_dragon_bot|1625
 #79|@Cowboy_Time|1622
@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@St6090|1191
 #129|@Simpafteur|1188
 #130|@BetaOneBot|1166
-#131|@pawnrobot|1149
+#131|@pawnrobot|1147
 #132|@ZX-Chess|1145
 #133|@duythong1402|1120
 #134|@alvin-chess-bot|1091

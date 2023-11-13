@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@ttBOT|2031
 #57|@Resolved-Bot|2026
 #58|@firstrobot|2003
-#59|@OpeningsBot|1988
+#59|@OpeningsBot|1989
 #60|@Hyper-Stockfish|1986
 #61|@GodelEscherBot|1974
 #62|@XXIstCentury|1973
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@TrashBot|1519
 #107|@relevantproblem|1514
 #108|@Toxic_Bot|1511
-#109|@DavidsGuterBot|1509
+#109|@DavidsGuterBot|1507
 #110|@NoobMasterBOT|1507
 #111|@Epiano_Bot|1491
 #112|@CVA728_BOT_1|1489

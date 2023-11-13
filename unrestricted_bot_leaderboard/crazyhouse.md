@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@GodelEscherBot|2071
 #62|@TheLegitLegend2|2059
 #63|@PowerOnBot|2050
-#64|@NikitosikVariantsbot|2037
+#64|@NikitosikVariantsbot|2039
 #65|@Jussicas|2035
 #66|@thibot|2032
 #67|@Less_of_a_threat|2025
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@Stockfish-MEDIUM|1717
 #105|@Lightning_SpeedChess|1696
 #106|@B0T5_RU13|1683
-#107|@OpeningsBot|1682
+#107|@OpeningsBot|1681
 #108|@FASTCHESSBOT|1666
 #109|@SipsonsamsonBOT|1665
 #110|@MistakeBOT|1655

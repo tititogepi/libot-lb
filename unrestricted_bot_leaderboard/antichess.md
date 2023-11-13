@@ -31,10 +31,10 @@ Rank|Bot|Rating
 #29|@AIAlphaAI|2589
 #30|@ElPeonElectrico|2568
 #31|@NimsiluBot|2566
-#32|@YoBot_v2|2565
-#33|@newengine2022|2562
-#34|@Vinh_VariantsBot|2561
-#35|@NikitosikVariantsbot|2558
+#32|@NikitosikVariantsbot|2565
+#33|@YoBot_v2|2565
+#34|@newengine2022|2562
+#35|@Vinh_VariantsBot|2561
 #36|@Xerus_1|2553
 #37|@LudwigBOT|2545
 #38|@AlfaBot|2541
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269
-#85|@OpeningsBot|2269
+#85|@OpeningsBot|2265
 #86|@SkyBlaster|2254
 #87|@anti-bot|2252
 #88|@mrchessmanager|2240
