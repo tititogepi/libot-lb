@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@EmptikBot247|2422
 #58|@xiang-qi|2422
 #59|@faith_bot|2420
-#60|@NilatacBot|2418
-#61|@DrSmartBugs|2412
+#60|@DrSmartBugs|2412
+#61|@NilatacBot|2410
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403
 #64|@ESC_BOT|2394
@@ -83,10 +83,10 @@ Rank|Bot|Rating
 #81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
-#84|@anti-bot|2278
-#85|@Johnsun|2269
-#86|@OpeningsBot|2261
-#87|@SkyBlaster|2254
+#84|@Johnsun|2269
+#85|@OpeningsBot|2269
+#86|@SkyBlaster|2254
+#87|@anti-bot|2252
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
 #90|@EagleEye2021|2235
