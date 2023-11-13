@@ -362,5 +362,5 @@ Rank|Bot|Rating
 #360|@mustaley|973
 #361|@BerserkRandomMover|963
 #362|@grandQ_AI|887
-#363|@GuineaBot|870
+#363|@GuineaBot|868
 #364|@BogoBot|865
