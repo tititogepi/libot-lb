@@ -174,11 +174,11 @@ Rank|Bot|Rating
 #172|@FluffBallCuddly|1191
 #173|@heatseeker223|1191
 #174|@ChessPlayer1225|1183
-#175|@pawnrobot|1164
-#176|@Jannik08_FAN|1163
-#177|@BotOfAtomicChess|1153
-#178|@BSergey11-BOT|1149
-#179|@K_Shi_Bot|1149
+#175|@Jannik08_FAN|1163
+#176|@BotOfAtomicChess|1153
+#177|@BSergey11-BOT|1149
+#178|@K_Shi_Bot|1149
+#179|@pawnrobot|1144
 #180|@TeamChelsie|1125
 #181|@kazakhfirstbot|1119
 #182|@apollo_bot|1106
