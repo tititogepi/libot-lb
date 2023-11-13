@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@LoseisnotAvailablehe|2424
 #29|@Fairy-Stockfish|2411
 #30|@KizVariant|2410
-#31|@NikitosikVariantsbot|2407
+#31|@NikitosikVariantsbot|2409
 #32|@VariantsTop|2405
 #33|@The-Fastest-Bot|2402
 #34|@lightspeed_bot|2396
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
 #79|@EstmileBot|2018
-#80|@OpeningsBot|2018
+#80|@OpeningsBot|2017
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
 #83|@Yemmi-Yemmi|1964

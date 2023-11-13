@@ -15,9 +15,9 @@ Rank|Bot|Rating
 #13|@BitExtender128|2526
 #14|@ResoluteBot|2525
 #15|@CatBot_14|2514
-#16|@RaspFish|2514
-#17|@EmptikBot|2510
-#18|@ibep|2498
+#16|@EmptikBot|2510
+#17|@ibep|2498
+#18|@RaspFish|2495
 #19|@firstrobot|2485
 #20|@ShredderGrizzly|2479
 #21|@NormalBulletBot|2474
@@ -38,9 +38,9 @@ Rank|Bot|Rating
 #36|@HyperLitikBOT|2341
 #37|@LudwigBOT|2339
 #38|@newengine2022|2337
-#39|@NotNateBot|2336
-#40|@No-Varants-No|2335
-#41|@NikitosikVariantsbot|2325
+#39|@NikitosikVariantsbot|2336
+#40|@NotNateBot|2336
+#41|@No-Varants-No|2335
 #42|@The-Fastest-Bot|2314
 #43|@Alehkine_cat|2312
 #44|@lord-bot|2311
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@EagleEye2021|1935
 #138|@hjhjhjhjhjhj|1923
 #139|@FyChess2|1921
-#140|@OpeningsBot|1919
+#140|@OpeningsBot|1906
 #141|@B4dF1sh|1903
 #142|@Isotopebot|1900
 #143|@Just-a-random-bot|1898
@@ -237,9 +237,9 @@ Rank|Bot|Rating
 #235|@Iwantedtoplaychess|1486
 #236|@Chess_Pro9600|1485
 #237|@MeezKool|1485
-#238|@pawnrobot|1481
-#239|@RSVMentor|1476
-#240|@TheWeakestBot|1476
+#238|@RSVMentor|1476
+#239|@TheWeakestBot|1476
+#240|@pawnrobot|1473
 #241|@thibot|1470
 #242|@fastandfurious10|1464
 #243|@EDSPBOT|1463

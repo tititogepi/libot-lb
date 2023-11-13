@@ -570,6 +570,7 @@ crocrodile-dev
 croissantdealer
 cruelbot
 cruisemissile
+cshar9
 cubeofrubik
 cucubot
 cultr
@@ -2431,4 +2432,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cshar9

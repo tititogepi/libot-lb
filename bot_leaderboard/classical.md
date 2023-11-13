@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Intron014|2657
+#1|@Intron014|2654
 #2|@ReinforcementTrial|2638
 #3|@TorBot_v2|2637
 #4|@Africaata|2633
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@RaspFish|2613
 #11|@ArasanX|2579
 #12|@Berserk-Test|2526
-#13|@expositor|2393
+#13|@expositor|2396
 #14|@catriever|2377
 #15|@LazyBot|2373
 #16|@AKS-Mantissa|2359
@@ -20,11 +20,11 @@ Rank|Bot|Rating
 #18|@SaxtonEngine|2323
 #19|@Weiawaga|2301
 #20|@Leela8-Test|2287
-#21|@Cheng-4|2252
+#21|@Cheng-4|2251
 #22|@ChessNoobComp|2167
 #23|@TuksuBot|2157
 #24|@Phalanx-XXV|2135
-#25|@Lynx_BOT|2131
+#25|@Lynx_BOT|2128
 #26|@Pseudo-0|2123
 #27|@Boris-Trapsky|2031
 #28|@simpleEval|2023
@@ -61,5 +61,5 @@ Rank|Bot|Rating
 #59|@Humaia|1439
 #60|@turochamp-1ply|1334
 #61|@sargon-1ply|1302
-#62|@CHoMPBoT|1165
+#62|@CHoMPBoT|1164
 #63|@G0thamB0t|753
