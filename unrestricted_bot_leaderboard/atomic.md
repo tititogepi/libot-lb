@@ -32,10 +32,10 @@ Rank|Bot|Rating
 #30|@Resolved-Bot|2363
 #31|@CloudBot_v2|2357
 #32|@Lila-Stockfish|2350
-#33|@NikitosikVariantsbot|2349
-#34|@Viet-BOT|2349
-#35|@chessbot2880|2347
-#36|@NormalBlitzBulletBot|2347
+#33|@Viet-BOT|2349
+#34|@chessbot2880|2347
+#35|@NormalBlitzBulletBot|2347
+#36|@NikitosikVariantsbot|2344
 #37|@HyperLitikBOT|2341
 #38|@LudwigBOT|2339
 #39|@newengine2022|2337
@@ -140,9 +140,9 @@ Rank|Bot|Rating
 #138|@hjhjhjhjhjhj|1923
 #139|@FyChess2|1921
 #140|@B4dF1sh|1903
-#141|@Isotopebot|1900
-#142|@Just-a-random-bot|1898
-#143|@OpeningsBot|1896
+#141|@OpeningsBot|1901
+#142|@Isotopebot|1900
+#143|@Just-a-random-bot|1898
 #144|@AX2XB2|1893
 #145|@TheAwesomeBot|1891
 #146|@kostasvl-bot|1877

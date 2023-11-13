@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@Bobby_Fischer_BOT|2430
 #27|@NienishiEngine|2428
 #28|@LoseisnotAvailablehe|2424
-#29|@NikitosikVariantsbot|2412
+#29|@NikitosikVariantsbot|2413
 #30|@Fairy-Stockfish|2411
 #31|@KizVariant|2410
 #32|@VariantsTop|2405
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
 #79|@EstmileBot|2018
-#80|@OpeningsBot|2015
+#80|@OpeningsBot|2014
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
 #83|@Yemmi-Yemmi|1964
@@ -125,8 +125,8 @@ Rank|Bot|Rating
 #123|@HiddeNL|1573
 #124|@TheSystem_Bot|1572
 #125|@QuickLiquid|1555
-#126|@pawnrobot|1515
-#127|@faith_bot|1514
+#126|@faith_bot|1514
+#127|@pawnrobot|1513
 #128|@TorBot|1498
 #129|@KnightsArmour|1494
 #130|@MagnusCarlsen1507|1493

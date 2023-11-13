@@ -377,6 +377,7 @@ bristol_amogus
 britbot
 briton
 bromiumai
+brosubot
 bruceleela
 brutestrength
 bryan_12345
@@ -2432,4 +2433,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-brosubot
