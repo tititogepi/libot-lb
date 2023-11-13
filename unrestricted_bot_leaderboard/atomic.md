@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@EmptikVariantsBot|2671
 #4|@Nikitosikbot|2640
 #5|@Fairy_Belzedar|2628
-#6|@ToromBot|2616
+#6|@ToromBot|2622
 #7|@Coolman2021|2601
 #8|@KizVariant|2597
 #9|@pistol-play|2590
@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@newengine2022|2337
 #39|@NotNateBot|2336
 #40|@No-Varants-No|2335
-#41|@NikitosikVariantsbot|2314
+#41|@NikitosikVariantsbot|2315
 #42|@The-Fastest-Bot|2314
 #43|@Alehkine_cat|2312
 #44|@lord-bot|2311
@@ -133,8 +133,8 @@ Rank|Bot|Rating
 #131|@Ssech_BOT|1967
 #132|@AEBROADUSBOTTER|1958
 #133|@AtomicRouletteBot|1955
-#134|@OpeningsBot|1953
-#135|@atomicli|1951
+#134|@atomicli|1951
+#135|@OpeningsBot|1950
 #136|@HappyDeepawali|1941
 #137|@SimplerEval|1937
 #138|@EagleEye2021|1935
