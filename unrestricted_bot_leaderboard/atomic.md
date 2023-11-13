@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@HyperLitikBOT|2341
 #37|@LudwigBOT|2339
 #38|@newengine2022|2337
-#39|@NikitosikVariantsbot|2336
+#39|@NikitosikVariantsbot|2337
 #40|@NotNateBot|2336
 #41|@No-Varants-No|2335
 #42|@The-Fastest-Bot|2314
@@ -139,7 +139,7 @@ Rank|Bot|Rating
 #137|@EagleEye2021|1935
 #138|@hjhjhjhjhjhj|1923
 #139|@FyChess2|1921
-#140|@OpeningsBot|1911
+#140|@OpeningsBot|1910
 #141|@B4dF1sh|1903
 #142|@Isotopebot|1900
 #143|@Just-a-random-bot|1898

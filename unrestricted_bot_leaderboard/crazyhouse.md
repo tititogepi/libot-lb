@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@GodelEscherBot|2071
 #62|@TheLegitLegend2|2059
 #63|@PowerOnBot|2050
-#64|@Jussicas|2035
-#65|@NikitosikVariantsbot|2035
+#64|@NikitosikVariantsbot|2037
+#65|@Jussicas|2035
 #66|@thibot|2032
 #67|@Less_of_a_threat|2025
 #68|@Magnus-BOT|1986
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@Stockfish-MEDIUM|1717
 #105|@Lightning_SpeedChess|1696
 #106|@B0T5_RU13|1683
-#107|@OpeningsBot|1683
+#107|@OpeningsBot|1682
 #108|@FASTCHESSBOT|1666
 #109|@SipsonsamsonBOT|1665
 #110|@MistakeBOT|1655
@@ -174,7 +174,7 @@ Rank|Bot|Rating
 #172|@FluffBallCuddly|1191
 #173|@heatseeker223|1191
 #174|@ChessPlayer1225|1183
-#175|@pawnrobot|1180
+#175|@pawnrobot|1164
 #176|@Jannik08_FAN|1163
 #177|@BotOfAtomicChess|1153
 #178|@BSergey11-BOT|1149
