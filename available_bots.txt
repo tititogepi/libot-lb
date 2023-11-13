@@ -688,6 +688,7 @@ electricboy6-bot
 elfinsbot
 elite-bot
 eliteleela
+eliteleela23
 elmichess
 elninodiablo
 elo3800
@@ -2430,4 +2431,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-eliteleela23
+cshar9

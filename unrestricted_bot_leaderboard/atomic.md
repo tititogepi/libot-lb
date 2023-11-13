@@ -40,7 +40,7 @@ Rank|Bot|Rating
 #38|@newengine2022|2337
 #39|@NotNateBot|2336
 #40|@No-Varants-No|2335
-#41|@NikitosikVariantsbot|2324
+#41|@NikitosikVariantsbot|2325
 #42|@The-Fastest-Bot|2314
 #43|@Alehkine_cat|2312
 #44|@lord-bot|2311
@@ -137,9 +137,9 @@ Rank|Bot|Rating
 #135|@HappyDeepawali|1941
 #136|@SimplerEval|1937
 #137|@EagleEye2021|1935
-#138|@OpeningsBot|1930
-#139|@hjhjhjhjhjhj|1923
-#140|@FyChess2|1921
+#138|@hjhjhjhjhjhj|1923
+#139|@FyChess2|1921
+#140|@OpeningsBot|1919
 #141|@B4dF1sh|1903
 #142|@Isotopebot|1900
 #143|@Just-a-random-bot|1898
@@ -237,9 +237,9 @@ Rank|Bot|Rating
 #235|@Iwantedtoplaychess|1486
 #236|@Chess_Pro9600|1485
 #237|@MeezKool|1485
-#238|@RSVMentor|1476
-#239|@TheWeakestBot|1476
-#240|@pawnrobot|1475
+#238|@pawnrobot|1481
+#239|@RSVMentor|1476
+#240|@TheWeakestBot|1476
 #241|@thibot|1470
 #242|@fastandfurious10|1464
 #243|@EDSPBOT|1463
