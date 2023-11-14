@@ -105,9 +105,9 @@ Rank|Bot|Rating
 #103|@CocopikachuBOT|2036
 #104|@HyperPhoenix21|2035
 #105|@EmptikCorrespondence|2031
-#106|@zeekat|2028
-#107|@StrongMagnusCarlsen|2027
-#108|@kybot|2025
+#106|@StrongMagnusCarlsen|2027
+#107|@kybot|2025
+#108|@zeekat|2021
 #109|@MalanChess|2020
 #110|@RoyalLeela|2014
 #111|@SchachProg|2010

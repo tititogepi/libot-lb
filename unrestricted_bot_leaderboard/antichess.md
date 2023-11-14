@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@VariantsTop|2765
 #13|@Viet-AI|2765
 #14|@RaspFish|2762
-#15|@ibep|2733
-#16|@lord-bot|2679
+#15|@lord-bot|2756
+#16|@ibep|2733
 #17|@LoseisnotAvailablehe|2677
 #18|@AntichessAnalyzer|2673
 #19|@TheMatrix2025|2666
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@DrSmartBugs|2412
 #59|@AttackingOrDefending|2409
 #60|@BitExtender128|2403
-#61|@NilatacBot|2401
+#61|@NilatacBot|2403
 #62|@ESC_BOT|2394
 #63|@CatBot_14|2393
 #64|@NormalBulletBot|2393
@@ -82,8 +82,8 @@ Rank|Bot|Rating
 #80|@GodelEscherBot|2284
 #81|@Dean_Summer_Bot|2279
 #82|@Johnsun|2269
-#83|@anti-bot|2268
-#84|@OpeningsBot|2259
+#83|@anti-bot|2267
+#84|@OpeningsBot|2261
 #85|@SkyBlaster|2254
 #86|@mrchessmanager|2240
 #87|@TurkiyeHogwarts|2240
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@BetaZ|1973
 #119|@antichesssss|1964
 #120|@Menganti|1963
-#121|@pawnrobot|1962
+#121|@pawnrobot|1960
 #122|@CloudBOT|1950
 #123|@Crepusculum|1881
 #124|@NoTallkOnlyGames|1871
