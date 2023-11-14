@@ -83,8 +83,8 @@ Rank|Bot|Rating
 #81|@Dean_Summer_Bot|2279
 #82|@Johnsun|2269
 #83|@OpeningsBot|2267
-#84|@SkyBlaster|2254
-#85|@anti-bot|2249
+#84|@anti-bot|2258
+#85|@SkyBlaster|2254
 #86|@mrchessmanager|2240
 #87|@TurkiyeHogwarts|2240
 #88|@EagleEye2021|2235
