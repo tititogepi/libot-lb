@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@DrSmartBugs|2412
 #59|@AttackingOrDefending|2409
 #60|@BitExtender128|2403
-#61|@NilatacBot|2403
+#61|@NilatacBot|2395
 #62|@ESC_BOT|2394
 #63|@CatBot_14|2393
 #64|@NormalBulletBot|2393
@@ -81,9 +81,9 @@ Rank|Bot|Rating
 #79|@EvenMatchup|2302
 #80|@GodelEscherBot|2284
 #81|@Dean_Summer_Bot|2279
-#82|@Johnsun|2269
-#83|@anti-bot|2267
-#84|@OpeningsBot|2261
+#82|@OpeningsBot|2271
+#83|@Johnsun|2269
+#84|@anti-bot|2267
 #85|@SkyBlaster|2254
 #86|@mrchessmanager|2240
 #87|@TurkiyeHogwarts|2240
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@BetaZ|1973
 #119|@antichesssss|1964
 #120|@Menganti|1963
-#121|@pawnrobot|1960
+#121|@pawnrobot|1959
 #122|@CloudBOT|1950
 #123|@Crepusculum|1881
 #124|@NoTallkOnlyGames|1871
