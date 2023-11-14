@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@ChessBot3021|2599
 #27|@Viet-BOT|2598
 #28|@firstrobot|2593
-#29|@AIAlphaAI|2589
-#30|@NikitosikVariantsbot|2585
+#29|@NikitosikVariantsbot|2591
+#30|@AIAlphaAI|2589
 #31|@ElPeonElectrico|2568
 #32|@NimsiluBot|2566
 #33|@YoBot_v2|2565
@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@DrSmartBugs|2412
 #61|@AttackingOrDefending|2409
 #62|@BitExtender128|2403
-#63|@NilatacBot|2400
+#63|@NilatacBot|2397
 #64|@ESC_BOT|2394
 #65|@CatBot_14|2393
 #66|@NormalBulletBot|2393
@@ -83,10 +83,10 @@ Rank|Bot|Rating
 #81|@EvenMatchup|2302
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
-#84|@Johnsun|2269
-#85|@OpeningsBot|2265
+#84|@OpeningsBot|2271
+#85|@Johnsun|2269
 #86|@SkyBlaster|2254
-#87|@anti-bot|2252
+#87|@anti-bot|2243
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
 #90|@EagleEye2021|2235

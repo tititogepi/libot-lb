@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@ibep|2258
 #19|@LudwigBOT|2256
 #20|@CloudBot_v2|2252
-#21|@NikitosikVariantsbot|2245
-#22|@ElPeonElectrico|2203
-#23|@UltronBot|2199
+#21|@ElPeonElectrico|2203
+#22|@UltronBot|2199
+#23|@NikitosikVariantsbot|2184
 #24|@Trumpfor2O2O|2162
 #25|@ResoluteBot|2155
 #26|@TheMatrix2025|2146
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@newengine2022|1712
 #72|@HiddeNL|1708
 #73|@chesshyperbot|1702
-#74|@OpeningsBot|1673
+#74|@OpeningsBot|1700
 #75|@relevantproblem|1667
 #76|@Epiano_Bot|1662
 #77|@VariantsTop|1644

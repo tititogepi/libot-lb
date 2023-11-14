@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@BitExtender128|2272
 #45|@Bobby_Fischer_BOT|2251
 #46|@Mega_BOT|2240
-#47|@RaspFish|2223
+#47|@RaspFish|2232
 #48|@Coolman2021|2219
 #49|@xiang-qi|2203
 #50|@MyNameIsWhatLOL|2200
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@Stockfish-MEDIUM|1717
 #105|@Lightning_SpeedChess|1696
 #106|@B0T5_RU13|1683
-#107|@OpeningsBot|1679
+#107|@OpeningsBot|1677
 #108|@FASTCHESSBOT|1666
 #109|@SipsonsamsonBOT|1665
 #110|@MistakeBOT|1655
