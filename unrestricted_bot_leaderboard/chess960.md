@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@YellowFlash_v2|2156
 #31|@TorBot|2155
 #32|@ReinforcementTrial|2154
-#33|@duythong1402|2150
-#34|@VariantsTop|2149
-#35|@YoBot_v2|2149
+#33|@YoBot_v2|2153
+#34|@duythong1402|2150
+#35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
 #37|@TheFreshmanLc0|2145
 #38|@LolFish-1|2144
@@ -75,8 +75,8 @@ Rank|Bot|Rating
 #73|@Viet-AI|2060
 #74|@AI-Electro|2059
 #75|@Hien-Vinh_Bot2|2054
-#76|@RaspFish|2054
-#77|@Alehkine_cat|2053
+#76|@Alehkine_cat|2053
+#77|@RaspFish|2050
 #78|@allvariants|2047
 #79|@Minhduc12|2045
 #80|@Satyakeswara_BOT|2044
