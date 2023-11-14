@@ -2144,6 +2144,7 @@ theensemble
 theepicbot2
 thefastrobot608
 thefreshman1902
+thefreshmanlc0
 thegamesknow
 thegladiatorbot
 thegreatmompati2004
@@ -2433,4 +2434,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-thefreshmanlc0
