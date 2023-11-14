@@ -572,6 +572,7 @@ croissantdealer
 cruelbot
 cruisemissile
 cshar9
+cstal-2
 cubeofrubik
 cucubot
 cultr
@@ -2434,4 +2435,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cstal-2
