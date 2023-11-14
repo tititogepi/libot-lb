@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@TheSystem_Bot|1572
 #123|@QuickLiquid|1555
 #124|@faith_bot|1514
-#125|@pawnrobot|1513
+#125|@pawnrobot|1511
 #126|@TorBot|1498
 #127|@KnightsArmour|1494
 #128|@MagnusCarlsen1507|1493
