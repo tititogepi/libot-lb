@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@NormalBlitzBulletBot|2463
 #24|@Fairy-Stockfish|2451
 #25|@faith_bot|2447
-#26|@NikitosikVariantsbot|2438
+#26|@NikitosikVariantsbot|2440
 #27|@chessbot2880|2367
 #28|@Viet_BOT|2367
 #29|@Zer0_Tw0|2332

@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@St6090|1191
 #129|@Simpafteur|1188
 #130|@BetaOneBot|1166
-#131|@pawnrobot|1147
+#131|@pawnrobot|1151
 #132|@ZX-Chess|1145
 #133|@duythong1402|1120
 #134|@alvin-chess-bot|1091

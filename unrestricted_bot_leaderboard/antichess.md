@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@Viet-BOT|2598
 #28|@firstrobot|2593
 #29|@AIAlphaAI|2589
-#30|@NikitosikVariantsbot|2572
+#30|@NikitosikVariantsbot|2585
 #31|@ElPeonElectrico|2568
 #32|@NimsiluBot|2566
 #33|@YoBot_v2|2565
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@faith_bot|2420
 #60|@DrSmartBugs|2412
 #61|@AttackingOrDefending|2409
-#62|@NilatacBot|2406
-#63|@BitExtender128|2403
+#62|@BitExtender128|2403
+#63|@NilatacBot|2400
 #64|@ESC_BOT|2394
 #65|@CatBot_14|2393
 #66|@NormalBulletBot|2393

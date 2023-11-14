@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@Bobby_Fischer_BOT|2430
 #27|@NienishiEngine|2428
 #28|@LoseisnotAvailablehe|2424
-#29|@NikitosikVariantsbot|2413
-#30|@Fairy-Stockfish|2411
-#31|@KizVariant|2410
+#29|@Fairy-Stockfish|2411
+#30|@KizVariant|2410
+#31|@NikitosikVariantsbot|2410
 #32|@VariantsTop|2405
 #33|@The-Fastest-Bot|2402
 #34|@lightspeed_bot|2396
@@ -79,7 +79,7 @@ Rank|Bot|Rating
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
 #79|@EstmileBot|2018
-#80|@OpeningsBot|2014
+#80|@OpeningsBot|2017
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
 #83|@Yemmi-Yemmi|1964
