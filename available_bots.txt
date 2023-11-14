@@ -1524,6 +1524,7 @@ nicetohityou2000
 nicholaswb_bot
 nichteliasbot
 nicoccino
+nie_bot
 nienishiengine
 nightstarfox
 nikitosik-ai
@@ -2435,4 +2436,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nie_bot
+mkad-106_bot

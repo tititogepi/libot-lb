@@ -142,7 +142,7 @@ Rank|Bot|Rating
 #140|@Just-a-random-bot|1898
 #141|@AX2XB2|1893
 #142|@TheAwesomeBot|1891
-#143|@OpeningsBot|1889
+#143|@OpeningsBot|1890
 #144|@kostasvl-bot|1877
 #145|@B0T5_RU13|1871
 #146|@RobotTigerSlav|1871
@@ -237,7 +237,7 @@ Rank|Bot|Rating
 #235|@MeezKool|1485
 #236|@RSVMentor|1476
 #237|@TheWeakestBot|1476
-#238|@pawnrobot|1474
+#238|@pawnrobot|1473
 #239|@thibot|1470
 #240|@fastandfurious10|1464
 #241|@EDSPBOT|1463
