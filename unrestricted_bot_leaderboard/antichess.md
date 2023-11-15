@@ -81,7 +81,7 @@ Rank|Bot|Rating
 #79|@EvenMatchup|2302
 #80|@GodelEscherBot|2284
 #81|@Dean_Summer_Bot|2279
-#82|@OpeningsBot|2276
+#82|@OpeningsBot|2278
 #83|@Johnsun|2269
 #84|@anti-bot|2263
 #85|@SkyBlaster|2254
@@ -120,7 +120,7 @@ Rank|Bot|Rating
 #118|@BetaZ|1973
 #119|@antichesssss|1964
 #120|@Menganti|1963
-#121|@pawnrobot|1957
+#121|@pawnrobot|1955
 #122|@CloudBOT|1950
 #123|@Crepusculum|1881
 #124|@NoTallkOnlyGames|1871

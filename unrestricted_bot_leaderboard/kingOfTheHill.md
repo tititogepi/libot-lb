@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@chessbot2880|1961
 #64|@PyChessBot|1957
 #65|@abhisun_bot|1947
-#66|@OpeningsBot|1942
+#66|@OpeningsBot|1944
 #67|@Resolved-Bot|1942
 #68|@Pineapple-Friendly|1937
 #69|@azdad|1936
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@NienishiEngine|1465
 #121|@XiDM|1464
 #122|@TorBot|1463
-#123|@DavidsGuterBot|1455
+#123|@DavidsGuterBot|1453
 #124|@McKapran78|1435
 #125|@EZWipe|1432
 #126|@BetaOneBot|1424

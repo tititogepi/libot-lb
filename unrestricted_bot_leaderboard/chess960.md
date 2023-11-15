@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@IUseStockfish|2202
 #15|@TheFreshman1902|2200
 #16|@Corvus-1|2197
-#17|@lord-bot|2196
+#17|@lord-bot|2195
 #18|@hyperchessbot1|2189
 #19|@Kizburb|2182
 #20|@VariantsBot|2180
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@YellowFlash_v2|2156
 #31|@TorBot|2155
 #32|@ReinforcementTrial|2154
-#33|@YoBot_v2|2152
+#33|@YoBot_v2|2153
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
@@ -76,8 +76,8 @@ Rank|Bot|Rating
 #74|@AI-Electro|2059
 #75|@Hien-Vinh_Bot2|2054
 #76|@Alehkine_cat|2053
-#77|@allvariants|2047
-#78|@RaspFish|2047
+#77|@RaspFish|2049
+#78|@allvariants|2047
 #79|@Minhduc12|2045
 #80|@Satyakeswara_BOT|2044
 #81|@leela2200|2043
@@ -194,9 +194,9 @@ Rank|Bot|Rating
 #192|@StormphraxEngine|1820
 #193|@CVA728_BOT_1|1817
 #194|@ESC_BOT|1815
-#195|@FrozenightEngine|1811
-#196|@try2defeatme|1811
-#197|@OpeningsBot|1809
+#195|@OpeningsBot|1812
+#196|@FrozenightEngine|1811
+#197|@try2defeatme|1811
 #198|@xiang-qi|1809
 #199|@CloudBOT|1807
 #200|@Lalis1|1804
@@ -219,9 +219,9 @@ Rank|Bot|Rating
 #217|@Ch4rl3s|1748
 #218|@DxrkOnBot|1746
 #219|@spaceisbot|1744
-#220|@Cheng-4|1733
-#221|@Magnus-BOT|1733
-#222|@Velvet-Engine|1732
+#220|@Magnus-BOT|1733
+#221|@Velvet-Engine|1732
+#222|@Cheng-4|1728
 #223|@Viridithas|1728
 #224|@stockfish12_Johan|1717
 #225|@TungJohn|1714
@@ -350,8 +350,8 @@ Rank|Bot|Rating
 #348|@Pineapple-Friendly|1151
 #349|@WeakBot|1151
 #350|@St6090|1149
-#351|@Light_To_The_Rescue|1126
-#352|@Demolito_L5|1121
+#351|@Demolito_L5|1128
+#352|@Light_To_The_Rescue|1126
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
@@ -369,7 +369,7 @@ Rank|Bot|Rating
 #367|@bobandi|940
 #368|@YellowJackets_Bot|925
 #369|@botTideEval|914
-#370|@Demolito_L4|880
+#370|@Demolito_L4|873
 #371|@Palisade|800
 #372|@WaspBot|798
 #373|@LeelaWeak|735
