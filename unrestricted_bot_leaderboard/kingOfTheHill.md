@@ -65,10 +65,10 @@ Rank|Bot|Rating
 #63|@chessbot2880|1961
 #64|@PyChessBot|1957
 #65|@abhisun_bot|1947
-#66|@Resolved-Bot|1942
-#67|@Pineapple-Friendly|1937
-#68|@azdad|1936
-#69|@OpeningsBot|1932
+#66|@OpeningsBot|1942
+#67|@Resolved-Bot|1942
+#68|@Pineapple-Friendly|1937
+#69|@azdad|1936
 #70|@HyperLitikBOT|1930
 #71|@Galaxy_Guardian|1906
 #72|@DrSmartBugs|1904
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@NienishiEngine|1465
 #121|@XiDM|1464
 #122|@TorBot|1463
-#123|@DavidsGuterBot|1452
+#123|@DavidsGuterBot|1455
 #124|@McKapran78|1435
 #125|@EZWipe|1432
 #126|@BetaOneBot|1424
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@RSVMentor|1196
 #148|@Boom_Bot|1176
 #149|@TrashBot|1168
-#150|@pawnrobot|1160
+#150|@pawnrobot|1155
 #151|@shakboy9824453231op|1152
 #152|@GuineaBot3|1121
 #153|@DespacitoBot|1094
