@@ -39,9 +39,9 @@ Rank|Bot|Rating
 #37|@newengine2022|2337
 #38|@NotNateBot|2336
 #39|@No-Varants-No|2335
-#40|@The-Fastest-Bot|2314
-#41|@Alehkine_cat|2312
-#42|@lord-bot|2311
+#40|@lord-bot|2327
+#41|@The-Fastest-Bot|2314
+#42|@Alehkine_cat|2312
 #43|@Dean_Summer_Bot|2305
 #44|@PsychedelicAtomic|2296
 #45|@AndromedaSX1|2284
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@kostasvl-bot|1877
 #144|@B0T5_RU13|1871
 #145|@RobotTigerSlav|1871
-#146|@OpeningsBot|1860
+#146|@OpeningsBot|1859
 #147|@ItsHyperBot|1855
 #148|@the_checkmating_bot|1855
 #149|@StrongChessEngine|1852
