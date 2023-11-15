@@ -634,6 +634,7 @@ dlvc-bot
 dny_isssss
 dobbybot
 doctorrobotvinnik
+dogechessbot
 dolegibot
 dolimo
 dolphin_we_1232
@@ -2437,4 +2438,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dogechessbot

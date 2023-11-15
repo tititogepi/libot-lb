@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@ElPeonElectrico|2414
-#8|@ToromBot|2400
+#8|@ToromBot|2402
 #9|@Peaceful4Life|2390
 #10|@TheMatrix2025|2389
 #11|@Corvus-1|2386
@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@RaspFish|2297
+#18|@RaspFish|2300
 #19|@MalanChess|2292
 #20|@LudwigBOT|2281
 #21|@LoseisnotAvailablehe|2274
@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@chessbot2880|1961
 #64|@PyChessBot|1957
 #65|@abhisun_bot|1947
-#66|@OpeningsBot|1943
-#67|@Resolved-Bot|1942
+#66|@Resolved-Bot|1942
+#67|@OpeningsBot|1941
 #68|@Pineapple-Friendly|1937
 #69|@azdad|1936
 #70|@HyperLitikBOT|1930

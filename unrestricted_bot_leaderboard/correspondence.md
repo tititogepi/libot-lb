@@ -144,10 +144,10 @@ Rank|Bot|Rating
 #142|@beststockfish16|1875
 #143|@RoboTal|1874
 #144|@yowCapablanca|1874
-#145|@yeoldwiz|1873
-#146|@TheMatrix2025|1872
-#147|@Jibbby|1871
-#148|@ViVe_2_chess_pro|1869
+#145|@TheMatrix2025|1872
+#146|@Jibbby|1871
+#147|@ViVe_2_chess_pro|1869
+#148|@yeoldwiz|1869
 #149|@Official_bot|1857
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853
