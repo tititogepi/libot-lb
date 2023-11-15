@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Resolved-Bot|2026
 #56|@firstrobot|2003
 #57|@Hyper-Stockfish|1986
-#58|@OpeningsBot|1981
+#58|@OpeningsBot|1983
 #59|@GodelEscherBot|1974
 #60|@XXIstCentury|1973
 #61|@mrchessmanager|1963
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@TrashBot|1519
 #105|@relevantproblem|1514
 #106|@Toxic_Bot|1511
-#107|@DavidsGuterBot|1510
+#107|@DavidsGuterBot|1508
 #108|@NoobMasterBOT|1507
 #109|@Epiano_Bot|1491
 #110|@CVA728_BOT_1|1489

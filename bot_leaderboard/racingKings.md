@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|2059
+#1|@OpeningsBot|2058
