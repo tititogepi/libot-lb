@@ -6,9 +6,9 @@ Rank|Bot|Rating
 #4|@Africaata|2628
 #5|@TheFreshman1902|2626
 #6|@kdpchess|2625
-#7|@RaspFish|2621
-#8|@YoBot_v2|2621
-#9|@ttBOT|2619
+#7|@YoBot_v2|2621
+#8|@ttBOT|2619
+#9|@RaspFish|2617
 #10|@ResoluteBot|2615
 #11|@ArasanX|2589
 #12|@Berserk-Test|2530
@@ -19,9 +19,9 @@ Rank|Bot|Rating
 #17|@pawn_git|2346
 #18|@SaxtonEngine|2319
 #19|@Weiawaga|2297
-#20|@Leela8-Test|2287
+#20|@Leela8-Test|2294
 #21|@Cheng-4|2281
-#22|@bitbitbot|2275
+#22|@bitbitbot|2277
 #23|@TuksuBot|2154
 #24|@Phalanx-XXV|2136
 #25|@Pseudo-0|2126
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@GarboBot|1938
 #34|@MaxtheDog|1935
 #35|@likeawizard-bot|1897
-#36|@zeekat|1863
+#36|@zeekat|1868
 #37|@LeelaRogue|1826
 #38|@baby_eubos|1819
 #39|@Demolito_L6|1803
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@ChessChildren|1746
 #43|@Virutor|1707
 #44|@honzovy-sachy|1704
-#45|@maia9|1688
+#45|@maia9|1695
 #46|@notropis|1674
 #47|@turkjs|1645
 #48|@Demolito_L4|1627
@@ -54,10 +54,10 @@ Rank|Bot|Rating
 #52|@simplexitor|1601
 #53|@Trollfish-Bot|1594
 #54|@sargon-4ply|1589
-#55|@maia5|1581
-#56|@maia1|1529
+#55|@maia5|1575
+#56|@maia1|1523
 #57|@Humaia|1442
-#58|@sargon-2ply|1440
+#58|@sargon-2ply|1431
 #59|@turochamp-1ply|1329
 #60|@sargon-1ply|1316
 #61|@CHoMPBoT|1152
