@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@Fairy_Belzedar|2559
 #7|@EmptikVariantsBot|2557
 #8|@FireFishBOT|2547
-#9|@LudwigBOT|2536
-#10|@ToromBot|2535
+#9|@ToromBot|2537
+#10|@LudwigBOT|2536
 #11|@Coolman2021|2527
 #12|@EmptikBot|2526
 #13|@Dark_evil_bot|2496
@@ -124,8 +124,8 @@ Rank|Bot|Rating
 #122|@TheSystem_Bot|1572
 #123|@QuickLiquid|1555
 #124|@faith_bot|1514
-#125|@pawnrobot|1511
-#126|@TorBot|1498
+#125|@TorBot|1498
+#126|@pawnrobot|1496
 #127|@KnightsArmour|1494
 #128|@MagnusCarlsen1507|1493
 #129|@alvinl22_LBot|1489

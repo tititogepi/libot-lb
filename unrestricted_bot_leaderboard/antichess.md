@@ -79,11 +79,11 @@ Rank|Bot|Rating
 #77|@NienishiEngine|2304
 #78|@BromiumAI|2302
 #79|@EvenMatchup|2302
-#80|@OpeningsBot|2293
+#80|@OpeningsBot|2290
 #81|@GodelEscherBot|2284
 #82|@Dean_Summer_Bot|2279
-#83|@Johnsun|2269
-#84|@anti-bot|2263
+#83|@anti-bot|2273
+#84|@Johnsun|2269
 #85|@SkyBlaster|2254
 #86|@mrchessmanager|2240
 #87|@TurkiyeHogwarts|2240
@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@XXIstCentury|2131
 #108|@PyChessBot|2102
 #109|@TurkiyeHogwartsBOT|2099
-#110|@CatNail|2090
+#110|@CatNail|2074
 #111|@ZamuChess|2049
 #112|@Botzer|2020
 #113|@Jussicas|2019
