@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@NienishiEngine|1465
 #121|@XiDM|1464
 #122|@TorBot|1463
-#123|@DavidsGuterBot|1453
+#123|@DavidsGuterBot|1454
 #124|@McKapran78|1435
 #125|@EZWipe|1432
 #126|@BetaOneBot|1424
@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@RSVMentor|1196
 #148|@Boom_Bot|1176
 #149|@TrashBot|1168
-#150|@pawnrobot|1155
+#150|@pawnrobot|1152
 #151|@shakboy9824453231op|1152
 #152|@GuineaBot3|1121
 #153|@DespacitoBot|1094
