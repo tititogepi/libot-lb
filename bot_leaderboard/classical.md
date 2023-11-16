@@ -6,12 +6,12 @@ Rank|Bot|Rating
 #4|@Africaata|2628
 #5|@TheFreshman1902|2626
 #6|@kdpchess|2625
-#7|@YoBot_v2|2621
+#7|@YoBot_v2|2625
 #8|@ttBOT|2619
 #9|@RaspFish|2617
 #10|@ResoluteBot|2615
 #11|@ArasanX|2589
-#12|@Berserk-Test|2530
+#12|@Berserk-Test|2526
 #13|@expositor|2407
 #14|@LazyBot|2391
 #15|@catriever|2371
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@Trollfish-Bot|1594
 #55|@sargon-4ply|1589
 #56|@maia5|1575
-#57|@maia1|1530
+#57|@maia1|1534
 #58|@Humaia|1442
 #59|@sargon-2ply|1431
 #60|@turochamp-1ply|1329
