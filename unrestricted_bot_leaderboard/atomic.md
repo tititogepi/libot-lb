@@ -253,11 +253,11 @@ Rank|Bot|Rating
 #251|@xDmanBOT|1437
 #252|@MrMolotov|1436
 #253|@BOSS_CHESS_BOT|1431
-#254|@pawnrobot|1420
-#255|@shakboy9824453231op|1420
-#256|@bunny_2021|1413
-#257|@TTC-BOT_2|1410
-#258|@Butzke_BOT|1401
+#254|@shakboy9824453231op|1420
+#255|@bunny_2021|1413
+#256|@TTC-BOT_2|1410
+#257|@Butzke_BOT|1401
+#258|@pawnrobot|1388
 #259|@MartianBot|1386
 #260|@Trumpfor2O2O|1386
 #261|@DrunkenMasterEngine|1385
