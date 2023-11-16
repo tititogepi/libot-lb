@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@lord-bot|2194
 #4|@Intron014|2177
 #5|@ToromBot|2171
-#6|@YoBot_v2|2155
+#6|@YoBot_v2|2156
 #7|@duythong1402|2150
 #8|@FireFishBOT|2139
 #9|@RaspFish|2048
@@ -14,6 +14,6 @@ Rank|Bot|Rating
 #12|@Leela8-Test|1672
 #13|@FataliiBot|1472
 #14|@Demolito_L6|1214
-#15|@Demolito_L5|1140
-#16|@Demolito_L4|877
-#17|@pawnrobot|588
+#15|@Demolito_L5|1138
+#16|@Demolito_L4|881
+#17|@pawnrobot|586
