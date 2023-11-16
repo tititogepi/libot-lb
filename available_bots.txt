@@ -874,6 +874,7 @@ gladius_bot
 goblinbot
 god_teto
 godelescherbot
+godofchess1239
 goethebot
 golden_swod
 goldenrarebot
@@ -2438,4 +2439,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-godofchess1239
+masterofchessbot800

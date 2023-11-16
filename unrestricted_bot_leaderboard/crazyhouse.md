@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@Stockfish-MEDIUM|1717
 #103|@Lightning_SpeedChess|1696
 #104|@B0T5_RU13|1683
-#105|@OpeningsBot|1677
+#105|@OpeningsBot|1675
 #106|@FASTCHESSBOT|1666
 #107|@SipsonsamsonBOT|1665
 #108|@MistakeBOT|1655

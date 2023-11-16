@@ -9,11 +9,11 @@ Rank|Bot|Rating
 #7|@duythong1402|2150
 #8|@FireFishBOT|2139
 #9|@RaspFish|2045
-#10|@OpeningsBot|1820
-#11|@Cheng-4|1735
+#10|@OpeningsBot|1813
+#11|@Cheng-4|1744
 #12|@Leela8-Test|1674
 #13|@FataliiBot|1470
-#14|@Demolito_L6|1212
+#14|@Demolito_L6|1210
 #15|@Demolito_L5|1141
 #16|@Demolito_L4|899
 #17|@pawnrobot|584

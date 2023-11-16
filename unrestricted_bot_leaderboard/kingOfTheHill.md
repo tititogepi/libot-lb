@@ -67,9 +67,9 @@ Rank|Bot|Rating
 #65|@PyChessBot|1957
 #66|@abhisun_bot|1947
 #67|@Resolved-Bot|1942
-#68|@Pineapple-Friendly|1937
-#69|@azdad|1936
-#70|@OpeningsBot|1933
+#68|@OpeningsBot|1939
+#69|@Pineapple-Friendly|1937
+#70|@azdad|1936
 #71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
