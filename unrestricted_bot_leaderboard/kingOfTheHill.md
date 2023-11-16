@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@AndromedaSX1|2344
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
-#18|@RaspFish|2300
-#19|@MalanChess|2292
+#18|@MalanChess|2292
+#19|@RaspFish|2291
 #20|@LudwigBOT|2281
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269

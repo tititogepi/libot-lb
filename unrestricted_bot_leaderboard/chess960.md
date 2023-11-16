@@ -234,7 +234,7 @@ Rank|Bot|Rating
 #232|@BotifiedMoyao|1682
 #233|@Polaris2Bot|1681
 #234|@Minic-chess_engine|1678
-#235|@Leela8-Test|1671
+#235|@Leela8-Test|1674
 #236|@eubos|1667
 #237|@Mariana-031|1667
 #238|@TurkiyeHogwarts|1663
@@ -278,7 +278,7 @@ Rank|Bot|Rating
 #276|@feeks99|1479
 #277|@devsdaBot|1477
 #278|@TFRChessClub|1477
-#279|@FataliiBot|1475
+#279|@FataliiBot|1474
 #280|@SmallbrainPy|1474
 #281|@misteick_bot|1472
 #282|@MagicverseBOT|1471
@@ -341,8 +341,8 @@ Rank|Bot|Rating
 #339|@fathzer-jchess|1222
 #340|@WorstBotEver123|1222
 #341|@Bot8983|1210
-#342|@DrunkenMasterEngine|1204
-#343|@Demolito_L6|1203
+#342|@Demolito_L6|1206
+#343|@DrunkenMasterEngine|1204
 #344|@MrKING74_btw|1191
 #345|@schnecken_bot|1182
 #346|@BerntBOT|1162
@@ -369,7 +369,7 @@ Rank|Bot|Rating
 #367|@bobandi|940
 #368|@YellowJackets_Bot|925
 #369|@botTideEval|914
-#370|@Demolito_L4|908
+#370|@Demolito_L4|902
 #371|@Palisade|800
 #372|@WaspBot|798
 #373|@LeelaWeak|735
