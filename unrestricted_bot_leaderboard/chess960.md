@@ -21,14 +21,14 @@ Rank|Bot|Rating
 #19|@Kizburb|2182
 #20|@VariantsBot|2180
 #21|@TorBot_v2|2178
-#22|@Intron014|2177
+#22|@Intron014|2176
 #23|@Bot_McBotface|2172
 #24|@ToromBot|2171
 #25|@EmptikBot|2168
 #26|@rtx3080tibot|2162
 #27|@too_ez4me|2160
-#28|@YellowFlash-X|2158
-#29|@YoBot_v2|2158
+#28|@YoBot_v2|2159
+#29|@YellowFlash-X|2158
 #30|@TheMatrix2025|2156
 #31|@YellowFlash_v2|2156
 #32|@TorBot|2155
@@ -191,8 +191,8 @@ Rank|Bot|Rating
 #189|@StashBot|1826
 #190|@ZamuChess|1822
 #191|@AI69|1821
-#192|@StormphraxEngine|1820
-#193|@OpeningsBot|1819
+#192|@OpeningsBot|1820
+#193|@StormphraxEngine|1820
 #194|@CVA728_BOT_1|1817
 #195|@ESC_BOT|1815
 #196|@FrozenightEngine|1811
@@ -281,7 +281,7 @@ Rank|Bot|Rating
 #279|@SmallbrainPy|1474
 #280|@misteick_bot|1472
 #281|@MagicverseBOT|1471
-#282|@FataliiBot|1469
+#282|@FataliiBot|1470
 #283|@CBNguyen_Bot|1465
 #284|@MQBot|1460
 #285|@stonks_fish|1460
@@ -340,7 +340,7 @@ Rank|Bot|Rating
 #338|@AlphaLeela0|1229
 #339|@fathzer-jchess|1222
 #340|@WorstBotEver123|1222
-#341|@Demolito_L6|1214
+#341|@Demolito_L6|1212
 #342|@Bot8983|1210
 #343|@DrunkenMasterEngine|1204
 #344|@MrKING74_btw|1191

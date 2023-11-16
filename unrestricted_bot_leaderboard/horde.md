@@ -12,10 +12,10 @@ Rank|Bot|Rating
 #10|@EmptikBot|2378
 #11|@LoseisnotAvailablehe|2369
 #12|@Hyper-Stockfish|2358
-#13|@AlfaBot|2293
-#14|@Fairy-Stockfish|2289
-#15|@Kizburb|2276
-#16|@lord-bot|2271
+#13|@lord-bot|2300
+#14|@AlfaBot|2293
+#15|@Fairy-Stockfish|2289
+#16|@Kizburb|2276
 #17|@ibep|2258
 #18|@LudwigBOT|2256
 #19|@CloudBot_v2|2252

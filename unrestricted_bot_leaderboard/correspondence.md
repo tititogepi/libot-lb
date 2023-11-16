@@ -147,7 +147,7 @@ Rank|Bot|Rating
 #145|@TheMatrix2025|1872
 #146|@Jibbby|1871
 #147|@ViVe_2_chess_pro|1869
-#148|@yeoldwiz|1866
+#148|@yeoldwiz|1859
 #149|@Official_bot|1857
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853
@@ -360,5 +360,5 @@ Rank|Bot|Rating
 #358|@mustaley|973
 #359|@BerserkRandomMover|963
 #360|@grandQ_AI|887
-#361|@GuineaBot|883
+#361|@GuineaBot|867
 #362|@BogoBot|865

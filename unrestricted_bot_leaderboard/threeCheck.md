@@ -31,10 +31,10 @@ Rank|Bot|Rating
 #29|@LudwigBOT|2304
 #30|@KingfishX|2283
 #31|@The-Fastest-Bot|2277
-#32|@lord-bot|2276
-#33|@CocopikachuBOT|2274
-#34|@YoBot_v2|2257
-#35|@TheMatrix2025|2251
+#32|@CocopikachuBOT|2274
+#33|@YoBot_v2|2257
+#34|@TheMatrix2025|2251
+#35|@lord-bot|2235
 #36|@Vinh_VariantsBot|2215
 #37|@Kizburb|2214
 #38|@xiang-qi|2207
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@Resolved-Bot|2026
 #57|@firstrobot|2003
 #58|@Hyper-Stockfish|1986
-#59|@OpeningsBot|1981
+#59|@OpeningsBot|1976
 #60|@GodelEscherBot|1974
 #61|@XXIstCentury|1973
 #62|@mrchessmanager|1963
