@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@MyNameIsWhatLOL|2240
 #8|@LoseisnotAvailablehe|2217
 #9|@LeelaFish1|2212
-#10|@ResoluteBot|2212
+#10|@ResoluteBot|2211
 #11|@Xerus_1|2211
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@YellowFlash-X|2158
 #29|@TheMatrix2025|2156
 #30|@YellowFlash_v2|2156
-#31|@YoBot_v2|2156
-#32|@TorBot|2155
+#31|@TorBot|2155
+#32|@YoBot_v2|2155
 #33|@ReinforcementTrial|2154
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
@@ -78,8 +78,8 @@ Rank|Bot|Rating
 #76|@Hien-Vinh_Bot2|2054
 #77|@Alehkine_cat|2053
 #78|@allvariants|2047
-#79|@Minhduc12|2045
-#80|@RaspFish|2044
+#79|@RaspFish|2046
+#80|@Minhduc12|2045
 #81|@Satyakeswara_BOT|2044
 #82|@leela2200|2043
 #83|@MalanChess|2043
@@ -230,8 +230,8 @@ Rank|Bot|Rating
 #228|@fantasticbot|1699
 #229|@Peaceful4Life|1694
 #230|@Crepusculum|1693
-#231|@BetaZ|1686
-#232|@Leela8-Test|1686
+#231|@Leela8-Test|1688
+#232|@BetaZ|1686
 #233|@Bot_AOOP11|1682
 #234|@BotifiedMoyao|1682
 #235|@Polaris2Bot|1681
@@ -370,7 +370,7 @@ Rank|Bot|Rating
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
 #370|@botTideEval|914
-#371|@Demolito_L4|901
+#371|@Demolito_L4|899
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735

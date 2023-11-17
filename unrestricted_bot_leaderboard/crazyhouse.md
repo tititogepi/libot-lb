@@ -33,9 +33,9 @@ Rank|Bot|Rating
 #31|@NimsiluBot|2333
 #32|@EmptikBot|2332
 #33|@lord-bot|2329
-#34|@catalanbotI|2307
-#35|@Yemmi-Yemmi|2305
-#36|@ToromBot|2301
+#34|@ToromBot|2319
+#35|@catalanbotI|2307
+#36|@Yemmi-Yemmi|2305
 #37|@TheMatrix2029|2291
 #38|@Alehkine_cat|2283
 #39|@iplayonlyrandom|2282
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@B0T5_RU13|1683
 #106|@FASTCHESSBOT|1666
 #107|@SipsonsamsonBOT|1665
-#108|@OpeningsBot|1658
+#108|@OpeningsBot|1657
 #109|@MistakeBOT|1655
 #110|@Isaacwb_BOT|1640
 #111|@SriLankaChess|1623
