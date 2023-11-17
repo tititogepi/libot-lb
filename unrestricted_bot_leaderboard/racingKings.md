@@ -124,9 +124,9 @@ Rank|Bot|Rating
 #122|@HiddeNL|1573
 #123|@TheSystem_Bot|1572
 #124|@QuickLiquid|1555
-#125|@faith_bot|1514
-#126|@TorBot|1498
-#127|@pawnrobot|1496
+#125|@pawnrobot|1533
+#126|@faith_bot|1514
+#127|@TorBot|1498
 #128|@KnightsArmour|1494
 #129|@MagnusCarlsen1507|1493
 #130|@alvinl22_LBot|1489

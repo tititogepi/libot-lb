@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@MalanChess|2273
 #43|@BitExtender128|2272
 #44|@Bobby_Fischer_BOT|2251
-#45|@RaspFish|2241
-#46|@Mega_BOT|2240
+#45|@Mega_BOT|2240
+#46|@RaspFish|2233
 #47|@Coolman2021|2219
 #48|@xiang-qi|2203
 #49|@MyNameIsWhatLOL|2200
