@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@ResoluteBot|2216
 #2|@TheFreshman1902|2200
 #3|@lord-bot|2191
-#4|@Intron014|2176
+#4|@Intron014|2175
 #5|@ToromBot|2171
-#6|@YoBot_v2|2151
+#6|@YoBot_v2|2152
 #7|@duythong1402|2150
 #8|@FireFishBOT|2139
 #9|@RaspFish|2045

@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@Kizburb|2182
 #20|@VariantsBot|2180
 #21|@TorBot_v2|2178
-#22|@Intron014|2176
+#22|@Intron014|2175
 #23|@Bot_McBotface|2172
 #24|@ToromBot|2171
 #25|@EmptikBot|2168
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@YellowFlash_v2|2156
 #31|@TorBot|2155
 #32|@ReinforcementTrial|2154
-#33|@YoBot_v2|2151
+#33|@YoBot_v2|2152
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
