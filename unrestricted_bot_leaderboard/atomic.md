@@ -149,8 +149,8 @@ Rank|Bot|Rating
 #147|@ItsHyperBot|1855
 #148|@the_checkmating_bot|1855
 #149|@StrongChessEngine|1852
-#150|@OpeningsBot|1851
-#151|@david9426_bot|1849
+#150|@david9426_bot|1849
+#151|@OpeningsBot|1849
 #152|@Bbao23-chess|1846
 #153|@HumanBOT_lv1929|1844
 #154|@bananaaaaaaaaa_test|1843
@@ -260,8 +260,8 @@ Rank|Bot|Rating
 #258|@MartianBot|1386
 #259|@Trumpfor2O2O|1386
 #260|@DrunkenMasterEngine|1385
-#261|@pawnrobot|1385
-#262|@anonymous5612|1384
+#261|@anonymous5612|1384
+#262|@pawnrobot|1378
 #263|@SLvov-bot|1359
 #264|@ChessBotHere|1351
 #265|@katzebot|1346
