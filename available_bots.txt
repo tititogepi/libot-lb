@@ -1389,6 +1389,7 @@ masterbulletarin
 mastermind_balu
 masternoob1600
 masterofatomic
+masterofchessbot1000
 masterofchessbot800
 mate-ai
 mate_bot
@@ -2441,4 +2442,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-masterofchessbot1000

@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@relevantproblem|1514
 #107|@Toxic_Bot|1511
 #108|@NoobMasterBOT|1507
-#109|@DavidsGuterBot|1501
+#109|@DavidsGuterBot|1500
 #110|@Epiano_Bot|1491
 #111|@CVA728_BOT_1|1489
 #112|@Rishab_Bindal|1489
