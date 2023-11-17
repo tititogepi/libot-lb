@@ -257,10 +257,10 @@ Rank|Bot|Rating
 #255|@bunny_2021|1413
 #256|@TTC-BOT_2|1410
 #257|@Butzke_BOT|1401
-#258|@pawnrobot|1392
-#259|@MartianBot|1386
-#260|@Trumpfor2O2O|1386
-#261|@DrunkenMasterEngine|1385
+#258|@MartianBot|1386
+#259|@Trumpfor2O2O|1386
+#260|@DrunkenMasterEngine|1385
+#261|@pawnrobot|1385
 #262|@anonymous5612|1384
 #263|@SLvov-bot|1359
 #264|@ChessBotHere|1351

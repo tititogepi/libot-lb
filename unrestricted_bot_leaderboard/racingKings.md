@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@Trumpfor2O2O|2103
 #73|@CloudBOT|2073
 #74|@JustDontFlagMe|2048
-#75|@OpeningsBot|2045
+#75|@OpeningsBot|2043
 #76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
