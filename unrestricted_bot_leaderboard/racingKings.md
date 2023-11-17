@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@Fairy_Belzedar|2559
 #7|@EmptikVariantsBot|2557
 #8|@FireFishBOT|2547
-#9|@ToromBot|2544
+#9|@ToromBot|2541
 #10|@LudwigBOT|2536
 #11|@Coolman2021|2527
 #12|@EmptikBot|2526

@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@VariantsBot|3021
 #4|@UltimateVariants|2978
 #5|@EmptikVariantsBot|2957
-#6|@Coolman2021|2879
-#7|@ToromBot|2877
+#6|@ToromBot|2885
+#7|@Coolman2021|2879
 #8|@UltronBot|2859
 #9|@TorBot|2824
 #10|@WennDieSoldatBOT|2818

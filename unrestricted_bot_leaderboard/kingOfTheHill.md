@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
 #7|@ElPeonElectrico|2414
-#8|@ToromBot|2402
+#8|@ToromBot|2404
 #9|@Peaceful4Life|2390
 #10|@TheMatrix2025|2389
 #11|@Corvus-1|2386

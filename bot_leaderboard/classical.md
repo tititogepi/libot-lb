@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@RaspFish|2617
 #10|@ResoluteBot|2611
 #11|@ArasanX|2592
-#12|@Berserk-Test|2528
+#12|@Berserk-Test|2523
 #13|@expositor|2400
 #14|@LazyBot|2391
 #15|@catriever|2367
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ChessNoobComp|2171
 #24|@TuksuBot|2152
 #25|@Phalanx-XXV|2140
-#26|@Lynx_BOT|2133
+#26|@Lynx_BOT|2134
 #27|@Pseudo-0|2127
 #28|@Boris-Trapsky|2023
 #29|@simpleEval|2017
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@GarboBot|1938
 #36|@MaxtheDog|1927
 #37|@likeawizard-bot|1908
-#38|@zeekat|1873
+#38|@zeekat|1875
 #39|@LeelaRogue|1821
 #40|@baby_eubos|1819
 #41|@Demolito_L6|1793
@@ -54,13 +54,13 @@ Rank|Bot|Rating
 #52|@turochamp-2ply|1621
 #53|@sargon-3ply|1606
 #54|@simplexitor|1601
-#55|@sargon-4ply|1592
-#56|@Trollfish-Bot|1589
-#57|@maia5|1564
-#58|@maia1|1507
+#55|@maia5|1597
+#56|@sargon-4ply|1592
+#57|@Trollfish-Bot|1584
+#58|@maia1|1493
 #59|@sargon-2ply|1431
 #60|@Humaia|1426
 #61|@turochamp-1ply|1329
-#62|@sargon-1ply|1317
+#62|@sargon-1ply|1315
 #63|@CHoMPBoT|1147
 #64|@G0thamB0t|756

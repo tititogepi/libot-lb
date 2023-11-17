@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@EmptikVariantsBot|2402
 #10|@EmptikBot|2378
 #11|@LoseisnotAvailablehe|2369
-#12|@Hyper-Stockfish|2358
-#13|@lord-bot|2300
+#12|@lord-bot|2362
+#13|@Hyper-Stockfish|2358
 #14|@AlfaBot|2293
 #15|@Fairy-Stockfish|2289
 #16|@Kizburb|2276
