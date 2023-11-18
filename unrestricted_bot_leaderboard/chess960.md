@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
 #14|@IUseStockfish|2202
-#15|@lord-bot|2198
-#16|@TheFreshman1902|2198
-#17|@Corvus-1|2197
+#15|@TheFreshman1902|2198
+#16|@Corvus-1|2197
+#17|@lord-bot|2197
 #18|@hyperchessbot1|2189
 #19|@Kizburb|2182
 #20|@VariantsBot|2180
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@YellowFlash_v2|2156
 #31|@TorBot|2155
 #32|@ReinforcementTrial|2154
-#33|@YoBot_v2|2152
+#33|@YoBot_v2|2153
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
@@ -196,10 +196,10 @@ Rank|Bot|Rating
 #194|@CVA728_BOT_1|1817
 #195|@ESC_BOT|1815
 #196|@FrozenightEngine|1811
-#197|@try2defeatme|1811
-#198|@xiang-qi|1809
-#199|@CloudBOT|1807
-#200|@OpeningsBot|1806
+#197|@OpeningsBot|1811
+#198|@try2defeatme|1811
+#199|@xiang-qi|1809
+#200|@CloudBOT|1807
 #201|@Lalis1|1804
 #202|@EvilFreak|1793
 #203|@Storm_Shadow2012|1788
@@ -234,8 +234,8 @@ Rank|Bot|Rating
 #232|@Bot_AOOP11|1682
 #233|@BotifiedMoyao|1682
 #234|@Polaris2Bot|1681
-#235|@Leela8-Test|1679
-#236|@Minic-chess_engine|1678
+#235|@Minic-chess_engine|1678
+#236|@Leela8-Test|1675
 #237|@eubos|1667
 #238|@Mariana-031|1667
 #239|@TurkiyeHogwarts|1663
@@ -342,8 +342,8 @@ Rank|Bot|Rating
 #340|@fathzer-jchess|1222
 #341|@WorstBotEver123|1222
 #342|@Bot8983|1210
-#343|@DrunkenMasterEngine|1204
-#344|@Demolito_L6|1201
+#343|@Demolito_L6|1209
+#344|@DrunkenMasterEngine|1204
 #345|@MrKING74_btw|1191
 #346|@schnecken_bot|1182
 #347|@BerntBOT|1162
@@ -351,7 +351,7 @@ Rank|Bot|Rating
 #349|@Pineapple-Friendly|1151
 #350|@WeakBot|1151
 #351|@St6090|1149
-#352|@Demolito_L5|1136
+#352|@Demolito_L5|1126
 #353|@Light_To_The_Rescue|1126
 #354|@ZX-Chess|1119
 #355|@Jobabot|1110
