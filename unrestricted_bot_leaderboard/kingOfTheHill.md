@@ -45,8 +45,8 @@ Rank|Bot|Rating
 #43|@Dean_Summer_Bot|2085
 #44|@ibep|2078
 #45|@Xerus_1|2076
-#46|@lord-bot|2075
-#47|@newengine2022|2071
+#46|@newengine2022|2071
+#47|@lord-bot|2050
 #48|@KingfishX|2046
 #49|@Hyper-Stockfish|2044
 #50|@CloudBot_v2|2027
@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@PyChessBot|1957
 #66|@abhisun_bot|1947
 #67|@Resolved-Bot|1942
-#68|@OpeningsBot|1939
+#68|@OpeningsBot|1937
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
 #71|@HyperLitikBOT|1930

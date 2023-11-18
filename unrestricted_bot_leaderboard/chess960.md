@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@TorBot_v2|2178
 #22|@Intron014|2176
 #23|@Bot_McBotface|2172
-#24|@ToromBot|2172
+#24|@ToromBot|2171
 #25|@EmptikBot|2168
 #26|@rtx3080tibot|2162
 #27|@too_ez4me|2160
@@ -58,11 +58,11 @@ Rank|Bot|Rating
 #56|@lol7241Bot|2100
 #57|@EvenMatchup|2099
 #58|@Vinh_VariantsBot|2098
-#59|@ChessBot2156|2095
-#60|@MastacticaTeoriabot|2094
-#61|@Shineshou90_BOT|2093
-#62|@UnDisstoppableBot|2090
-#63|@Botyuliirma|2089
+#59|@Botyuliirma|2095
+#60|@ChessBot2156|2095
+#61|@MastacticaTeoriabot|2094
+#62|@Shineshou90_BOT|2093
+#63|@UnDisstoppableBot|2090
 #64|@Lila-Stockfish|2089
 #65|@Nikitosik-ai|2084
 #66|@Mittens-Bot|2081
@@ -200,7 +200,7 @@ Rank|Bot|Rating
 #198|@xiang-qi|1809
 #199|@CloudBOT|1807
 #200|@Lalis1|1804
-#201|@OpeningsBot|1799
+#201|@OpeningsBot|1801
 #202|@EvilFreak|1793
 #203|@Storm_Shadow2012|1788
 #204|@mrchessmanager|1784
@@ -231,7 +231,7 @@ Rank|Bot|Rating
 #229|@Peaceful4Life|1694
 #230|@Crepusculum|1693
 #231|@BetaZ|1686
-#232|@Leela8-Test|1684
+#232|@Leela8-Test|1685
 #233|@Bot_AOOP11|1682
 #234|@BotifiedMoyao|1682
 #235|@Polaris2Bot|1681
@@ -276,7 +276,7 @@ Rank|Bot|Rating
 #274|@YourSparringBot|1503
 #275|@are_bots_good|1496
 #276|@dolegibot|1496
-#277|@FataliiBot|1489
+#277|@FataliiBot|1485
 #278|@feeks99|1479
 #279|@devsdaBot|1477
 #280|@TFRChessClub|1477
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@WorstBotEver123|1222
 #342|@Bot8983|1210
 #343|@DrunkenMasterEngine|1204
-#344|@Demolito_L6|1197
+#344|@Demolito_L6|1200
 #345|@MrKING74_btw|1191
 #346|@schnecken_bot|1182
 #347|@BerntBOT|1162
@@ -370,7 +370,7 @@ Rank|Bot|Rating
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
 #370|@botTideEval|914
-#371|@Demolito_L4|895
+#371|@Demolito_L4|894
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735
