@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@lord-bot|2768
 #13|@VariantsTop|2765
 #14|@Viet-AI|2765
-#15|@RaspFish|2762
+#15|@RaspFish|2764
 #16|@SCP079|2736
 #17|@ibep|2733
 #18|@LoseisnotAvailablehe|2677
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@EvenMatchup|2302
 #81|@GodelEscherBot|2284
 #82|@Dean_Summer_Bot|2279
-#83|@OpeningsBot|2273
+#83|@OpeningsBot|2272
 #84|@Johnsun|2269
 #85|@SkyBlaster|2254
 #86|@anti-bot|2250
