@@ -1063,6 +1063,7 @@ ix-aze
 iyihamle-com
 j1-chessnost
 jaimelesmacarons
+jake-bot
 jakyllbot
 jallahata
 jangine
@@ -2443,4 +2444,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-jake-bot
