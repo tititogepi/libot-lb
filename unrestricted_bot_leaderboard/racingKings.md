@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@CloudBOT|2073
 #74|@JustDontFlagMe|2048
 #75|@Stockfish-MEDIUM|2043
-#76|@OpeningsBot|2042
+#76|@OpeningsBot|2041
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
 #79|@EstmileBot|2018
