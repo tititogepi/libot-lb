@@ -34,11 +34,11 @@ Rank|Bot|Rating
 #32|@chessbot2880|2347
 #33|@NormalBlitzBulletBot|2347
 #34|@HyperLitikBOT|2341
-#35|@LudwigBOT|2339
-#36|@newengine2022|2337
-#37|@NotNateBot|2336
-#38|@No-Varants-No|2335
-#39|@lord-bot|2332
+#35|@lord-bot|2341
+#36|@LudwigBOT|2339
+#37|@newengine2022|2337
+#38|@NotNateBot|2336
+#39|@No-Varants-No|2335
 #40|@The-Fastest-Bot|2314
 #41|@Alehkine_cat|2312
 #42|@Dean_Summer_Bot|2305
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@the_checkmating_bot|1855
 #147|@StrongChessEngine|1852
 #148|@david9426_bot|1849
-#149|@OpeningsBot|1849
+#149|@OpeningsBot|1848
 #150|@Bbao23-chess|1846
 #151|@HumanBOT_lv1929|1844
 #152|@bananaaaaaaaaa_test|1843

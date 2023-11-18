@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@RaspFish|2027
 #9|@OpeningsBot|1816
 #10|@Cheng-4|1747
-#11|@Leela8-Test|1677
-#12|@FataliiBot|1502
-#13|@Demolito_L6|1205
-#14|@Demolito_L5|1114
+#11|@Leela8-Test|1680
+#12|@FataliiBot|1500
+#13|@Demolito_L6|1207
+#14|@Demolito_L5|1110
 #15|@Demolito_L4|894
 #16|@pawnrobot|590
