@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
 #14|@IUseStockfish|2202
-#15|@TheFreshman1902|2199
-#16|@Corvus-1|2197
-#17|@lord-bot|2194
+#15|@lord-bot|2198
+#16|@TheFreshman1902|2198
+#17|@Corvus-1|2197
 #18|@hyperchessbot1|2189
 #19|@Kizburb|2182
 #20|@VariantsBot|2180
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@YellowFlash_v2|2156
 #31|@TorBot|2155
 #32|@ReinforcementTrial|2154
-#33|@YoBot_v2|2154
+#33|@YoBot_v2|2151
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
 #36|@TTC-BOT_2|2148
@@ -200,7 +200,7 @@ Rank|Bot|Rating
 #198|@xiang-qi|1809
 #199|@CloudBOT|1807
 #200|@Lalis1|1804
-#201|@OpeningsBot|1801
+#201|@OpeningsBot|1800
 #202|@EvilFreak|1793
 #203|@Storm_Shadow2012|1788
 #204|@mrchessmanager|1784
@@ -216,8 +216,8 @@ Rank|Bot|Rating
 #214|@Fairy-Stockfish|1755
 #215|@BishoP-BOT|1752
 #216|@XXIstCentury|1752
-#217|@MikhailTal_AI|1750
-#218|@Cheng-4|1749
+#217|@Cheng-4|1750
+#218|@MikhailTal_AI|1750
 #219|@Ch4rl3s|1748
 #220|@DxrkOnBot|1746
 #221|@spaceisbot|1744
@@ -276,7 +276,7 @@ Rank|Bot|Rating
 #274|@YourSparringBot|1503
 #275|@are_bots_good|1496
 #276|@dolegibot|1496
-#277|@FataliiBot|1485
+#277|@FataliiBot|1487
 #278|@feeks99|1479
 #279|@devsdaBot|1477
 #280|@TFRChessClub|1477
@@ -343,7 +343,7 @@ Rank|Bot|Rating
 #341|@WorstBotEver123|1222
 #342|@Bot8983|1210
 #343|@DrunkenMasterEngine|1204
-#344|@Demolito_L6|1200
+#344|@Demolito_L6|1199
 #345|@MrKING74_btw|1191
 #346|@schnecken_bot|1182
 #347|@BerntBOT|1162
