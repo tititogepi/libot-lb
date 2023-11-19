@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@EmptikBot|2616
 #9|@LoseisnotAvailablehe|2613
 #10|@EmptikVariantsBot|2589
-#11|@Jussicas|2577
-#12|@Coolman2021|2568
-#13|@ToromBot|2556
+#11|@ToromBot|2579
+#12|@Jussicas|2577
+#13|@Coolman2021|2568
 #14|@Viet-BOT|2555
 #15|@ElPeonElectrico|2549
 #16|@CloudBot_v2|2544
@@ -30,9 +30,9 @@ Rank|Bot|Rating
 #28|@Zer0_Tw0|2332
 #29|@LudwigBOT|2304
 #30|@KingfishX|2283
-#31|@The-Fastest-Bot|2277
-#32|@CocopikachuBOT|2274
-#33|@lord-bot|2263
+#31|@lord-bot|2277
+#32|@The-Fastest-Bot|2277
+#33|@CocopikachuBOT|2274
 #34|@YoBot_v2|2257
 #35|@TheMatrix2025|2251
 #36|@Vinh_VariantsBot|2215
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@Hyper-Stockfish|1986
 #59|@GodelEscherBot|1974
 #60|@XXIstCentury|1973
-#61|@OpeningsBot|1968
+#61|@OpeningsBot|1967
 #62|@mrchessmanager|1963
 #63|@Botzer|1961
 #64|@lightspeed_bot|1951
