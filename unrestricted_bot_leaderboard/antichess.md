@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@Dean_Summer_Bot|2279
 #83|@Johnsun|2269
 #84|@OpeningsBot|2263
-#85|@anti-bot|2257
+#85|@anti-bot|2261
 #86|@SkyBlaster|2254
 #87|@mrchessmanager|2240
 #88|@TurkiyeHogwarts|2240

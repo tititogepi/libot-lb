@@ -214,8 +214,8 @@ Rank|Bot|Rating
 #212|@squared-chess|1757
 #213|@Botgravity|1756
 #214|@Fairy-Stockfish|1755
-#215|@BishoP-BOT|1752
-#216|@Cheng-4|1752
+#215|@Cheng-4|1754
+#216|@BishoP-BOT|1752
 #217|@XXIstCentury|1752
 #218|@MikhailTal_AI|1750
 #219|@Ch4rl3s|1748
@@ -274,9 +274,9 @@ Rank|Bot|Rating
 #272|@david9426_bot|1517
 #273|@LioCT|1516
 #274|@YourSparringBot|1503
-#275|@are_bots_good|1496
-#276|@dolegibot|1496
-#277|@FataliiBot|1496
+#275|@FataliiBot|1497
+#276|@are_bots_good|1496
+#277|@dolegibot|1496
 #278|@feeks99|1479
 #279|@devsdaBot|1477
 #280|@TFRChessClub|1477
@@ -342,8 +342,8 @@ Rank|Bot|Rating
 #340|@fathzer-jchess|1222
 #341|@WorstBotEver123|1222
 #342|@Bot8983|1210
-#343|@DrunkenMasterEngine|1204
-#344|@Demolito_L6|1200
+#343|@Demolito_L6|1205
+#344|@DrunkenMasterEngine|1204
 #345|@MrKING74_btw|1191
 #346|@schnecken_bot|1182
 #347|@BerntBOT|1162
