@@ -215,9 +215,9 @@ Rank|Bot|Rating
 #213|@Botgravity|1756
 #214|@Fairy-Stockfish|1755
 #215|@BishoP-BOT|1752
-#216|@XXIstCentury|1752
-#217|@MikhailTal_AI|1750
-#218|@Cheng-4|1749
+#216|@Cheng-4|1752
+#217|@XXIstCentury|1752
+#218|@MikhailTal_AI|1750
 #219|@Ch4rl3s|1748
 #220|@DxrkOnBot|1746
 #221|@spaceisbot|1744
@@ -274,9 +274,9 @@ Rank|Bot|Rating
 #272|@david9426_bot|1517
 #273|@LioCT|1516
 #274|@YourSparringBot|1503
-#275|@FataliiBot|1498
-#276|@are_bots_good|1496
-#277|@dolegibot|1496
+#275|@are_bots_good|1496
+#276|@dolegibot|1496
+#277|@FataliiBot|1496
 #278|@feeks99|1479
 #279|@devsdaBot|1477
 #280|@TFRChessClub|1477

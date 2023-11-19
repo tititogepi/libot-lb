@@ -256,10 +256,10 @@ Rank|Bot|Rating
 #254|@TTC-BOT_2|1410
 #255|@Butzke_BOT|1401
 #256|@MartianBot|1386
-#257|@Trumpfor2O2O|1386
-#258|@DrunkenMasterEngine|1385
-#259|@anonymous5612|1384
-#260|@pawnrobot|1384
+#257|@pawnrobot|1386
+#258|@Trumpfor2O2O|1386
+#259|@DrunkenMasterEngine|1385
+#260|@anonymous5612|1384
 #261|@SLvov-bot|1359
 #262|@ChessBotHere|1351
 #263|@kazakhfirstbot|1340
@@ -298,7 +298,7 @@ Rank|Bot|Rating
 #296|@Pawn_Stormer_D4|1124
 #297|@the_nicholas_bot|1110
 #298|@MyNameIsSpeedy|1108
-#299|@katzebot|1107
+#299|@katzebot|1106
 #300|@bobby-bot|1085
 #301|@Official_bot|1082
 #302|@ZokBot|1073
