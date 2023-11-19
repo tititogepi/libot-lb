@@ -208,9 +208,9 @@ Rank|Bot|Rating
 #206|@Zer0_Tw0|1778
 #207|@Stockfish-MEDIUM|1777
 #208|@Fairy_Belzedar|1767
-#209|@PyChessBot|1762
-#210|@TrashBot|1761
-#211|@Cheng-4|1760
+#209|@Cheng-4|1762
+#210|@PyChessBot|1762
+#211|@TrashBot|1761
 #212|@relevantproblem|1760
 #213|@squared-chess|1757
 #214|@Botgravity|1756
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@david9426_bot|1517
 #273|@LioCT|1516
 #274|@YourSparringBot|1503
-#275|@FataliiBot|1497
+#275|@FataliiBot|1500
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
 #278|@feeks99|1479
@@ -337,7 +337,7 @@ Rank|Bot|Rating
 #335|@SalmonChess9|1258
 #336|@Sparring_Bot|1248
 #337|@RootEngine|1245
-#338|@Demolito_L6|1241
+#338|@Demolito_L6|1237
 #339|@Future_Chess_Pro|1233
 #340|@AlphaLeela0|1229
 #341|@fathzer-jchess|1222
