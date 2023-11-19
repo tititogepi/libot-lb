@@ -259,7 +259,7 @@ Rank|Bot|Rating
 #257|@Trumpfor2O2O|1386
 #258|@DrunkenMasterEngine|1385
 #259|@anonymous5612|1384
-#260|@pawnrobot|1381
+#260|@pawnrobot|1380
 #261|@SLvov-bot|1359
 #262|@ChessBotHere|1351
 #263|@kazakhfirstbot|1340
@@ -294,11 +294,11 @@ Rank|Bot|Rating
 #292|@clrsrc_lc0|1168
 #293|@Jaymombot|1166
 #294|@SipsonsamsonBOT|1161
-#295|@Happy_One|1138
-#296|@Pawn_Stormer_D4|1124
-#297|@the_nicholas_bot|1110
-#298|@MyNameIsSpeedy|1108
-#299|@katzebot|1092
+#295|@katzebot|1154
+#296|@Happy_One|1138
+#297|@Pawn_Stormer_D4|1124
+#298|@the_nicholas_bot|1110
+#299|@MyNameIsSpeedy|1108
 #300|@bobby-bot|1085
 #301|@Official_bot|1082
 #302|@ZokBot|1073

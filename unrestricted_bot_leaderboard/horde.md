@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@Bobby_Fischer_BOT|2136
 #28|@jasans_bot|2116
 #29|@xiang-qi|2115
-#30|@iplayonlyrandom|2075
-#31|@KingfishX|2075
+#30|@KingfishX|2095
+#31|@iplayonlyrandom|2075
 #32|@Bot_AOOP11|2050
 #33|@Resolved-Bot|2045
 #34|@DrSmartBugs|2036
@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@newengine2022|1712
 #70|@HiddeNL|1708
 #71|@chesshyperbot|1702
-#72|@OpeningsBot|1671
+#72|@OpeningsBot|1668
 #73|@relevantproblem|1667
 #74|@Epiano_Bot|1662
 #75|@VariantsTop|1644
