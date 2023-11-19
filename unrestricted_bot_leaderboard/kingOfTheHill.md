@@ -28,9 +28,9 @@ Rank|Bot|Rating
 #26|@Magnus-BOT|2224
 #27|@Stockfish-MEDIUM|2224
 #28|@SkyBlaster|2220
-#29|@PowerOnBot|2195
-#30|@UnDisstoppableBot|2193
-#31|@lord-bot|2190
+#29|@lord-bot|2212
+#30|@PowerOnBot|2195
+#31|@UnDisstoppableBot|2193
 #32|@Amrobotone|2184
 #33|@HuxZero|2163
 #34|@Mega_BOT|2148
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@Resolved-Bot|1942
 #68|@Pineapple-Friendly|1937
 #69|@azdad|1936
-#70|@OpeningsBot|1936
+#70|@OpeningsBot|1933
 #71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904

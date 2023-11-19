@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Cheng-4|1760
 #12|@Leela8-Test|1680
 #13|@FataliiBot|1497
-#14|@Demolito_L6|1230
-#15|@Demolito_L5|1092
+#14|@Demolito_L6|1241
+#15|@Demolito_L5|1082
 #16|@Demolito_L4|894
 #17|@pawnrobot|590

@@ -145,8 +145,8 @@ Rank|Bot|Rating
 #143|@B0T5_RU13|1871
 #144|@RobotTigerSlav|1871
 #145|@ItsHyperBot|1855
-#146|@the_checkmating_bot|1855
-#147|@OpeningsBot|1854
+#146|@OpeningsBot|1855
+#147|@the_checkmating_bot|1855
 #148|@StrongChessEngine|1852
 #149|@david9426_bot|1849
 #150|@Bbao23-chess|1846
