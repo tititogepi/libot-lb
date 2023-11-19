@@ -30,11 +30,11 @@ Rank|Bot|Rating
 #28|@Resolved-Bot|2363
 #29|@CloudBot_v2|2357
 #30|@Lila-Stockfish|2350
-#31|@Viet-BOT|2349
-#32|@chessbot2880|2347
-#33|@NormalBlitzBulletBot|2347
-#34|@HyperLitikBOT|2341
-#35|@lord-bot|2341
+#31|@lord-bot|2349
+#32|@Viet-BOT|2349
+#33|@chessbot2880|2347
+#34|@NormalBlitzBulletBot|2347
+#35|@HyperLitikBOT|2341
 #36|@LudwigBOT|2339
 #37|@newengine2022|2337
 #38|@NotNateBot|2336
@@ -148,7 +148,7 @@ Rank|Bot|Rating
 #146|@the_checkmating_bot|1855
 #147|@StrongChessEngine|1852
 #148|@david9426_bot|1849
-#149|@OpeningsBot|1848
+#149|@OpeningsBot|1849
 #150|@Bbao23-chess|1846
 #151|@HumanBOT_lv1929|1844
 #152|@bananaaaaaaaaa_test|1843
@@ -255,8 +255,8 @@ Rank|Bot|Rating
 #253|@bunny_2021|1413
 #254|@TTC-BOT_2|1410
 #255|@Butzke_BOT|1401
-#256|@pawnrobot|1388
-#257|@MartianBot|1386
+#256|@MartianBot|1386
+#257|@pawnrobot|1386
 #258|@Trumpfor2O2O|1386
 #259|@DrunkenMasterEngine|1385
 #260|@anonymous5612|1384
