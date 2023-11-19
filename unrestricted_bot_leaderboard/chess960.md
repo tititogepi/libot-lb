@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@IUseStockfish|2202
 #15|@TheFreshman1902|2198
 #16|@Corvus-1|2197
-#17|@lord-bot|2195
+#17|@lord-bot|2196
 #18|@hyperchessbot1|2189
 #19|@Kizburb|2182
 #20|@YoBot_v2|2181
@@ -196,8 +196,8 @@ Rank|Bot|Rating
 #194|@CVA728_BOT_1|1817
 #195|@ESC_BOT|1815
 #196|@FrozenightEngine|1811
-#197|@OpeningsBot|1811
-#198|@try2defeatme|1811
+#197|@try2defeatme|1811
+#198|@OpeningsBot|1810
 #199|@xiang-qi|1809
 #200|@CloudBOT|1807
 #201|@Lalis1|1804
