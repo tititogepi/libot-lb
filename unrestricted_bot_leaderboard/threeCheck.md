@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Fairy_Belzedar|2544
 #18|@KizVariant|2529
 #19|@SCP079|2526
-#20|@RaspFish|2485
+#20|@RaspFish|2486
 #21|@ESC_BOT|2476
 #22|@Less_of_a_threat|2469
 #23|@NormalBlitzBulletBot|2463
