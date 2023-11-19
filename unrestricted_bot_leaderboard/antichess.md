@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@WennDieSoldatBOT|2818
 #11|@FireFishBOT|2785
 #12|@lord-bot|2768
-#13|@VariantsTop|2765
-#14|@Viet-AI|2765
-#15|@RaspFish|2764
+#13|@RaspFish|2766
+#14|@VariantsTop|2765
+#15|@Viet-AI|2765
 #16|@SCP079|2736
 #17|@ibep|2733
 #18|@LoseisnotAvailablehe|2677
@@ -80,7 +80,7 @@ Rank|Bot|Rating
 #78|@NienishiEngine|2304
 #79|@BromiumAI|2302
 #80|@EvenMatchup|2302
-#81|@OpeningsBot|2285
+#81|@OpeningsBot|2289
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@PyChessBot|2102
 #110|@TurkiyeHogwartsBOT|2099
 #111|@ZamuChess|2049
-#112|@CatNail|2031
+#112|@CatNail|2027
 #113|@Botzer|2020
 #114|@Jussicas|2019
 #115|@CloudBotZero|2018
