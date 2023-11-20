@@ -155,7 +155,7 @@ Rank|Bot|Rating
 #153|@Stockfish-MEDIUM|1839
 #154|@CloudBotZero|1837
 #155|@CHESS1000BOT|1829
-#156|@OpeningsBot|1828
+#156|@OpeningsBot|1829
 #157|@Storm_Shadow2012|1825
 #158|@ReallyCrazyBOT|1816
 #159|@Sternenhimmel10|1811
@@ -254,7 +254,7 @@ Rank|Bot|Rating
 #252|@shakboy9824453231op|1420
 #253|@bunny_2021|1413
 #254|@TTC-BOT_2|1410
-#255|@pawnrobot|1405
+#255|@pawnrobot|1408
 #256|@Butzke_BOT|1401
 #257|@MartianBot|1386
 #258|@Trumpfor2O2O|1386
@@ -294,8 +294,8 @@ Rank|Bot|Rating
 #292|@clrsrc_lc0|1168
 #293|@Jaymombot|1166
 #294|@SipsonsamsonBOT|1161
-#295|@katzebot|1154
-#296|@Happy_One|1138
+#295|@Happy_One|1138
+#296|@katzebot|1128
 #297|@Pawn_Stormer_D4|1124
 #298|@the_nicholas_bot|1110
 #299|@MyNameIsSpeedy|1108

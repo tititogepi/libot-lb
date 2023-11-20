@@ -20,9 +20,9 @@ Rank|Bot|Rating
 #18|@hyperchessbot1|2189
 #19|@Kizburb|2182
 #20|@VariantsBot|2180
-#21|@TorBot_v2|2178
-#22|@ToromBot|2176
-#23|@YoBot_v2|2176
+#21|@YoBot_v2|2179
+#22|@TorBot_v2|2178
+#23|@ToromBot|2176
 #24|@Bot_McBotface|2172
 #25|@Intron014|2171
 #26|@EmptikBot|2168
@@ -92,9 +92,9 @@ Rank|Bot|Rating
 #90|@ItsATry|2033
 #91|@pistol-play|2032
 #92|@CrayyBot|2030
-#93|@RaspFish|2029
-#94|@Coolman2021|2028
-#95|@HiarcsFish|2028
+#93|@Coolman2021|2028
+#94|@HiarcsFish|2028
+#95|@RaspFish|2026
 #96|@Beyondcomprehension|2024
 #97|@EmptikBot247|2022
 #98|@DeepChessEngine|2020
@@ -335,8 +335,8 @@ Rank|Bot|Rating
 #333|@azdad|1258
 #334|@Itzmoi6g19|1258
 #335|@SalmonChess9|1258
-#336|@Sparring_Bot|1248
-#337|@Demolito_L6|1246
+#336|@Demolito_L6|1252
+#337|@Sparring_Bot|1248
 #338|@RootEngine|1245
 #339|@Future_Chess_Pro|1233
 #340|@AlphaLeela0|1229
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1072
+#356|@Demolito_L5|1066
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
