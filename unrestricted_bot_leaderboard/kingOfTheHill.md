@@ -23,9 +23,9 @@ Rank|Bot|Rating
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
-#24|@YoBot_v2|2242
-#25|@ResoluteBot|2233
-#26|@lord-bot|2230
+#24|@lord-bot|2258
+#25|@YoBot_v2|2242
+#26|@ResoluteBot|2233
 #27|@Magnus-BOT|2224
 #28|@Stockfish-MEDIUM|2224
 #29|@SkyBlaster|2220
@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@Resolved-Bot|1942
 #68|@Pineapple-Friendly|1937
 #69|@azdad|1936
-#70|@OpeningsBot|1933
-#71|@HyperLitikBOT|1930
+#70|@HyperLitikBOT|1930
+#71|@OpeningsBot|1930
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@NienishiEngine|1465
 #122|@XiDM|1464
 #123|@TorBot|1463
-#124|@DavidsGuterBot|1451
+#124|@DavidsGuterBot|1450
 #125|@McKapran78|1435
 #126|@EZWipe|1432
 #127|@BetaOneBot|1424

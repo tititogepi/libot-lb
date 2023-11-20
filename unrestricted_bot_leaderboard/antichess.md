@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@TorBot|2824
 #10|@WennDieSoldatBOT|2818
 #11|@FireFishBOT|2785
-#12|@lord-bot|2768
-#13|@RaspFish|2766
+#12|@lord-bot|2779
+#13|@RaspFish|2768
 #14|@VariantsTop|2765
 #15|@Viet-AI|2765
 #16|@SCP079|2736
@@ -74,7 +74,7 @@ Rank|Bot|Rating
 #72|@Karpov_bot|2335
 #73|@TeamChelsie|2331
 #74|@AI69|2312
-#75|@OpeningsBot|2311
+#75|@OpeningsBot|2309
 #76|@Kizburb|2307
 #77|@MagicverseBOT|2306
 #78|@abhisun_bot|2305

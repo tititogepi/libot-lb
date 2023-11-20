@@ -253,8 +253,8 @@ Rank|Bot|Rating
 #251|@BOSS_CHESS_BOT|1431
 #252|@shakboy9824453231op|1420
 #253|@bunny_2021|1413
-#254|@TTC-BOT_2|1410
-#255|@pawnrobot|1408
+#254|@pawnrobot|1410
+#255|@TTC-BOT_2|1410
 #256|@Butzke_BOT|1401
 #257|@MartianBot|1386
 #258|@Trumpfor2O2O|1386
@@ -295,8 +295,8 @@ Rank|Bot|Rating
 #293|@Jaymombot|1166
 #294|@SipsonsamsonBOT|1161
 #295|@Happy_One|1138
-#296|@katzebot|1128
-#297|@Pawn_Stormer_D4|1124
+#296|@Pawn_Stormer_D4|1124
+#297|@katzebot|1118
 #298|@the_nicholas_bot|1110
 #299|@MyNameIsSpeedy|1108
 #300|@bobby-bot|1085

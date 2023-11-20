@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@too_ez4me|2160
 #29|@YellowFlash-X|2158
 #30|@TheMatrix2025|2156
-#31|@YellowFlash_v2|2156
-#32|@TorBot|2155
+#31|@TorBot|2156
+#32|@YellowFlash_v2|2156
 #33|@ReinforcementTrial|2154
 #34|@duythong1402|2150
 #35|@VariantsTop|2149
@@ -331,8 +331,8 @@ Rank|Bot|Rating
 #329|@AEBROADUSBOTTER|1279
 #330|@yolo_eldiablo15|1274
 #331|@ImpossibleWin|1272
-#332|@entebot|1261
-#333|@Demolito_L6|1259
+#332|@Demolito_L6|1267
+#333|@entebot|1261
 #334|@azdad|1258
 #335|@Itzmoi6g19|1258
 #336|@SalmonChess9|1258
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1058
+#356|@Demolito_L5|1049
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
