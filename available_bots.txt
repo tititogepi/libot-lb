@@ -55,6 +55,7 @@ aleph_engine
 alexeybot
 alexz55
 alfabot
+aliabdelaalchess
 alightbot
 all_except_chess960
 allgames_bot
@@ -2445,4 +2446,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-aliabdelaalchess

@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
-#19|@LudwigBOT|2281
-#20|@RaspFish|2281
+#19|@RaspFish|2284
+#20|@LudwigBOT|2281
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
