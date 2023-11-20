@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@Viet_BOT|2367
 #28|@Zer0_Tw0|2332
 #29|@LudwigBOT|2304
-#30|@KingfishX|2283
-#31|@lord-bot|2277
+#30|@lord-bot|2300
+#31|@KingfishX|2283
 #32|@The-Fastest-Bot|2277
 #33|@CocopikachuBOT|2274
 #34|@YoBot_v2|2257
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@Hyper-Stockfish|1986
 #59|@GodelEscherBot|1974
 #60|@XXIstCentury|1973
-#61|@OpeningsBot|1970
+#61|@OpeningsBot|1968
 #62|@mrchessmanager|1963
 #63|@Botzer|1961
 #64|@lightspeed_bot|1951
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@relevantproblem|1514
 #107|@Toxic_Bot|1511
 #108|@NoobMasterBOT|1507
-#109|@DavidsGuterBot|1503
+#109|@DavidsGuterBot|1501
 #110|@Epiano_Bot|1491
 #111|@CVA728_BOT_1|1489
 #112|@Rishab_Bindal|1489

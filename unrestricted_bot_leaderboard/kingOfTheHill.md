@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@Resolved-Bot|1942
 #68|@Pineapple-Friendly|1937
 #69|@azdad|1936
-#70|@HyperLitikBOT|1930
-#71|@OpeningsBot|1930
+#70|@OpeningsBot|1931
+#71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
 #74|@Variantenkoning|1892
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@NienishiEngine|1465
 #122|@XiDM|1464
 #123|@TorBot|1463
-#124|@DavidsGuterBot|1450
+#124|@DavidsGuterBot|1449
 #125|@McKapran78|1435
 #126|@EZWipe|1432
 #127|@BetaOneBot|1424

@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@hyperchessbot1|2189
 #19|@Kizburb|2182
 #20|@VariantsBot|2180
-#21|@YoBot_v2|2180
-#22|@TorBot_v2|2178
+#21|@TorBot_v2|2178
+#22|@YoBot_v2|2178
 #23|@ToromBot|2176
 #24|@Bot_McBotface|2172
 #25|@Intron014|2171
@@ -94,7 +94,7 @@ Rank|Bot|Rating
 #92|@CrayyBot|2030
 #93|@Coolman2021|2028
 #94|@HiarcsFish|2028
-#95|@RaspFish|2026
+#95|@RaspFish|2028
 #96|@Beyondcomprehension|2024
 #97|@EmptikBot247|2022
 #98|@DeepChessEngine|2020
@@ -195,9 +195,9 @@ Rank|Bot|Rating
 #193|@StormphraxEngine|1820
 #194|@CVA728_BOT_1|1817
 #195|@ESC_BOT|1815
-#196|@FrozenightEngine|1811
-#197|@try2defeatme|1811
-#198|@OpeningsBot|1810
+#196|@OpeningsBot|1812
+#197|@FrozenightEngine|1811
+#198|@try2defeatme|1811
 #199|@xiang-qi|1809
 #200|@CloudBOT|1807
 #201|@Lalis1|1804
@@ -207,8 +207,8 @@ Rank|Bot|Rating
 #205|@JPSBOT|1781
 #206|@Zer0_Tw0|1778
 #207|@Stockfish-MEDIUM|1777
-#208|@Fairy_Belzedar|1767
-#209|@Cheng-4|1764
+#208|@Cheng-4|1767
+#209|@Fairy_Belzedar|1767
 #210|@PyChessBot|1762
 #211|@TrashBot|1761
 #212|@relevantproblem|1760
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@david9426_bot|1517
 #273|@LioCT|1516
 #274|@YourSparringBot|1503
-#275|@FataliiBot|1500
+#275|@FataliiBot|1499
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
 #278|@feeks99|1479
@@ -355,8 +355,8 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1049
-#357|@LeElaGuess|1049
+#356|@LeElaGuess|1049
+#357|@Demolito_L5|1047
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
