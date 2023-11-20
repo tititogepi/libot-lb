@@ -149,7 +149,7 @@ Rank|Bot|Rating
 #147|@Bottios|1223
 #148|@RSVMentor|1196
 #149|@Boom_Bot|1176
-#150|@pawnrobot|1169
+#150|@pawnrobot|1168
 #151|@TrashBot|1168
 #152|@shakboy9824453231op|1152
 #153|@GuineaBot3|1121
