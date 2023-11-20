@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Intron014|2654
+#1|@Intron014|2653
 #2|@ReinforcementTrial|2649
 #3|@Africaata|2640
 #4|@TorBot_v2|2637
@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@ttBOT|2619
 #10|@ResoluteBot|2616
 #11|@mayhem23111|2595
-#12|@ArasanX|2582
+#12|@ArasanX|2584
 #13|@Mr_Chess_Berserk|2564
 #14|@Berserk-Test|2529
 #15|@expositor|2401
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@Weiawaga|2324
 #20|@Leela8-Test|2319
 #21|@SaxtonEngine|2317
-#22|@bitbitbot|2312
+#22|@bitbitbot|2313
 #23|@Cheng-4|2262
 #24|@ChessNoobComp|2171
 #25|@TuksuBot|2146
@@ -52,12 +52,12 @@ Rank|Bot|Rating
 #50|@turkjs|1649
 #51|@maia9|1630
 #52|@Demolito_L4|1625
-#53|@ZE_ROOK|1625
+#53|@ZE_ROOK|1624
 #54|@turochamp-2ply|1621
 #55|@sargon-3ply|1613
 #56|@sargon-4ply|1592
 #57|@Trollfish-Bot|1569
-#58|@maia1|1561
+#58|@maia1|1554
 #59|@good_bot223344|1530
 #60|@Humaia|1451
 #61|@sargon-2ply|1436

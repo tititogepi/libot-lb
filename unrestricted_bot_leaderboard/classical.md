@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@Bingo202|2664
 #14|@VariantsTop|2662
 #15|@MphoBot|2656
-#16|@Intron014|2654
+#16|@Intron014|2653
 #17|@RipTorn|2653
 #18|@EmptikWeak|2652
 #19|@ReinforcementTrial|2649
@@ -54,7 +54,7 @@ Rank|Bot|Rating
 #52|@mayhem23111|2595
 #53|@FireFishBOT|2594
 #54|@Shineshou90_BOT|2586
-#55|@ArasanX|2582
+#55|@ArasanX|2584
 #56|@TheMatrix2025|2579
 #57|@HansNiemannBot|2576
 #58|@lol7241Bot|2575
@@ -213,7 +213,7 @@ Rank|Bot|Rating
 #211|@BotNuevaGeneracion|2317
 #212|@SaxtonEngine|2317
 #213|@Zer0_Tw0|2316
-#214|@bitbitbot|2312
+#214|@bitbitbot|2313
 #215|@CocopikachuBOT|2310
 #216|@HoaBoxerChesss|2310
 #217|@Resolved-Bot|2310
@@ -642,8 +642,8 @@ Rank|Bot|Rating
 #640|@maia9|1630
 #641|@ai-con|1625
 #642|@Demolito_L4|1625
-#643|@ZE_ROOK|1625
-#644|@Pawn_Stormer_D4|1624
+#643|@Pawn_Stormer_D4|1624
+#644|@ZE_ROOK|1624
 #645|@Awesome_Stockfish|1621
 #646|@turochamp-2ply|1621
 #647|@potato-chess-bot|1620
@@ -676,12 +676,12 @@ Rank|Bot|Rating
 #674|@beast_engine|1563
 #675|@BOT_Awsome_Stockfish|1563
 #676|@ChamberiAjedrez|1561
-#677|@maia1|1561
-#678|@ReallyBadPlayerBot|1560
-#679|@Jibbby|1559
-#680|@schnecken_bot|1559
-#681|@ChessPlayer1225|1555
-#682|@chat_bot|1554
+#677|@ReallyBadPlayerBot|1560
+#678|@Jibbby|1559
+#679|@schnecken_bot|1559
+#680|@ChessPlayer1225|1555
+#681|@chat_bot|1554
+#682|@maia1|1554
 #683|@SeNP4A1_bot|1554
 #684|@yeoldwiz|1554
 #685|@Hoich|1549
