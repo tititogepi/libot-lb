@@ -154,7 +154,7 @@ Rank|Bot|Rating
 #152|@Lucror|1841
 #153|@Stockfish-MEDIUM|1839
 #154|@CloudBotZero|1837
-#155|@OpeningsBot|1833
+#155|@OpeningsBot|1834
 #156|@CHESS1000BOT|1829
 #157|@Storm_Shadow2012|1825
 #158|@ReallyCrazyBOT|1816
@@ -254,7 +254,7 @@ Rank|Bot|Rating
 #252|@shakboy9824453231op|1420
 #253|@bunny_2021|1413
 #254|@TTC-BOT_2|1410
-#255|@pawnrobot|1407
+#255|@pawnrobot|1406
 #256|@Butzke_BOT|1401
 #257|@MartianBot|1386
 #258|@Trumpfor2O2O|1386

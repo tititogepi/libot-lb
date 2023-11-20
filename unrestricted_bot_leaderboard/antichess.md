@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@UltronBot|2859
 #9|@TorBot|2824
 #10|@WennDieSoldatBOT|2818
-#11|@FireFishBOT|2785
-#12|@lord-bot|2779
+#11|@lord-bot|2789
+#12|@FireFishBOT|2785
 #13|@RaspFish|2768
 #14|@VariantsTop|2765
 #15|@Viet-AI|2765
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@higuyuu67776|2352
 #72|@Karpov_bot|2335
 #73|@TeamChelsie|2331
-#74|@OpeningsBot|2317
+#74|@OpeningsBot|2316
 #75|@AI69|2312
 #76|@Kizburb|2307
 #77|@MagicverseBOT|2306
