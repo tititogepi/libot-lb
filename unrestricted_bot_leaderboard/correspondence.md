@@ -102,12 +102,12 @@ Rank|Bot|Rating
 #100|@Beyondcomprehension|2039
 #101|@faith_bot|2037
 #102|@CocopikachuBOT|2036
-#103|@HyperPhoenix21|2035
-#104|@EmptikCorrespondence|2031
-#105|@StrongMagnusCarlsen|2027
-#106|@duythong1402|2025
-#107|@kybot|2025
-#108|@zeekat|2023
+#103|@zeekat|2036
+#104|@HyperPhoenix21|2035
+#105|@EmptikCorrespondence|2031
+#106|@StrongMagnusCarlsen|2027
+#107|@duythong1402|2025
+#108|@kybot|2025
 #109|@MalanChess|2020
 #110|@RoyalLeela|2014
 #111|@SchachProg|2010
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@StashBot|1075
 #355|@Light_To_The_Rescue|1057
 #356|@mustaley|973
-#357|@G0thamB0t|972
+#357|@G0thamB0t|971
 #358|@BerserkRandomMover|963
 #359|@grandQ_AI|887
 #360|@GuineaBot|867
