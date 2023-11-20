@@ -177,7 +177,7 @@ Rank|Bot|Rating
 #175|@BotOfAtomicChess|1153
 #176|@BSergey11-BOT|1149
 #177|@K_Shi_Bot|1149
-#178|@pawnrobot|1144
+#178|@pawnrobot|1141
 #179|@TeamChelsie|1125
 #180|@kazakhfirstbot|1119
 #181|@apollo_bot|1106

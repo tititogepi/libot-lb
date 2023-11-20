@@ -207,7 +207,7 @@ Rank|Bot|Rating
 #205|@JPSBOT|1781
 #206|@Zer0_Tw0|1778
 #207|@Stockfish-MEDIUM|1777
-#208|@Cheng-4|1773
+#208|@Cheng-4|1775
 #209|@Fairy_Belzedar|1767
 #210|@PyChessBot|1762
 #211|@TrashBot|1761
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1515
+#274|@FataliiBot|1513
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -332,10 +332,10 @@ Rank|Bot|Rating
 #330|@yolo_eldiablo15|1274
 #331|@ImpossibleWin|1272
 #332|@entebot|1261
-#333|@azdad|1258
-#334|@Itzmoi6g19|1258
-#335|@SalmonChess9|1258
-#336|@Demolito_L6|1257
+#333|@Demolito_L6|1260
+#334|@azdad|1258
+#335|@Itzmoi6g19|1258
+#336|@SalmonChess9|1258
 #337|@Sparring_Bot|1248
 #338|@RootEngine|1245
 #339|@Future_Chess_Pro|1233
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@Jobabot|1110
 #355|@Dummyette|1107
 #356|@LeElaGuess|1049
-#357|@Demolito_L5|1035
+#357|@Demolito_L5|1032
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
