@@ -18,11 +18,11 @@ Rank|Bot|Rating
 #16|@Corvus-1|2197
 #17|@lord-bot|2192
 #18|@hyperchessbot1|2189
-#19|@Kizburb|2182
-#20|@VariantsBot|2180
-#21|@YoBot_v2|2180
-#22|@TorBot_v2|2179
-#23|@ToromBot|2176
+#19|@TorBot_v2|2184
+#20|@Kizburb|2182
+#21|@VariantsBot|2180
+#22|@ToromBot|2176
+#23|@YoBot_v2|2175
 #24|@Bot_McBotface|2172
 #25|@Intron014|2171
 #26|@EmptikBot|2168
@@ -271,7 +271,7 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@FataliiBot|1521
+#272|@FataliiBot|1523
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
@@ -356,8 +356,8 @@ Rank|Bot|Rating
 #354|@Jobabot|1110
 #355|@Dummyette|1107
 #356|@LeElaGuess|1049
-#357|@Demolito_L5|1004
-#358|@admin-bot|1003
+#357|@admin-bot|1003
+#358|@Demolito_L5|1002
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
 #361|@sudobot_chess|991

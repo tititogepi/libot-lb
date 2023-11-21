@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2806
+#1|@fibonachi|2807
 #2|@stockfish_dev|2713
 #3|@H-Zero|2650
 #4|@Nikitosik-ai|2636
