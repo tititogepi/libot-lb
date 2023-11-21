@@ -204,10 +204,10 @@ Rank|Bot|Rating
 #202|@EvilFreak|1793
 #203|@Storm_Shadow2012|1788
 #204|@mrchessmanager|1784
-#205|@JPSBOT|1781
-#206|@Zer0_Tw0|1778
-#207|@Stockfish-MEDIUM|1777
-#208|@Cheng-4|1775
+#205|@Cheng-4|1781
+#206|@JPSBOT|1781
+#207|@Zer0_Tw0|1778
+#208|@Stockfish-MEDIUM|1777
 #209|@Fairy_Belzedar|1767
 #210|@PyChessBot|1762
 #211|@TrashBot|1761
@@ -271,8 +271,8 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@FataliiBot|1521
-#273|@david9426_bot|1517
+#272|@david9426_bot|1517
+#273|@FataliiBot|1516
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
@@ -331,8 +331,8 @@ Rank|Bot|Rating
 #329|@AEBROADUSBOTTER|1279
 #330|@yolo_eldiablo15|1274
 #331|@ImpossibleWin|1272
-#332|@entebot|1261
-#333|@Demolito_L6|1259
+#332|@Demolito_L6|1262
+#333|@entebot|1261
 #334|@azdad|1258
 #335|@Itzmoi6g19|1258
 #336|@SalmonChess9|1258
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@Jobabot|1110
 #355|@Dummyette|1107
 #356|@LeElaGuess|1049
-#357|@Demolito_L5|1017
+#357|@Demolito_L5|1013
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
