@@ -271,8 +271,8 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@david9426_bot|1517
-#273|@FataliiBot|1516
+#272|@FataliiBot|1520
+#273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
@@ -333,9 +333,9 @@ Rank|Bot|Rating
 #331|@ImpossibleWin|1272
 #332|@entebot|1261
 #333|@azdad|1258
-#334|@Itzmoi6g19|1258
-#335|@SalmonChess9|1258
-#336|@Demolito_L6|1257
+#334|@Demolito_L6|1258
+#335|@Itzmoi6g19|1258
+#336|@SalmonChess9|1258
 #337|@Sparring_Bot|1248
 #338|@RootEngine|1245
 #339|@Future_Chess_Pro|1233
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@Jobabot|1110
 #355|@Dummyette|1107
 #356|@LeElaGuess|1049
-#357|@Demolito_L5|1026
+#357|@Demolito_L5|1021
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
