@@ -331,8 +331,8 @@ Rank|Bot|Rating
 #329|@AEBROADUSBOTTER|1279
 #330|@yolo_eldiablo15|1274
 #331|@ImpossibleWin|1272
-#332|@entebot|1261
-#333|@Demolito_L6|1260
+#332|@Demolito_L6|1266
+#333|@entebot|1261
 #334|@azdad|1258
 #335|@Itzmoi6g19|1258
 #336|@SalmonChess9|1258
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@Jobabot|1110
 #355|@Dummyette|1107
 #356|@LeElaGuess|1049
-#357|@Demolito_L5|1010
+#357|@Demolito_L5|1004
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
@@ -375,5 +375,5 @@ Rank|Bot|Rating
 #373|@WaspBot|798
 #374|@LeelaWeak|735
 #375|@FelixLeonidovich|730
-#376|@pawnrobot|590
+#376|@pawnrobot|612
 #377|@konaz|400
