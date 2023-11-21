@@ -9,13 +9,13 @@ Rank|Bot|Rating
 #7|@Intron014|2171
 #8|@TorBot|2157
 #9|@duythong1402|2153
-#10|@LolFish-1|2138
+#10|@LolFish-1|2139
 #11|@RaspFish|2031
-#12|@OpeningsBot|1816
+#12|@OpeningsBot|1818
 #13|@Cheng-4|1781
 #14|@Leela8-Test|1680
 #15|@FataliiBot|1527
-#16|@Demolito_L6|1266
+#16|@Demolito_L6|1264
 #17|@Demolito_L5|997
 #18|@Demolito_L4|894
 #19|@pawnrobot|612
