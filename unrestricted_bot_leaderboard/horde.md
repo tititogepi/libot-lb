@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@newengine2022|1712
 #70|@HiddeNL|1708
 #71|@chesshyperbot|1702
-#72|@OpeningsBot|1671
+#72|@OpeningsBot|1673
 #73|@relevantproblem|1667
 #74|@Epiano_Bot|1662
 #75|@VariantsTop|1644
@@ -127,8 +127,8 @@ Rank|Bot|Rating
 #125|@Happy_One|1207
 #126|@St6090|1191
 #127|@Simpafteur|1188
-#128|@BetaOneBot|1166
-#129|@pawnrobot|1151
+#128|@pawnrobot|1174
+#129|@BetaOneBot|1166
 #130|@ZX-Chess|1145
 #131|@duythong1402|1120
 #132|@alvin-chess-bot|1091
