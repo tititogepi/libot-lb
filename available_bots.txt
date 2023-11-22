@@ -702,6 +702,7 @@ elo_1500
 elpeonelectrico
 elrincho
 emanbot
+emanbot23
 emanchessengine
 emanpurenn
 emanueltavares07bot
@@ -2446,4 +2447,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-emanbot23
