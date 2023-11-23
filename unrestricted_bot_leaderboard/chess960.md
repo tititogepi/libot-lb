@@ -202,8 +202,8 @@ Rank|Bot|Rating
 #200|@CloudBOT|1807
 #201|@Lalis1|1804
 #202|@EvilFreak|1793
-#203|@Storm_Shadow2012|1788
-#204|@Cheng-4|1787
+#203|@Cheng-4|1789
+#204|@Storm_Shadow2012|1788
 #205|@mrchessmanager|1784
 #206|@JPSBOT|1781
 #207|@Zer0_Tw0|1778
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@david9426_bot|1517
 #273|@LioCT|1516
 #274|@YourSparringBot|1503
-#275|@FataliiBot|1502
+#275|@FataliiBot|1501
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
 #278|@feeks99|1479

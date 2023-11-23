@@ -104,11 +104,11 @@ Rank|Bot|Rating
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
 #104|@Lucror|2178
-#105|@CatNail|2169
-#106|@lightspeed_bot|2152
-#107|@AntiChessBot|2142
-#108|@AnUtterlyKarBot|2134
-#109|@XXIstCentury|2131
+#105|@lightspeed_bot|2152
+#106|@AntiChessBot|2142
+#107|@AnUtterlyKarBot|2134
+#108|@XXIstCentury|2131
+#109|@CatNail|2129
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
