@@ -253,7 +253,7 @@ Rank|Bot|Rating
 #251|@bunny_2021|1413
 #252|@TTC-BOT_2|1410
 #253|@Butzke_BOT|1401
-#254|@pawnrobot|1396
+#254|@pawnrobot|1392
 #255|@MartianBot|1386
 #256|@Trumpfor2O2O|1386
 #257|@DrunkenMasterEngine|1385
