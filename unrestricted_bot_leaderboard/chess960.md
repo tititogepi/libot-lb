@@ -19,9 +19,9 @@ Rank|Bot|Rating
 #17|@lord-bot|2193
 #18|@hyperchessbot1|2189
 #19|@TorBot_v2|2188
-#20|@Kizburb|2182
-#21|@YoBot_v2|2181
-#22|@Intron014|2180
+#20|@Intron014|2182
+#21|@Kizburb|2182
+#22|@YoBot_v2|2181
 #23|@VariantsBot|2180
 #24|@ToromBot|2174
 #25|@Bot_McBotface|2172
@@ -187,7 +187,7 @@ Rank|Bot|Rating
 #185|@Test_God_50_BOT|1843
 #186|@newengine2022|1842
 #187|@GodelEscherBot|1837
-#188|@OpeningsBot|1835
+#188|@OpeningsBot|1833
 #189|@Simpafteur|1833
 #190|@ChessHunterBot|1831
 #191|@StashBot|1826
@@ -355,8 +355,8 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@LeElaGuess|1049
-#357|@Demolito_L5|1043
+#356|@Demolito_L5|1049
+#357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
@@ -370,10 +370,10 @@ Rank|Bot|Rating
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
 #370|@botTideEval|914
-#371|@Demolito_L4|871
+#371|@Demolito_L4|861
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735
 #375|@FelixLeonidovich|730
-#376|@pawnrobot|591
+#376|@pawnrobot|595
 #377|@konaz|400
