@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@Chess_Pro9600|1632
 #122|@HiddeNL|1573
 #123|@TheSystem_Bot|1572
-#124|@QuickLiquid|1555
-#125|@pawnrobot|1533
+#124|@pawnrobot|1559
+#125|@QuickLiquid|1555
 #126|@faith_bot|1514
 #127|@TorBot|1498
 #128|@KnightsArmour|1494
