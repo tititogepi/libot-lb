@@ -20,10 +20,10 @@ Rank|Bot|Rating
 #18|@KizVariant|2529
 #19|@SCP079|2526
 #20|@RaspFish|2486
-#21|@ESC_BOT|2476
-#22|@Less_of_a_threat|2469
-#23|@NormalBlitzBulletBot|2463
-#24|@Fairy-Stockfish|2451
+#21|@Fairy-Stockfish|2484
+#22|@ESC_BOT|2476
+#23|@Less_of_a_threat|2469
+#24|@NormalBlitzBulletBot|2463
 #25|@faith_bot|2447
 #26|@chessbot2880|2367
 #27|@Viet_BOT|2367
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@Hyper-Stockfish|1986
 #59|@GodelEscherBot|1974
 #60|@XXIstCentury|1973
-#61|@OpeningsBot|1971
+#61|@OpeningsBot|1969
 #62|@mrchessmanager|1963
 #63|@Botzer|1961
 #64|@lightspeed_bot|1951

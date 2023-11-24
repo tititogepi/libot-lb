@@ -155,8 +155,8 @@ Rank|Bot|Rating
 #153|@CHESS1000BOT|1829
 #154|@Storm_Shadow2012|1825
 #155|@ReallyCrazyBOT|1816
-#156|@Sternenhimmel10|1811
-#157|@OpeningsBot|1810
+#156|@OpeningsBot|1811
+#157|@Sternenhimmel10|1811
 #158|@PowerOnBot|1806
 #159|@PiratesBot|1800
 #160|@TheLegitLegend|1786

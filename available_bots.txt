@@ -1443,6 +1443,7 @@ minic-chess_engine
 minimardi
 mininnue
 minula_paranvithana
+misere-fish
 mistakebot
 misteick_bot
 misterrengar
@@ -2447,4 +2448,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-misere-fish
