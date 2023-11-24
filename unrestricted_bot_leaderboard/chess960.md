@@ -189,8 +189,8 @@ Rank|Bot|Rating
 #187|@GodelEscherBot|1837
 #188|@Simpafteur|1833
 #189|@ChessHunterBot|1831
-#190|@StashBot|1826
-#191|@OpeningsBot|1824
+#190|@OpeningsBot|1826
+#191|@StashBot|1826
 #192|@ZamuChess|1822
 #193|@AI69|1821
 #194|@StormphraxEngine|1820
@@ -202,7 +202,7 @@ Rank|Bot|Rating
 #200|@CloudBOT|1807
 #201|@Lalis1|1804
 #202|@EvilFreak|1793
-#203|@Cheng-4|1789
+#203|@Cheng-4|1791
 #204|@Storm_Shadow2012|1788
 #205|@mrchessmanager|1784
 #206|@JPSBOT|1781
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1508
+#274|@FataliiBot|1505
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@Jobabot|1110
 #355|@Dummyette|1107
 #356|@LeElaGuess|1049
-#357|@Demolito_L5|1044
+#357|@Demolito_L5|1047
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
 #360|@TuroBot|997
@@ -375,5 +375,5 @@ Rank|Bot|Rating
 #373|@WaspBot|798
 #374|@LeelaWeak|735
 #375|@FelixLeonidovich|730
-#376|@pawnrobot|589
+#376|@pawnrobot|585
 #377|@konaz|400
