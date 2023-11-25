@@ -968,6 +968,7 @@ hifiifif
 high_five1
 highestratedbot
 higuyuu67776
+hikaruexp
 historyexplorer
 hitmebaby1moretime
 hjhjhjhjhjhj
@@ -1363,6 +1364,7 @@ magnus-bot
 magnuscalsen123
 magnuscarlsen1507
 magnuscarlsenthebot
+magnusexp
 magnusglad_bot
 mahijith_pro
 maia-lc0
@@ -2448,5 +2450,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-hikaruexp
-magnusexp
