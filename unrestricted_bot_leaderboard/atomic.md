@@ -252,7 +252,7 @@ Rank|Bot|Rating
 #250|@shakboy9824453231op|1420
 #251|@bunny_2021|1413
 #252|@TTC-BOT_2|1410
-#253|@pawnrobot|1403
+#253|@pawnrobot|1405
 #254|@Butzke_BOT|1401
 #255|@MartianBot|1386
 #256|@Trumpfor2O2O|1386
@@ -278,12 +278,12 @@ Rank|Bot|Rating
 #276|@legendbot1|1277
 #277|@PranavChessBot|1273
 #278|@SkyBlaster|1269
-#279|@Galaxy_Guardian|1265
-#280|@Bot-31795|1258
-#281|@Mr-Bob|1258
-#282|@NarratingSince86|1258
-#283|@rayking311|1258
-#284|@katzebot|1245
+#279|@katzebot|1267
+#280|@Galaxy_Guardian|1265
+#281|@Bot-31795|1258
+#282|@Mr-Bob|1258
+#283|@NarratingSince86|1258
+#284|@rayking311|1258
 #285|@XiDM|1241
 #286|@GuineaBot3|1215
 #287|@kidobot2911|1202
