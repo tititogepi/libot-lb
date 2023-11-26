@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NilatacBot|2359
+#1|@NilatacBot|2354
 #2|@OpeningsBot|2323
-#3|@anti-bot|2250
-#4|@CatNail|2112
-#5|@pawnrobot|1944
+#3|@anti-bot|2255
+#4|@CatNail|2115
+#5|@pawnrobot|1940
