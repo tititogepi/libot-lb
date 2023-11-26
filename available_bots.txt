@@ -627,6 +627,7 @@ devre_satranc
 devsdabot
 dezchickenwings
 diepx
+diggydiggyhole
 digi-bot
 dinkelhuber
 dinora
@@ -2192,6 +2193,7 @@ theweakestbot
 theyobots
 thibot
 thicc_gopher
+thisisntabot
 thousandatom
 threeisthree
 thuban_official
@@ -2453,5 +2455,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-diggydiggyhole
-thisisntabot
