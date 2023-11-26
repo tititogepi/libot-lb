@@ -209,6 +209,7 @@ benmakineyim
 bera_of_bbot
 berlinwallwall
 bernd_der_bot
+bernstein-4ply
 berntbot
 bernucchio
 berserk-test
@@ -2450,4 +2451,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bernstein-4ply
