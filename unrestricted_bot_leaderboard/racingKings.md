@@ -75,7 +75,7 @@ Rank|Bot|Rating
 #73|@CloudBOT|2073
 #74|@JustDontFlagMe|2048
 #75|@Stockfish-MEDIUM|2043
-#76|@OpeningsBot|2038
+#76|@OpeningsBot|2040
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
 #79|@EstmileBot|2018
@@ -123,8 +123,8 @@ Rank|Bot|Rating
 #121|@Chess_Pro9600|1632
 #122|@HiddeNL|1573
 #123|@TheSystem_Bot|1572
-#124|@pawnrobot|1557
-#125|@QuickLiquid|1555
+#124|@QuickLiquid|1555
+#125|@pawnrobot|1552
 #126|@faith_bot|1514
 #127|@TorBot|1498
 #128|@KnightsArmour|1494
