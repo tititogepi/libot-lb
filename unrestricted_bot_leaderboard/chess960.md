@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@MyNameIsWhatLOL|2240
 #8|@LoseisnotAvailablehe|2217
 #9|@LeelaFish1|2212
-#10|@ResoluteBot|2212
-#11|@Xerus_1|2211
+#10|@Xerus_1|2211
+#11|@ResoluteBot|2210
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
 #14|@TheFreshman1902|2203
@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@VariantsBot|2180
 #23|@ToromBot|2174
 #24|@Bot_McBotface|2172
-#25|@YoBot_v2|2170
+#25|@YoBot_v2|2172
 #26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
 #28|@too_ez4me|2160
@@ -273,7 +273,7 @@ Rank|Bot|Rating
 #271|@XiDM|1525
 #272|@david9426_bot|1517
 #273|@LioCT|1516
-#274|@FataliiBot|1506
+#274|@FataliiBot|1508
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
 #277|@dolegibot|1496
@@ -335,7 +335,7 @@ Rank|Bot|Rating
 #333|@azdad|1258
 #334|@Itzmoi6g19|1258
 #335|@SalmonChess9|1258
-#336|@Demolito_L6|1249
+#336|@Demolito_L6|1252
 #337|@Sparring_Bot|1248
 #338|@RootEngine|1245
 #339|@Future_Chess_Pro|1233
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@Dummyette|1107
 #356|@LeElaGuess|1049
 #357|@Demolito_L5|1048
-#358|@Demolito_L4|1017
+#358|@Demolito_L4|1012
 #359|@admin-bot|1003
 #360|@GuineaBot3|1000
 #361|@TuroBot|997
