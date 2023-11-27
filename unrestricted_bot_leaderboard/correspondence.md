@@ -148,8 +148,8 @@ Rank|Bot|Rating
 #146|@Jibbby|1871
 #147|@ViVe_2_chess_pro|1869
 #148|@Official_bot|1857
-#149|@yeoldwiz|1857
-#150|@ChessChildren|1856
+#149|@ChessChildren|1856
+#150|@yeoldwiz|1855
 #151|@Boris-Trapsky|1853
 #152|@natural-disaster|1853
 #153|@Rinestro|1837
