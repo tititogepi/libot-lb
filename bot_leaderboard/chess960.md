@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@LolFish-1|2145
 #11|@RaspFish|2043
 #12|@OpeningsBot|1810
-#13|@Cheng-4|1799
-#14|@FataliiBot|1502
-#15|@Demolito_L6|1249
+#13|@Cheng-4|1800
+#14|@FataliiBot|1505
+#15|@Demolito_L6|1238
 #16|@Demolito_L5|1048
-#17|@Demolito_L4|994
+#17|@Demolito_L4|1034
 #18|@pawnrobot|571
