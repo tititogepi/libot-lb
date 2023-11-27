@@ -154,8 +154,8 @@ Rank|Bot|Rating
 #152|@CloudBotZero|1837
 #153|@CHESS1000BOT|1829
 #154|@Storm_Shadow2012|1825
-#155|@ReallyCrazyBOT|1816
-#156|@OpeningsBot|1813
+#155|@OpeningsBot|1817
+#156|@ReallyCrazyBOT|1816
 #157|@Sternenhimmel10|1811
 #158|@PowerOnBot|1806
 #159|@PiratesBot|1800
@@ -252,8 +252,8 @@ Rank|Bot|Rating
 #250|@shakboy9824453231op|1420
 #251|@bunny_2021|1413
 #252|@TTC-BOT_2|1410
-#253|@pawnrobot|1403
-#254|@Butzke_BOT|1401
+#253|@Butzke_BOT|1401
+#254|@pawnrobot|1400
 #255|@MartianBot|1386
 #256|@Trumpfor2O2O|1386
 #257|@DrunkenMasterEngine|1385
