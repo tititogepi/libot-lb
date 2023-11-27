@@ -72,8 +72,8 @@ Rank|Bot|Rating
 #70|@higuyuu67776|2352
 #71|@NilatacBot|2347
 #72|@Karpov_bot|2335
-#73|@TeamChelsie|2331
-#74|@OpeningsBot|2328
+#73|@OpeningsBot|2333
+#74|@TeamChelsie|2331
 #75|@AI69|2312
 #76|@Kizburb|2307
 #77|@MagicverseBOT|2306
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269
-#85|@anti-bot|2263
+#85|@anti-bot|2259
 #86|@SkyBlaster|2254
 #87|@mrchessmanager|2240
 #88|@TurkiyeHogwarts|2240
