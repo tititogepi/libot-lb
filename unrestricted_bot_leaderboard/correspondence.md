@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2809
+#1|@fibonachi|2810
 #2|@stockfish_dev|2713
 #3|@Viet-BOT|2660
 #4|@H-Zero|2650
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@Light_To_The_Rescue|1057
 #355|@mustaley|973
 #356|@BerserkRandomMover|963
-#357|@G0thamB0t|949
+#357|@G0thamB0t|961
 #358|@grandQ_AI|887
 #359|@GuineaBot|866
 #360|@BogoBot|865

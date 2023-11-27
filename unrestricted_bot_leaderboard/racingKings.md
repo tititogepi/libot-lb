@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@Trumpfor2O2O|2103
 #73|@CloudBOT|2073
 #74|@JustDontFlagMe|2048
-#75|@Stockfish-MEDIUM|2043
-#76|@OpeningsBot|2042
+#75|@OpeningsBot|2043
+#76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
 #79|@EstmileBot|2018
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@HiddeNL|1573
 #123|@TheSystem_Bot|1572
 #124|@QuickLiquid|1555
-#125|@pawnrobot|1548
+#125|@pawnrobot|1543
 #126|@faith_bot|1514
 #127|@TorBot|1498
 #128|@KnightsArmour|1494
