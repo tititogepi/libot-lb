@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@Hyper-Stockfish|1986
 #59|@GodelEscherBot|1974
 #60|@XXIstCentury|1973
-#61|@OpeningsBot|1969
+#61|@OpeningsBot|1970
 #62|@mrchessmanager|1963
 #63|@Botzer|1961
 #64|@lightspeed_bot|1951
