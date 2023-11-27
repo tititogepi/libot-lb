@@ -68,12 +68,12 @@ Rank|Bot|Rating
 #66|@Trumpfor2O2O|2366
 #67|@HuxZero|2361
 #68|@Less_of_a_threat|2357
-#69|@NilatacBot|2354
-#70|@Viet_BOT|2354
-#71|@higuyuu67776|2352
+#69|@Viet_BOT|2354
+#70|@higuyuu67776|2352
+#71|@NilatacBot|2347
 #72|@Karpov_bot|2335
 #73|@TeamChelsie|2331
-#74|@OpeningsBot|2323
+#74|@OpeningsBot|2322
 #75|@AI69|2312
 #76|@Kizburb|2307
 #77|@MagicverseBOT|2306
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@AntiChessBot|2142
 #107|@AnUtterlyKarBot|2134
 #108|@XXIstCentury|2131
-#109|@CatNail|2110
+#109|@CatNail|2111
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
@@ -121,8 +121,8 @@ Rank|Bot|Rating
 #119|@BetaZ|1973
 #120|@antichesssss|1964
 #121|@Menganti|1963
-#122|@CloudBOT|1950
-#123|@pawnrobot|1943
+#122|@pawnrobot|1951
+#123|@CloudBOT|1950
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
 #126|@Lumac0|1861
