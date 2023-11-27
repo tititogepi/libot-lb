@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2815
-#2|@stockfish_dev|2713
+#2|@stockfish_dev|2735
 #3|@Viet-BOT|2660
 #4|@H-Zero|2650
 #5|@Nikitosik-ai|2580
@@ -91,7 +91,7 @@ Rank|Bot|Rating
 #89|@StockfishPower|2065
 #90|@Hyper-Stockfish|2064
 #91|@BotifiedMoyao|2058
-#92|@zeekat|2057
+#92|@zeekat|2055
 #93|@Dong_Xiao_Yuan|2054
 #94|@DragonBallZFan|2052
 #95|@centaur01|2050
