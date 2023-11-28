@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@yeoldwiz|1855
+#1|@yeoldwiz|1853

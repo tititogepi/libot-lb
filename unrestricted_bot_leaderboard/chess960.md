@@ -271,8 +271,8 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@david9426_bot|1517
-#273|@FataliiBot|1516
+#272|@FataliiBot|1519
+#273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
 #276|@are_bots_good|1496
@@ -363,7 +363,7 @@ Rank|Bot|Rating
 #361|@sudobot_chess|991
 #362|@GeraldBOT|988
 #363|@Bot2000|983
-#364|@Demolito_L4|979
+#364|@Demolito_L4|977
 #365|@BogoBot|974
 #366|@ZokBot|969
 #367|@RandomTree77|956
