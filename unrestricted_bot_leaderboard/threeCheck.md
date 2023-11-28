@@ -110,9 +110,9 @@ Rank|Bot|Rating
 #108|@NoobMasterBOT|1507
 #109|@Epiano_Bot|1491
 #110|@CVA728_BOT_1|1489
-#111|@DavidsGuterBot|1489
-#112|@Rishab_Bindal|1489
-#113|@ChessBot3021|1483
+#111|@Rishab_Bindal|1489
+#112|@ChessBot3021|1483
+#113|@DavidsGuterBot|1480
 #114|@PyChessBot|1480
 #115|@SLvov-bot|1466
 #116|@Bobby_Fishcer_Bot|1458
@@ -144,8 +144,8 @@ Rank|Bot|Rating
 #142|@EstmileBot|1269
 #143|@Parth_Dhage_2|1258
 #144|@MyNameIsWhatLOL|1256
-#145|@TORTADEMANZANA023|1233
-#146|@pawnrobot|1223
+#145|@pawnrobot|1236
+#146|@TORTADEMANZANA023|1233
 #147|@heatseeker223|1191
 #148|@admin-bot|1188
 #149|@Ujwal1001|1179
