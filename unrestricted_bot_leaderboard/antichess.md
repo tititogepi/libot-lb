@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@Viet_BOT|2354
 #70|@higuyuu67776|2352
 #71|@NilatacBot|2343
-#72|@OpeningsBot|2342
+#72|@OpeningsBot|2338
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
 #75|@AI69|2312
@@ -108,7 +108,7 @@ Rank|Bot|Rating
 #106|@AntiChessBot|2142
 #107|@AnUtterlyKarBot|2134
 #108|@XXIstCentury|2131
-#109|@CatNail|2121
+#109|@CatNail|2125
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
