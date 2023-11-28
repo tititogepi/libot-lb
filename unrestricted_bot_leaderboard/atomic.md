@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@Coolman2021|2601
 #6|@KizVariant|2597
 #7|@pistol-play|2590
-#8|@ToromBot|2580
+#8|@ToromBot|2581
 #9|@UltronBot|2556
 #10|@Viet-AI|2556
 #11|@NimsiluBot|2535
@@ -159,9 +159,9 @@ Rank|Bot|Rating
 #157|@PowerOnBot|1806
 #158|@PiratesBot|1800
 #159|@TheLegitLegend|1786
-#160|@OpeningsBot|1775
-#161|@MagicHacker123|1774
-#162|@EstmileBot|1769
+#160|@MagicHacker123|1774
+#161|@EstmileBot|1769
+#162|@OpeningsBot|1767
 #163|@Giphy_Logo|1746
 #164|@MRT23|1741
 #165|@ChessPlayer1225|1739
@@ -241,10 +241,10 @@ Rank|Bot|Rating
 #239|@Future_Chess_Pro|1453
 #240|@MyNameIsSpeeedy|1453
 #241|@BotGeorge|1449
-#242|@AIAlphaAI|1442
-#243|@darkb0t|1441
-#244|@KaTHHHH|1440
-#245|@pawnrobot|1439
+#242|@pawnrobot|1448
+#243|@AIAlphaAI|1442
+#244|@darkb0t|1441
+#245|@KaTHHHH|1440
 #246|@Chess_Bot-Child|1437
 #247|@DestructeurBot|1437
 #248|@xDmanBOT|1437

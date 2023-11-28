@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@WennDieSoldatBOT|2818
 #11|@lord-bot|2789
 #12|@FireFishBOT|2785
-#13|@RaspFish|2768
+#13|@RaspFish|2769
 #14|@VariantsTop|2765
 #15|@Viet-AI|2765
 #16|@SCP079|2736
@@ -104,7 +104,7 @@ Rank|Bot|Rating
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
 #104|@Lucror|2178
-#105|@CatNail|2161
+#105|@CatNail|2165
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
 #108|@AnUtterlyKarBot|2134
