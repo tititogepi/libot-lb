@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Fairy_Belzedar|2544
 #18|@KizVariant|2529
 #19|@SCP079|2526
-#20|@RaspFish|2488
+#20|@RaspFish|2489
 #21|@Fairy-Stockfish|2484
 #22|@ESC_BOT|2476
 #23|@Less_of_a_threat|2469
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@ttBOT|2031
 #56|@Resolved-Bot|2026
 #57|@firstrobot|2003
-#58|@OpeningsBot|1989
+#58|@OpeningsBot|1988
 #59|@Hyper-Stockfish|1986
 #60|@GodelEscherBot|1974
 #61|@XXIstCentury|1973
