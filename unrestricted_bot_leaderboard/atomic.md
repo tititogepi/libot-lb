@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@PowerOnBot|1806
 #158|@PiratesBot|1800
 #159|@TheLegitLegend|1786
-#160|@OpeningsBot|1783
+#160|@OpeningsBot|1784
 #161|@MagicHacker123|1774
 #162|@EstmileBot|1769
 #163|@Giphy_Logo|1746
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@magnusglad_bot|1298
 #273|@Atomicbot1|1294
 #274|@DavidsGuterBot|1287
-#275|@katzebot|1284
+#275|@katzebot|1282
 #276|@XXXTryandTryXXX|1280
 #277|@legendbot1|1277
 #278|@PranavChessBot|1273
