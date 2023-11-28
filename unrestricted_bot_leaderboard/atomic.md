@@ -277,7 +277,7 @@ Rank|Bot|Rating
 #275|@XXXTryandTryXXX|1280
 #276|@legendbot1|1277
 #277|@PranavChessBot|1273
-#278|@katzebot|1271
+#278|@katzebot|1270
 #279|@SkyBlaster|1269
 #280|@Galaxy_Guardian|1265
 #281|@Bot-31795|1258
