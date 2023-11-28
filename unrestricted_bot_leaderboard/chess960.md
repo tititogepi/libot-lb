@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@LoseisnotAvailablehe|2217
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
-#11|@LeelaChessTest|2208
-#12|@ResoluteBot|2204
+#11|@ResoluteBot|2209
+#12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
 #14|@TheFreshman1902|2203
 #15|@IUseStockfish|2202
@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@TorBot_v2|2187
 #21|@Kizburb|2182
 #22|@VariantsBot|2180
-#23|@YoBot_v2|2180
-#24|@ToromBot|2175
+#23|@ToromBot|2175
+#24|@YoBot_v2|2175
 #25|@Bot_McBotface|2172
 #26|@EmptikBot|2168
 #27|@rtx3080tibot|2162
@@ -201,7 +201,7 @@ Rank|Bot|Rating
 #199|@xiang-qi|1809
 #200|@CloudBOT|1807
 #201|@Lalis1|1804
-#202|@Cheng-4|1797
+#202|@Cheng-4|1799
 #203|@EvilFreak|1793
 #204|@Storm_Shadow2012|1788
 #205|@mrchessmanager|1784
@@ -271,7 +271,7 @@ Rank|Bot|Rating
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
 #271|@XiDM|1525
-#272|@FataliiBot|1521
+#272|@FataliiBot|1518
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
@@ -329,7 +329,7 @@ Rank|Bot|Rating
 #327|@FENder_Bender|1283
 #328|@bcbchess|1282
 #329|@AEBROADUSBOTTER|1279
-#330|@Demolito_L6|1274
+#330|@Demolito_L6|1275
 #331|@yolo_eldiablo15|1274
 #332|@ImpossibleWin|1272
 #333|@entebot|1261

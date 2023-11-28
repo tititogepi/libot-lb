@@ -84,11 +84,11 @@ Rank|Bot|Rating
 #82|@Chess_ni_BOSS|2080
 #83|@ajedrezarBOT|2079
 #84|@BitByByte|2077
-#85|@zeekat|2076
-#86|@GucciBot|2074
-#87|@HyperLitikBOT|2073
-#88|@pistol-play|2071
-#89|@Trollfish-Bot|2069
+#85|@GucciBot|2074
+#86|@HyperLitikBOT|2073
+#87|@pistol-play|2071
+#88|@Trollfish-Bot|2069
+#89|@zeekat|2069
 #90|@StockfishPower|2065
 #91|@Hyper-Stockfish|2064
 #92|@BotifiedMoyao|2058

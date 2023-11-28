@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Viet-AI|2317
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
-#19|@RaspFish|2288
+#19|@RaspFish|2291
 #20|@LudwigBOT|2281
 #21|@LoseisnotAvailablehe|2274
 #22|@bananaaaaaaaaa_test|2269
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@Resolved-Bot|1942
 #68|@Pineapple-Friendly|1937
 #69|@azdad|1936
-#70|@OpeningsBot|1934
+#70|@OpeningsBot|1933
 #71|@HyperLitikBOT|1930
 #72|@Galaxy_Guardian|1906
 #73|@DrSmartBugs|1904
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@NienishiEngine|1465
 #122|@XiDM|1464
 #123|@TorBot|1463
-#124|@DavidsGuterBot|1458
+#124|@DavidsGuterBot|1457
 #125|@McKapran78|1435
 #126|@EZWipe|1432
 #127|@BetaOneBot|1424
