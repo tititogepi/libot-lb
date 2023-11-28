@@ -159,7 +159,7 @@ Rank|Bot|Rating
 #157|@PowerOnBot|1806
 #158|@PiratesBot|1800
 #159|@TheLegitLegend|1786
-#160|@OpeningsBot|1784
+#160|@OpeningsBot|1785
 #161|@MagicHacker123|1774
 #162|@EstmileBot|1769
 #163|@Giphy_Logo|1746
@@ -249,7 +249,7 @@ Rank|Bot|Rating
 #247|@xDmanBOT|1437
 #248|@MrMolotov|1436
 #249|@BOSS_CHESS_BOT|1431
-#250|@pawnrobot|1427
+#250|@pawnrobot|1425
 #251|@shakboy9824453231op|1420
 #252|@bunny_2021|1413
 #253|@TTC-BOT_2|1410
