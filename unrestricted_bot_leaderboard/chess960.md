@@ -19,10 +19,10 @@ Rank|Bot|Rating
 #17|@Intron014|2197
 #18|@lord-bot|2193
 #19|@hyperchessbot1|2189
-#20|@TorBot_v2|2187
+#20|@TorBot_v2|2186
 #21|@Kizburb|2182
 #22|@VariantsBot|2180
-#23|@YoBot_v2|2179
+#23|@YoBot_v2|2180
 #24|@ToromBot|2175
 #25|@Bot_McBotface|2172
 #26|@EmptikBot|2168
