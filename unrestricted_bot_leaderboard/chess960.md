@@ -189,7 +189,7 @@ Rank|Bot|Rating
 #187|@GodelEscherBot|1837
 #188|@Simpafteur|1833
 #189|@ChessHunterBot|1831
-#190|@OpeningsBot|1828
+#190|@OpeningsBot|1830
 #191|@StashBot|1826
 #192|@ZamuChess|1822
 #193|@AI69|1821
@@ -331,7 +331,7 @@ Rank|Bot|Rating
 #329|@AEBROADUSBOTTER|1279
 #330|@yolo_eldiablo15|1274
 #331|@ImpossibleWin|1272
-#332|@Demolito_L6|1265
+#332|@Demolito_L6|1266
 #333|@entebot|1261
 #334|@azdad|1258
 #335|@Itzmoi6g19|1258

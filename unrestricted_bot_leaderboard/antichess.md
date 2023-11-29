@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@Bot_AOOP11|2521
 #42|@HyperLitikBOT|2511
 #43|@pistol-play|2498
-#44|@KingfishX|2491
-#45|@ttBOT|2486
+#44|@ttBOT|2495
+#45|@KingfishX|2491
 #46|@MrBOThacker|2477
 #47|@hauptschuleBOT|2475
 #48|@Alehkine_cat|2474
@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@TurkiyeHogwarts|2240
 #88|@EagleEye2021|2235
 #89|@chesshyperbot|2234
-#90|@anti-bot|2232
+#90|@anti-bot|2230
 #91|@Hyper-Stockfish|2230
 #92|@CocopikachuBOT|2226
 #93|@TungJohn|2225
