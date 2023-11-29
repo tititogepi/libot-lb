@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@TurkiyeHogwarts|2240
 #88|@EagleEye2021|2235
 #89|@chesshyperbot|2234
-#90|@anti-bot|2230
+#90|@anti-bot|2232
 #91|@Hyper-Stockfish|2230
 #92|@CocopikachuBOT|2226
 #93|@TungJohn|2225
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@Lucror|2178
 #105|@lightspeed_bot|2152
 #106|@AntiChessBot|2142
-#107|@CatNail|2138
+#107|@CatNail|2139
 #108|@AnUtterlyKarBot|2134
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@BetaZ|1973
 #120|@antichesssss|1964
 #121|@Menganti|1963
-#122|@pawnrobot|1953
+#122|@pawnrobot|1951
 #123|@CloudBOT|1950
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871

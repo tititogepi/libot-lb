@@ -77,8 +77,8 @@ Rank|Bot|Rating
 #75|@AI-Electro|2059
 #76|@Hien-Vinh_Bot2|2054
 #77|@Alehkine_cat|2053
-#78|@RaspFish|2048
-#79|@allvariants|2047
+#78|@allvariants|2047
+#79|@RaspFish|2047
 #80|@Minhduc12|2045
 #81|@Satyakeswara_BOT|2044
 #82|@leela2200|2043
@@ -189,7 +189,7 @@ Rank|Bot|Rating
 #187|@GodelEscherBot|1837
 #188|@Simpafteur|1833
 #189|@ChessHunterBot|1831
-#190|@OpeningsBot|1830
+#190|@OpeningsBot|1831
 #191|@StashBot|1826
 #192|@ZamuChess|1822
 #193|@AI69|1821
@@ -331,8 +331,8 @@ Rank|Bot|Rating
 #329|@AEBROADUSBOTTER|1279
 #330|@yolo_eldiablo15|1274
 #331|@ImpossibleWin|1272
-#332|@Demolito_L6|1266
-#333|@entebot|1261
+#332|@entebot|1261
+#333|@Demolito_L6|1259
 #334|@azdad|1258
 #335|@Itzmoi6g19|1258
 #336|@SalmonChess9|1258
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@Bot2000|983
 #364|@BogoBot|974
 #365|@ZokBot|969
-#366|@Demolito_L4|964
+#366|@Demolito_L4|961
 #367|@RandomTree77|956
 #368|@Bot_Swana|943
 #369|@bobandi|940

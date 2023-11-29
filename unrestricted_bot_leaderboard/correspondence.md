@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@stockfish_dev|2735
 #3|@Viet-BOT|2660
 #4|@H-Zero|2650
-#5|@Nikitosik-ai|2580
+#5|@Nikitosik-ai|2584
 #6|@peonasesino71|2512
 #7|@ServerFish|2494
 #8|@Bingo202|2484
