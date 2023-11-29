@@ -161,7 +161,7 @@ Rank|Bot|Rating
 #159|@TheLegitLegend|1786
 #160|@MagicHacker123|1774
 #161|@EstmileBot|1769
-#162|@OpeningsBot|1763
+#162|@OpeningsBot|1757
 #163|@Giphy_Logo|1746
 #164|@MRT23|1741
 #165|@ChessPlayer1225|1739
@@ -240,8 +240,8 @@ Rank|Bot|Rating
 #238|@Dong_Xiao_Yuan|1454
 #239|@Future_Chess_Pro|1453
 #240|@MyNameIsSpeeedy|1453
-#241|@BotGeorge|1449
-#242|@pawnrobot|1446
+#241|@pawnrobot|1452
+#242|@BotGeorge|1449
 #243|@AIAlphaAI|1442
 #244|@darkb0t|1441
 #245|@KaTHHHH|1440

@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@OpeningsBot|1763
-#2|@pawnrobot|1446
+#1|@OpeningsBot|1757
+#2|@pawnrobot|1452

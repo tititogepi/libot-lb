@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@WennDieSoldatBOT|2818
 #11|@lord-bot|2789
 #12|@FireFishBOT|2785
-#13|@RaspFish|2772
+#13|@RaspFish|2775
 #14|@VariantsTop|2765
 #15|@Viet-AI|2765
 #16|@SCP079|2736
@@ -52,7 +52,7 @@ Rank|Bot|Rating
 #50|@PepsiForAll|2460
 #51|@CloudBot_v2|2455
 #52|@ResoluteBot|2455
-#53|@NilatacBot|2445
+#53|@NilatacBot|2450
 #54|@Bobby_Fischer_BOT|2435
 #55|@Nobody11892|2435
 #56|@Hagfish|2432
@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@ESC_BOT|2394
 #64|@CatBot_14|2393
 #65|@NormalBulletBot|2393
-#66|@OpeningsBot|2373
+#66|@OpeningsBot|2374
 #67|@Resolved-Bot|2369
 #68|@Trumpfor2O2O|2366
 #69|@HuxZero|2361
@@ -89,7 +89,7 @@ Rank|Bot|Rating
 #87|@TurkiyeHogwarts|2240
 #88|@EagleEye2021|2235
 #89|@chesshyperbot|2234
-#90|@anti-bot|2231
+#90|@anti-bot|2232
 #91|@Hyper-Stockfish|2230
 #92|@CocopikachuBOT|2226
 #93|@TungJohn|2225
@@ -106,7 +106,7 @@ Rank|Bot|Rating
 #104|@Lucror|2178
 #105|@lightspeed_bot|2152
 #106|@AntiChessBot|2142
-#107|@CatNail|2141
+#107|@CatNail|2138
 #108|@AnUtterlyKarBot|2134
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
