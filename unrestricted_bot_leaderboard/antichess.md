@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@WennDieSoldatBOT|2818
 #11|@lord-bot|2789
 #12|@FireFishBOT|2785
-#13|@RaspFish|2769
+#13|@RaspFish|2772
 #14|@VariantsTop|2765
 #15|@Viet-AI|2765
 #16|@SCP079|2736
@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@Resolved-Bot|2369
 #67|@Trumpfor2O2O|2366
 #68|@HuxZero|2361
-#69|@Less_of_a_threat|2357
-#70|@Viet_BOT|2354
-#71|@OpeningsBot|2353
+#69|@OpeningsBot|2360
+#70|@Less_of_a_threat|2357
+#71|@Viet_BOT|2354
 #72|@higuyuu67776|2352
 #73|@Karpov_bot|2335
 #74|@TeamChelsie|2331
@@ -84,7 +84,7 @@ Rank|Bot|Rating
 #82|@GodelEscherBot|2284
 #83|@Dean_Summer_Bot|2279
 #84|@Johnsun|2269
-#85|@anti-bot|2258
+#85|@anti-bot|2254
 #86|@SkyBlaster|2254
 #87|@mrchessmanager|2240
 #88|@TurkiyeHogwarts|2240
@@ -104,10 +104,10 @@ Rank|Bot|Rating
 #102|@EstmileBot|2200
 #103|@HerokuHasnotplay|2196
 #104|@Lucror|2178
-#105|@CatNail|2157
-#106|@lightspeed_bot|2152
-#107|@AntiChessBot|2142
-#108|@AnUtterlyKarBot|2134
+#105|@lightspeed_bot|2152
+#106|@AntiChessBot|2142
+#107|@AnUtterlyKarBot|2134
+#108|@CatNail|2133
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
@@ -121,7 +121,7 @@ Rank|Bot|Rating
 #119|@BetaZ|1973
 #120|@antichesssss|1964
 #121|@Menganti|1963
-#122|@pawnrobot|1955
+#122|@pawnrobot|1954
 #123|@CloudBOT|1950
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
