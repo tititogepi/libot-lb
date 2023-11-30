@@ -162,8 +162,8 @@ Rank|Bot|Rating
 #160|@MagicHacker123|1774
 #161|@EstmileBot|1769
 #162|@Giphy_Logo|1746
-#163|@MRT23|1741
-#164|@OpeningsBot|1740
+#163|@OpeningsBot|1742
+#164|@MRT23|1741
 #165|@ChessPlayer1225|1739
 #166|@Viet_BOT|1733
 #167|@pussaW|1732
@@ -237,7 +237,7 @@ Rank|Bot|Rating
 #235|@thibot|1470
 #236|@fastandfurious10|1464
 #237|@EDSPBOT|1463
-#238|@pawnrobot|1460
+#238|@pawnrobot|1459
 #239|@Dong_Xiao_Yuan|1454
 #240|@Future_Chess_Pro|1453
 #241|@MyNameIsSpeeedy|1453
