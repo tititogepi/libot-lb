@@ -127,7 +127,7 @@ Rank|Bot|Rating
 #125|@Happy_One|1207
 #126|@St6090|1191
 #127|@Simpafteur|1188
-#128|@pawnrobot|1184
+#128|@pawnrobot|1182
 #129|@BetaOneBot|1166
 #130|@ZX-Chess|1145
 #131|@duythong1402|1120
