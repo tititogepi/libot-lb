@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@ToromBot|2180
 #7|@LolFish-1|2146
 #8|@RaspFish|2043
-#9|@OpeningsBot|1835
+#9|@OpeningsBot|1831
 #10|@Cheng-4|1801
 #11|@FataliiBot|1537
 #12|@Demolito_L6|1255
-#13|@Demolito_L5|1085
+#13|@Demolito_L5|1091
 #14|@Demolito_L4|923
 #15|@pawnrobot|571
