@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1071
+#356|@Demolito_L5|1081
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
@@ -368,7 +368,7 @@ Rank|Bot|Rating
 #366|@RandomTree77|956
 #367|@Bot_Swana|943
 #368|@bobandi|940
-#369|@Demolito_L4|937
+#369|@Demolito_L4|927
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|914
 #372|@Palisade|800
