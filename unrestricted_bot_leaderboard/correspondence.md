@@ -78,10 +78,10 @@ Rank|Bot|Rating
 #76|@The_Ruff_Rider10|2101
 #77|@TheAstroBot|2101
 #78|@ZhangirKhanBOT|2093
-#79|@allvariants|2091
-#80|@sf_bot|2088
-#81|@Pro-Python-BOT|2084
-#82|@zeekat|2084
+#79|@zeekat|2092
+#80|@allvariants|2091
+#81|@sf_bot|2088
+#82|@Pro-Python-BOT|2084
 #83|@Chess_ni_BOSS|2080
 #84|@ajedrezarBOT|2079
 #85|@BitByByte|2077
