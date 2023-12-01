@@ -2419,6 +2419,7 @@ yobmef
 yobot_v1
 yobot_v2
 yolo_eldiablo15
+yorubachess
 you_are_destroyed
 yourbot
 yoursparringbot
@@ -2457,4 +2458,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-yorubachess
