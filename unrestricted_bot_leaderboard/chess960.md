@@ -186,8 +186,8 @@ Rank|Bot|Rating
 #184|@tt-challenge|1850
 #185|@Test_God_50_BOT|1843
 #186|@newengine2022|1842
-#187|@GodelEscherBot|1837
-#188|@OpeningsBot|1836
+#187|@OpeningsBot|1838
+#188|@GodelEscherBot|1837
 #189|@Simpafteur|1833
 #190|@ChessHunterBot|1831
 #191|@StashBot|1826
@@ -263,8 +263,8 @@ Rank|Bot|Rating
 #261|@jumbot|1545
 #262|@Less_of_a_threat|1542
 #263|@Just-a-random-bot|1541
-#264|@FataliiBot|1538
-#265|@magnusglad_bot|1538
+#264|@magnusglad_bot|1538
+#265|@FataliiBot|1537
 #266|@CocopikachuBOT|1535
 #267|@clueless-bot|1534
 #268|@Variantenkoning|1534
@@ -355,7 +355,7 @@ Rank|Bot|Rating
 #353|@ZX-Chess|1119
 #354|@Jobabot|1110
 #355|@Dummyette|1107
-#356|@Demolito_L5|1075
+#356|@Demolito_L5|1071
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
@@ -368,7 +368,7 @@ Rank|Bot|Rating
 #366|@RandomTree77|956
 #367|@Bot_Swana|943
 #368|@bobandi|940
-#369|@Demolito_L4|933
+#369|@Demolito_L4|937
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|914
 #372|@Palisade|800

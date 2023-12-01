@@ -81,11 +81,11 @@ Rank|Bot|Rating
 #79|@NienishiEngine|2304
 #80|@BromiumAI|2302
 #81|@EvenMatchup|2302
-#82|@GodelEscherBot|2284
-#83|@Dean_Summer_Bot|2279
-#84|@Johnsun|2269
-#85|@SkyBlaster|2254
-#86|@anti-bot|2253
+#82|@anti-bot|2294
+#83|@GodelEscherBot|2284
+#84|@Dean_Summer_Bot|2279
+#85|@Johnsun|2269
+#86|@SkyBlaster|2254
 #87|@mrchessmanager|2240
 #88|@TurkiyeHogwarts|2240
 #89|@EagleEye2021|2235
