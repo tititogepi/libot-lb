@@ -172,7 +172,7 @@ Rank|Bot|Rating
 #170|@SomeBot|1711
 #171|@Grand_MefBartu-BOT|1709
 #172|@Crepusculum|1708
-#173|@OpeningsBot|1704
+#173|@OpeningsBot|1707
 #174|@KuhusBOT|1697
 #175|@CloudBOT|1689
 #176|@TheLegendaryKnight|1689
@@ -233,7 +233,7 @@ Rank|Bot|Rating
 #231|@MeezKool|1485
 #232|@RSVMentor|1476
 #233|@TheWeakestBot|1476
-#234|@pawnrobot|1473
+#234|@pawnrobot|1470
 #235|@thibot|1470
 #236|@fastandfurious10|1464
 #237|@EDSPBOT|1463
