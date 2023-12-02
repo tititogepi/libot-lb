@@ -171,8 +171,8 @@ Rank|Bot|Rating
 #169|@Epiano_Bot|1724
 #170|@SomeBot|1711
 #171|@Grand_MefBartu-BOT|1709
-#172|@Crepusculum|1708
-#173|@OpeningsBot|1707
+#172|@OpeningsBot|1709
+#173|@Crepusculum|1708
 #174|@KuhusBOT|1697
 #175|@CloudBOT|1689
 #176|@TheLegendaryKnight|1689
@@ -233,8 +233,8 @@ Rank|Bot|Rating
 #231|@MeezKool|1485
 #232|@RSVMentor|1476
 #233|@TheWeakestBot|1476
-#234|@pawnrobot|1470
-#235|@thibot|1470
+#234|@thibot|1470
+#235|@pawnrobot|1468
 #236|@fastandfurious10|1464
 #237|@EDSPBOT|1463
 #238|@Dong_Xiao_Yuan|1454
