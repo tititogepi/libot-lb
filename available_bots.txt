@@ -1411,6 +1411,7 @@ matrix-ai
 max_bot
 maximumef
 maxthedog
+maxwellonlc
 mayan_mex
 mayhem23111
 mc-king-098
@@ -2459,4 +2460,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-maxwellonlc
