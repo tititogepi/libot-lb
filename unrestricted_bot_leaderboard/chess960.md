@@ -200,8 +200,8 @@ Rank|Bot|Rating
 #198|@xiang-qi|1809
 #199|@CloudBOT|1807
 #200|@Lalis1|1804
-#201|@Cheng-4|1801
-#202|@OpeningsBot|1797
+#201|@OpeningsBot|1802
+#202|@Cheng-4|1801
 #203|@EvilFreak|1793
 #204|@Storm_Shadow2012|1788
 #205|@mrchessmanager|1784
@@ -263,9 +263,9 @@ Rank|Bot|Rating
 #261|@jumbot|1545
 #262|@Less_of_a_threat|1542
 #263|@Just-a-random-bot|1541
-#264|@FataliiBot|1539
-#265|@magnusglad_bot|1538
-#266|@CocopikachuBOT|1535
+#264|@magnusglad_bot|1538
+#265|@CocopikachuBOT|1535
+#266|@FataliiBot|1535
 #267|@clueless-bot|1534
 #268|@Variantenkoning|1534
 #269|@anarchychess-bot|1532
@@ -353,9 +353,9 @@ Rank|Bot|Rating
 #351|@St6090|1149
 #352|@Light_To_The_Rescue|1126
 #353|@ZX-Chess|1119
-#354|@Jobabot|1110
-#355|@Dummyette|1107
-#356|@Demolito_L5|1104
+#354|@Demolito_L5|1114
+#355|@Jobabot|1110
+#356|@Dummyette|1107
 #357|@LeElaGuess|1049
 #358|@admin-bot|1003
 #359|@GuineaBot3|1000
@@ -369,7 +369,7 @@ Rank|Bot|Rating
 #367|@Bot_Swana|943
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
-#370|@Demolito_L4|921
+#370|@Demolito_L4|915
 #371|@botTideEval|914
 #372|@Palisade|800
 #373|@WaspBot|798
