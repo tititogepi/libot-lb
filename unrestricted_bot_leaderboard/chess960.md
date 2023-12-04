@@ -351,7 +351,7 @@ Rank|Bot|Rating
 #349|@Pineapple-Friendly|1151
 #350|@WeakBot|1151
 #351|@St6090|1149
-#352|@Demolito_L5|1132
+#352|@Demolito_L5|1137
 #353|@Light_To_The_Rescue|1126
 #354|@ZX-Chess|1119
 #355|@Jobabot|1110
@@ -370,7 +370,7 @@ Rank|Bot|Rating
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
 #370|@botTideEval|914
-#371|@Demolito_L4|897
+#371|@Demolito_L4|893
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735
