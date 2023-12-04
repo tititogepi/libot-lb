@@ -19,10 +19,10 @@ Rank|Bot|Rating
 #17|@Fairy_Belzedar|2544
 #18|@KizVariant|2529
 #19|@SCP079|2526
-#20|@RaspFish|2489
-#21|@Fairy-Stockfish|2484
-#22|@ESC_BOT|2476
-#23|@Less_of_a_threat|2469
+#20|@Fairy-Stockfish|2484
+#21|@ESC_BOT|2476
+#22|@Less_of_a_threat|2469
+#23|@RaspFish|2467
 #24|@NormalBlitzBulletBot|2463
 #25|@faith_bot|2447
 #26|@chessbot2880|2367
