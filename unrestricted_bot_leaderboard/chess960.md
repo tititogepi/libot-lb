@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@St6090|1149
 #352|@Light_To_The_Rescue|1126
 #353|@ZX-Chess|1119
-#354|@Demolito_L5|1114
+#354|@Demolito_L5|1111
 #355|@Jobabot|1110
 #356|@Dummyette|1107
 #357|@LeElaGuess|1049
@@ -369,7 +369,7 @@ Rank|Bot|Rating
 #367|@Bot_Swana|943
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
-#370|@Demolito_L4|915
+#370|@Demolito_L4|918
 #371|@botTideEval|914
 #372|@Palisade|800
 #373|@WaspBot|798

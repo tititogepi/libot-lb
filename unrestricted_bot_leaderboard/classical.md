@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@djungel_lc0|2691
 #13|@SkyAttacker|2680
 #14|@ProteusSF-lite|2670
-#15|@Intron014|2666
+#15|@Intron014|2665
 #16|@ProteusSF-Godot|2665
 #17|@Bingo202|2664
 #18|@ProteusSF-Turbo|2662
@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@Tunder77|2610
 #48|@European_Chess_Bot|2609
 #49|@Nikitosik-ai|2606
-#50|@ArasanX|2604
+#50|@ArasanX|2605
 #51|@LolFish-1|2604
 #52|@Caissa-NNUE|2598
 #53|@Asalfish_15|2595
@@ -134,9 +134,9 @@ Rank|Bot|Rating
 #132|@Viridithas|2460
 #133|@linuxguru_bot0|2459
 #134|@EmptikBot|2458
-#135|@AnUtterlyKarBot|2454
-#136|@KleinerTiger2|2453
-#137|@ELO_1500|2452
+#135|@ELO_1500|2457
+#136|@AnUtterlyKarBot|2454
+#137|@KleinerTiger2|2453
 #138|@Bot_McBotface|2451
 #139|@Magnus-BOT|2451
 #140|@MalanChess|2447
@@ -217,9 +217,9 @@ Rank|Bot|Rating
 #215|@SaxtonEngine|2308
 #216|@bot_licorne|2306
 #217|@TheSystem_Bot|2305
-#218|@Weiawaga|2305
-#219|@CrazyDog5892912|2302
-#220|@Nowinforyoukid|2302
+#218|@CrazyDog5892912|2302
+#219|@Nowinforyoukid|2302
+#220|@Weiawaga|2302
 #221|@LK-Stockfish|2301
 #222|@Skybeam|2301
 #223|@Galaxy_Guardian|2300
@@ -338,7 +338,7 @@ Rank|Bot|Rating
 #336|@CrazyFishEater|2119
 #337|@Pseudo-0|2119
 #338|@Bosburp777|2118
-#339|@Lynx_BOT|2116
+#339|@Lynx_BOT|2117
 #340|@EmanPureNN|2115
 #341|@CloudBOT|2113
 #342|@MagnusCarlsen1507|2113
@@ -364,9 +364,9 @@ Rank|Bot|Rating
 #362|@Ceibo_engine|2071
 #363|@xiang-qi|2070
 #364|@BotifiedMoyao|2069
-#365|@Boris-Trapsky|2068
-#366|@CHESS1000BOT|2068
-#367|@Good-Game-123|2068
+#365|@CHESS1000BOT|2068
+#366|@Good-Game-123|2068
+#367|@Boris-Trapsky|2067
 #368|@Ch4rl3s|2064
 #369|@Botkingteam33|2061
 #370|@Bot-Chocolate|2060
