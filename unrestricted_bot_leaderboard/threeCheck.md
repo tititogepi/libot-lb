@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@EmptikBot|2616
 #9|@LoseisnotAvailablehe|2613
 #10|@EmptikVariantsBot|2589
-#11|@ToromBot|2579
-#12|@Jussicas|2577
-#13|@Coolman2021|2568
+#11|@Jussicas|2577
+#12|@Coolman2021|2568
+#13|@ToromBot|2561
 #14|@Viet-BOT|2555
 #15|@ElPeonElectrico|2549
 #16|@CloudBot_v2|2544

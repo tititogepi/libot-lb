@@ -195,9 +195,9 @@ Rank|Bot|Rating
 #193|@AI69|1821
 #194|@StormphraxEngine|1820
 #195|@ESC_BOT|1815
-#196|@FrozenightEngine|1811
-#197|@try2defeatme|1811
-#198|@OpeningsBot|1810
+#196|@OpeningsBot|1813
+#197|@FrozenightEngine|1811
+#198|@try2defeatme|1811
 #199|@xiang-qi|1809
 #200|@CloudBOT|1807
 #201|@Lalis1|1804
@@ -270,8 +270,8 @@ Rank|Bot|Rating
 #268|@anarchychess-bot|1532
 #269|@beststockfish16|1532
 #270|@SimplerEval|1528
-#271|@FataliiBot|1527
-#272|@XiDM|1525
+#271|@XiDM|1525
+#272|@FataliiBot|1523
 #273|@david9426_bot|1517
 #274|@LioCT|1516
 #275|@YourSparringBot|1503
@@ -351,7 +351,7 @@ Rank|Bot|Rating
 #349|@Pineapple-Friendly|1151
 #350|@WeakBot|1151
 #351|@St6090|1149
-#352|@Demolito_L5|1137
+#352|@Demolito_L5|1135
 #353|@Light_To_The_Rescue|1126
 #354|@ZX-Chess|1119
 #355|@Jobabot|1110
@@ -370,10 +370,10 @@ Rank|Bot|Rating
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
 #370|@botTideEval|914
-#371|@Demolito_L4|893
+#371|@Demolito_L4|894
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735
 #375|@FelixLeonidovich|730
-#376|@pawnrobot|582
+#376|@pawnrobot|585
 #377|@konaz|400
