@@ -1818,6 +1818,7 @@ riptorn
 rishab_bindal
 robbai_3j
 roberts_child
+robiachess
 roblox_destroyer
 robloxianbot
 robochess3214
@@ -2460,4 +2461,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-robiachess
