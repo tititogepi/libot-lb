@@ -17,9 +17,9 @@ Rank|Bot|Rating
 #15|@ResoluteBot|2199
 #16|@Corvus-1|2197
 #17|@Intron014|2197
-#18|@YoBot_v2|2194
-#19|@lord-bot|2193
-#20|@TorBot_v2|2192
+#18|@lord-bot|2193
+#19|@TorBot_v2|2192
+#20|@YoBot_v2|2191
 #21|@hyperchessbot1|2189
 #22|@Kizburb|2182
 #23|@ToromBot|2181
@@ -77,8 +77,8 @@ Rank|Bot|Rating
 #75|@Viet-AI|2060
 #76|@AI-Electro|2059
 #77|@Hien-Vinh_Bot2|2054
-#78|@Alehkine_cat|2053
-#79|@RaspFish|2052
+#78|@RaspFish|2054
+#79|@Alehkine_cat|2053
 #80|@allvariants|2047
 #81|@Minhduc12|2045
 #82|@Satyakeswara_BOT|2044
@@ -197,8 +197,8 @@ Rank|Bot|Rating
 #195|@ESC_BOT|1815
 #196|@FrozenightEngine|1811
 #197|@try2defeatme|1811
-#198|@xiang-qi|1809
-#199|@OpeningsBot|1808
+#198|@OpeningsBot|1810
+#199|@xiang-qi|1809
 #200|@CloudBOT|1807
 #201|@Lalis1|1804
 #202|@Cheng-4|1801
@@ -269,8 +269,8 @@ Rank|Bot|Rating
 #267|@Variantenkoning|1534
 #268|@anarchychess-bot|1532
 #269|@beststockfish16|1532
-#270|@FataliiBot|1528
-#271|@SimplerEval|1528
+#270|@SimplerEval|1528
+#271|@FataliiBot|1527
 #272|@XiDM|1525
 #273|@david9426_bot|1517
 #274|@LioCT|1516
@@ -353,7 +353,7 @@ Rank|Bot|Rating
 #351|@St6090|1149
 #352|@Light_To_The_Rescue|1126
 #353|@ZX-Chess|1119
-#354|@Demolito_L5|1114
+#354|@Demolito_L5|1117
 #355|@Jobabot|1110
 #356|@Dummyette|1107
 #357|@LeElaGuess|1049
@@ -369,8 +369,8 @@ Rank|Bot|Rating
 #367|@Bot_Swana|943
 #368|@bobandi|940
 #369|@YellowJackets_Bot|925
-#370|@Demolito_L4|915
-#371|@botTideEval|914
+#370|@botTideEval|914
+#371|@Demolito_L4|913
 #372|@Palisade|800
 #373|@WaspBot|798
 #374|@LeelaWeak|735
