@@ -371,10 +371,10 @@ Rank|Bot|Rating
 #369|@bobandi|940
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|914
-#372|@Demolito_L4|879
+#372|@Demolito_L4|881
 #373|@Palisade|800
 #374|@WaspBot|798
 #375|@LeelaWeak|735
 #376|@FelixLeonidovich|730
-#377|@pawnrobot|586
+#377|@pawnrobot|584
 #378|@konaz|400
