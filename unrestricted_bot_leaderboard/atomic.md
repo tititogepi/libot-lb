@@ -170,7 +170,7 @@ Rank|Bot|Rating
 #168|@QuickLiquid|1730
 #169|@MyNameIsWhatLOL|1726
 #170|@Epiano_Bot|1724
-#171|@OpeningsBot|1711
+#171|@OpeningsBot|1713
 #172|@SomeBot|1711
 #173|@Grand_MefBartu-BOT|1709
 #174|@Crepusculum|1708
@@ -238,9 +238,9 @@ Rank|Bot|Rating
 #236|@fastandfurious10|1464
 #237|@EDSPBOT|1463
 #238|@Dong_Xiao_Yuan|1454
-#239|@pawnrobot|1454
-#240|@Future_Chess_Pro|1453
-#241|@MyNameIsSpeeedy|1453
+#239|@Future_Chess_Pro|1453
+#240|@MyNameIsSpeeedy|1453
+#241|@pawnrobot|1452
 #242|@BotGeorge|1449
 #243|@AIAlphaAI|1442
 #244|@darkb0t|1441

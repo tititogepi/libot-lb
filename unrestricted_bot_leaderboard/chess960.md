@@ -197,14 +197,14 @@ Rank|Bot|Rating
 #195|@AI69|1821
 #196|@StormphraxEngine|1820
 #197|@ESC_BOT|1815
-#198|@OpeningsBot|1815
+#198|@OpeningsBot|1813
 #199|@FrozenightEngine|1811
 #200|@try2defeatme|1811
 #201|@xiang-qi|1809
 #202|@CloudBOT|1807
 #203|@Lalis1|1804
-#204|@Cheng-4|1793
-#205|@EvilFreak|1793
+#204|@EvilFreak|1793
+#205|@Cheng-4|1790
 #206|@Storm_Shadow2012|1788
 #207|@mrchessmanager|1784
 #208|@Fairy-Stockfish|1782
