@@ -349,9 +349,9 @@ Rank|Bot|Rating
 #347|@schnecken_bot|1182
 #348|@BerntBOT|1162
 #349|@naughty-dottie|1158
-#350|@Pineapple-Friendly|1151
-#351|@WeakBot|1151
-#352|@Demolito_L5|1149
+#350|@Demolito_L5|1153
+#351|@Pineapple-Friendly|1151
+#352|@WeakBot|1151
 #353|@St6090|1149
 #354|@Light_To_The_Rescue|1126
 #355|@ZX-Chess|1119
@@ -371,10 +371,10 @@ Rank|Bot|Rating
 #369|@bobandi|940
 #370|@YellowJackets_Bot|925
 #371|@botTideEval|914
-#372|@Demolito_L4|885
+#372|@Demolito_L4|883
 #373|@Palisade|800
 #374|@WaspBot|798
 #375|@LeelaWeak|735
 #376|@FelixLeonidovich|730
-#377|@pawnrobot|585
+#377|@pawnrobot|583
 #378|@konaz|400
