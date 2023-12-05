@@ -648,6 +648,7 @@ domi119017
 dominosdominate_hs
 dong_xiao_yuan
 donochessbot
+doopchess
 dorpsgek
 dotzero
 doublecode-bot
@@ -2461,4 +2462,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-doopchess
