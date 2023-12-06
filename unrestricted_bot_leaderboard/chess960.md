@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
 #22|@Kizburb|2182
-#23|@YoBot_v2|2182
-#24|@ToromBot|2181
+#23|@ToromBot|2181
+#24|@YoBot_v2|2181
 #25|@VariantsBot|2180
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
@@ -73,7 +73,7 @@ Rank|Bot|Rating
 #71|@KhanhStockfish|2074
 #72|@mrohBOT|2074
 #73|@Mega_BOT|2066
-#74|@RaspFish|2064
+#74|@RaspFish|2066
 #75|@Karpov_bot|2063
 #76|@chessfyBOT|2060
 #77|@Viet-AI|2060
@@ -349,8 +349,8 @@ Rank|Bot|Rating
 #347|@MrKING74_btw|1191
 #348|@schnecken_bot|1182
 #349|@BerntBOT|1162
-#350|@naughty-dottie|1158
-#351|@Demolito_L5|1155
+#350|@Demolito_L5|1161
+#351|@naughty-dottie|1158
 #352|@Pineapple-Friendly|1151
 #353|@WeakBot|1151
 #354|@St6090|1149

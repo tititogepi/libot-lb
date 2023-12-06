@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|2703
-#2|@RaspFish|2603
-#3|@SkyBlaster|2603
-#4|@Viet-AI|2600
+#2|@SkyBlaster|2603
+#3|@Viet-AI|2600
+#4|@RaspFish|2597
 #5|@lord-bot|2581
-#6|@ToromBot|2564
+#6|@ToromBot|2571
 #7|@Fairy_Belzedar|2559
 #8|@EmptikVariantsBot|2557
 #9|@FireFishBOT|2547
@@ -76,9 +76,9 @@ Rank|Bot|Rating
 #74|@CloudBOT|2073
 #75|@JustDontFlagMe|2048
 #76|@Stockfish-MEDIUM|2043
-#77|@OpeningsBot|2039
-#78|@Crepusculum|2036
-#79|@bananaaaaaaaaa_test|2031
+#77|@Crepusculum|2036
+#78|@bananaaaaaaaaa_test|2031
+#79|@OpeningsBot|2029
 #80|@EstmileBot|2018
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@HiddeNL|1573
 #123|@TheSystem_Bot|1572
 #124|@QuickLiquid|1555
-#125|@pawnrobot|1536
+#125|@pawnrobot|1534
 #126|@faith_bot|1514
 #127|@TorBot|1498
 #128|@KnightsArmour|1494
