@@ -11,6 +11,6 @@ Rank|Bot|Rating
 #9|@Cheng-4|1788
 #10|@FataliiBot|1512
 #11|@Demolito_L6|1255
-#12|@Demolito_L5|1161
-#13|@Demolito_L4|886
+#12|@Demolito_L5|1167
+#13|@Demolito_L4|888
 #14|@pawnrobot|584

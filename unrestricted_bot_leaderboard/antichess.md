@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@NormalBulletBot|2393
 #67|@Resolved-Bot|2369
 #68|@Trumpfor2O2O|2366
-#69|@OpeningsBot|2364
-#70|@HuxZero|2361
-#71|@Less_of_a_threat|2357
+#69|@HuxZero|2361
+#70|@Less_of_a_threat|2357
+#71|@OpeningsBot|2357
 #72|@Viet_BOT|2354
 #73|@higuyuu67776|2352
 #74|@Karpov_bot|2335
@@ -82,7 +82,7 @@ Rank|Bot|Rating
 #80|@NienishiEngine|2304
 #81|@BromiumAI|2302
 #82|@EvenMatchup|2302
-#83|@anti-bot|2286
+#83|@anti-bot|2294
 #84|@GodelEscherBot|2284
 #85|@Dean_Summer_Bot|2279
 #86|@Johnsun|2269

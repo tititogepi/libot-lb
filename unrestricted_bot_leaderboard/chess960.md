@@ -348,8 +348,8 @@ Rank|Bot|Rating
 #346|@DrunkenMasterEngine|1204
 #347|@MrKING74_btw|1191
 #348|@schnecken_bot|1182
-#349|@BerntBOT|1162
-#350|@Demolito_L5|1161
+#349|@Demolito_L5|1167
+#350|@BerntBOT|1162
 #351|@naughty-dottie|1158
 #352|@Pineapple-Friendly|1151
 #353|@WeakBot|1151
@@ -372,7 +372,7 @@ Rank|Bot|Rating
 #370|@bobandi|940
 #371|@YellowJackets_Bot|925
 #372|@botTideEval|914
-#373|@Demolito_L4|886
+#373|@Demolito_L4|888
 #374|@Palisade|800
 #375|@WaspBot|798
 #376|@LeelaWeak|735
