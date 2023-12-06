@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@KizVariant|2521
 #5|@Fairy-Stockfish|2486
 #6|@EmptikVariantsBot|2443
-#7|@ToromBot|2440
+#7|@ToromBot|2442
 #8|@ElPeonElectrico|2414
 #9|@Peaceful4Life|2390
 #10|@TheMatrix2025|2389
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@NienishiEngine|1465
 #123|@XiDM|1464
 #124|@TorBot|1463
-#125|@DavidsGuterBot|1453
+#125|@DavidsGuterBot|1452
 #126|@McKapran78|1435
 #127|@EZWipe|1432
 #128|@BetaOneBot|1424

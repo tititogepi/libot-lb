@@ -146,8 +146,8 @@ Rank|Bot|Rating
 #144|@yowCapablanca|1874
 #145|@TheMatrix2025|1872
 #146|@Jibbby|1871
-#147|@ViVe_2_chess_pro|1869
-#148|@yeoldwiz|1867
+#147|@yeoldwiz|1870
+#148|@ViVe_2_chess_pro|1869
 #149|@Official_bot|1857
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853

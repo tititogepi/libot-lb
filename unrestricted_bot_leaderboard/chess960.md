@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@SfishChess2021|2204
 #13|@TheFreshman1902|2203
 #14|@IUseStockfish|2202
-#15|@ResoluteBot|2200
+#15|@ResoluteBot|2199
 #16|@Corvus-1|2197
 #17|@Intron014|2196
 #18|@lord-bot|2193
@@ -350,9 +350,9 @@ Rank|Bot|Rating
 #348|@schnecken_bot|1182
 #349|@BerntBOT|1162
 #350|@naughty-dottie|1158
-#351|@Pineapple-Friendly|1151
-#352|@WeakBot|1151
-#353|@Demolito_L5|1149
+#351|@Demolito_L5|1155
+#352|@Pineapple-Friendly|1151
+#353|@WeakBot|1151
 #354|@St6090|1149
 #355|@Light_To_The_Rescue|1126
 #356|@ZX-Chess|1119
@@ -372,7 +372,7 @@ Rank|Bot|Rating
 #370|@bobandi|940
 #371|@YellowJackets_Bot|925
 #372|@botTideEval|914
-#373|@Demolito_L4|893
+#373|@Demolito_L4|886
 #374|@Palisade|800
 #375|@WaspBot|798
 #376|@LeelaWeak|735
