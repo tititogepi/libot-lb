@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@ESC_BOT|2394
 #65|@CatBot_14|2393
 #66|@NormalBulletBot|2393
-#67|@OpeningsBot|2371
+#67|@OpeningsBot|2373
 #68|@Resolved-Bot|2369
 #69|@Trumpfor2O2O|2366
 #70|@HuxZero|2361
@@ -83,7 +83,7 @@ Rank|Bot|Rating
 #81|@BromiumAI|2302
 #82|@EvenMatchup|2302
 #83|@GodelEscherBot|2284
-#84|@anti-bot|2280
+#84|@anti-bot|2281
 #85|@Dean_Summer_Bot|2279
 #86|@Johnsun|2269
 #87|@SkyBlaster|2254
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2064
+#112|@CatNail|2062
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
