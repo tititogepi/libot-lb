@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Corvus-1|2197
 #17|@Intron014|2196
 #18|@lord-bot|2193
-#19|@TorBot_v2|2193
+#19|@TorBot_v2|2192
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
 #22|@Kizburb|2182
