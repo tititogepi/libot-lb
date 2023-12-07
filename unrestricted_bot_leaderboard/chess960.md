@@ -43,11 +43,11 @@ Rank|Bot|Rating
 #41|@EmptikVariantsBot|2132
 #42|@faith_bot|2131
 #43|@F1R3BOT|2128
-#44|@Lc0Test|2128
-#45|@pangubot|2128
-#46|@BetterAnalyze|2125
-#47|@Caissa-NNUE|2124
-#48|@FireFishBOT_v2|2123
+#44|@FireFishBOT_v2|2128
+#45|@Lc0Test|2128
+#46|@pangubot|2128
+#47|@BetterAnalyze|2125
+#48|@Caissa-NNUE|2124
 #49|@JeffIO|2113
 #50|@Dragon_1906|2111
 #51|@ibep|2111
