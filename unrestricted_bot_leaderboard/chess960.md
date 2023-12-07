@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@Corvus-1|2197
 #16|@ResoluteBot|2197
 #17|@Intron014|2196
-#18|@lord-bot|2193
-#19|@TorBot_v2|2192
+#18|@TorBot_v2|2194
+#19|@lord-bot|2193
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
 #22|@Kizburb|2182
@@ -196,7 +196,7 @@ Rank|Bot|Rating
 #194|@ZamuChess|1822
 #195|@AI69|1821
 #196|@StormphraxEngine|1820
-#197|@OpeningsBot|1817
+#197|@OpeningsBot|1816
 #198|@ESC_BOT|1815
 #199|@FrozenightEngine|1811
 #200|@try2defeatme|1811
