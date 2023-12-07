@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RipTorn|2688
-#2|@Intron014|2670
-#3|@ReinforcementTrial|2658
-#4|@VariantsTop|2658
+#2|@Intron014|2669
+#3|@VariantsTop|2658
+#4|@ReinforcementTrial|2655
 #5|@kdpchess|2648
 #6|@YoBot_v2|2643
 #7|@Africaata|2639
@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@ArasanX|2616
 #13|@RaspFish|2613
 #14|@Mr_Chess_Berserk|2568
-#15|@ELO_1500|2485
-#16|@expositor|2428
+#15|@ELO_1500|2486
+#16|@expositor|2429
 #17|@LazyBot|2377
 #18|@AKS-Mantissa|2368
 #19|@catriever|2360
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@pawn_git|2301
 #23|@bitbitbot|2274
 #24|@ChessNoobComp|2166
-#25|@Phalanx-XXV|2143
-#26|@Lynx_BOT|2127
+#25|@Phalanx-XXV|2142
+#26|@Lynx_BOT|2125
 #27|@Pseudo-0|2117
 #28|@Boris-Trapsky|2099
 #29|@simpleEval|2015
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@matmoi|1925
 #36|@likeawizard-bot|1917
 #37|@GarboBot|1916
-#38|@zeekat|1878
+#38|@zeekat|1879
 #39|@LeelaRogue|1852
 #40|@maia9|1845
 #41|@baby_eubos|1822
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@turochamp-2ply|1595
 #52|@Demolito_L4|1594
 #53|@Trollfish-Bot|1553
-#54|@maia1|1501
+#54|@maia1|1485
 #55|@Humaia|1483
 #56|@chat_bot|1438
 #57|@sargon-2ply|1404

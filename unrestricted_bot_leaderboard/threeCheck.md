@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@SCP079|2526
 #20|@Fairy-Stockfish|2484
 #21|@ESC_BOT|2476
-#22|@Less_of_a_threat|2469
-#23|@RaspFish|2469
+#22|@RaspFish|2471
+#23|@Less_of_a_threat|2469
 #24|@NormalBlitzBulletBot|2463
 #25|@faith_bot|2447
 #26|@chessbot2880|2367
