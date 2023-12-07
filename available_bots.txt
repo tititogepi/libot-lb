@@ -2279,6 +2279,7 @@ tyrcho-bot
 uber_waltigent
 ucbot
 ucibot
+ugonjinji
 ujwal1001
 ukbot
 ultimatel
@@ -2463,4 +2464,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ugonjinji
