@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@Lila-Stockfish|1963
 #64|@chessbot2880|1961
 #65|@PyChessBot|1957
-#66|@abhisun_bot|1947
-#67|@OpeningsBot|1947
+#66|@OpeningsBot|1948
+#67|@abhisun_bot|1947
 #68|@Resolved-Bot|1942
 #69|@Pineapple-Friendly|1937
 #70|@azdad|1936
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@NienishiEngine|1465
 #123|@XiDM|1464
 #124|@TorBot|1463
-#125|@DavidsGuterBot|1452
+#125|@DavidsGuterBot|1450
 #126|@McKapran78|1435
 #127|@EZWipe|1432
 #128|@BetaOneBot|1424

@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ToromBot|2181
 #24|@VariantsBot|2180
 #25|@Bot_McBotface|2172
-#26|@YoBot_v2|2171
+#26|@YoBot_v2|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
 #29|@too_ez4me|2160

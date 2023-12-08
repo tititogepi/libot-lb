@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@fibonachi|2819
-#2|@Viet-BOT|2668
+#2|@Viet-BOT|2673
 #3|@H-Zero|2650
 #4|@Nikitosik-ai|2584
 #5|@peonasesino71|2512
@@ -77,7 +77,7 @@ Rank|Bot|Rating
 #75|@RonaldDuckBot|2101
 #76|@The_Ruff_Rider10|2101
 #77|@TheAstroBot|2101
-#78|@zeekat|2096
+#78|@zeekat|2097
 #79|@ZhangirKhanBOT|2093
 #80|@allvariants|2091
 #81|@sf_bot|2088
