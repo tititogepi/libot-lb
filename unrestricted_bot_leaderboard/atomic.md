@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@TheLegitLegend|1786
 #161|@MagicHacker123|1774
 #162|@EstmileBot|1769
-#163|@OpeningsBot|1753
+#163|@OpeningsBot|1755
 #164|@Giphy_Logo|1746
 #165|@MRT23|1741
 #166|@ChessPlayer1225|1739
@@ -251,8 +251,8 @@ Rank|Bot|Rating
 #249|@MrMolotov|1436
 #250|@BOSS_CHESS_BOT|1431
 #251|@shakboy9824453231op|1420
-#252|@katzebot|1415
-#253|@bunny_2021|1413
+#252|@bunny_2021|1413
+#253|@katzebot|1413
 #254|@TTC-BOT_2|1410
 #255|@Butzke_BOT|1401
 #256|@MartianBot|1386

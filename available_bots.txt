@@ -205,6 +205,7 @@ belgiumbot
 bellachess
 benakachess
 benbotolucam
+bender_rodriguez01
 benmakineyim
 bera_of_bbot
 berlinwallwall
@@ -2465,4 +2466,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bender_rodriguez01
