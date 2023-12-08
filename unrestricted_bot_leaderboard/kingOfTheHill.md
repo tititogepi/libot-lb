@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@Lila-Stockfish|1963
 #64|@chessbot2880|1961
 #65|@PyChessBot|1957
-#66|@OpeningsBot|1948
+#66|@OpeningsBot|1949
 #67|@abhisun_bot|1947
 #68|@Resolved-Bot|1942
 #69|@Pineapple-Friendly|1937
