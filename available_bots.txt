@@ -1087,6 +1087,7 @@ jeddycoco12345
 jeezuschrist
 jeffio
 jellyfischer
+jemangedespieces
 jence
 jeremybot
 jessethefluffydoge
@@ -2464,4 +2465,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-jemangedespieces
