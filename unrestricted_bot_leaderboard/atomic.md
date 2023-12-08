@@ -134,12 +134,12 @@ Rank|Bot|Rating
 #132|@EagleEye2021|1935
 #133|@hjhjhjhjhjhj|1923
 #134|@FyChess2|1921
-#135|@B4dF1sh|1903
-#136|@Isotopebot|1900
-#137|@Just-a-random-bot|1898
-#138|@AX2XB2|1893
-#139|@TheAwesomeBot|1891
-#140|@Lili-Variants|1884
+#135|@Lili-Variants|1920
+#136|@B4dF1sh|1903
+#137|@Isotopebot|1900
+#138|@Just-a-random-bot|1898
+#139|@AX2XB2|1893
+#140|@TheAwesomeBot|1891
 #141|@kostasvl-bot|1877
 #142|@B0T5_RU13|1871
 #143|@RobotTigerSlav|1871
@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@TheLegitLegend|1786
 #161|@MagicHacker123|1774
 #162|@EstmileBot|1769
-#163|@OpeningsBot|1748
+#163|@OpeningsBot|1750
 #164|@Giphy_Logo|1746
 #165|@MRT23|1741
 #166|@ChessPlayer1225|1739
@@ -241,7 +241,7 @@ Rank|Bot|Rating
 #239|@Future_Chess_Pro|1453
 #240|@MyNameIsSpeeedy|1453
 #241|@BotGeorge|1449
-#242|@pawnrobot|1449
+#242|@pawnrobot|1447
 #243|@AIAlphaAI|1442
 #244|@darkb0t|1441
 #245|@KaTHHHH|1440
@@ -252,8 +252,8 @@ Rank|Bot|Rating
 #250|@BOSS_CHESS_BOT|1431
 #251|@shakboy9824453231op|1420
 #252|@bunny_2021|1413
-#253|@katzebot|1411
-#254|@TTC-BOT_2|1410
+#253|@TTC-BOT_2|1410
+#254|@katzebot|1406
 #255|@Butzke_BOT|1401
 #256|@MartianBot|1386
 #257|@Trumpfor2O2O|1386

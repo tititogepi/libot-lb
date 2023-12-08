@@ -133,9 +133,9 @@ Rank|Bot|Rating
 #131|@X2-ITL|1973
 #132|@TasmanRevenge|1971
 #133|@Vetinari_Computer|1970
-#134|@NormalBulletBot|1967
-#135|@KingfishX|1965
-#136|@Lili-Variants|1963
+#134|@Lili-Variants|1967
+#135|@NormalBulletBot|1967
+#136|@KingfishX|1965
 #137|@Dean_Summer_Bot|1960
 #138|@Rishab_Bindal|1960
 #139|@BerserkEngine|1956
@@ -197,7 +197,7 @@ Rank|Bot|Rating
 #195|@AI69|1821
 #196|@StormphraxEngine|1820
 #197|@ESC_BOT|1815
-#198|@OpeningsBot|1813
+#198|@OpeningsBot|1814
 #199|@FrozenightEngine|1811
 #200|@try2defeatme|1811
 #201|@xiang-qi|1809
@@ -275,7 +275,7 @@ Rank|Bot|Rating
 #273|@XiDM|1525
 #274|@david9426_bot|1517
 #275|@LioCT|1516
-#276|@FataliiBot|1512
+#276|@FataliiBot|1510
 #277|@YourSparringBot|1503
 #278|@are_bots_good|1496
 #279|@dolegibot|1496
@@ -348,7 +348,7 @@ Rank|Bot|Rating
 #346|@DrunkenMasterEngine|1204
 #347|@MrKING74_btw|1191
 #348|@schnecken_bot|1182
-#349|@Demolito_L5|1167
+#349|@Demolito_L5|1166
 #350|@BerntBOT|1162
 #351|@naughty-dottie|1158
 #352|@Pineapple-Friendly|1151
