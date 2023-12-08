@@ -77,7 +77,7 @@ Rank|Bot|Rating
 #75|@RonaldDuckBot|2101
 #76|@The_Ruff_Rider10|2101
 #77|@TheAstroBot|2101
-#78|@zeekat|2094
+#78|@zeekat|2096
 #79|@ZhangirKhanBOT|2093
 #80|@allvariants|2091
 #81|@sf_bot|2088
