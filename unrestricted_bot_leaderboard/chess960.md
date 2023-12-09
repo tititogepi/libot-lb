@@ -275,7 +275,7 @@ Rank|Bot|Rating
 #273|@XiDM|1525
 #274|@david9426_bot|1517
 #275|@LioCT|1516
-#276|@FataliiBot|1510
+#276|@FataliiBot|1512
 #277|@YourSparringBot|1503
 #278|@are_bots_good|1496
 #279|@dolegibot|1496
@@ -337,7 +337,7 @@ Rank|Bot|Rating
 #335|@azdad|1258
 #336|@Itzmoi6g19|1258
 #337|@SalmonChess9|1258
-#338|@Demolito_L6|1255
+#338|@Demolito_L6|1252
 #339|@Sparring_Bot|1248
 #340|@RootEngine|1245
 #341|@Future_Chess_Pro|1233

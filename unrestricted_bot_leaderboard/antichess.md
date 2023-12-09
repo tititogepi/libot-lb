@@ -66,10 +66,10 @@ Rank|Bot|Rating
 #64|@ESC_BOT|2394
 #65|@CatBot_14|2393
 #66|@NormalBulletBot|2393
-#67|@OpeningsBot|2376
+#67|@OpeningsBot|2381
 #68|@Resolved-Bot|2369
-#69|@anti-bot|2366
-#70|@Trumpfor2O2O|2366
+#69|@Trumpfor2O2O|2366
+#70|@anti-bot|2361
 #71|@HuxZero|2361
 #72|@Less_of_a_threat|2357
 #73|@Viet_BOT|2354
