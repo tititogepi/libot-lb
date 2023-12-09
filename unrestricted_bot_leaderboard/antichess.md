@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@LoseisnotAvailablehe|2677
 #19|@AntichessAnalyzer|2673
 #20|@TheMatrix2025|2666
-#21|@MalanChess|2638
-#22|@Lili-Variants|2621
+#21|@Lili-Variants|2652
+#22|@MalanChess|2638
 #23|@AmudhanHyperBot|2615
 #24|@bananaaaaaaaaa_test|2608
 #25|@IAMSTOCKFISH123|2603
@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@OpeningsBot|2385
 #68|@Resolved-Bot|2369
 #69|@Trumpfor2O2O|2366
-#70|@anti-bot|2361
-#71|@HuxZero|2361
+#70|@HuxZero|2361
+#71|@anti-bot|2359
 #72|@Less_of_a_threat|2357
 #73|@Viet_BOT|2354
 #74|@higuyuu67776|2352
