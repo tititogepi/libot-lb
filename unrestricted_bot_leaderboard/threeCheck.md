@@ -108,8 +108,8 @@ Rank|Bot|Rating
 #106|@TrashBot|1519
 #107|@relevantproblem|1514
 #108|@Toxic_Bot|1511
-#109|@NoobMasterBOT|1507
-#110|@DavidsGuterBot|1506
+#109|@DavidsGuterBot|1508
+#110|@NoobMasterBOT|1507
 #111|@Epiano_Bot|1491
 #112|@CVA728_BOT_1|1489
 #113|@Rishab_Bindal|1489
@@ -146,7 +146,7 @@ Rank|Bot|Rating
 #144|@Parth_Dhage_2|1258
 #145|@MyNameIsWhatLOL|1256
 #146|@TORTADEMANZANA023|1233
-#147|@pawnrobot|1208
+#147|@pawnrobot|1206
 #148|@heatseeker223|1191
 #149|@admin-bot|1188
 #150|@Ujwal1001|1179
