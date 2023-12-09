@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@ESC_BOT|2394
 #65|@CatBot_14|2393
 #66|@NormalBulletBot|2393
-#67|@OpeningsBot|2384
+#67|@OpeningsBot|2385
 #68|@Resolved-Bot|2369
 #69|@Trumpfor2O2O|2366
 #70|@anti-bot|2361
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1928
+#124|@pawnrobot|1927
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
