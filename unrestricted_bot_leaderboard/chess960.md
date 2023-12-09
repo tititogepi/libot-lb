@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@SfishChess2021|2204
 #13|@TheFreshman1902|2203
 #14|@IUseStockfish|2202
-#15|@ResoluteBot|2200
-#16|@TorBot_v2|2200
+#15|@TorBot_v2|2201
+#16|@ResoluteBot|2200
 #17|@Corvus-1|2197
 #18|@lord-bot|2193
 #19|@hyperchessbot1|2189
@@ -196,8 +196,8 @@ Rank|Bot|Rating
 #194|@ZamuChess|1822
 #195|@AI69|1821
 #196|@StormphraxEngine|1820
-#197|@OpeningsBot|1816
-#198|@ESC_BOT|1815
+#197|@ESC_BOT|1815
+#198|@OpeningsBot|1815
 #199|@FrozenightEngine|1811
 #200|@try2defeatme|1811
 #201|@xiang-qi|1809
@@ -272,8 +272,8 @@ Rank|Bot|Rating
 #270|@anarchychess-bot|1532
 #271|@beststockfish16|1532
 #272|@SimplerEval|1528
-#273|@XiDM|1525
-#274|@FataliiBot|1523
+#273|@FataliiBot|1525
+#274|@XiDM|1525
 #275|@david9426_bot|1517
 #276|@LioCT|1516
 #277|@YourSparringBot|1503
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@RootEngine|1245
 #340|@Future_Chess_Pro|1233
 #341|@AlphaLeela0|1229
-#342|@Demolito_L6|1225
+#342|@Demolito_L6|1223
 #343|@fathzer-jchess|1222
 #344|@WorstBotEver123|1222
 #345|@Bot8983|1210
