@@ -559,6 +559,8 @@ corvus-1
 cosettebot
 cosmic64
 cowboy_time
+cpu2006
+cpu2010
 crabchess
 crappybot
 craytox
@@ -2467,5 +2469,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cpu2006
-cpu2010

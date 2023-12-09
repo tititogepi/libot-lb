@@ -196,8 +196,8 @@ Rank|Bot|Rating
 #194|@ZamuChess|1822
 #195|@AI69|1821
 #196|@StormphraxEngine|1820
-#197|@ESC_BOT|1815
-#198|@OpeningsBot|1815
+#197|@OpeningsBot|1816
+#198|@ESC_BOT|1815
 #199|@FrozenightEngine|1811
 #200|@try2defeatme|1811
 #201|@xiang-qi|1809
@@ -341,7 +341,7 @@ Rank|Bot|Rating
 #339|@RootEngine|1245
 #340|@Future_Chess_Pro|1233
 #341|@AlphaLeela0|1229
-#342|@Demolito_L6|1227
+#342|@Demolito_L6|1225
 #343|@fathzer-jchess|1222
 #344|@WorstBotEver123|1222
 #345|@Bot8983|1210
