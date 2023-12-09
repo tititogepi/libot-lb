@@ -2415,6 +2415,7 @@ yagizturkiyebot
 yakup_0616
 yann-adam
 yasmarin1
+yebot
 yellowflash-x
 yellowflash_v2
 yellowjackets_bot
@@ -2466,4 +2467,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-yebot
