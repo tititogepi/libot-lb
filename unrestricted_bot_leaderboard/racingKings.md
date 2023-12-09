@@ -78,7 +78,7 @@ Rank|Bot|Rating
 #76|@Stockfish-MEDIUM|2043
 #77|@Crepusculum|2036
 #78|@bananaaaaaaaaa_test|2031
-#79|@OpeningsBot|2028
+#79|@OpeningsBot|2029
 #80|@EstmileBot|2018
 #81|@Less_of_a_threat|1979
 #82|@BGSBot|1969
@@ -124,7 +124,7 @@ Rank|Bot|Rating
 #122|@HiddeNL|1573
 #123|@TheSystem_Bot|1572
 #124|@QuickLiquid|1555
-#125|@pawnrobot|1529
+#125|@pawnrobot|1527
 #126|@faith_bot|1514
 #127|@TorBot|1498
 #128|@KnightsArmour|1494
