@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@IUseStockfish|2202
 #16|@ResoluteBot|2198
 #17|@Corvus-1|2197
-#18|@lord-bot|2193
-#19|@Intron014|2192
+#18|@Intron014|2194
+#19|@lord-bot|2193
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
 #22|@YoBot_v2|2186
@@ -264,8 +264,8 @@ Rank|Bot|Rating
 #262|@itsafakeusername2k1|1562
 #263|@jumbot|1545
 #264|@Less_of_a_threat|1542
-#265|@FataliiBot|1541
-#266|@Just-a-random-bot|1541
+#265|@Just-a-random-bot|1541
+#266|@FataliiBot|1539
 #267|@magnusglad_bot|1538
 #268|@CocopikachuBOT|1535
 #269|@clueless-bot|1534
