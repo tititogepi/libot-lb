@@ -1348,6 +1348,7 @@ lowkeybot
 lozza-bot
 ltchessbot
 lucasma8795
+lucia_ai
 lucifercat
 lucror
 lucy-bot
@@ -2470,4 +2471,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lucia_ai
