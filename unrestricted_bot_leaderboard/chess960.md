@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@duythong1402|2148
 #38|@TTC-BOT_2|2148
 #39|@LolFish-1|2146
-#40|@FireFishBOT|2140
-#41|@FireFishBOT_v2|2139
+#40|@FireFishBOT_v2|2142
+#41|@FireFishBOT|2140
 #42|@EmptikVariantsBot|2132
 #43|@faith_bot|2131
 #44|@F1R3BOT|2128
@@ -197,7 +197,7 @@ Rank|Bot|Rating
 #195|@AI69|1821
 #196|@StormphraxEngine|1820
 #197|@ESC_BOT|1815
-#198|@OpeningsBot|1813
+#198|@OpeningsBot|1815
 #199|@FrozenightEngine|1811
 #200|@try2defeatme|1811
 #201|@xiang-qi|1809
@@ -263,8 +263,8 @@ Rank|Bot|Rating
 #261|@XXXTryandTryXXX|1569
 #262|@itsafakeusername2k1|1562
 #263|@jumbot|1545
-#264|@FataliiBot|1543
-#265|@Less_of_a_threat|1542
+#264|@Less_of_a_threat|1542
+#265|@FataliiBot|1541
 #266|@Just-a-random-bot|1541
 #267|@magnusglad_bot|1538
 #268|@CocopikachuBOT|1535
