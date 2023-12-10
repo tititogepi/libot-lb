@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
 #11|@LeelaChessTest|2208
-#12|@TorBot_v2|2206
+#12|@TorBot_v2|2207
 #13|@SfishChess2021|2204
 #14|@TheFreshman1902|2203
 #15|@IUseStockfish|2202
@@ -197,7 +197,7 @@ Rank|Bot|Rating
 #195|@AI69|1821
 #196|@StormphraxEngine|1820
 #197|@ESC_BOT|1815
-#198|@OpeningsBot|1814
+#198|@OpeningsBot|1813
 #199|@FrozenightEngine|1811
 #200|@try2defeatme|1811
 #201|@xiang-qi|1809
