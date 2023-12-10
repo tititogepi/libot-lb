@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@SatrancbazYT|2701
 #11|@djungel_lc0|2691
 #12|@SkyAttacker|2680
-#13|@Intron014|2670
-#14|@ProteusSF-lite|2670
-#15|@RipTorn|2670
+#13|@ProteusSF-lite|2670
+#14|@RipTorn|2670
+#15|@Intron014|2669
 #16|@ProteusSF-Godot|2665
 #17|@Bingo202|2664
 #18|@LeelaMultiPoss|2662
@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@ProteusSF|2660
 #22|@ProteusSF-Open|2660
 #23|@VariantsTop|2658
-#24|@FireFishBOT_v2|2656
-#25|@MphoBot|2656
+#24|@MphoBot|2656
+#25|@FireFishBOT_v2|2655
 #26|@ReinforcementTrial|2654
 #27|@EmptikWeak|2652
 #28|@kdpchess|2647
@@ -42,8 +42,8 @@ Rank|Bot|Rating
 #40|@TorBot|2629
 #41|@Yebot|2626
 #42|@TheFreshman1902|2625
-#43|@ttBOT|2619
-#44|@ArasanX|2618
+#43|@ArasanX|2619
+#44|@ttBOT|2619
 #45|@EmptikBot247|2618
 #46|@TheFreshmanLc0|2618
 #47|@RaspFish|2616
@@ -582,9 +582,9 @@ Rank|Bot|Rating
 #580|@SpitfireBOT|1748
 #581|@TurritopsisDohrnii0|1748
 #582|@CrabChess|1746
-#583|@Wirtanen|1744
-#584|@Jallahata|1742
-#585|@maia9|1741
+#583|@maia9|1746
+#584|@Wirtanen|1744
+#585|@Jallahata|1742
 #586|@DobbyBot|1740
 #587|@Demolito_L5|1738
 #588|@Aromik_s_bot|1737
@@ -643,7 +643,7 @@ Rank|Bot|Rating
 #641|@schnecken_bot|1634
 #642|@munfish|1633
 #643|@GeraldBOT|1630
-#644|@maia5|1624
+#644|@maia5|1626
 #645|@Pawn_Stormer_D4|1624
 #646|@Awesome_Stockfish|1621
 #647|@potato-chess-bot|1620
@@ -655,9 +655,9 @@ Rank|Bot|Rating
 #653|@postbot|1611
 #654|@Mp_Ind_946|1610
 #655|@StockfishOfficial|1608
-#656|@ai-con|1604
-#657|@LeelaWeak|1601
-#658|@maia1|1600
+#656|@maia1|1607
+#657|@ai-con|1604
+#658|@LeelaWeak|1601
 #659|@Alehkine_cat|1599
 #660|@Kiwibot|1597
 #661|@Demolito_L4|1594
@@ -828,4 +828,4 @@ Rank|Bot|Rating
 #826|@marcsterk07|800
 #827|@vezzickbot|800
 #828|@GuineaBot|739
-#829|@G0thamB0t|649
+#829|@G0thamB0t|646

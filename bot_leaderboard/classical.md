@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Intron014|2670
-#2|@RipTorn|2670
+#1|@RipTorn|2670
+#2|@Intron014|2669
 #3|@VariantsTop|2658
-#4|@FireFishBOT_v2|2656
+#4|@FireFishBOT_v2|2655
 #5|@ReinforcementTrial|2654
 #6|@kdpchess|2647
 #7|@Africaata|2642
@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@YoBot_v2|2636
 #10|@ResoluteBot|2630
 #11|@mayhem23111|2629
-#12|@ArasanX|2618
+#12|@ArasanX|2619
 #13|@RaspFish|2616
 #14|@Mr_Chess_Berserk|2579
 #15|@ELO_1500|2468
@@ -41,16 +41,16 @@ Rank|Bot|Rating
 #39|@LeelaRogue|1840
 #40|@baby_eubos|1813
 #41|@Demolito_L6|1779
-#42|@maia9|1741
+#42|@maia9|1746
 #43|@Demolito_L5|1738
 #44|@ChessChildren|1734
 #45|@Virutor|1719
 #46|@honzovy-sachy|1718
 #47|@notropis|1663
 #48|@schnecken_bot|1634
-#49|@maia5|1624
+#49|@maia5|1626
 #50|@ZE_ROOK|1620
-#51|@maia1|1600
+#51|@maia1|1607
 #52|@Demolito_L4|1594
 #53|@turochamp-2ply|1594
 #54|@simplexitor|1592
@@ -61,4 +61,4 @@ Rank|Bot|Rating
 #59|@sargon-2ply|1404
 #60|@sargon-1ply|1354
 #61|@turochamp-1ply|1351
-#62|@G0thamB0t|649
+#62|@G0thamB0t|646
