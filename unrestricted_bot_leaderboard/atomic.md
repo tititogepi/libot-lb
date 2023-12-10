@@ -130,9 +130,9 @@ Rank|Bot|Rating
 #128|@AtomicRouletteBot|1955
 #129|@atomicli|1951
 #130|@HappyDeepawali|1941
-#131|@SimplerEval|1937
-#132|@EagleEye2021|1935
-#133|@Lili-Variants|1933
+#131|@Lili-Variants|1937
+#132|@SimplerEval|1937
+#133|@EagleEye2021|1935
 #134|@hjhjhjhjhjhj|1923
 #135|@FyChess2|1921
 #136|@B4dF1sh|1903
@@ -244,8 +244,8 @@ Rank|Bot|Rating
 #242|@katzebot|1445
 #243|@AIAlphaAI|1442
 #244|@darkb0t|1441
-#245|@pawnrobot|1441
-#246|@KaTHHHH|1440
+#245|@KaTHHHH|1440
+#246|@pawnrobot|1440
 #247|@Chess_Bot-Child|1437
 #248|@DestructeurBot|1437
 #249|@xDmanBOT|1437

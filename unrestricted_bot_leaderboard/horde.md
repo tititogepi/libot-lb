@@ -39,11 +39,11 @@ Rank|Bot|Rating
 #37|@ESC_BOT|2016
 #38|@lightspeed_bot|2010
 #39|@The-Fastest-Bot|2000
-#40|@Mega_BOT|1986
-#41|@Magnus-BOT|1923
-#42|@MalanChess|1921
-#43|@NormalBlitzBulletBot|1915
-#44|@Lili-Variants|1913
+#40|@Lili-Variants|1999
+#41|@Mega_BOT|1986
+#42|@Magnus-BOT|1923
+#43|@MalanChess|1921
+#44|@NormalBlitzBulletBot|1915
 #45|@XXIstCentury|1902
 #46|@AnUtterlyKarBot|1901
 #47|@azdad|1901
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@newengine2022|1712
 #71|@HiddeNL|1708
 #72|@chesshyperbot|1702
-#73|@OpeningsBot|1695
+#73|@OpeningsBot|1689
 #74|@relevantproblem|1667
 #75|@Epiano_Bot|1662
 #76|@VariantsTop|1644
@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@GuineaBot3|1212
 #125|@admin-bot|1209
 #126|@Happy_One|1207
-#127|@pawnrobot|1192
+#127|@pawnrobot|1191
 #128|@St6090|1191
 #129|@Simpafteur|1188
 #130|@BetaOneBot|1166
