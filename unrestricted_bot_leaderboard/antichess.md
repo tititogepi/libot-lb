@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@LoseisnotAvailablehe|2677
 #19|@AntichessAnalyzer|2673
 #20|@TheMatrix2025|2666
-#21|@Lili-Variants|2652
+#21|@Lili-Variants|2654
 #22|@MalanChess|2638
 #23|@AmudhanHyperBot|2615
 #24|@bananaaaaaaaaa_test|2608

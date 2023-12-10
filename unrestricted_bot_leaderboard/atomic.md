@@ -132,7 +132,7 @@ Rank|Bot|Rating
 #130|@HappyDeepawali|1941
 #131|@SimplerEval|1937
 #132|@EagleEye2021|1935
-#133|@Lili-Variants|1929
+#133|@Lili-Variants|1933
 #134|@hjhjhjhjhjhj|1923
 #135|@FyChess2|1921
 #136|@B4dF1sh|1903

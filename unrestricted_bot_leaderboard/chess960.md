@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@ResoluteBot|2198
 #17|@Corvus-1|2197
 #18|@lord-bot|2193
-#19|@hyperchessbot1|2189
-#20|@Intron014|2189
+#19|@Intron014|2191
+#20|@hyperchessbot1|2189
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@YoBot_v2|2182
@@ -179,9 +179,9 @@ Rank|Bot|Rating
 #177|@XMetropolanXBanner|1864
 #178|@SkyAttacker|1863
 #179|@Tundra4|1856
-#180|@ararimbelami|1852
-#181|@Botzer|1852
-#182|@Lili-Variants|1852
+#180|@Lili-Variants|1854
+#181|@ararimbelami|1852
+#182|@Botzer|1852
 #183|@Pro-Python-BOT|1852
 #184|@PerseveranceRover|1851
 #185|@Sovereign_bot|1851
@@ -266,8 +266,8 @@ Rank|Bot|Rating
 #264|@Less_of_a_threat|1542
 #265|@Just-a-random-bot|1541
 #266|@magnusglad_bot|1538
-#267|@FataliiBot|1537
-#268|@CocopikachuBOT|1535
+#267|@CocopikachuBOT|1535
+#268|@FataliiBot|1535
 #269|@clueless-bot|1534
 #270|@Variantenkoning|1534
 #271|@anarchychess-bot|1532
