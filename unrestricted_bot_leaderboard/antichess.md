@@ -17,10 +17,10 @@ Rank|Bot|Rating
 #15|@Viet-AI|2765
 #16|@SCP079|2736
 #17|@ibep|2733
-#18|@Lili-Variants|2700
-#19|@LoseisnotAvailablehe|2677
-#20|@AntichessAnalyzer|2673
-#21|@TheMatrix2025|2666
+#18|@LoseisnotAvailablehe|2677
+#19|@AntichessAnalyzer|2673
+#20|@TheMatrix2025|2666
+#21|@Lili-Variants|2658
 #22|@MalanChess|2638
 #23|@AmudhanHyperBot|2615
 #24|@bananaaaaaaaaa_test|2608
@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@ESC_BOT|2394
 #66|@CatBot_14|2393
 #67|@NormalBulletBot|2393
-#68|@OpeningsBot|2381
+#68|@OpeningsBot|2385
 #69|@Resolved-Bot|2369
 #70|@Trumpfor2O2O|2366
 #71|@HuxZero|2361
