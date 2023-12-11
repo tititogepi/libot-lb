@@ -130,9 +130,9 @@ Rank|Bot|Rating
 #128|@AtomicRouletteBot|1955
 #129|@atomicli|1951
 #130|@HappyDeepawali|1941
-#131|@Lili-Variants|1937
-#132|@SimplerEval|1937
-#133|@EagleEye2021|1935
+#131|@SimplerEval|1937
+#132|@EagleEye2021|1935
+#133|@Lili-Variants|1926
 #134|@hjhjhjhjhjhj|1923
 #135|@FyChess2|1921
 #136|@B4dF1sh|1903
@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@TheLegitLegend|1786
 #161|@MagicHacker123|1774
 #162|@EstmileBot|1769
-#163|@OpeningsBot|1751
+#163|@OpeningsBot|1753
 #164|@Giphy_Logo|1746
 #165|@MRT23|1741
 #166|@ChessPlayer1225|1739

@@ -2135,6 +2135,7 @@ tensorpupper
 terfly
 terrariabot
 test-z
+test_bot123
 test_god_50_bot
 testbot
 testbot1312
@@ -2471,4 +2472,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-test_bot123

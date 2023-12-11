@@ -32,11 +32,11 @@ Rank|Bot|Rating
 #30|@PowerOnBot|2195
 #31|@UnDisstoppableBot|2193
 #32|@Amrobotone|2184
-#33|@HuxZero|2163
-#34|@Mega_BOT|2148
-#35|@AI69|2143
-#36|@RobotTigerSlav|2136
-#37|@Lili-Variants|2129
+#33|@Lili-Variants|2184
+#34|@HuxZero|2163
+#35|@Mega_BOT|2148
+#36|@AI69|2143
+#37|@RobotTigerSlav|2136
 #38|@pistol-play|2121
 #39|@firstrobot|2114
 #40|@NormalBulletBot|2109
@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@chessbot2880|1961
 #66|@PyChessBot|1957
 #67|@abhisun_bot|1947
-#68|@OpeningsBot|1945
+#68|@OpeningsBot|1942
 #69|@Resolved-Bot|1942
 #70|@Pineapple-Friendly|1937
 #71|@azdad|1936

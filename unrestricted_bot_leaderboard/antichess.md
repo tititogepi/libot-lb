@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@Viet-AI|2765
 #16|@SCP079|2736
 #17|@ibep|2733
-#18|@Lili-Variants|2680
+#18|@Lili-Variants|2700
 #19|@LoseisnotAvailablehe|2677
 #20|@AntichessAnalyzer|2673
 #21|@TheMatrix2025|2666
@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@ESC_BOT|2394
 #66|@CatBot_14|2393
 #67|@NormalBulletBot|2393
-#68|@OpeningsBot|2383
+#68|@OpeningsBot|2381
 #69|@Resolved-Bot|2369
 #70|@Trumpfor2O2O|2366
 #71|@HuxZero|2361
@@ -111,8 +111,8 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@ZamuChess|2049
-#113|@CatNail|2046
+#112|@CatNail|2050
+#113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
 #116|@CloudBotZero|2018
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1936
+#124|@pawnrobot|1932
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
