@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Intron014|2209
+#1|@Intron014|2211
 #2|@TorBot_v2|2209
 #3|@ResoluteBot|2201
 #4|@ToromBot|2181
@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@OpeningsBot|1805
 #8|@Cheng-4|1788
 #9|@FataliiBot|1531
-#10|@Demolito_L6|1234
-#11|@Demolito_L5|1156
+#10|@Demolito_L6|1237
+#11|@Demolito_L5|1151
 #12|@Demolito_L4|898
 #13|@pawnrobot|583
