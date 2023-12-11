@@ -60,10 +60,10 @@ Rank|Bot|Rating
 #58|@xiang-qi|2422
 #59|@faith_bot|2420
 #60|@NilatacBot|2416
-#61|@anti-bot|2415
-#62|@DrSmartBugs|2412
-#63|@AttackingOrDefending|2409
-#64|@BitExtender128|2403
+#61|@DrSmartBugs|2412
+#62|@AttackingOrDefending|2409
+#63|@BitExtender128|2403
+#64|@anti-bot|2402
 #65|@ESC_BOT|2394
 #66|@CatBot_14|2393
 #67|@NormalBulletBot|2393
