@@ -167,7 +167,7 @@ Rank|Bot|Rating
 #165|@ReallyCrazyBOT|1245
 #166|@NightStarFox|1243
 #167|@Happy_One|1223
-#168|@pawnrobot|1217
+#168|@pawnrobot|1212
 #169|@Grand_MefBartu-BOT|1200
 #170|@magnusglad_bot|1196
 #171|@FluffBallCuddly|1191
