@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@ToromBot|2181
 #6|@RaspFish|2065
 #7|@OpeningsBot|1805
-#8|@FataliiBot|1545
-#9|@Demolito_L6|1299
-#10|@Demolito_L5|1077
+#8|@FataliiBot|1550
+#9|@Demolito_L6|1300
+#10|@Demolito_L5|1072
 #11|@Demolito_L4|898
 #12|@pawnrobot|604
