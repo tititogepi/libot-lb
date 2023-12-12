@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|2703
-#2|@SkyBlaster|2603
-#3|@RaspFish|2602
+#2|@RaspFish|2608
+#3|@SkyBlaster|2603
 #4|@Viet-AI|2600
 #5|@lord-bot|2581
 #6|@ToromBot|2571

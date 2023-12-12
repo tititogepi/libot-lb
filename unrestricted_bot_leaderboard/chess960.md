@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@IUseStockfish|2202
 #17|@ResoluteBot|2200
 #18|@Corvus-1|2197
-#19|@lord-bot|2193
-#20|@YoBot_v2|2193
+#19|@YoBot_v2|2196
+#20|@lord-bot|2193
 #21|@hyperchessbot1|2189
 #22|@robiachess|2186
 #23|@Kizburb|2182
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@pangubot|2128
 #46|@BetterAnalyze|2125
 #47|@Caissa-NNUE|2124
-#48|@FireFishBOT_v2|2114
+#48|@FireFishBOT_v2|2118
 #49|@JeffIO|2113
 #50|@Dragon_1906|2111
 #51|@ibep|2111
@@ -74,8 +74,8 @@ Rank|Bot|Rating
 #72|@KhanhStockfish|2074
 #73|@mrohBOT|2074
 #74|@Mega_BOT|2066
-#75|@RaspFish|2066
-#76|@Karpov_bot|2063
+#75|@Karpov_bot|2063
+#76|@RaspFish|2062
 #77|@chessfyBOT|2060
 #78|@Viet-AI|2060
 #79|@AI-Electro|2059
@@ -262,8 +262,8 @@ Rank|Bot|Rating
 #260|@lightspeed_bot|1571
 #261|@XXXTryandTryXXX|1569
 #262|@itsafakeusername2k1|1562
-#263|@jumbot|1545
-#264|@FataliiBot|1543
+#263|@FataliiBot|1545
+#264|@jumbot|1545
 #265|@Less_of_a_threat|1542
 #266|@Just-a-random-bot|1541
 #267|@magnusglad_bot|1538
@@ -324,7 +324,7 @@ Rank|Bot|Rating
 #322|@GarboBot|1309
 #323|@DavidsGuterBot|1308
 #324|@camel_bot|1298
-#325|@Demolito_L6|1291
+#325|@Demolito_L6|1294
 #326|@ClubAjedrezChileno|1288
 #327|@LeelaZero-UK|1288
 #328|@queen_stase_approx|1288
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@ZX-Chess|1119
 #356|@Jobabot|1110
 #357|@Dummyette|1107
-#358|@Demolito_L5|1087
+#358|@Demolito_L5|1082
 #359|@LeElaGuess|1049
 #360|@admin-bot|1003
 #361|@GuineaBot3|1000
