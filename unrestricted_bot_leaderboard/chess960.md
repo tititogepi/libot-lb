@@ -199,9 +199,9 @@ Rank|Bot|Rating
 #197|@ESC_BOT|1815
 #198|@FrozenightEngine|1811
 #199|@try2defeatme|1811
-#200|@OpeningsBot|1809
-#201|@xiang-qi|1809
-#202|@CloudBOT|1807
+#200|@xiang-qi|1809
+#201|@CloudBOT|1807
+#202|@OpeningsBot|1806
 #203|@Lalis1|1804
 #204|@EvilFreak|1793
 #205|@Cheng-4|1788
@@ -263,9 +263,9 @@ Rank|Bot|Rating
 #261|@XXXTryandTryXXX|1569
 #262|@itsafakeusername2k1|1562
 #263|@jumbot|1545
-#264|@Less_of_a_threat|1542
-#265|@Just-a-random-bot|1541
-#266|@FataliiBot|1539
+#264|@FataliiBot|1543
+#265|@Less_of_a_threat|1542
+#266|@Just-a-random-bot|1541
 #267|@magnusglad_bot|1538
 #268|@CocopikachuBOT|1535
 #269|@clueless-bot|1534
@@ -324,10 +324,10 @@ Rank|Bot|Rating
 #322|@GarboBot|1309
 #323|@DavidsGuterBot|1308
 #324|@camel_bot|1298
-#325|@ClubAjedrezChileno|1288
-#326|@LeelaZero-UK|1288
-#327|@queen_stase_approx|1288
-#328|@Demolito_L6|1285
+#325|@Demolito_L6|1291
+#326|@ClubAjedrezChileno|1288
+#327|@LeelaZero-UK|1288
+#328|@queen_stase_approx|1288
 #329|@legendbot1|1285
 #330|@FENder_Bender|1283
 #331|@bcbchess|1282
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@ZX-Chess|1119
 #356|@Jobabot|1110
 #357|@Dummyette|1107
-#358|@Demolito_L5|1093
+#358|@Demolito_L5|1087
 #359|@LeElaGuess|1049
 #360|@admin-bot|1003
 #361|@GuineaBot3|1000
@@ -377,5 +377,5 @@ Rank|Bot|Rating
 #375|@WaspBot|798
 #376|@LeelaWeak|735
 #377|@FelixLeonidovich|730
-#378|@pawnrobot|592
+#378|@pawnrobot|604
 #379|@konaz|400

@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@YoBot_v2|2193
 #5|@ToromBot|2181
 #6|@RaspFish|2066
-#7|@OpeningsBot|1809
+#7|@OpeningsBot|1806
 #8|@Cheng-4|1788
-#9|@FataliiBot|1539
-#10|@Demolito_L6|1285
-#11|@Demolito_L5|1093
+#9|@FataliiBot|1543
+#10|@Demolito_L6|1291
+#11|@Demolito_L5|1087
 #12|@Demolito_L4|898
-#13|@pawnrobot|592
+#13|@pawnrobot|604

@@ -1754,6 +1754,7 @@ q-bith
 qalatbotengine
 qalattop
 qchessv2
+quanticade
 quaviverbot
 que-encrypt
 que-hyper
@@ -2472,4 +2473,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-quanticade
