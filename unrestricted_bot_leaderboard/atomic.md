@@ -162,7 +162,7 @@ Rank|Bot|Rating
 #160|@TheLegitLegend|1786
 #161|@MagicHacker123|1774
 #162|@EstmileBot|1769
-#163|@OpeningsBot|1763
+#163|@OpeningsBot|1765
 #164|@Giphy_Logo|1746
 #165|@MRT23|1741
 #166|@ChessPlayer1225|1739
@@ -232,7 +232,7 @@ Rank|Bot|Rating
 #230|@Pikachu_270|1497
 #231|@Iwantedtoplaychess|1486
 #232|@MeezKool|1485
-#233|@pawnrobot|1485
+#233|@pawnrobot|1483
 #234|@RSVMentor|1476
 #235|@TheWeakestBot|1476
 #236|@thibot|1470
