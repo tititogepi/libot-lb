@@ -323,7 +323,7 @@ Rank|Bot|Rating
 #321|@Filipo6900|1310
 #322|@GarboBot|1309
 #323|@DavidsGuterBot|1308
-#324|@Demolito_L6|1304
+#324|@Demolito_L6|1306
 #325|@camel_bot|1298
 #326|@ClubAjedrezChileno|1288
 #327|@LeelaZero-UK|1288
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@ZX-Chess|1119
 #356|@Jobabot|1110
 #357|@Dummyette|1107
-#358|@Demolito_L5|1065
+#358|@Demolito_L5|1062
 #359|@LeElaGuess|1049
 #360|@admin-bot|1003
 #361|@GuineaBot3|1000

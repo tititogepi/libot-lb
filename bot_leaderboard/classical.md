@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Intron014|2670
 #3|@FireFishBOT_v2|2662
 #4|@VariantsTop|2658
-#5|@ReinforcementTrial|2655
+#5|@ReinforcementTrial|2651
 #6|@kdpchess|2647
 #7|@Africaata|2645
 #8|@YoBot_v2|2645
@@ -13,14 +13,14 @@ Rank|Bot|Rating
 #11|@RaspFish|2628
 #12|@ArasanX|2626
 #13|@mayhem23111|2618
-#14|@HansNiemannBot|2593
+#14|@HansNiemannBot|2599
 #15|@LBOT007|2572
 #16|@Mr_Chess_Berserk|2556
 #17|@ELO_1500|2479
 #18|@expositor|2433
-#19|@AKS-Mantissa|2381
+#19|@AKS-Mantissa|2385
 #20|@LazyBot|2363
-#21|@Weiawaga|2328
+#21|@Weiawaga|2326
 #22|@catriever|2323
 #23|@SaxtonEngine|2315
 #24|@pawn_git|2296
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@GarboBot|1915
 #37|@matmoi|1913
 #38|@likeawizard-bot|1911
-#39|@zeekat|1892
+#39|@zeekat|1894
 #40|@LeelaRogue|1840
 #41|@baby_eubos|1813
 #42|@Demolito_L6|1773
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@Virutor|1718
 #47|@maia9|1663
 #48|@notropis|1663
-#49|@turkjs|1651
+#49|@turkjs|1648
 #50|@schnecken_bot|1634
 #51|@maia5|1626
 #52|@ZE_ROOK|1618
