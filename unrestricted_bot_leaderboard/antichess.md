@@ -63,10 +63,10 @@ Rank|Bot|Rating
 #61|@DrSmartBugs|2412
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403
-#64|@anti-bot|2400
-#65|@ESC_BOT|2394
-#66|@CatBot_14|2393
-#67|@NormalBulletBot|2393
+#64|@ESC_BOT|2394
+#65|@CatBot_14|2393
+#66|@NormalBulletBot|2393
+#67|@anti-bot|2391
 #68|@OpeningsBot|2385
 #69|@Resolved-Bot|2369
 #70|@Trumpfor2O2O|2366
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2055
+#112|@CatNail|2053
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1928
+#124|@pawnrobot|1931
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
