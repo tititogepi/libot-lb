@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@hyperchessbot1|2189
 #22|@robiachess|2186
 #23|@Kizburb|2182
-#24|@ToromBot|2181
+#24|@ToromBot|2182
 #25|@VariantsBot|2180
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
@@ -201,8 +201,8 @@ Rank|Bot|Rating
 #199|@try2defeatme|1811
 #200|@xiang-qi|1809
 #201|@CloudBOT|1807
-#202|@Lalis1|1804
-#203|@OpeningsBot|1804
+#202|@OpeningsBot|1806
+#203|@Lalis1|1804
 #204|@EvilFreak|1793
 #205|@Cheng-4|1788
 #206|@Storm_Shadow2012|1788
@@ -320,10 +320,10 @@ Rank|Bot|Rating
 #318|@thousandatom|1330
 #319|@SF12Bot|1319
 #320|@Happy_One|1316
-#321|@Demolito_L6|1310
-#322|@Filipo6900|1310
-#323|@GarboBot|1309
-#324|@DavidsGuterBot|1308
+#321|@Filipo6900|1310
+#322|@GarboBot|1309
+#323|@DavidsGuterBot|1308
+#324|@Demolito_L6|1308
 #325|@camel_bot|1298
 #326|@ClubAjedrezChileno|1288
 #327|@LeelaZero-UK|1288
