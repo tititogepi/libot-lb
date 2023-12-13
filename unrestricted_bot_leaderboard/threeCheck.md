@@ -105,9 +105,9 @@ Rank|Bot|Rating
 #103|@knight_128|1563
 #104|@Galaxy_Guardian|1561
 #105|@Alehkine_cat|1549
-#106|@TrashBot|1519
-#107|@relevantproblem|1514
-#108|@DavidsGuterBot|1512
+#106|@DavidsGuterBot|1524
+#107|@TrashBot|1519
+#108|@relevantproblem|1514
 #109|@Toxic_Bot|1511
 #110|@NoobMasterBOT|1507
 #111|@Epiano_Bot|1491
