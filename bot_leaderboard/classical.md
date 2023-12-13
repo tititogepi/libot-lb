@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@RipTorn|2675
-#2|@Intron014|2670
+#2|@Intron014|2668
 #3|@FireFishBOT_v2|2662
 #4|@VariantsTop|2658
 #5|@ReinforcementTrial|2651
@@ -15,12 +15,12 @@ Rank|Bot|Rating
 #13|@mayhem23111|2618
 #14|@HansNiemannBot|2599
 #15|@LBOT007|2572
-#16|@Mr_Chess_Berserk|2556
+#16|@Mr_Chess_Berserk|2558
 #17|@ELO_1500|2479
 #18|@expositor|2433
 #19|@AKS-Mantissa|2385
 #20|@LazyBot|2363
-#21|@Weiawaga|2326
+#21|@Weiawaga|2329
 #22|@catriever|2323
 #23|@SaxtonEngine|2315
 #24|@pawn_git|2296
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@Phalanx-XXV|2146
 #27|@Pseudo-0|2116
 #28|@Lynx_BOT|2106
-#29|@Boris-Trapsky|2099
+#29|@Boris-Trapsky|2097
 #30|@simpleEval|2006
 #31|@FataliiBot|2001
 #32|@HistoryExplorer|1973
@@ -49,10 +49,10 @@ Rank|Bot|Rating
 #47|@maia9|1663
 #48|@notropis|1663
 #49|@turkjs|1648
-#50|@schnecken_bot|1634
-#51|@maia5|1626
+#50|@maia5|1639
+#51|@schnecken_bot|1634
 #52|@ZE_ROOK|1618
-#53|@sargon-3ply|1608
+#53|@sargon-3ply|1597
 #54|@turochamp-2ply|1594
 #55|@simplexitor|1592
 #56|@Demolito_L4|1586
