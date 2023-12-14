@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
 #8|@LoseisnotAvailablehe|2217
-#9|@Intron014|2212
+#9|@Intron014|2213
 #10|@LeelaFish1|2212
 #11|@Xerus_1|2211
 #12|@LeelaChessTest|2208
@@ -196,8 +196,8 @@ Rank|Bot|Rating
 #194|@ZamuChess|1822
 #195|@AI69|1821
 #196|@StormphraxEngine|1820
-#197|@OpeningsBot|1816
-#198|@ESC_BOT|1815
+#197|@ESC_BOT|1815
+#198|@OpeningsBot|1815
 #199|@FrozenightEngine|1811
 #200|@try2defeatme|1811
 #201|@xiang-qi|1809
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@Jobabot|1110
 #357|@Dummyette|1107
 #358|@LeElaGuess|1049
-#359|@Demolito_L5|1043
+#359|@Demolito_L5|1047
 #360|@admin-bot|1003
 #361|@GuineaBot3|1000
 #362|@TuroBot|997
@@ -371,7 +371,7 @@ Rank|Bot|Rating
 #369|@Bot_Swana|943
 #370|@bobandi|940
 #371|@YellowJackets_Bot|925
-#372|@Demolito_L4|921
+#372|@Demolito_L4|918
 #373|@botTideEval|914
 #374|@Palisade|800
 #375|@WaspBot|798
