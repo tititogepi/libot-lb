@@ -161,9 +161,9 @@ Rank|Bot|Rating
 #159|@PowerOnBot|1806
 #160|@PiratesBot|1800
 #161|@TheLegitLegend|1786
-#162|@MagicHacker123|1774
-#163|@EstmileBot|1769
-#164|@OpeningsBot|1767
+#162|@OpeningsBot|1778
+#163|@MagicHacker123|1774
+#164|@EstmileBot|1769
 #165|@Giphy_Logo|1746
 #166|@MRT23|1741
 #167|@ChessPlayer1225|1739
