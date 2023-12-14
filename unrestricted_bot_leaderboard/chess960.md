@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@tuanbn14|2269
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
-#8|@Intron014|2222
-#9|@LoseisnotAvailablehe|2217
+#8|@LoseisnotAvailablehe|2217
+#9|@Intron014|2216
 #10|@LeelaFish1|2212
 #11|@Xerus_1|2211
 #12|@LeelaChessTest|2208
@@ -19,11 +19,11 @@ Rank|Bot|Rating
 #17|@ResoluteBot|2198
 #18|@Corvus-1|2197
 #19|@lord-bot|2193
-#20|@hyperchessbot1|2189
-#21|@robiachess|2186
-#22|@Kizburb|2182
-#23|@ToromBot|2182
-#24|@YoBot_v2|2182
+#20|@YoBot_v2|2190
+#21|@hyperchessbot1|2189
+#22|@robiachess|2186
+#23|@Kizburb|2182
+#24|@ToromBot|2182
 #25|@VariantsBot|2180
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
@@ -202,7 +202,7 @@ Rank|Bot|Rating
 #200|@xiang-qi|1809
 #201|@CloudBOT|1807
 #202|@Lalis1|1804
-#203|@OpeningsBot|1803
+#203|@OpeningsBot|1804
 #204|@EvilFreak|1793
 #205|@Cheng-4|1788
 #206|@Storm_Shadow2012|1788
@@ -262,7 +262,7 @@ Rank|Bot|Rating
 #260|@lightspeed_bot|1571
 #261|@XXXTryandTryXXX|1569
 #262|@itsafakeusername2k1|1562
-#263|@FataliiBot|1550
+#263|@FataliiBot|1548
 #264|@jumbot|1545
 #265|@Less_of_a_threat|1542
 #266|@Just-a-random-bot|1541
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@ZX-Chess|1119
 #356|@Jobabot|1110
 #357|@Dummyette|1107
-#358|@Demolito_L5|1070
+#358|@Demolito_L5|1067
 #359|@LeElaGuess|1049
 #360|@admin-bot|1003
 #361|@GuineaBot3|1000
@@ -372,7 +372,7 @@ Rank|Bot|Rating
 #370|@bobandi|940
 #371|@YellowJackets_Bot|925
 #372|@botTideEval|914
-#373|@Demolito_L4|889
+#373|@Demolito_L4|892
 #374|@Palisade|800
 #375|@WaspBot|798
 #376|@LeelaWeak|735
