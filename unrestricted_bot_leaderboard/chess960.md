@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@tuanbn14|2269
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
-#8|@Intron014|2219
+#8|@Intron014|2222
 #9|@LoseisnotAvailablehe|2217
 #10|@LeelaFish1|2212
 #11|@Xerus_1|2211
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@TorBot_v2|2204
 #15|@TheFreshman1902|2203
 #16|@IUseStockfish|2202
-#17|@ResoluteBot|2199
+#17|@ResoluteBot|2198
 #18|@Corvus-1|2197
 #19|@lord-bot|2193
 #20|@hyperchessbot1|2189
@@ -201,8 +201,8 @@ Rank|Bot|Rating
 #199|@try2defeatme|1811
 #200|@xiang-qi|1809
 #201|@CloudBOT|1807
-#202|@OpeningsBot|1806
-#203|@Lalis1|1804
+#202|@Lalis1|1804
+#203|@OpeningsBot|1803
 #204|@EvilFreak|1793
 #205|@Cheng-4|1788
 #206|@Storm_Shadow2012|1788
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@ZX-Chess|1119
 #356|@Jobabot|1110
 #357|@Dummyette|1107
-#358|@Demolito_L5|1067
+#358|@Demolito_L5|1070
 #359|@LeElaGuess|1049
 #360|@admin-bot|1003
 #361|@GuineaBot3|1000
@@ -372,10 +372,10 @@ Rank|Bot|Rating
 #370|@bobandi|940
 #371|@YellowJackets_Bot|925
 #372|@botTideEval|914
-#373|@Demolito_L4|891
+#373|@Demolito_L4|889
 #374|@Palisade|800
 #375|@WaspBot|798
 #376|@LeelaWeak|735
 #377|@FelixLeonidovich|730
-#378|@pawnrobot|602
+#378|@pawnrobot|600
 #379|@konaz|400
