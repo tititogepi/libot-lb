@@ -42,10 +42,10 @@ Rank|Bot|Rating
 #40|@FireFishBOT|2140
 #41|@EmptikVariantsBot|2132
 #42|@faith_bot|2131
-#43|@F1R3BOT|2128
-#44|@Lc0Test|2128
-#45|@pangubot|2128
-#46|@FireFishBOT_v2|2127
+#43|@FireFishBOT_v2|2129
+#44|@F1R3BOT|2128
+#45|@Lc0Test|2128
+#46|@pangubot|2128
 #47|@BetterAnalyze|2125
 #48|@Caissa-NNUE|2124
 #49|@JeffIO|2113
@@ -199,9 +199,9 @@ Rank|Bot|Rating
 #197|@ESC_BOT|1815
 #198|@FrozenightEngine|1811
 #199|@try2defeatme|1811
-#200|@xiang-qi|1809
-#201|@CloudBOT|1807
-#202|@OpeningsBot|1805
+#200|@OpeningsBot|1809
+#201|@xiang-qi|1809
+#202|@CloudBOT|1807
 #203|@Lalis1|1804
 #204|@EvilFreak|1793
 #205|@Cheng-4|1788
@@ -262,7 +262,7 @@ Rank|Bot|Rating
 #260|@lightspeed_bot|1571
 #261|@XXXTryandTryXXX|1569
 #262|@itsafakeusername2k1|1562
-#263|@FataliiBot|1552
+#263|@FataliiBot|1547
 #264|@jumbot|1545
 #265|@Less_of_a_threat|1542
 #266|@Just-a-random-bot|1541
@@ -357,7 +357,7 @@ Rank|Bot|Rating
 #355|@ZX-Chess|1119
 #356|@Jobabot|1110
 #357|@Dummyette|1107
-#358|@Demolito_L5|1062
+#358|@Demolito_L5|1060
 #359|@LeElaGuess|1049
 #360|@admin-bot|1003
 #361|@GuineaBot3|1000
@@ -372,7 +372,7 @@ Rank|Bot|Rating
 #370|@bobandi|940
 #371|@YellowJackets_Bot|925
 #372|@botTideEval|914
-#373|@Demolito_L4|902
+#373|@Demolito_L4|905
 #374|@Palisade|800
 #375|@WaspBot|798
 #376|@LeelaWeak|735
