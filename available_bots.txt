@@ -580,6 +580,7 @@ crocrodile-dev
 croissantdealer
 cruelbot
 cruisemissile
+crystalbot
 csc207-project
 cshar9
 cstal-2
@@ -2474,4 +2475,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-crystalbot
+leela_960
