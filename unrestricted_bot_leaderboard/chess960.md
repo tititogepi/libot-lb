@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@tuanbn14|2269
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
-#8|@Intron014|2218
+#8|@Intron014|2219
 #9|@LoseisnotAvailablehe|2217
 #10|@LeelaFish1|2212
 #11|@Xerus_1|2211
@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@IUseStockfish|2202
 #17|@Corvus-1|2197
 #18|@ResoluteBot|2197
-#19|@YoBot_v2|2194
-#20|@lord-bot|2193
+#19|@lord-bot|2193
+#20|@YoBot_v2|2191
 #21|@hyperchessbot1|2189
 #22|@robiachess|2186
 #23|@Kizburb|2182
@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@TTC-BOT_2|2148
 #39|@LolFish-1|2146
 #40|@FireFishBOT|2140
-#41|@EmptikVariantsBot|2132
-#42|@FireFishBOT_v2|2132
+#41|@FireFishBOT_v2|2134
+#42|@EmptikVariantsBot|2132
 #43|@faith_bot|2131
 #44|@F1R3BOT|2128
 #45|@Lc0Test|2128
@@ -71,9 +71,9 @@ Rank|Bot|Rating
 #69|@chessbot2880|2079
 #70|@EmptikBotLc0|2079
 #71|@NimsiluBot|2078
-#72|@KhanhStockfish|2074
-#73|@mrohBOT|2074
-#74|@RaspFish|2073
+#72|@RaspFish|2075
+#73|@KhanhStockfish|2074
+#74|@mrohBOT|2074
 #75|@Mega_BOT|2066
 #76|@Karpov_bot|2063
 #77|@chessfyBOT|2060
@@ -193,7 +193,7 @@ Rank|Bot|Rating
 #191|@Simpafteur|1833
 #192|@ChessHunterBot|1831
 #193|@StashBot|1826
-#194|@OpeningsBot|1824
+#194|@OpeningsBot|1822
 #195|@ZamuChess|1822
 #196|@AI69|1821
 #197|@StormphraxEngine|1820

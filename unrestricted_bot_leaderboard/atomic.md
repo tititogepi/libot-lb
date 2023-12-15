@@ -161,7 +161,7 @@ Rank|Bot|Rating
 #159|@PowerOnBot|1806
 #160|@PiratesBot|1800
 #161|@TheLegitLegend|1786
-#162|@OpeningsBot|1778
+#162|@OpeningsBot|1782
 #163|@MagicHacker123|1774
 #164|@EstmileBot|1769
 #165|@Giphy_Logo|1746
@@ -235,8 +235,8 @@ Rank|Bot|Rating
 #233|@MeezKool|1485
 #234|@RSVMentor|1476
 #235|@TheWeakestBot|1476
-#236|@pawnrobot|1470
-#237|@thibot|1470
+#236|@thibot|1470
+#237|@pawnrobot|1467
 #238|@fastandfurious10|1464
 #239|@EDSPBOT|1463
 #240|@Dong_Xiao_Yuan|1454

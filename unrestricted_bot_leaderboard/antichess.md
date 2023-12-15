@@ -122,8 +122,8 @@ Rank|Bot|Rating
 #120|@CrayyBot|1989
 #121|@BetaZ|1973
 #122|@antichesssss|1964
-#123|@Menganti|1963
-#124|@pawnrobot|1962
+#123|@pawnrobot|1964
+#124|@Menganti|1963
 #125|@CloudBOT|1950
 #126|@Crepusculum|1881
 #127|@NoTallkOnlyGames|1871
