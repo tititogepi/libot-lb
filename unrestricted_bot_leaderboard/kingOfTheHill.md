@@ -152,7 +152,7 @@ Rank|Bot|Rating
 #150|@Boom_Bot|1176
 #151|@TrashBot|1168
 #152|@shakboy9824453231op|1152
-#153|@pawnrobot|1150
+#153|@pawnrobot|1144
 #154|@GuineaBot3|1121
 #155|@DespacitoBot|1094
 #156|@ZokBot|1076
