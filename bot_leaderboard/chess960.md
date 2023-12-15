@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@Intron014|2219
 #2|@TorBot_v2|2203
 #3|@ResoluteBot|2197
-#4|@YoBot_v2|2188
+#4|@YoBot_v2|2189
 #5|@ToromBot|2182
 #6|@RaspFish|2077
 #7|@OpeningsBot|1822
