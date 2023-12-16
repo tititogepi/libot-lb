@@ -126,7 +126,7 @@ Rank|Bot|Rating
 #124|@GuineaBot3|1212
 #125|@admin-bot|1209
 #126|@Happy_One|1207
-#127|@pawnrobot|1201
+#127|@pawnrobot|1199
 #128|@St6090|1191
 #129|@Simpafteur|1188
 #130|@BetaOneBot|1166
