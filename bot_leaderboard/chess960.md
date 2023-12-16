@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@Intron014|2222
 #2|@TorBot_v2|2210
 #3|@ResoluteBot|2202
-#4|@YoBot_v2|2189
+#4|@YoBot_v2|2192
 #5|@ToromBot|2182
-#6|@RaspFish|2072
+#6|@RaspFish|2068
 #7|@OpeningsBot|1806
 #8|@Cheng-4|1788
 #9|@FataliiBot|1528
