@@ -60,9 +60,9 @@ Rank|Bot|Rating
 #58|@EmptikBot247|2422
 #59|@xiang-qi|2422
 #60|@faith_bot|2420
-#61|@DrSmartBugs|2412
-#62|@AttackingOrDefending|2409
-#63|@NilatacBot|2409
+#61|@NilatacBot|2416
+#62|@DrSmartBugs|2412
+#63|@AttackingOrDefending|2409
 #64|@BitExtender128|2403
 #65|@ESC_BOT|2394
 #66|@CatBot_14|2393
@@ -76,8 +76,8 @@ Rank|Bot|Rating
 #74|@higuyuu67776|2352
 #75|@Karpov_bot|2335
 #76|@TeamChelsie|2331
-#77|@anti-bot|2320
-#78|@AI69|2312
+#77|@AI69|2312
+#78|@anti-bot|2311
 #79|@Kizburb|2307
 #80|@MagicverseBOT|2306
 #81|@abhisun_bot|2305
