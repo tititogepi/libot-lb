@@ -19,10 +19,10 @@ Rank|Bot|Rating
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
 #19|@LudwigBOT|2281
-#20|@LoseisnotAvailablehe|2274
-#21|@bananaaaaaaaaa_test|2269
-#22|@Bobby_Fischer_BOT|2267
-#23|@RaspFish|2267
+#20|@RaspFish|2276
+#21|@LoseisnotAvailablehe|2274
+#22|@bananaaaaaaaaa_test|2269
+#23|@Bobby_Fischer_BOT|2267
 #24|@lord-bot|2258
 #25|@YoBot_v2|2242
 #26|@ResoluteBot|2233
@@ -66,8 +66,8 @@ Rank|Bot|Rating
 #64|@Lila-Stockfish|1963
 #65|@chessbot2880|1961
 #66|@PyChessBot|1957
-#67|@abhisun_bot|1947
-#68|@OpeningsBot|1942
+#67|@OpeningsBot|1950
+#68|@abhisun_bot|1947
 #69|@Resolved-Bot|1942
 #70|@Pineapple-Friendly|1937
 #71|@azdad|1936
