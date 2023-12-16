@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@VariantsBot|2579
 #4|@KizVariant|2521
 #5|@Fairy-Stockfish|2486
-#6|@ToromBot|2444
+#6|@ToromBot|2451
 #7|@EmptikVariantsBot|2443
 #8|@ElPeonElectrico|2414
 #9|@Peaceful4Life|2390

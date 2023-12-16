@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2824
+#1|@fibonachi|2814
 #2|@Viet-BOT|2686
 #3|@H-Zero|2650
 #4|@Nikitosik-ai|2599
@@ -255,12 +255,12 @@ Rank|Bot|Rating
 #253|@FASTCHESSBOT|1584
 #254|@Boom_Bot|1582
 #255|@Wahoo_Bot|1575
-#256|@knight_BOT|1566
-#257|@likeawizard-bot|1565
-#258|@LegendG21|1546
-#259|@LilDoctorJank|1546
-#260|@maia9|1545
-#261|@katzebot|1540
+#256|@katzebot|1569
+#257|@knight_BOT|1566
+#258|@likeawizard-bot|1565
+#259|@LegendG21|1546
+#260|@LilDoctorJank|1546
+#261|@maia9|1545
 #262|@XXIstCentury|1534
 #263|@Genetic_Chess_Bot|1532
 #264|@lolchessbot69|1527

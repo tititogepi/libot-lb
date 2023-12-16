@@ -76,7 +76,7 @@ Rank|Bot|Rating
 #74|@higuyuu67776|2352
 #75|@Karpov_bot|2335
 #76|@TeamChelsie|2331
-#77|@anti-bot|2324
+#77|@anti-bot|2320
 #78|@AI69|2312
 #79|@Kizburb|2307
 #80|@MagicverseBOT|2306
