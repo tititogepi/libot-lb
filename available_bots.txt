@@ -50,6 +50,7 @@ alah230
 albatros_engine
 alehkine_cat
 alejbot
+alemor64
 aleph_bot_d6
 aleph_engine
 alexeybot
@@ -1577,6 +1578,7 @@ nmi_bot
 nnue
 nnue_sf
 nnwithsf
+no-stockfish-bots
 no-varants-no
 no_username2
 nobody11892
@@ -2477,5 +2479,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-no-stockfish-bots
-alemor64
+sticklebackbot
+sticklebacknnbot
