@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
 #14|@TheFreshman1902|2203
-#15|@IUseStockfish|2202
-#16|@ResoluteBot|2202
-#17|@TorBot_v2|2201
+#15|@TorBot_v2|2203
+#16|@IUseStockfish|2202
+#17|@ResoluteBot|2202
 #18|@Corvus-1|2197
 #19|@lord-bot|2193
 #20|@YoBot_v2|2193
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@beststockfish16|1532
 #273|@SimplerEval|1528
 #274|@XiDM|1525
-#275|@FataliiBot|1523
+#275|@FataliiBot|1521
 #276|@david9426_bot|1517
 #277|@LioCT|1516
 #278|@YourSparringBot|1503
