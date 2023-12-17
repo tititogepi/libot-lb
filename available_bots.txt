@@ -1420,6 +1420,7 @@ mateai
 materialisoverrated
 matmoi
 matrix-ai
+mattaberk-bot
 max_bot
 maximumef
 maxthedog
@@ -2481,4 +2482,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mattaberk-bot

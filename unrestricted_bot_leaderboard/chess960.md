@@ -266,8 +266,8 @@ Rank|Bot|Rating
 #264|@jumbot|1545
 #265|@Less_of_a_threat|1542
 #266|@Just-a-random-bot|1541
-#267|@magnusglad_bot|1538
-#268|@FataliiBot|1537
+#267|@FataliiBot|1539
+#268|@magnusglad_bot|1538
 #269|@CocopikachuBOT|1535
 #270|@clueless-bot|1534
 #271|@Variantenkoning|1534
@@ -328,8 +328,8 @@ Rank|Bot|Rating
 #326|@ClubAjedrezChileno|1288
 #327|@LeelaZero-UK|1288
 #328|@queen_stase_approx|1288
-#329|@Demolito_L6|1285
-#330|@legendbot1|1285
+#329|@legendbot1|1285
+#330|@Demolito_L6|1283
 #331|@FENder_Bender|1283
 #332|@bcbchess|1282
 #333|@AEBROADUSBOTTER|1279
