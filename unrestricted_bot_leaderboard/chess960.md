@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@tuanbn14|2269
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
-#8|@Intron014|2218
+#8|@Intron014|2219
 #9|@LoseisnotAvailablehe|2217
 #10|@LeelaFish1|2212
 #11|@Xerus_1|2211
@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@IUseStockfish|2202
 #17|@ResoluteBot|2202
 #18|@Corvus-1|2197
-#19|@lord-bot|2193
-#20|@YoBot_v2|2193
+#19|@YoBot_v2|2197
+#20|@lord-bot|2193
 #21|@hyperchessbot1|2189
 #22|@robiachess|2186
 #23|@Kizburb|2182
@@ -73,8 +73,8 @@ Rank|Bot|Rating
 #71|@NimsiluBot|2078
 #72|@KhanhStockfish|2074
 #73|@mrohBOT|2074
-#74|@RaspFish|2068
-#75|@Mega_BOT|2066
+#74|@Mega_BOT|2066
+#75|@RaspFish|2065
 #76|@Karpov_bot|2063
 #77|@chessfyBOT|2060
 #78|@Viet-AI|2060
@@ -194,7 +194,7 @@ Rank|Bot|Rating
 #192|@Simpafteur|1833
 #193|@ChessHunterBot|1831
 #194|@StashBot|1826
-#195|@OpeningsBot|1823
+#195|@OpeningsBot|1822
 #196|@ZamuChess|1822
 #197|@AI69|1821
 #198|@StormphraxEngine|1820
