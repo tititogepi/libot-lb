@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@tuanbn14|2269
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
-#8|@Intron014|2217
+#8|@Intron014|2218
 #9|@LoseisnotAvailablehe|2217
 #10|@LeelaFish1|2212
 #11|@Xerus_1|2211
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@TheFreshman1902|2203
 #15|@IUseStockfish|2202
 #16|@ResoluteBot|2202
-#17|@TorBot_v2|2200
+#17|@TorBot_v2|2201
 #18|@Corvus-1|2197
 #19|@lord-bot|2193
 #20|@YoBot_v2|2193
@@ -194,7 +194,7 @@ Rank|Bot|Rating
 #192|@Simpafteur|1833
 #193|@ChessHunterBot|1831
 #194|@StashBot|1826
-#195|@OpeningsBot|1824
+#195|@OpeningsBot|1823
 #196|@ZamuChess|1822
 #197|@AI69|1821
 #198|@StormphraxEngine|1820
@@ -274,7 +274,7 @@ Rank|Bot|Rating
 #272|@beststockfish16|1532
 #273|@SimplerEval|1528
 #274|@XiDM|1525
-#275|@FataliiBot|1524
+#275|@FataliiBot|1523
 #276|@david9426_bot|1517
 #277|@LioCT|1516
 #278|@YourSparringBot|1503
