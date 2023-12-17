@@ -107,9 +107,9 @@ Rank|Bot|Rating
 #105|@Alehkine_cat|1549
 #106|@TrashBot|1519
 #107|@relevantproblem|1514
-#108|@DavidsGuterBot|1511
-#109|@Toxic_Bot|1511
-#110|@NoobMasterBOT|1507
+#108|@Toxic_Bot|1511
+#109|@NoobMasterBOT|1507
+#110|@DavidsGuterBot|1502
 #111|@Epiano_Bot|1491
 #112|@CVA728_BOT_1|1489
 #113|@Rishab_Bindal|1489
@@ -143,9 +143,9 @@ Rank|Bot|Rating
 #141|@Sanjana_Kambala-BOT|1273
 #142|@TheLegendaryKnight|1272
 #143|@EstmileBot|1269
-#144|@Parth_Dhage_2|1258
-#145|@MyNameIsWhatLOL|1256
-#146|@pawnrobot|1256
+#144|@pawnrobot|1264
+#145|@Parth_Dhage_2|1258
+#146|@MyNameIsWhatLOL|1256
 #147|@TORTADEMANZANA023|1233
 #148|@heatseeker223|1191
 #149|@admin-bot|1188

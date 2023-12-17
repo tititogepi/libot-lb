@@ -37,9 +37,9 @@ Rank|Bot|Rating
 #35|@newengine2022|2562
 #36|@Vinh_VariantsBot|2561
 #37|@Xerus_1|2553
-#38|@LudwigBOT|2545
-#39|@AlfaBot|2541
-#40|@Nakshatra3|2539
+#38|@Nakshatra3|2547
+#39|@LudwigBOT|2545
+#40|@AlfaBot|2541
 #41|@Leelabotmaster|2538
 #42|@Dark_evil_bot|2525
 #43|@Bot_AOOP11|2521
@@ -67,7 +67,7 @@ Rank|Bot|Rating
 #65|@ESC_BOT|2394
 #66|@CatBot_14|2393
 #67|@NormalBulletBot|2393
-#68|@OpeningsBot|2385
+#68|@OpeningsBot|2381
 #69|@Resolved-Bot|2369
 #70|@Trumpfor2O2O|2366
 #71|@HuxZero|2361
