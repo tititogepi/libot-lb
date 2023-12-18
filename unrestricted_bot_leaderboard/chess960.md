@@ -262,7 +262,7 @@ Rank|Bot|Rating
 #260|@The-Fastest-Bot|1582
 #261|@lightspeed_bot|1571
 #262|@XXXTryandTryXXX|1569
-#263|@FataliiBot|1566
+#263|@FataliiBot|1568
 #264|@itsafakeusername2k1|1562
 #265|@jumbot|1545
 #266|@Less_of_a_threat|1542
@@ -334,7 +334,7 @@ Rank|Bot|Rating
 #332|@AEBROADUSBOTTER|1279
 #333|@yolo_eldiablo15|1274
 #334|@ImpossibleWin|1272
-#335|@Demolito_L6|1266
+#335|@Demolito_L6|1264
 #336|@entebot|1261
 #337|@azdad|1258
 #338|@Itzmoi6g19|1258
