@@ -117,7 +117,7 @@ Rank|Bot|Rating
 #115|@CloudBotZero|2018
 #116|@B0T5_RU13|2011
 #117|@TheLegitLegend|2010
-#118|@CatNail|2002
+#118|@CatNail|1999
 #119|@CrayyBot|1989
 #120|@BetaZ|1973
 #121|@antichesssss|1964
