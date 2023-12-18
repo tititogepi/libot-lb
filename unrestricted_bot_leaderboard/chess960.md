@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@Intron014|2222
 #9|@LoseisnotAvailablehe|2217
 #10|@LeelaFish1|2212
-#11|@ResoluteBot|2212
+#11|@ResoluteBot|2211
 #12|@Xerus_1|2211
 #13|@LeelaChessTest|2208
 #14|@TorBot_v2|2208
@@ -39,8 +39,8 @@ Rank|Bot|Rating
 #37|@duythong1402|2148
 #38|@TTC-BOT_2|2148
 #39|@LolFish-1|2146
-#40|@FireFishBOT|2140
-#41|@FireFishBOT_v2|2140
+#40|@FireFishBOT_v2|2142
+#41|@FireFishBOT|2140
 #42|@EmptikVariantsBot|2132
 #43|@faith_bot|2131
 #44|@F1R3BOT|2128
