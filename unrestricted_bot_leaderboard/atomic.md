@@ -237,9 +237,9 @@ Rank|Bot|Rating
 #235|@TheWeakestBot|1476
 #236|@thibot|1470
 #237|@fastandfurious10|1464
-#238|@EDSPBOT|1463
-#239|@katzebot|1462
-#240|@pawnrobot|1460
+#238|@pawnrobot|1464
+#239|@EDSPBOT|1463
+#240|@katzebot|1462
 #241|@Dong_Xiao_Yuan|1454
 #242|@Future_Chess_Pro|1453
 #243|@MyNameIsSpeeedy|1453
