@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@TheFreshman1902|2203
 #17|@IUseStockfish|2202
 #18|@Corvus-1|2197
-#19|@lord-bot|2193
-#20|@YoBot_v2|2192
+#19|@YoBot_v2|2196
+#20|@lord-bot|2193
 #21|@hyperchessbot1|2189
 #22|@robiachess|2186
 #23|@ToromBot|2183
@@ -74,9 +74,9 @@ Rank|Bot|Rating
 #72|@KhanhStockfish|2074
 #73|@mrohBOT|2074
 #74|@Mega_BOT|2066
-#75|@RaspFish|2065
-#76|@Karpov_bot|2063
-#77|@Leela_960|2063
+#75|@Karpov_bot|2063
+#76|@Leela_960|2063
+#77|@RaspFish|2061
 #78|@chessfyBOT|2060
 #79|@Viet-AI|2060
 #80|@AI-Electro|2059
@@ -262,7 +262,7 @@ Rank|Bot|Rating
 #260|@The-Fastest-Bot|1582
 #261|@lightspeed_bot|1571
 #262|@XXXTryandTryXXX|1569
-#263|@FataliiBot|1563
+#263|@FataliiBot|1564
 #264|@itsafakeusername2k1|1562
 #265|@jumbot|1545
 #266|@Less_of_a_threat|1542
@@ -334,7 +334,7 @@ Rank|Bot|Rating
 #332|@AEBROADUSBOTTER|1279
 #333|@yolo_eldiablo15|1274
 #334|@ImpossibleWin|1272
-#335|@Demolito_L6|1269
+#335|@Demolito_L6|1268
 #336|@entebot|1261
 #337|@azdad|1258
 #338|@Itzmoi6g19|1258

@@ -85,8 +85,8 @@ Rank|Bot|Rating
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
-#86|@anti-bot|2260
-#87|@SkyBlaster|2254
+#86|@SkyBlaster|2254
+#87|@anti-bot|2250
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
 #90|@EagleEye2021|2235
@@ -117,12 +117,12 @@ Rank|Bot|Rating
 #115|@CloudBotZero|2018
 #116|@B0T5_RU13|2011
 #117|@TheLegitLegend|2010
-#118|@CatNail|2003
+#118|@CatNail|2009
 #119|@CrayyBot|1989
 #120|@BetaZ|1973
 #121|@antichesssss|1964
 #122|@Menganti|1963
-#123|@pawnrobot|1963
+#123|@pawnrobot|1958
 #124|@CloudBOT|1950
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
