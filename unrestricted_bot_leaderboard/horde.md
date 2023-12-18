@@ -122,11 +122,11 @@ Rank|Bot|Rating
 #120|@PowerOnBot|1258
 #121|@xDmanBOT|1258
 #122|@yobmef|1258
-#123|@TheSystem_Bot|1218
-#124|@GuineaBot3|1212
-#125|@admin-bot|1209
-#126|@Happy_One|1207
-#127|@pawnrobot|1199
+#123|@pawnrobot|1221
+#124|@TheSystem_Bot|1218
+#125|@GuineaBot3|1212
+#126|@admin-bot|1209
+#127|@Happy_One|1207
 #128|@St6090|1191
 #129|@Simpafteur|1188
 #130|@BetaOneBot|1166

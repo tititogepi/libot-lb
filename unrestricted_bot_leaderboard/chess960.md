@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@MyNameIsWhatLOL|2240
 #8|@Intron014|2222
 #9|@LoseisnotAvailablehe|2217
-#10|@ResoluteBot|2214
+#10|@ResoluteBot|2213
 #11|@LeelaFish1|2212
 #12|@Xerus_1|2211
 #13|@LeelaChessTest|2208
@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@lord-bot|2193
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
-#22|@ToromBot|2183
-#23|@Kizburb|2182
-#24|@YoBot_v2|2182
+#22|@YoBot_v2|2184
+#23|@ToromBot|2183
+#24|@Kizburb|2182
 #25|@VariantsBot|2180
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
