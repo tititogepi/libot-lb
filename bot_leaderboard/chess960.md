@@ -3,13 +3,13 @@ Rank|Bot|Rating
 #1|@Intron014|2223
 #2|@TorBot_v2|2208
 #3|@ResoluteBot|2207
-#4|@YoBot_v2|2197
+#4|@YoBot_v2|2192
 #5|@ToromBot|2183
-#6|@RaspFish|2060
+#6|@RaspFish|2065
 #7|@OpeningsBot|1809
 #8|@Cheng-4|1788
-#9|@FataliiBot|1559
-#10|@Demolito_L6|1273
+#9|@FataliiBot|1563
+#10|@Demolito_L6|1269
 #11|@Demolito_L5|1060
 #12|@Demolito_L4|910
 #13|@pawnrobot|609
