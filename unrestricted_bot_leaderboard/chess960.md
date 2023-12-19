@@ -372,8 +372,8 @@ Rank|Bot|Rating
 #370|@Bot_Swana|943
 #371|@bobandi|940
 #372|@YellowJackets_Bot|925
-#373|@botTideEval|914
-#374|@Demolito_L4|910
+#373|@Demolito_L4|924
+#374|@botTideEval|914
 #375|@Palisade|800
 #376|@WaspBot|798
 #377|@LeelaWeak|735

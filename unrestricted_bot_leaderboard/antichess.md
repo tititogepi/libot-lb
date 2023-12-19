@@ -117,11 +117,11 @@ Rank|Bot|Rating
 #115|@CloudBotZero|2018
 #116|@B0T5_RU13|2011
 #117|@TheLegitLegend|2010
-#118|@CatNail|1997
+#118|@CatNail|1996
 #119|@CrayyBot|1989
 #120|@BetaZ|1973
-#121|@antichesssss|1964
-#122|@pawnrobot|1964
+#121|@pawnrobot|1965
+#122|@antichesssss|1964
 #123|@Menganti|1963
 #124|@CloudBOT|1950
 #125|@Crepusculum|1881
