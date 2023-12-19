@@ -146,7 +146,7 @@ Rank|Bot|Rating
 #144|@Itzmoi6g19|1425
 #145|@xDmanBOT|1419
 #146|@Official_bot|1414
-#147|@SimplerEval|1386
+#147|@SimplerEval|1397
 #148|@are_bots_good|1367
 #149|@GothamChessBot|1358
 #150|@XiDM|1351
@@ -170,9 +170,9 @@ Rank|Bot|Rating
 #168|@Happy_One|1223
 #169|@Grand_MefBartu-BOT|1200
 #170|@magnusglad_bot|1196
-#171|@pawnrobot|1192
-#172|@FluffBallCuddly|1191
-#173|@heatseeker223|1191
+#171|@FluffBallCuddly|1191
+#172|@heatseeker223|1191
+#173|@pawnrobot|1186
 #174|@ChessPlayer1225|1183
 #175|@Jannik08_FAN|1163
 #176|@BotOfAtomicChess|1153
