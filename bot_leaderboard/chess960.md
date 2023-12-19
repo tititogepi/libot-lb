@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@ResoluteBot|2212
 #3|@TorBot_v2|2212
 #4|@ToromBot|2183
-#5|@YoBot_v2|2170
+#5|@YoBot_v2|2171
 #6|@TorBot|2160
 #7|@RaspFish|2076
 #8|@OpeningsBot|1809

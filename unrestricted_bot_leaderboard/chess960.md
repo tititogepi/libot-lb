@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@Kizburb|2182
 #24|@VariantsBot|2180
 #25|@Bot_McBotface|2172
-#26|@YoBot_v2|2170
+#26|@YoBot_v2|2171
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
 #29|@too_ez4me|2160
