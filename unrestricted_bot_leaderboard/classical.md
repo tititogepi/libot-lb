@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@RipTorn|2672
 #17|@No-StockFish-Bots|2670
 #18|@ProteusSF-lite|2670
-#19|@FireFishBOT_v2|2668
+#19|@FireFishBOT_v2|2667
 #20|@Africaata|2666
 #21|@Bingo202|2664
 #22|@Alemor64|2662
@@ -43,8 +43,8 @@ Rank|Bot|Rating
 #41|@blitzz_bot|2631
 #42|@TorBot|2631
 #43|@Yebot|2626
-#44|@TheFreshman1902|2625
-#45|@RaspFish|2624
+#44|@RaspFish|2625
+#45|@TheFreshman1902|2625
 #46|@ttBOT|2624
 #47|@ArasanX|2619
 #48|@EmptikBot247|2618
@@ -53,9 +53,9 @@ Rank|Bot|Rating
 #51|@kybot|2610
 #52|@Tunder77|2610
 #53|@European_Chess_Bot|2609
-#54|@Nikitosik-ai|2606
-#55|@HansNiemannBot|2605
-#56|@LBOT007|2604
+#54|@LBOT007|2606
+#55|@Nikitosik-ai|2606
+#56|@HansNiemannBot|2605
 #57|@LolFish-1|2604
 #58|@Caissa-NNUE|2598
 #59|@Asalfish_15|2595
@@ -205,7 +205,7 @@ Rank|Bot|Rating
 #203|@GodelEscherBot|2336
 #204|@mrohCentaur|2335
 #205|@AttackingOrDefending|2334
-#206|@catriever|2334
+#206|@catriever|2332
 #207|@ElPeonElectrico|2326
 #208|@mrohBOT|2326
 #209|@ImpossibleWin|2325
@@ -705,10 +705,10 @@ Rank|Bot|Rating
 #703|@RoundMoundOfRebounds|1527
 #704|@SLvov-bot|1527
 #705|@greko-bot|1525
-#706|@pussaW|1519
-#707|@survivalfish-light|1519
-#708|@TapoBot|1519
-#709|@maia1|1516
+#706|@maia1|1519
+#707|@pussaW|1519
+#708|@survivalfish-light|1519
+#709|@TapoBot|1519
 #710|@LeelaRecent|1512
 #711|@Bot-2564|1500
 #712|@freddystehtaufteddy|1500
@@ -758,7 +758,7 @@ Rank|Bot|Rating
 #756|@Chess_omar_2009|1415
 #757|@PaddiBot|1414
 #758|@Teamleaderbot|1414
-#759|@Humaia|1413
+#759|@Humaia|1409
 #760|@sargon-2ply|1404
 #761|@Pineapple-Friendly|1399
 #762|@nightybot|1396
