@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@WennDieSoldatBOT|2818
 #11|@lord-bot|2789
 #12|@FireFishBOT|2785
-#13|@RaspFish|2775
-#14|@VariantsTop|2765
-#15|@Viet-AI|2765
+#13|@VariantsTop|2765
+#14|@Viet-AI|2765
+#15|@RaspFish|2759
 #16|@SCP079|2736
 #17|@ibep|2733
 #18|@Lili-Variants|2678

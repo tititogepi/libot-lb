@@ -16,10 +16,10 @@ Rank|Bot|Rating
 #14|@CatBot_14|2514
 #15|@EmptikBot|2510
 #16|@ibep|2498
-#17|@RaspFish|2488
-#18|@firstrobot|2485
-#19|@ShredderGrizzly|2479
-#20|@NormalBulletBot|2474
+#17|@firstrobot|2485
+#18|@ShredderGrizzly|2479
+#19|@NormalBulletBot|2474
+#20|@RaspFish|2469
 #21|@LoseisnotAvailablehe|2466
 #22|@PepsiForAll|2448
 #23|@Fairy-Stockfish|2402
@@ -238,9 +238,9 @@ Rank|Bot|Rating
 #236|@TheWeakestBot|1476
 #237|@thibot|1470
 #238|@fastandfurious10|1464
-#239|@pawnrobot|1464
-#240|@EDSPBOT|1463
-#241|@katzebot|1462
+#239|@EDSPBOT|1463
+#240|@katzebot|1462
+#241|@pawnrobot|1461
 #242|@Dong_Xiao_Yuan|1454
 #243|@Future_Chess_Pro|1453
 #244|@MyNameIsSpeeedy|1453
