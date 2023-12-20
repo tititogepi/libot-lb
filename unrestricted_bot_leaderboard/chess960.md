@@ -7,11 +7,11 @@ Rank|Bot|Rating
 #5|@tuanbn14|2269
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
-#8|@Intron014|2217
-#9|@LoseisnotAvailablehe|2217
+#8|@LoseisnotAvailablehe|2217
+#9|@Intron014|2216
 #10|@ResoluteBot|2215
 #11|@LeelaFish1|2212
-#12|@TorBot_v2|2212
+#12|@TorBot_v2|2211
 #13|@Xerus_1|2211
 #14|@LeelaChessTest|2208
 #15|@SfishChess2021|2204
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ToromBot|2182
 #24|@VariantsBot|2180
 #25|@Bot_McBotface|2172
-#26|@YoBot_v2|2169
+#26|@YoBot_v2|2170
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
 #29|@too_ez4me|2160
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@VariantsTop|2149
 #37|@duythong1402|2148
 #38|@TTC-BOT_2|2148
-#39|@FireFishBOT_v2|2146
+#39|@FireFishBOT_v2|2147
 #40|@LolFish-1|2146
 #41|@FireFishBOT|2140
 #42|@EmptikVariantsBot|2132
