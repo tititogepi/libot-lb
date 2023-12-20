@@ -20,10 +20,10 @@ Rank|Bot|Rating
 #18|@KizVariant|2529
 #19|@SCP079|2526
 #20|@Fairy-Stockfish|2484
-#21|@ESC_BOT|2476
-#22|@Less_of_a_threat|2469
-#23|@NormalBlitzBulletBot|2463
-#24|@RaspFish|2456
+#21|@RaspFish|2480
+#22|@ESC_BOT|2476
+#23|@Less_of_a_threat|2469
+#24|@NormalBlitzBulletBot|2463
 #25|@faith_bot|2447
 #26|@chessbot2880|2367
 #27|@Viet_BOT|2367
@@ -105,7 +105,7 @@ Rank|Bot|Rating
 #103|@knight_128|1563
 #104|@Galaxy_Guardian|1561
 #105|@Alehkine_cat|1549
-#106|@DavidsGuterBot|1520
+#106|@DavidsGuterBot|1522
 #107|@TrashBot|1519
 #108|@relevantproblem|1514
 #109|@Toxic_Bot|1511
@@ -145,7 +145,7 @@ Rank|Bot|Rating
 #143|@EstmileBot|1269
 #144|@Parth_Dhage_2|1258
 #145|@MyNameIsWhatLOL|1256
-#146|@pawnrobot|1246
+#146|@pawnrobot|1244
 #147|@TORTADEMANZANA023|1233
 #148|@heatseeker223|1191
 #149|@admin-bot|1188

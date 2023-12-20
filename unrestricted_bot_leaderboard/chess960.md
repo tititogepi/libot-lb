@@ -7,7 +7,7 @@ Rank|Bot|Rating
 #5|@tuanbn14|2269
 #6|@TMFish|2262
 #7|@MyNameIsWhatLOL|2240
-#8|@Intron014|2220
+#8|@Intron014|2218
 #9|@LoseisnotAvailablehe|2217
 #10|@ResoluteBot|2215
 #11|@LeelaFish1|2212
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@VariantsBot|2180
 #25|@Bot_McBotface|2172
 #26|@EmptikBot|2168
-#27|@YoBot_v2|2166
+#27|@YoBot_v2|2168
 #28|@rtx3080tibot|2162
 #29|@too_ez4me|2160
 #30|@TorBot|2160
