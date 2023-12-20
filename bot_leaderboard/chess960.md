@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Intron014|2221
+#1|@Intron014|2220
 #2|@ResoluteBot|2215
 #3|@TorBot_v2|2212
 #4|@ToromBot|2183
