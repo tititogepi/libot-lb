@@ -843,6 +843,7 @@ frost_fire
 frostbringer
 frozenightengine
 frozenrook
+fruity23
 funebot
 furrybot
 furryofthewerewolf
@@ -1563,6 +1564,7 @@ nightstarfox
 nightybot
 nikitosik-ai
 nikitosikbot
+nikitosikbot_v2
 nikitosikrandombot
 nikitosikvariantsbot
 nikolaengine_lux
@@ -2483,5 +2485,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-fruity23
-nikitosikbot_v2
