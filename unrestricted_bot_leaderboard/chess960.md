@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@Kizburb|2182
 #23|@ToromBot|2182
 #24|@VariantsBot|2180
-#25|@YoBot_v2|2175
+#25|@YoBot_v2|2179
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
@@ -71,9 +71,9 @@ Rank|Bot|Rating
 #69|@chessbot2880|2079
 #70|@EmptikBotLc0|2079
 #71|@NimsiluBot|2078
-#72|@RaspFish|2077
-#73|@KhanhStockfish|2074
-#74|@mrohBOT|2074
+#72|@KhanhStockfish|2074
+#73|@mrohBOT|2074
+#74|@RaspFish|2073
 #75|@Leela_960|2072
 #76|@Mega_BOT|2066
 #77|@Karpov_bot|2063
