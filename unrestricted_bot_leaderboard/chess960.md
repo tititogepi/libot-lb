@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@MyNameIsWhatLOL|2240
 #8|@LoseisnotAvailablehe|2217
 #9|@Intron014|2215
-#10|@ResoluteBot|2214
+#10|@ResoluteBot|2213
 #11|@LeelaFish1|2212
 #12|@TorBot_v2|2211
 #13|@Xerus_1|2211
