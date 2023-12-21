@@ -43,9 +43,9 @@ Rank|Bot|Rating
 #41|@Dark_evil_bot|2525
 #42|@Bot_AOOP11|2521
 #43|@HyperLitikBOT|2511
-#44|@pistol-play|2498
-#45|@KingfishX|2491
-#46|@ttBOT|2485
+#44|@ttBOT|2504
+#45|@pistol-play|2498
+#46|@KingfishX|2491
 #47|@MrBOThacker|2477
 #48|@hauptschuleBOT|2475
 #49|@Alehkine_cat|2474
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@EmptikBot247|2422
 #58|@xiang-qi|2422
 #59|@faith_bot|2420
-#60|@NilatacBot|2418
+#60|@NilatacBot|2413
 #61|@DrSmartBugs|2412
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403

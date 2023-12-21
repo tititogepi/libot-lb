@@ -2483,3 +2483,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+fruity23
+nikitosikbot_v2
