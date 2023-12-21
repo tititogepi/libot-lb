@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@Kizburb|2182
 #23|@ToromBot|2182
 #24|@VariantsBot|2180
-#25|@YoBot_v2|2173
+#25|@YoBot_v2|2174
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
@@ -262,7 +262,7 @@ Rank|Bot|Rating
 #260|@The-Fastest-Bot|1582
 #261|@lightspeed_bot|1571
 #262|@XXXTryandTryXXX|1569
-#263|@FataliiBot|1563
+#263|@FataliiBot|1565
 #264|@itsafakeusername2k1|1562
 #265|@SimplerEval|1549
 #266|@jumbot|1545
@@ -334,7 +334,7 @@ Rank|Bot|Rating
 #332|@AEBROADUSBOTTER|1279
 #333|@yolo_eldiablo15|1274
 #334|@ImpossibleWin|1272
-#335|@Demolito_L6|1263
+#335|@Demolito_L6|1262
 #336|@entebot|1261
 #337|@azdad|1258
 #338|@Itzmoi6g19|1258
