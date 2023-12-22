@@ -334,7 +334,7 @@ Rank|Bot|Rating
 #332|@AEBROADUSBOTTER|1279
 #333|@yolo_eldiablo15|1274
 #334|@ImpossibleWin|1272
-#335|@Demolito_L6|1263
+#335|@Demolito_L6|1266
 #336|@entebot|1261
 #337|@azdad|1258
 #338|@Itzmoi6g19|1258
@@ -358,7 +358,7 @@ Rank|Bot|Rating
 #356|@ZX-Chess|1119
 #357|@Jobabot|1110
 #358|@Dummyette|1107
-#359|@Demolito_L5|1060
+#359|@Demolito_L5|1057
 #360|@LeElaGuess|1049
 #361|@admin-bot|1003
 #362|@GuineaBot3|1000
