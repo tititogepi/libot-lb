@@ -549,6 +549,7 @@ codingai
 combilation
 combuskengine
 common_mover
+compchess60
 completelyrandombot
 compraptor
 computerstuff
@@ -2485,4 +2486,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-compchess60
