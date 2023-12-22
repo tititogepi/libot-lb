@@ -1590,6 +1590,7 @@ nobody11892
 nodesooleai
 noobborsadhh
 noobbot1302
+noobic_bot
 noobmasterbot
 noobpwnftw
 noqroblem
@@ -2486,4 +2487,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-noobic_bot

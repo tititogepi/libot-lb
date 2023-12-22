@@ -73,11 +73,11 @@ Rank|Bot|Rating
 #71|@BotezLiveTwitchChat|2101
 #72|@chesstango_bot|2101
 #73|@MidnightBot|2101
-#74|@PROBOT_VR_2|2101
-#75|@RonaldDuckBot|2101
-#76|@The_Ruff_Rider10|2101
-#77|@TheAstroBot|2101
-#78|@noobic_bot|2101
+#74|@noobic_bot|2101
+#75|@PROBOT_VR_2|2101
+#76|@RonaldDuckBot|2101
+#77|@The_Ruff_Rider10|2101
+#78|@TheAstroBot|2101
 #79|@ZhangirKhanBOT|2093
 #80|@allvariants|2091
 #81|@sf_bot|2088
