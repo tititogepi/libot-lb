@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Jibbby|1861
+#1|@Jibbby|1849
