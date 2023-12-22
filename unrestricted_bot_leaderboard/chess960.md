@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@lord-bot|2193
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
-#22|@YoBot_v2|2185
+#22|@YoBot_v2|2186
 #23|@Kizburb|2182
 #24|@ToromBot|2182
 #25|@VariantsBot|2180
