@@ -56,10 +56,10 @@ Rank|Bot|Rating
 #54|@Bobby_Fischer_BOT|2435
 #55|@Nobody11892|2435
 #56|@Hagfish|2432
-#57|@EmptikBot247|2422
-#58|@xiang-qi|2422
-#59|@faith_bot|2420
-#60|@NilatacBot|2416
+#57|@NilatacBot|2430
+#58|@EmptikBot247|2422
+#59|@xiang-qi|2422
+#60|@faith_bot|2420
 #61|@DrSmartBugs|2412
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403
