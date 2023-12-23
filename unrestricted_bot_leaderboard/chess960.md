@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@IUseStockfish|2202
 #18|@Corvus-1|2197
 #19|@lord-bot|2193
-#20|@YoBot_v2|2191
+#20|@YoBot_v2|2190
 #21|@hyperchessbot1|2189
 #22|@robiachess|2186
 #23|@Kizburb|2182
@@ -71,7 +71,7 @@ Rank|Bot|Rating
 #69|@chessbot2880|2079
 #70|@EmptikBotLc0|2079
 #71|@NimsiluBot|2078
-#72|@RaspFish|2076
+#72|@RaspFish|2078
 #73|@KhanhStockfish|2074
 #74|@mrohBOT|2074
 #75|@Leela_960|2072
@@ -259,8 +259,8 @@ Rank|Bot|Rating
 #257|@HotLeela|1589
 #258|@M07002|1589
 #259|@EftalBot|1587
-#260|@The-Fastest-Bot|1582
-#261|@FataliiBot|1581
+#260|@FataliiBot|1583
+#261|@The-Fastest-Bot|1582
 #262|@lightspeed_bot|1571
 #263|@XXXTryandTryXXX|1569
 #264|@itsafakeusername2k1|1562
@@ -326,9 +326,9 @@ Rank|Bot|Rating
 #324|@DavidsGuterBot|1308
 #325|@camel_bot|1298
 #326|@ClubAjedrezChileno|1288
-#327|@LeelaZero-UK|1288
-#328|@queen_stase_approx|1288
-#329|@Demolito_L6|1286
+#327|@Demolito_L6|1288
+#328|@LeelaZero-UK|1288
+#329|@queen_stase_approx|1288
 #330|@legendbot1|1285
 #331|@FENder_Bender|1283
 #332|@bcbchess|1282
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Jobabot|1110
 #358|@Dummyette|1107
 #359|@LeElaGuess|1049
-#360|@Demolito_L5|1027
+#360|@Demolito_L5|1023
 #361|@admin-bot|1003
 #362|@GuineaBot3|1000
 #363|@TuroBot|997
