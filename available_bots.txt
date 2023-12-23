@@ -1442,6 +1442,7 @@ mega_bot
 megabeedrillbot
 megabotquan
 megalodon-bot
+mehfish
 meisok
 melphess
 melsh_bot
@@ -2484,4 +2485,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mehfish
