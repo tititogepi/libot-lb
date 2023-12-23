@@ -260,7 +260,7 @@ Rank|Bot|Rating
 #258|@M07002|1589
 #259|@EftalBot|1587
 #260|@The-Fastest-Bot|1582
-#261|@FataliiBot|1578
+#261|@FataliiBot|1574
 #262|@lightspeed_bot|1571
 #263|@XXXTryandTryXXX|1569
 #264|@itsafakeusername2k1|1562
@@ -325,10 +325,10 @@ Rank|Bot|Rating
 #323|@GarboBot|1309
 #324|@DavidsGuterBot|1308
 #325|@camel_bot|1298
-#326|@ClubAjedrezChileno|1288
-#327|@LeelaZero-UK|1288
-#328|@queen_stase_approx|1288
-#329|@Demolito_L6|1285
+#326|@Demolito_L6|1289
+#327|@ClubAjedrezChileno|1288
+#328|@LeelaZero-UK|1288
+#329|@queen_stase_approx|1288
 #330|@legendbot1|1285
 #331|@FENder_Bender|1283
 #332|@bcbchess|1282
