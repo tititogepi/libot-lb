@@ -698,7 +698,6 @@ easywingg
 eb-chess
 echobot
 eddybarner393
-edobot
 edspbot
 eftalbot
 egeytek
@@ -1307,7 +1306,6 @@ lelaaz
 leojoseph101010
 leorikbot
 leosbot
-lermerbot
 less_of_a_threat
 less_than_one
 liboto
@@ -1997,7 +1995,6 @@ smoking_python
 smoothrotation
 sofcheck
 sohamchessbot
-solistabot
 somebot
 sovereign_bot
 sovereignking
