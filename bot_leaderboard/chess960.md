@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@RaspFish|2079
 #8|@OpeningsBot|1809
 #9|@FataliiBot|1586
-#10|@Demolito_L6|1293
-#11|@Demolito_L5|1016
+#10|@Demolito_L6|1289
+#11|@Demolito_L5|1020
 #12|@Demolito_L4|924
 #13|@pawnrobot|609
