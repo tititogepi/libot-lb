@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@Xerus_1|2211
 #12|@TorBot_v2|2210
 #13|@LeelaChessTest|2208
-#14|@ResoluteBot|2208
+#14|@ResoluteBot|2207
 #15|@SfishChess2021|2204
 #16|@TheFreshman1902|2203
 #17|@IUseStockfish|2202
@@ -35,9 +35,9 @@ Rank|Bot|Rating
 #33|@YellowFlash_v2|2156
 #34|@ReinforcementTrial|2154
 #35|@TheFreshmanLc0|2151
-#36|@VariantsTop|2149
-#37|@duythong1402|2148
-#38|@FireFishBOT_v2|2148
+#36|@FireFishBOT_v2|2149
+#37|@VariantsTop|2149
+#38|@duythong1402|2148
 #39|@TTC-BOT_2|2148
 #40|@LolFish-1|2146
 #41|@FireFishBOT|2140
@@ -260,7 +260,7 @@ Rank|Bot|Rating
 #258|@M07002|1589
 #259|@EftalBot|1587
 #260|@The-Fastest-Bot|1582
-#261|@FataliiBot|1578
+#261|@FataliiBot|1579
 #262|@lightspeed_bot|1571
 #263|@XXXTryandTryXXX|1569
 #264|@itsafakeusername2k1|1562
@@ -328,7 +328,7 @@ Rank|Bot|Rating
 #326|@ClubAjedrezChileno|1288
 #327|@LeelaZero-UK|1288
 #328|@queen_stase_approx|1288
-#329|@Demolito_L6|1287
+#329|@Demolito_L6|1285
 #330|@legendbot1|1285
 #331|@FENder_Bender|1283
 #332|@bcbchess|1282
