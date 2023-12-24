@@ -10,14 +10,14 @@ Rank|Bot|Rating
 #8|@UltronBot|2859
 #9|@TorBot|2824
 #10|@WennDieSoldatBOT|2818
-#11|@ChessVBOT|2799
+#11|@RaspFish|2797
 #12|@lord-bot|2789
 #13|@FireFishBOT|2785
 #14|@VariantsTop|2765
 #15|@Viet-AI|2765
-#16|@RaspFish|2759
-#17|@SCP079|2736
-#18|@ibep|2733
+#16|@SCP079|2736
+#17|@ibep|2733
+#18|@ChessVBOT|2697
 #19|@Lili-Variants|2678
 #20|@LoseisnotAvailablehe|2677
 #21|@AntichessAnalyzer|2673
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2073
+#112|@CatNail|2080
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019

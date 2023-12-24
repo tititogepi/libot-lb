@@ -263,6 +263,7 @@ blackrood
 blank_bot
 blasting4
 blaubarschbube44
+blauer-rausch
 blazikenbot2000
 blazingsunbot
 blitzz_bot
@@ -295,6 +296,7 @@ bot-31795
 bot-4ku
 bot-botbot
 bot-chocolate
+bot-feline
 bot-o-robot-o
 bot-o-tron
 bot-stonger
@@ -796,6 +798,7 @@ fbot
 featbeweir
 feeks99
 feligamer
+felinebot
 felixleonidovich
 fender_bender
 fib0t
@@ -905,6 +908,7 @@ goutambot
 gpt35-turbo-instruct
 gptplayschess
 grabdebottom
+graduallearning
 grand-bot
 grand_mefbartu-bot
 grandchessbot
@@ -1372,6 +1376,7 @@ m-z_bot
 m07002
 machinamas
 macos23
+macuser60
 maelstrom-chess
 mafybe
 magic-engine
@@ -2486,8 +2491,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-graduallearning
-bot-feline
-blauer-rausch
-macuser60
-felinebot
+dragonbot-77
