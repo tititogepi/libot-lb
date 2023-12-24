@@ -2486,3 +2486,8 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+graduallearning
+bot-feline
+blauer-rausch
+macuser60
+felinebot

@@ -255,7 +255,7 @@ Rank|Bot|Rating
 #253|@YoBot_v1|1610
 #254|@NeuralAbyss|1608
 #255|@STockfishdestroyBot|1601
-#256|@FataliiBot|1595
+#256|@FataliiBot|1596
 #257|@Lucror|1595
 #258|@HotLeela|1589
 #259|@M07002|1589
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Jobabot|1110
 #358|@Dummyette|1107
 #359|@LeElaGuess|1049
-#360|@Demolito_L5|1014
+#360|@Demolito_L5|1012
 #361|@admin-bot|1003
 #362|@GuineaBot3|1000
 #363|@TuroBot|997
