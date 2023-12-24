@@ -2387,6 +2387,7 @@ wenndiesoldatbot
 whale_1
 whatsanikitosikhuh
 whitewidowbot
+why_this_bot_exists
 willbochessengine
 williamengine
 winchess_bot
@@ -2485,4 +2486,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-why_this_bot_exists
