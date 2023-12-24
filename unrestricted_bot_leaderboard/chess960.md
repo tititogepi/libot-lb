@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
 #11|@LeelaChessTest|2208
-#12|@TorBot_v2|2207
+#12|@TorBot_v2|2206
 #13|@Intron014|2204
 #14|@ResoluteBot|2204
 #15|@SfishChess2021|2204
@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@lord-bot|2193
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
-#22|@YoBot_v2|2185
-#23|@Kizburb|2182
-#24|@ToromBot|2182
+#22|@Kizburb|2182
+#23|@ToromBot|2182
+#24|@YoBot_v2|2182
 #25|@VariantsBot|2180
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
@@ -67,8 +67,8 @@ Rank|Bot|Rating
 #65|@UnDisstoppableBot|2090
 #66|@Lila-Stockfish|2089
 #67|@Nikitosik-ai|2084
-#68|@Mittens-Bot|2081
-#69|@RaspFish|2080
+#68|@RaspFish|2083
+#69|@Mittens-Bot|2081
 #70|@chessbot2880|2079
 #71|@EmptikBotLc0|2079
 #72|@NimsiluBot|2078
@@ -255,8 +255,8 @@ Rank|Bot|Rating
 #253|@YoBot_v1|1610
 #254|@NeuralAbyss|1608
 #255|@STockfishdestroyBot|1601
-#256|@Lucror|1595
-#257|@FataliiBot|1593
+#256|@FataliiBot|1595
+#257|@Lucror|1595
 #258|@HotLeela|1589
 #259|@M07002|1589
 #260|@EftalBot|1587
@@ -325,7 +325,7 @@ Rank|Bot|Rating
 #323|@GarboBot|1309
 #324|@DavidsGuterBot|1308
 #325|@camel_bot|1298
-#326|@Demolito_L6|1292
+#326|@Demolito_L6|1293
 #327|@ClubAjedrezChileno|1288
 #328|@LeelaZero-UK|1288
 #329|@queen_stase_approx|1288
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Jobabot|1110
 #358|@Dummyette|1107
 #359|@LeElaGuess|1049
-#360|@Demolito_L5|1016
+#360|@Demolito_L5|1014
 #361|@admin-bot|1003
 #362|@GuineaBot3|1000
 #363|@TuroBot|997
