@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ttBOT|2674
+#1|@ttBOT|2734
 #2|@AlfaBot|2590
 #3|@VariantsBot|2579
 #4|@KizVariant|2521
@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@Fairy_Belzedar|2316
 #18|@MalanChess|2292
 #19|@LudwigBOT|2281
-#20|@RaspFish|2276
-#21|@LoseisnotAvailablehe|2274
+#20|@LoseisnotAvailablehe|2274
+#21|@RaspFish|2271
 #22|@bananaaaaaaaaa_test|2269
 #23|@Bobby_Fischer_BOT|2267
 #24|@lord-bot|2258

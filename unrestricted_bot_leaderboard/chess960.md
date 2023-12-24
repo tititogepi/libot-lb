@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@SfishChess2021|2204
 #15|@TheFreshman1902|2203
 #16|@IUseStockfish|2202
-#17|@TorBot_v2|2202
+#17|@TorBot_v2|2201
 #18|@Corvus-1|2197
 #19|@lord-bot|2193
 #20|@hyperchessbot1|2189
@@ -325,10 +325,10 @@ Rank|Bot|Rating
 #323|@GarboBot|1309
 #324|@DavidsGuterBot|1308
 #325|@camel_bot|1298
-#326|@Demolito_L6|1297
-#327|@ClubAjedrezChileno|1288
-#328|@LeelaZero-UK|1288
-#329|@queen_stase_approx|1288
+#326|@ClubAjedrezChileno|1288
+#327|@LeelaZero-UK|1288
+#328|@queen_stase_approx|1288
+#329|@Demolito_L6|1287
 #330|@legendbot1|1285
 #331|@FENder_Bender|1283
 #332|@bcbchess|1282
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Jobabot|1110
 #358|@Dummyette|1107
 #359|@LeElaGuess|1049
-#360|@Demolito_L5|1017
+#360|@Demolito_L5|1033
 #361|@admin-bot|1003
 #362|@GuineaBot3|1000
 #363|@TuroBot|997
