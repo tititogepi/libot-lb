@@ -242,11 +242,11 @@ Rank|Bot|Rating
 #240|@pawnrobot|1461
 #241|@Dong_Xiao_Yuan|1454
 #242|@Future_Chess_Pro|1453
-#243|@MyNameIsSpeeedy|1453
-#244|@BotGeorge|1449
-#245|@AIAlphaAI|1442
-#246|@darkb0t|1441
-#247|@katzebot|1441
+#243|@katzebot|1453
+#244|@MyNameIsSpeeedy|1453
+#245|@BotGeorge|1449
+#246|@AIAlphaAI|1442
+#247|@darkb0t|1441
 #248|@KaTHHHH|1440
 #249|@Chess_Bot-Child|1437
 #250|@DestructeurBot|1437

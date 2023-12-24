@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@lord-bot|2193
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
-#22|@YoBot_v2|2183
-#23|@Kizburb|2182
-#24|@ToromBot|2182
+#22|@Kizburb|2182
+#23|@ToromBot|2182
+#24|@YoBot_v2|2181
 #25|@VariantsBot|2180
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
@@ -34,8 +34,8 @@ Rank|Bot|Rating
 #32|@TheMatrix2025|2156
 #33|@YellowFlash_v2|2156
 #34|@ReinforcementTrial|2154
-#35|@TheFreshmanLc0|2151
-#36|@FireFishBOT_v2|2150
+#35|@FireFishBOT_v2|2151
+#36|@TheFreshmanLc0|2151
 #37|@VariantsTop|2149
 #38|@duythong1402|2148
 #39|@TTC-BOT_2|2148
@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@Lila-Stockfish|2089
 #67|@Nikitosik-ai|2084
 #68|@Mittens-Bot|2081
-#69|@chessbot2880|2079
-#70|@EmptikBotLc0|2079
-#71|@RaspFish|2079
+#69|@RaspFish|2080
+#70|@chessbot2880|2079
+#71|@EmptikBotLc0|2079
 #72|@NimsiluBot|2078
 #73|@KhanhStockfish|2074
 #74|@mrohBOT|2074
@@ -325,8 +325,8 @@ Rank|Bot|Rating
 #323|@GarboBot|1309
 #324|@DavidsGuterBot|1308
 #325|@camel_bot|1298
-#326|@ClubAjedrezChileno|1288
-#327|@Demolito_L6|1288
+#326|@Demolito_L6|1294
+#327|@ClubAjedrezChileno|1288
 #328|@LeelaZero-UK|1288
 #329|@queen_stase_approx|1288
 #330|@legendbot1|1285
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Jobabot|1110
 #358|@Dummyette|1107
 #359|@LeElaGuess|1049
-#360|@Demolito_L5|1022
+#360|@Demolito_L5|1016
 #361|@admin-bot|1003
 #362|@GuineaBot3|1000
 #363|@TuroBot|997
