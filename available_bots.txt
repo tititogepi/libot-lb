@@ -672,6 +672,7 @@ dragon-komodo_1
 dragon_1906
 dragon_shadow_bot
 dragonballzfan
+dragonbot-77
 dragonflybot
 drawfish
 drawinone
@@ -2491,4 +2492,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dragonbot-77
