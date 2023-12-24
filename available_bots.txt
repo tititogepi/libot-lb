@@ -2485,3 +2485,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+why_this_bot_exists

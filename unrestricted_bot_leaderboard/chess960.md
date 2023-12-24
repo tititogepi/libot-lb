@@ -21,9 +21,9 @@ Rank|Bot|Rating
 #19|@lord-bot|2193
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
-#22|@Kizburb|2182
-#23|@ToromBot|2182
-#24|@YoBot_v2|2181
+#22|@YoBot_v2|2183
+#23|@Kizburb|2182
+#24|@ToromBot|2182
 #25|@VariantsBot|2180
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@TheMatrix2025|2156
 #33|@YellowFlash_v2|2156
 #34|@ReinforcementTrial|2154
-#35|@FireFishBOT_v2|2151
+#35|@FireFishBOT_v2|2153
 #36|@TheFreshmanLc0|2151
 #37|@VariantsTop|2149
 #38|@duythong1402|2148
@@ -68,10 +68,10 @@ Rank|Bot|Rating
 #66|@Lila-Stockfish|2089
 #67|@Nikitosik-ai|2084
 #68|@Mittens-Bot|2081
-#69|@RaspFish|2080
-#70|@chessbot2880|2079
-#71|@EmptikBotLc0|2079
-#72|@NimsiluBot|2078
+#69|@chessbot2880|2079
+#70|@EmptikBotLc0|2079
+#71|@NimsiluBot|2078
+#72|@RaspFish|2078
 #73|@KhanhStockfish|2074
 #74|@mrohBOT|2074
 #75|@Leela_960|2072
@@ -256,7 +256,7 @@ Rank|Bot|Rating
 #254|@NeuralAbyss|1608
 #255|@STockfishdestroyBot|1601
 #256|@Lucror|1595
-#257|@FataliiBot|1591
+#257|@FataliiBot|1593
 #258|@HotLeela|1589
 #259|@M07002|1589
 #260|@EftalBot|1587
@@ -325,7 +325,7 @@ Rank|Bot|Rating
 #323|@GarboBot|1309
 #324|@DavidsGuterBot|1308
 #325|@camel_bot|1298
-#326|@Demolito_L6|1294
+#326|@Demolito_L6|1292
 #327|@ClubAjedrezChileno|1288
 #328|@LeelaZero-UK|1288
 #329|@queen_stase_approx|1288
