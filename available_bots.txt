@@ -1192,6 +1192,7 @@ kizburb
 kizbuurb
 kizvariant
 kkka-sa
+klaradestroyer-ab
 kleinertiger2
 knight_128
 knight_bot
@@ -2492,4 +2493,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-klaradestroyer-ab

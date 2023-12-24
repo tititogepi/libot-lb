@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@HulkBot|2387
 #15|@Mega_BOT|2371
 #16|@CorrespondenceBot|2353
-#17|@MehFish|2335
+#17|@MehFish|2351
 #18|@IAMSTOCKFISH123|2305
 #19|@Magnus-BOT|2304
 #20|@Xmas_dragon|2300
@@ -152,7 +152,7 @@ Rank|Bot|Rating
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853
 #152|@natural-disaster|1853
-#153|@Jibbby|1847
+#153|@Jibbby|1846
 #154|@Rinestro|1837
 #155|@OurBot|1836
 #156|@RoundMoundOfRebounds|1834

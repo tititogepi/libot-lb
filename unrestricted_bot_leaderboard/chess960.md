@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@ToromBot|2182
-#24|@VariantsBot|2180
-#25|@YoBot_v2|2180
+#24|@YoBot_v2|2181
+#25|@VariantsBot|2180
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
@@ -325,7 +325,7 @@ Rank|Bot|Rating
 #323|@GarboBot|1309
 #324|@DavidsGuterBot|1308
 #325|@camel_bot|1298
-#326|@Demolito_L6|1295
+#326|@Demolito_L6|1297
 #327|@ClubAjedrezChileno|1288
 #328|@LeelaZero-UK|1288
 #329|@queen_stase_approx|1288
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Jobabot|1110
 #358|@Dummyette|1107
 #359|@LeElaGuess|1049
-#360|@Demolito_L5|1019
+#360|@Demolito_L5|1017
 #361|@admin-bot|1003
 #362|@GuineaBot3|1000
 #363|@TuroBot|997
