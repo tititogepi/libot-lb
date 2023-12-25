@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@ShredderGrizzly|2479
 #19|@NormalBulletBot|2474
 #20|@LoseisnotAvailablehe|2466
-#21|@PepsiForAll|2448
-#22|@RaspFish|2447
+#21|@RaspFish|2451
+#22|@PepsiForAll|2448
 #23|@Fairy-Stockfish|2402
 #24|@abhisun_bot|2384
 #25|@TheMatrix2029|2372

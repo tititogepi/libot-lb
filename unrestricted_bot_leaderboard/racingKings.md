@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@SkyBlaster|2603
 #3|@Viet-AI|2600
 #4|@lord-bot|2581
-#5|@RaspFish|2580
+#5|@RaspFish|2567
 #6|@Fairy_Belzedar|2559
 #7|@EmptikVariantsBot|2557
 #8|@FireFishBOT|2547
@@ -12,11 +12,11 @@ Rank|Bot|Rating
 #10|@Coolman2021|2527
 #11|@EmptikBot|2526
 #12|@ToromBot|2519
-#13|@SCP079|2513
-#14|@Dark_evil_bot|2496
-#15|@mrchessmanager|2494
-#16|@TeamChelsie|2489
-#17|@ttBOT|2486
+#13|@ttBOT|2517
+#14|@SCP079|2513
+#15|@Dark_evil_bot|2496
+#16|@mrchessmanager|2494
+#17|@TeamChelsie|2489
 #18|@TheMatrix2025|2484
 #19|@Magnus-BOT|2479
 #20|@CocopikachuBOT|2451
