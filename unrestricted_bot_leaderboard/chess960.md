@@ -329,9 +329,9 @@ Rank|Bot|Rating
 #327|@LeelaZero-UK|1288
 #328|@queen_stase_approx|1288
 #329|@legendbot1|1285
-#330|@FENder_Bender|1283
-#331|@bcbchess|1282
-#332|@Demolito_L6|1282
+#330|@Demolito_L6|1283
+#331|@FENder_Bender|1283
+#332|@bcbchess|1282
 #333|@AEBROADUSBOTTER|1279
 #334|@yolo_eldiablo15|1274
 #335|@ImpossibleWin|1272
@@ -359,7 +359,7 @@ Rank|Bot|Rating
 #357|@Jobabot|1110
 #358|@Dummyette|1107
 #359|@LeElaGuess|1049
-#360|@Demolito_L5|1046
+#360|@Demolito_L5|1045
 #361|@admin-bot|1003
 #362|@GuineaBot3|1000
 #363|@TuroBot|997
