@@ -1762,6 +1762,7 @@ pseudonoixe
 psychedelicatomic
 ptit-biscuit
 puffinbot
+pure-eman
 purplehunter
 pussaw
 pvice
@@ -2493,4 +2494,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-pure-eman
