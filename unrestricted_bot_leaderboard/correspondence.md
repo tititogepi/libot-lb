@@ -14,9 +14,9 @@ Rank|Bot|Rating
 #12|@pawn_git|2446
 #13|@F0rgot|2434
 #14|@HulkBot|2387
-#15|@Mega_BOT|2371
-#16|@CorrespondenceBot|2353
-#17|@MehFish|2351
+#15|@MehFish|2376
+#16|@Mega_BOT|2371
+#17|@CorrespondenceBot|2353
 #18|@IAMSTOCKFISH123|2305
 #19|@Magnus-BOT|2304
 #20|@Xmas_dragon|2300
@@ -152,11 +152,11 @@ Rank|Bot|Rating
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853
 #152|@natural-disaster|1853
-#153|@Jibbby|1846
+#153|@Jibbby|1844
 #154|@Rinestro|1837
 #155|@OurBot|1836
-#156|@RoundMoundOfRebounds|1834
-#157|@Aromik_s_bot|1831
+#156|@Aromik_s_bot|1831
+#157|@RoundMoundOfRebounds|1829
 #158|@BestJSEngine|1826
 #159|@Black_Knight2006|1815
 #160|@Hoplites|1813
