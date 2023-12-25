@@ -359,4 +359,4 @@ Rank|Bot|Rating
 #357|@G0thamB0t|950
 #358|@GuineaBot|866
 #359|@BogoBot|865
-#360|@grandQ_AI|858
+#360|@grandQ_AI|855
