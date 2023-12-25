@@ -240,7 +240,7 @@ Rank|Bot|Rating
 #238|@fastandfurious10|1464
 #239|@EDSPBOT|1463
 #240|@katzebot|1463
-#241|@pawnrobot|1461
+#241|@pawnrobot|1455
 #242|@Dong_Xiao_Yuan|1454
 #243|@Future_Chess_Pro|1453
 #244|@MyNameIsSpeeedy|1453
