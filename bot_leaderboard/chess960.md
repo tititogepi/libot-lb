@@ -8,6 +8,6 @@ Rank|Bot|Rating
 #6|@TorBot|2162
 #7|@RaspFish|2089
 #8|@FataliiBot|1596
-#9|@Demolito_L6|1282
-#10|@Demolito_L5|1046
+#9|@Demolito_L6|1287
+#10|@Demolito_L5|1041
 #11|@Demolito_L4|924
