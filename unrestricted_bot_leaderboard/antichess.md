@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@ChessVBOT|2675
 #21|@AntichessAnalyzer|2673
 #22|@TheMatrix2025|2666
-#23|@MalanChess|2638
-#24|@ttBOT|2638
+#23|@ttBOT|2649
+#24|@MalanChess|2638
 #25|@bananaaaaaaaaa_test|2608
 #26|@IAMSTOCKFISH123|2603
 #27|@chessbot2880|2601
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@EmptikBot247|2422
 #58|@xiang-qi|2422
 #59|@faith_bot|2420
-#60|@NilatacBot|2418
+#60|@NilatacBot|2413
 #61|@DrSmartBugs|2412
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403
