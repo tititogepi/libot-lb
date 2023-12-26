@@ -2497,3 +2497,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+dnipro_myko_mafia
