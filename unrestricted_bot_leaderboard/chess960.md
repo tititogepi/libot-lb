@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@MastacticaTeoriabot|2099
 #62|@Vinh_VariantsBot|2098
 #63|@ChessBot2156|2095
-#64|@Shineshou90_BOT|2093
-#65|@RaspFish|2092
+#64|@RaspFish|2093
+#65|@Shineshou90_BOT|2093
 #66|@UnDisstoppableBot|2090
 #67|@Lila-Stockfish|2089
 #68|@Nikitosik-ai|2084
