@@ -554,6 +554,7 @@ common_mover
 compchess60
 completelyrandombot
 compraptor
+compressor-bot
 computerstuff
 cookiecheesychess
 coolman2021
@@ -2495,4 +2496,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-compressor-bot
