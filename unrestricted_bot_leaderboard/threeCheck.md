@@ -104,9 +104,9 @@ Rank|Bot|Rating
 #102|@jasans_bot|1621
 #103|@newengine2022|1588
 #104|@knight_128|1563
-#105|@Galaxy_Guardian|1561
-#106|@Alehkine_cat|1549
-#107|@DavidsGuterBot|1520
+#105|@DavidsGuterBot|1562
+#106|@Galaxy_Guardian|1561
+#107|@Alehkine_cat|1549
 #108|@TrashBot|1519
 #109|@relevantproblem|1514
 #110|@Toxic_Bot|1511

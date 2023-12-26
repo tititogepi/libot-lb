@@ -1293,6 +1293,7 @@ leelanice
 leelanicemirror
 leelapi
 leelapibot
+leelaqueenforknight
 leelarades
 leelarecent
 leelarogue
@@ -2498,4 +2499,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leelaqueenforknight
+toofastfish
