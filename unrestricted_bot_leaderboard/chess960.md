@@ -326,10 +326,10 @@ Rank|Bot|Rating
 #324|@DavidsGuterBot|1308
 #325|@camel_bot|1298
 #326|@ClubAjedrezChileno|1288
-#327|@LeelaZero-UK|1288
-#328|@queen_stase_approx|1288
-#329|@legendbot1|1285
-#330|@Demolito_L6|1284
+#327|@Demolito_L6|1288
+#328|@LeelaZero-UK|1288
+#329|@queen_stase_approx|1288
+#330|@legendbot1|1285
 #331|@FENder_Bender|1283
 #332|@bcbchess|1282
 #333|@AEBROADUSBOTTER|1279
