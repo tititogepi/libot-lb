@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
 #11|@LeelaChessTest|2208
-#12|@ResoluteBot|2205
+#12|@ResoluteBot|2204
 #13|@SfishChess2021|2204
 #14|@Intron014|2203
 #15|@TheFreshman1902|2203
@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ToromBot|2181
 #24|@VariantsBot|2180
 #25|@Bot_McBotface|2172
-#26|@YoBot_v2|2171
+#26|@YoBot_v2|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162

@@ -91,9 +91,9 @@ Rank|Bot|Rating
 #89|@Trollfish-Bot|2069
 #90|@StockfishPower|2065
 #91|@Hyper-Stockfish|2064
-#92|@zeekat|2059
-#93|@BotifiedMoyao|2058
-#94|@Dong_Xiao_Yuan|2054
+#92|@BotifiedMoyao|2058
+#93|@Dong_Xiao_Yuan|2054
+#94|@zeekat|2053
 #95|@DragonBallZFan|2052
 #96|@centaur01|2050
 #97|@CrazyDog5892912|2050
