@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@RaspFish|2553
+#1|@RaspFish|2542

@@ -650,6 +650,7 @@ djungel_lc0
 djungelbot
 dkf33
 dlvc-bot
+dnipro_myko_mafia
 dny_isssss
 dobbybot
 doctorrobotvinnik
@@ -2497,4 +2498,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dnipro_myko_mafia
+leelaqueenforknight

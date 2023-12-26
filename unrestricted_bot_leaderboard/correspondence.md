@@ -114,7 +114,7 @@ Rank|Bot|Rating
 #112|@ElPeonElectrico|2004
 #113|@honzovy-sachy|2002
 #114|@TESTBOT23|2000
-#115|@zeekat|1995
+#115|@zeekat|1998
 #116|@Zer0_Tw0|1992
 #117|@YoBot_v2|1984
 #118|@Virutor|1980

@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@SkyBlaster|2603
 #3|@Viet-AI|2600
 #4|@lord-bot|2581
-#5|@Fairy_Belzedar|2559
-#6|@EmptikVariantsBot|2557
-#7|@RaspFish|2553
-#8|@ttBOT|2550
-#9|@FireFishBOT|2547
+#5|@ttBOT|2567
+#6|@Fairy_Belzedar|2559
+#7|@EmptikVariantsBot|2557
+#8|@FireFishBOT|2547
+#9|@RaspFish|2542
 #10|@LudwigBOT|2536
 #11|@Coolman2021|2527
 #12|@EmptikBot|2526

@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@Fairy_Belzedar|2712
 #6|@PepsiForAll|2699
 #7|@ToromBot|2693
-#8|@RaspFish|2535
-#9|@ttBOT|2524
+#8|@RaspFish|2568
+#9|@ttBOT|2452
 #10|@EmptikVariantsBot|2402
 #11|@EmptikBot|2378
 #12|@LoseisnotAvailablehe|2369
