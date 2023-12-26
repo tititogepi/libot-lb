@@ -2250,6 +2250,7 @@ tobegen
 tomewyrm
 too_ez4me
 toodfish
+toofastfish
 topple
 torbot
 torbot_sl
@@ -2499,4 +2500,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-toofastfish
