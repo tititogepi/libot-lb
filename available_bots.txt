@@ -283,6 +283,7 @@ bobby_fishcer_bot
 bogobot
 bogopi
 boldbladerunner
+boller1910
 bongcloudtest
 boom_bot
 boris-trapsky
@@ -2496,4 +2497,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-boller1910

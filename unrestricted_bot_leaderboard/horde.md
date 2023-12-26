@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@Viet-AI|2915
 #3|@Coolman2021|2757
 #4|@FireFishBOT|2726
-#5|@ToromBot|2725
-#6|@Fairy_Belzedar|2712
-#7|@PepsiForAll|2699
+#5|@Fairy_Belzedar|2712
+#6|@PepsiForAll|2699
+#7|@ToromBot|2693
 #8|@RaspFish|2535
-#9|@ttBOT|2444
+#9|@ttBOT|2524
 #10|@EmptikVariantsBot|2402
 #11|@EmptikBot|2378
 #12|@LoseisnotAvailablehe|2369

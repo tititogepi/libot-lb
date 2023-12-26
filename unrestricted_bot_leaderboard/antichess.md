@@ -16,13 +16,13 @@ Rank|Bot|Rating
 #14|@Viet-AI|2765
 #15|@SCP079|2736
 #16|@ibep|2733
-#17|@RaspFish|2719
+#17|@ttBOT|2698
 #18|@Lili-Variants|2678
 #19|@LoseisnotAvailablehe|2677
 #20|@ChessVBOT|2675
-#21|@AntichessAnalyzer|2673
-#22|@TheMatrix2025|2666
-#23|@ttBOT|2649
+#21|@RaspFish|2674
+#22|@AntichessAnalyzer|2673
+#23|@TheMatrix2025|2666
 #24|@MalanChess|2638
 #25|@bananaaaaaaaaa_test|2608
 #26|@IAMSTOCKFISH123|2603
