@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@ToromBot|2182
-#24|@YoBot_v2|2181
-#25|@VariantsBot|2180
+#24|@VariantsBot|2180
+#25|@YoBot_v2|2179
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@Vinh_VariantsBot|2098
 #63|@ChessBot2156|2095
 #64|@Shineshou90_BOT|2093
-#65|@RaspFish|2090
+#65|@RaspFish|2092
 #66|@UnDisstoppableBot|2090
 #67|@Lila-Stockfish|2089
 #68|@Nikitosik-ai|2084
