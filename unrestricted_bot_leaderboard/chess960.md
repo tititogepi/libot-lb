@@ -33,8 +33,8 @@ Rank|Bot|Rating
 #31|@YellowFlash-X|2158
 #32|@TheMatrix2025|2156
 #33|@YellowFlash_v2|2156
-#34|@ReinforcementTrial|2154
-#35|@FireFishBOT_v2|2153
+#34|@FireFishBOT_v2|2154
+#35|@ReinforcementTrial|2154
 #36|@TheFreshmanLc0|2151
 #37|@VariantsTop|2149
 #38|@duythong1402|2148
