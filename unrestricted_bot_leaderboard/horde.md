@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@Coolman2021|2757
 #4|@FireFishBOT|2726
 #5|@Fairy_Belzedar|2712
-#6|@PepsiForAll|2699
-#7|@ToromBot|2693
+#6|@ToromBot|2705
+#7|@PepsiForAll|2699
 #8|@RaspFish|2568
 #9|@ttBOT|2452
 #10|@EmptikVariantsBot|2402
