@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@UltronBot|2556
 #9|@Viet-AI|2556
 #10|@NimsiluBot|2535
-#11|@ToromBot|2530
+#11|@ToromBot|2531
 #12|@BitExtender128|2526
 #13|@ResoluteBot|2525
 #14|@CatBot_14|2514
