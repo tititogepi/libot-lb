@@ -240,10 +240,10 @@ Rank|Bot|Rating
 #238|@thibot|1470
 #239|@fastandfurious10|1464
 #240|@EDSPBOT|1463
-#241|@pawnrobot|1455
-#242|@Dong_Xiao_Yuan|1454
-#243|@Future_Chess_Pro|1453
-#244|@MyNameIsSpeeedy|1453
+#241|@Dong_Xiao_Yuan|1454
+#242|@Future_Chess_Pro|1453
+#243|@MyNameIsSpeeedy|1453
+#244|@pawnrobot|1453
 #245|@BotGeorge|1449
 #246|@AIAlphaAI|1442
 #247|@darkb0t|1441

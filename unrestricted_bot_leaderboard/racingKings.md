@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@LudwigBOT|2536
 #11|@Coolman2021|2527
 #12|@EmptikBot|2526
-#13|@ToromBot|2519
-#14|@SCP079|2513
+#13|@SCP079|2513
+#14|@ToromBot|2511
 #15|@Dark_evil_bot|2496
 #16|@mrchessmanager|2494
 #17|@TeamChelsie|2489

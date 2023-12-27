@@ -4,9 +4,9 @@ Rank|Bot|Rating
 #2|@Intron014|2202
 #3|@TorBot_v2|2201
 #4|@ToromBot|2181
-#5|@YoBot_v2|2174
+#5|@YoBot_v2|2173
 #6|@TorBot|2162
-#7|@RaspFish|2091
+#7|@RaspFish|2093
 #8|@FataliiBot|1596
 #9|@Demolito_L6|1288
 #10|@Demolito_L5|1044
