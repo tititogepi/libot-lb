@@ -17,12 +17,12 @@ Rank|Bot|Rating
 #15|@EmptikBot|2510
 #16|@ibep|2498
 #17|@firstrobot|2485
-#18|@ShredderGrizzly|2479
-#19|@NormalBulletBot|2474
-#20|@LoseisnotAvailablehe|2466
-#21|@ttBOT|2458
+#18|@ttBOT|2484
+#19|@ShredderGrizzly|2479
+#20|@NormalBulletBot|2474
+#21|@LoseisnotAvailablehe|2466
 #22|@PepsiForAll|2448
-#23|@RaspFish|2419
+#23|@RaspFish|2407
 #24|@Fairy-Stockfish|2402
 #25|@abhisun_bot|2384
 #26|@TheMatrix2029|2372
@@ -251,7 +251,7 @@ Rank|Bot|Rating
 #249|@DestructeurBot|1437
 #250|@xDmanBOT|1437
 #251|@MrMolotov|1436
-#252|@pawnrobot|1436
+#252|@pawnrobot|1435
 #253|@BOSS_CHESS_BOT|1431
 #254|@shakboy9824453231op|1420
 #255|@bunny_2021|1413
