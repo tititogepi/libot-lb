@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@UltronBot|2197
 #53|@Viet-BOT|2185
 #54|@lightspeed_bot|2177
-#55|@newengine2022|2171
-#56|@RaspFish|2169
+#55|@RaspFish|2173
+#56|@newengine2022|2171
 #57|@Peaceful4Life|2160
 #58|@SCP079|2156
 #59|@CloudBot_v2|2131
