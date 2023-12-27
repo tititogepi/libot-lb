@@ -113,8 +113,8 @@ Rank|Bot|Rating
 #111|@SchachProg|2010
 #112|@ElPeonElectrico|2004
 #113|@honzovy-sachy|2002
-#114|@TESTBOT23|2000
-#115|@zeekat|1998
+#114|@zeekat|2001
+#115|@TESTBOT23|2000
 #116|@Zer0_Tw0|1992
 #117|@YoBot_v2|1984
 #118|@Virutor|1980
