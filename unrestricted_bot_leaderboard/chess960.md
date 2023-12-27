@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
 #11|@LeelaChessTest|2208
-#12|@ResoluteBot|2208
+#12|@ResoluteBot|2207
 #13|@SfishChess2021|2204
 #14|@TheFreshman1902|2203
 #15|@Intron014|2202
@@ -378,5 +378,5 @@ Rank|Bot|Rating
 #376|@WaspBot|798
 #377|@LeelaWeak|735
 #378|@FelixLeonidovich|730
-#379|@pawnrobot|606
+#379|@pawnrobot|619
 #380|@konaz|400
