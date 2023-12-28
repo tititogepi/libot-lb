@@ -546,6 +546,7 @@ cmndr
 cnn_bot
 coconochao_bot
 cocopikachubot
+codfishbot
 codingadventurebot
 codingadventuresback
 codingai
@@ -2501,4 +2502,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-codfishbot
+thomastce1
+guineabot3compact

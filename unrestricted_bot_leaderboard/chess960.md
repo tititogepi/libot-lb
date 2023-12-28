@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@ToromBot|2180
 #24|@VariantsBot|2180
 #25|@Bot_McBotface|2172
-#26|@YoBot_v2|2172
+#26|@YoBot_v2|2170
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
@@ -67,8 +67,8 @@ Rank|Bot|Rating
 #65|@Shineshou90_BOT|2093
 #66|@UnDisstoppableBot|2090
 #67|@Lila-Stockfish|2089
-#68|@Mittens-Bot|2081
-#69|@Nikitosik-ai|2080
+#68|@Nikitosik-ai|2086
+#69|@Mittens-Bot|2081
 #70|@chessbot2880|2079
 #71|@EmptikBotLc0|2079
 #72|@NimsiluBot|2078
