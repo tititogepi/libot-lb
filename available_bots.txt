@@ -936,6 +936,7 @@ guccibot
 guineabot
 guineabot2
 guineabot3
+guineabot3compact
 gun-bot
 gymerduybach
 h-zero
@@ -2236,6 +2237,7 @@ theyobots
 thibot
 thicc_gopher
 thisisntabot
+thomastce1
 thousandatom
 threeisthree
 thuban_official
@@ -2502,5 +2504,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-thomastce1
-guineabot3compact

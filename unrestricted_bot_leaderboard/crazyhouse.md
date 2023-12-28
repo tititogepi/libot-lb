@@ -169,11 +169,11 @@ Rank|Bot|Rating
 #167|@ReallyCrazyBOT|1245
 #168|@NightStarFox|1243
 #169|@Happy_One|1223
-#170|@Grand_MefBartu-BOT|1200
-#171|@magnusglad_bot|1196
-#172|@FluffBallCuddly|1191
-#173|@heatseeker223|1191
-#174|@pawnrobot|1186
+#170|@pawnrobot|1203
+#171|@Grand_MefBartu-BOT|1200
+#172|@magnusglad_bot|1196
+#173|@FluffBallCuddly|1191
+#174|@heatseeker223|1191
 #175|@ChessPlayer1225|1183
 #176|@Jannik08_FAN|1163
 #177|@BotOfAtomicChess|1153
