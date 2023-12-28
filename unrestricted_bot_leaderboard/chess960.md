@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@LoseisnotAvailablehe|2217
 #9|@LeelaFish1|2212
 #10|@Xerus_1|2211
-#11|@ResoluteBot|2210
+#11|@ResoluteBot|2209
 #12|@LeelaChessTest|2208
 #13|@SfishChess2021|2204
 #14|@TheFreshman1902|2203
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@hyperchessbot1|2189
 #21|@robiachess|2186
 #22|@Kizburb|2182
-#23|@ToromBot|2181
+#23|@ToromBot|2180
 #24|@VariantsBot|2180
 #25|@Bot_McBotface|2172
 #26|@EmptikBot|2168
@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@EvenMatchup|2099
 #61|@MastacticaTeoriabot|2099
 #62|@Vinh_VariantsBot|2098
-#63|@RaspFish|2096
+#63|@RaspFish|2097
 #64|@ChessBot2156|2095
 #65|@Shineshou90_BOT|2093
 #66|@UnDisstoppableBot|2090
