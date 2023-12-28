@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@FireFishBOT|2785
 #13|@VariantsTop|2765
 #14|@Viet-AI|2765
-#15|@ttBOT|2737
+#15|@ttBOT|2739
 #16|@SCP079|2736
 #17|@ibep|2733
 #18|@Lili-Variants|2678
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@ChessVBOT|2675
 #21|@AntichessAnalyzer|2673
 #22|@TheMatrix2025|2666
-#23|@RaspFish|2641
+#23|@RaspFish|2640
 #24|@MalanChess|2638
 #25|@bananaaaaaaaaa_test|2608
 #26|@IAMSTOCKFISH123|2603
