@@ -88,8 +88,8 @@ Rank|Bot|Rating
 #86|@SkyBlaster|2254
 #87|@mrchessmanager|2240
 #88|@TurkiyeHogwarts|2240
-#89|@EagleEye2021|2235
-#90|@anti-bot|2234
+#89|@anti-bot|2235
+#90|@EagleEye2021|2235
 #91|@chesshyperbot|2234
 #92|@Hyper-Stockfish|2230
 #93|@CocopikachuBOT|2226
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2093
+#112|@CatNail|2088
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1929
+#124|@pawnrobot|1926
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
