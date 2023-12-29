@@ -33,13 +33,14 @@ def get_file_name(type, dir):
 
 def get_banned_bots():
     banned_bots = set()
+    banned_usernames = []
 
     try:
-        with urllib.request.urlopen('https://lichess.org/api/team/banned-of-leaderboard-of-bots') as banned_bots_data:
-            data = orjson.loads(banned_bots_data.read())
-            description = data.get('description', '')
-            banned_usernames = re.findall(r'@([\w-]+)', description)
-            banned_bots.update(username.lower() for username in banned_usernames)
+        with open('banned_bots.txt', 'r') as bans:
+            for bot in bans.readlines():
+                banned_usernames.append(bot.strip())
+
+        banned_bots.update(username.lower() for username in banned_usernames)
 
     except Exception as e:
         print(f"Error fetching banned bots: {e}")
