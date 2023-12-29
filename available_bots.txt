@@ -929,6 +929,7 @@ greg0lord-bot
 greko-bot
 grey_wolf3000
 grey_wolf3000_2
+grogros_zero
 groundshaker
 grozadvijkov
 gslv_and_pslv
@@ -2504,4 +2505,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-grogros_zero

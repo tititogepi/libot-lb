@@ -33,10 +33,10 @@ Rank|Bot|Rating
 #31|@AIAlphaAI|2589
 #32|@ElPeonElectrico|2568
 #33|@NimsiluBot|2566
-#34|@YoBot_v2|2565
-#35|@newengine2022|2562
-#36|@Vinh_VariantsBot|2561
-#37|@Nakshatra3|2556
+#34|@Nakshatra3|2565
+#35|@YoBot_v2|2565
+#36|@newengine2022|2562
+#37|@Vinh_VariantsBot|2561
 #38|@Xerus_1|2553
 #39|@LudwigBOT|2545
 #40|@AlfaBot|2541
@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@EmptikBot247|2422
 #58|@xiang-qi|2422
 #59|@faith_bot|2420
-#60|@NilatacBot|2415
-#61|@DrSmartBugs|2412
+#60|@DrSmartBugs|2412
+#61|@NilatacBot|2411
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403
 #64|@ESC_BOT|2394
@@ -111,7 +111,7 @@ Rank|Bot|Rating
 #109|@XXIstCentury|2131
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
-#112|@CatNail|2098
+#112|@CatNail|2093
 #113|@ZamuChess|2049
 #114|@Botzer|2020
 #115|@Jussicas|2019
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1924
+#124|@pawnrobot|1929
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861

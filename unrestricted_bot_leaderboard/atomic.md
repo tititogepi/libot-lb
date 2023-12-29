@@ -254,9 +254,9 @@ Rank|Bot|Rating
 #252|@BOSS_CHESS_BOT|1431
 #253|@shakboy9824453231op|1420
 #254|@bunny_2021|1413
-#255|@pawnrobot|1411
-#256|@TTC-BOT_2|1410
-#257|@Butzke_BOT|1401
+#255|@TTC-BOT_2|1410
+#256|@Butzke_BOT|1401
+#257|@pawnrobot|1400
 #258|@MartianBot|1386
 #259|@Trumpfor2O2O|1386
 #260|@DrunkenMasterEngine|1385
