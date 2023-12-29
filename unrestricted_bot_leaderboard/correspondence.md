@@ -141,9 +141,9 @@ Rank|Bot|Rating
 #139|@KingsGamBot|1882
 #140|@lol7241Bot|1878
 #141|@PiratesBot|1876
-#142|@Yukoo-BOT|1876
-#143|@beststockfish16|1875
-#144|@yeoldwiz|1875
+#142|@yeoldwiz|1876
+#143|@Yukoo-BOT|1876
+#144|@beststockfish16|1875
 #145|@RoboTal|1874
 #146|@yowCapablanca|1874
 #147|@TheMatrix2025|1872
@@ -356,7 +356,7 @@ Rank|Bot|Rating
 #354|@Light_To_The_Rescue|1057
 #355|@mustaley|973
 #356|@BerserkRandomMover|963
-#357|@G0thamB0t|947
+#357|@G0thamB0t|945
 #358|@grandQ_AI|876
 #359|@GuineaBot|866
 #360|@BogoBot|865
