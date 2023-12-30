@@ -3,9 +3,9 @@ Rank|Bot|Rating
 #1|@FireFishBOT_v2|2684
 #2|@RipTorn|2674
 #3|@YoBot_v2|2670
-#4|@Intron014|2665
-#5|@ReinforcementTrial|2653
-#6|@Africaata|2649
+#4|@Intron014|2666
+#5|@Africaata|2649
+#6|@ReinforcementTrial|2649
 #7|@TorBot_v2|2646
 #8|@RaspFish|2643
 #9|@TorBot|2643
@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@LBOT007|2603
 #16|@Mr_Chess_Berserk|2565
 #17|@ELO_1500|2470
-#18|@expositor|2417
+#18|@expositor|2420
 #19|@AKS-Mantissa|2385
 #20|@LazyBot|2370
 #21|@pawn_git|2363
@@ -26,10 +26,10 @@ Rank|Bot|Rating
 #24|@Weiawaga|2321
 #25|@Cheng-4|2279
 #26|@bitbitbot|2244
-#27|@ChessNoobComp|2126
-#28|@Phalanx-XXV|2124
-#29|@Pseudo-0|2124
-#30|@Lynx_BOT|2103
+#27|@Pseudo-0|2130
+#28|@ChessNoobComp|2126
+#29|@Phalanx-XXV|2124
+#30|@Lynx_BOT|2098
 #31|@Boris-Trapsky|2047
 #32|@Nakshatra3|2019
 #33|@simpleEval|2015
@@ -49,8 +49,8 @@ Rank|Bot|Rating
 #47|@Virutor|1729
 #48|@honzovy-sachy|1721
 #49|@sargon-4ply|1707
-#50|@maia9|1703
-#51|@notropis|1700
+#50|@notropis|1700
+#51|@maia9|1695
 #52|@Demolito_L5|1685
 #53|@turkjs|1676
 #54|@schnecken_bot|1665
