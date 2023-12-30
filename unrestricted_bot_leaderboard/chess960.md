@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@VariantsBot|2180
 #24|@ToromBot|2179
 #25|@Bot_McBotface|2172
-#26|@YoBot_v2|2172
+#26|@YoBot_v2|2170
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@lol7241Bot|2100
 #60|@EvenMatchup|2099
 #61|@MastacticaTeoriabot|2099
-#62|@Vinh_VariantsBot|2098
-#63|@RaspFish|2097
+#62|@RaspFish|2099
+#63|@Vinh_VariantsBot|2098
 #64|@ChessBot2156|2095
 #65|@TorBot_SL|2094
 #66|@Shineshou90_BOT|2093
