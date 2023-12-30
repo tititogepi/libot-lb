@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
 #3|@Coolman2021|2757
-#4|@ToromBot|2728
+#4|@ToromBot|2755
 #5|@FireFishBOT|2726
 #6|@Fairy_Belzedar|2712
 #7|@PepsiForAll|2699
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@PowerOnBot|1258
 #122|@xDmanBOT|1258
 #123|@yobmef|1258
-#124|@pawnrobot|1219
+#124|@pawnrobot|1218
 #125|@TheSystem_Bot|1218
 #126|@GuineaBot3|1212
 #127|@admin-bot|1209
