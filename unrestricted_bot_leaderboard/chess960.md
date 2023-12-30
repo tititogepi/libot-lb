@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
 #24|@ToromBot|2179
-#25|@YoBot_v2|2178
+#25|@YoBot_v2|2177
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
@@ -56,10 +56,10 @@ Rank|Bot|Rating
 #54|@ToromLc0|2106
 #55|@Vaxim2000|2106
 #56|@EmptikBotEman|2103
-#57|@Botyuliirma|2101
-#58|@Kizbuurb|2100
-#59|@lol7241Bot|2100
-#60|@RaspFish|2100
+#57|@RaspFish|2102
+#58|@Botyuliirma|2101
+#59|@Kizbuurb|2100
+#60|@lol7241Bot|2100
 #61|@EvenMatchup|2099
 #62|@MastacticaTeoriabot|2099
 #63|@Vinh_VariantsBot|2098

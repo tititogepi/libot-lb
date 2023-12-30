@@ -234,9 +234,9 @@ Rank|Bot|Rating
 #232|@Pikachu_270|1497
 #233|@Iwantedtoplaychess|1486
 #234|@MeezKool|1485
-#235|@RSVMentor|1476
-#236|@TheWeakestBot|1476
-#237|@katzebot|1471
+#235|@katzebot|1479
+#236|@RSVMentor|1476
+#237|@TheWeakestBot|1476
 #238|@thibot|1470
 #239|@fastandfurious10|1464
 #240|@EDSPBOT|1463
