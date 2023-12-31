@@ -876,6 +876,7 @@ geemc
 gegenebot
 genericbot
 genetic_chess_bot
+gengochan
 geniusbot
 geraldbot
 geraldbot2
@@ -2507,4 +2508,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gengochan
