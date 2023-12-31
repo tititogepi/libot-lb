@@ -102,7 +102,7 @@ Rank|Bot|Rating
 #100|@xDmanBOT|2214
 #101|@YellowFlash_v2|2214
 #102|@NormalBlitzBulletBot|2205
-#103|@CatNail|2200
+#103|@CatNail|2201
 #104|@EstmileBot|2200
 #105|@HerokuHasnotplay|2196
 #106|@Lucror|2178
