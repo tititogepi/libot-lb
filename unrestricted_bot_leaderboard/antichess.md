@@ -31,7 +31,7 @@ Rank|Bot|Rating
 #29|@Viet-BOT|2598
 #30|@firstrobot|2593
 #31|@AIAlphaAI|2589
-#32|@Nakshatra3|2575
+#32|@Nakshatra3|2584
 #33|@ElPeonElectrico|2568
 #34|@NimsiluBot|2566
 #35|@YoBot_v2|2565
@@ -56,10 +56,10 @@ Rank|Bot|Rating
 #54|@Bobby_Fischer_BOT|2435
 #55|@Nobody11892|2435
 #56|@Hagfish|2432
-#57|@NilatacBot|2423
-#58|@EmptikBot247|2422
-#59|@xiang-qi|2422
-#60|@faith_bot|2420
+#57|@EmptikBot247|2422
+#58|@xiang-qi|2422
+#59|@faith_bot|2420
+#60|@NilatacBot|2420
 #61|@DrSmartBugs|2412
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403
@@ -102,8 +102,8 @@ Rank|Bot|Rating
 #100|@xDmanBOT|2214
 #101|@YellowFlash_v2|2214
 #102|@NormalBlitzBulletBot|2205
-#103|@CatNail|2201
-#104|@EstmileBot|2200
+#103|@EstmileBot|2200
+#104|@CatNail|2197
 #105|@HerokuHasnotplay|2196
 #106|@Lucror|2178
 #107|@lightspeed_bot|2152
