@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@TorBot_v2|2195
 #18|@lord-bot|2193
 #19|@hyperchessbot1|2189
-#20|@Intron014|2189
+#20|@Intron014|2188
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
@@ -52,13 +52,13 @@ Rank|Bot|Rating
 #50|@JeffIO|2113
 #51|@Dragon_1906|2111
 #52|@ibep|2111
-#53|@RaspFish|2108
+#53|@RaspFish|2109
 #54|@Galaxy_Guardian|2107
 #55|@BetaOneBot|2106
 #56|@ToromLc0|2106
 #57|@Vaxim2000|2106
-#58|@Nikitosik-ai|2104
-#59|@EmptikBotEman|2103
+#58|@EmptikBotEman|2103
+#59|@Nikitosik-ai|2103
 #60|@Botyuliirma|2101
 #61|@Kizbuurb|2100
 #62|@lol7241Bot|2100
