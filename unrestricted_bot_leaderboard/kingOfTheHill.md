@@ -125,8 +125,8 @@ Rank|Bot|Rating
 #123|@Trainspotter|1466
 #124|@NienishiEngine|1465
 #125|@XiDM|1464
-#126|@TorBot|1463
-#127|@DavidsGuterBot|1460
+#126|@DavidsGuterBot|1463
+#127|@TorBot|1463
 #128|@McKapran78|1435
 #129|@EZWipe|1432
 #130|@BetaOneBot|1424
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@MyNameIsSpeedy|1226
 #150|@Bottios|1223
 #151|@RSVMentor|1196
-#152|@pawnrobot|1184
+#152|@pawnrobot|1181
 #153|@Boom_Bot|1176
 #154|@TrashBot|1168
 #155|@shakboy9824453231op|1152
