@@ -122,11 +122,11 @@ Rank|Bot|Rating
 #120|@SUMAL_BRO|1476
 #121|@Less_of_a_threat|1470
 #122|@Bbao23-chess|1469
-#123|@Trainspotter|1466
-#124|@NienishiEngine|1465
-#125|@XiDM|1464
-#126|@TorBot|1463
-#127|@DavidsGuterBot|1461
+#123|@DavidsGuterBot|1466
+#124|@Trainspotter|1466
+#125|@NienishiEngine|1465
+#126|@XiDM|1464
+#127|@TorBot|1463
 #128|@McKapran78|1435
 #129|@EZWipe|1432
 #130|@BetaOneBot|1424
@@ -151,7 +151,7 @@ Rank|Bot|Rating
 #149|@MyNameIsSpeedy|1226
 #150|@Bottios|1223
 #151|@RSVMentor|1196
-#152|@pawnrobot|1183
+#152|@pawnrobot|1178
 #153|@Boom_Bot|1176
 #154|@TrashBot|1168
 #155|@shakboy9824453231op|1152

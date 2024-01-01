@@ -26,6 +26,7 @@ UnbalanceBot
 Starfaith
 ProteusSF-Aureo
 ProteusSF-Godot
+ProteusSFX-AI
 Nikitosik-ai
 NikitosikRandombot
 Atomic_Chess_Bot
