@@ -105,7 +105,7 @@ Rank|Bot|Rating
 #103|@EstmileBot|2200
 #104|@HerokuHasnotplay|2196
 #105|@Lucror|2178
-#106|@CatNail|2162
+#106|@CatNail|2165
 #107|@lightspeed_bot|2152
 #108|@AntiChessBot|2142
 #109|@AnUtterlyKarBot|2134

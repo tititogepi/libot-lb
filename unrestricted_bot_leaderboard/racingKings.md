@@ -126,11 +126,11 @@ Rank|Bot|Rating
 #124|@TheSystem_Bot|1572
 #125|@QuickLiquid|1555
 #126|@faith_bot|1514
-#127|@pawnrobot|1498
-#128|@TorBot|1498
-#129|@KnightsArmour|1494
-#130|@MagnusCarlsen1507|1493
-#131|@alvinl22_LBot|1489
+#127|@TorBot|1498
+#128|@KnightsArmour|1494
+#129|@MagnusCarlsen1507|1493
+#130|@alvinl22_LBot|1489
+#131|@pawnrobot|1488
 #132|@MeezKool|1476
 #133|@ahmet-botahmet|1471
 #134|@Variantenkoning|1471
