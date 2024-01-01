@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@SfishChess2021|2204
 #13|@TheFreshman1902|2203
 #14|@IUseStockfish|2202
-#15|@ResoluteBot|2200
+#15|@ResoluteBot|2199
 #16|@Corvus-1|2197
 #17|@TorBot_v2|2195
 #18|@lord-bot|2193
@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@VariantsBot|2180
 #24|@ToromBot|2177
 #25|@Bot_McBotface|2172
-#26|@YoBot_v2|2169
-#27|@EmptikBot|2168
+#26|@EmptikBot|2168
+#27|@YoBot_v2|2168
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
 #30|@too_ez4me|2160
@@ -52,13 +52,13 @@ Rank|Bot|Rating
 #50|@JeffIO|2113
 #51|@Dragon_1906|2111
 #52|@ibep|2111
-#53|@Galaxy_Guardian|2107
-#54|@RaspFish|2107
+#53|@RaspFish|2108
+#54|@Galaxy_Guardian|2107
 #55|@BetaOneBot|2106
 #56|@ToromLc0|2106
 #57|@Vaxim2000|2106
-#58|@EmptikBotEman|2103
-#59|@Nikitosik-ai|2102
+#58|@Nikitosik-ai|2104
+#59|@EmptikBotEman|2103
 #60|@Botyuliirma|2101
 #61|@Kizbuurb|2100
 #62|@lol7241Bot|2100
