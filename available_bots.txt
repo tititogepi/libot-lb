@@ -2186,6 +2186,7 @@ the_bot_guy
 the_bot_of_speed
 the_checkmating_bot
 the_construct
+the_devansh117
 the_dragon_bot
 the_magnificent_bob
 the_marcus
@@ -2508,4 +2509,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-the_devansh117

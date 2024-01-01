@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@YellowFlash_v2|2214
 #102|@NormalBlitzBulletBot|2205
 #103|@EstmileBot|2200
-#104|@CatNail|2199
-#105|@HerokuHasnotplay|2196
+#104|@HerokuHasnotplay|2196
+#105|@CatNail|2189
 #106|@Lucror|2178
 #107|@lightspeed_bot|2152
 #108|@AntiChessBot|2142
