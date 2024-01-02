@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
-#86|@anti-bot|2256
+#86|@anti-bot|2260
 #87|@SkyBlaster|2254
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
@@ -104,8 +104,8 @@ Rank|Bot|Rating
 #102|@NormalBlitzBulletBot|2205
 #103|@EstmileBot|2200
 #104|@HerokuHasnotplay|2196
-#105|@Lucror|2178
-#106|@CatNail|2176
+#105|@CatNail|2178
+#106|@Lucror|2178
 #107|@lightspeed_bot|2152
 #108|@AntiChessBot|2142
 #109|@AnUtterlyKarBot|2134
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1946
+#124|@pawnrobot|1944
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
