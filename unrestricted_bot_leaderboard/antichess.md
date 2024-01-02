@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@ChessBot3021|2599
 #29|@Viet-BOT|2598
 #30|@firstrobot|2593
-#31|@AIAlphaAI|2589
-#32|@Nakshatra3|2584
+#31|@Nakshatra3|2591
+#32|@AIAlphaAI|2589
 #33|@ElPeonElectrico|2568
 #34|@NimsiluBot|2566
 #35|@YoBot_v2|2565
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@EmptikBot247|2422
 #58|@xiang-qi|2422
 #59|@faith_bot|2420
-#60|@NilatacBot|2420
+#60|@NilatacBot|2417
 #61|@DrSmartBugs|2412
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403
