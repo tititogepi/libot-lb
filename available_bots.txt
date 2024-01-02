@@ -1750,6 +1750,7 @@ pranavisthebest
 preferencesbookmove
 prestonh
 primer-bot
+princhess_bot
 pro-python-bot
 pro_im_mortal
 probot123567
@@ -2510,4 +2511,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-princhess_bot

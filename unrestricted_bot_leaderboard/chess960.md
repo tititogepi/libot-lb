@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@Corvus-1|2197
 #16|@lord-bot|2193
 #17|@DragonBot-77|2191
-#18|@ResoluteBot|2191
-#19|@hyperchessbot1|2189
+#18|@hyperchessbot1|2189
+#19|@ResoluteBot|2189
 #20|@TorBot_v2|2189
 #21|@robiachess|2186
 #22|@Intron014|2185
@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@lol7241Bot|2100
 #64|@EvenMatchup|2099
 #65|@MastacticaTeoriabot|2099
-#66|@Vinh_VariantsBot|2098
-#67|@Nikitosik-ai|2097
+#66|@Nikitosik-ai|2099
+#67|@Vinh_VariantsBot|2098
 #68|@ChessBot2156|2095
 #69|@TorBot_SL|2094
 #70|@Shineshou90_BOT|2093
