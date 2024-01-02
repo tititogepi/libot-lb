@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@lord-bot|2193
 #17|@DragonBot-77|2191
 #18|@ResoluteBot|2191
-#19|@TorBot_v2|2190
-#20|@hyperchessbot1|2189
+#19|@hyperchessbot1|2189
+#20|@TorBot_v2|2189
 #21|@robiachess|2186
 #22|@Intron014|2185
 #23|@Kizburb|2182

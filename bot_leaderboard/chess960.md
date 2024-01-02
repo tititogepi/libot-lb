@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2191
-#2|@TorBot_v2|2190
+#2|@TorBot_v2|2189
 #3|@Intron014|2185
 #4|@ToromBot|2180
 #5|@YoBot_v2|2178
