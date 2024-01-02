@@ -3,14 +3,14 @@ Rank|Bot|Rating
 #1|@VariantsBot|2703
 #2|@SkyBlaster|2603
 #3|@Viet-AI|2600
-#4|@ttBOT|2593
+#4|@ttBOT|2591
 #5|@lord-bot|2581
 #6|@ToromBot|2575
 #7|@Fairy_Belzedar|2559
 #8|@EmptikVariantsBot|2557
 #9|@FireFishBOT|2547
 #10|@LudwigBOT|2536
-#11|@RaspFish|2528
+#11|@RaspFish|2529
 #12|@Coolman2021|2527
 #13|@EmptikBot|2526
 #14|@SCP079|2513

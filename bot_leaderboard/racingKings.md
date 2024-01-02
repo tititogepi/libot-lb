@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ttBOT|2593
+#1|@ttBOT|2591
 #2|@ToromBot|2575
-#3|@RaspFish|2528
+#3|@RaspFish|2529
 #4|@pawnrobot|1488
