@@ -85,7 +85,7 @@ Rank|Bot|Rating
 #83|@GodelEscherBot|2284
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
-#86|@anti-bot|2255
+#86|@anti-bot|2256
 #87|@SkyBlaster|2254
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
@@ -105,7 +105,7 @@ Rank|Bot|Rating
 #103|@EstmileBot|2200
 #104|@HerokuHasnotplay|2196
 #105|@Lucror|2178
-#106|@CatNail|2165
+#106|@CatNail|2173
 #107|@lightspeed_bot|2152
 #108|@AntiChessBot|2142
 #109|@AnUtterlyKarBot|2134

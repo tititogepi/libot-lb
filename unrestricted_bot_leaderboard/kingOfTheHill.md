@@ -120,9 +120,9 @@ Rank|Bot|Rating
 #118|@SugarAndSpice|1489
 #119|@rtx3080tibot|1487
 #120|@SUMAL_BRO|1476
-#121|@Less_of_a_threat|1470
-#122|@Bbao23-chess|1469
-#123|@DavidsGuterBot|1466
+#121|@DavidsGuterBot|1471
+#122|@Less_of_a_threat|1470
+#123|@Bbao23-chess|1469
 #124|@Trainspotter|1466
 #125|@NienishiEngine|1465
 #126|@XiDM|1464
@@ -151,8 +151,8 @@ Rank|Bot|Rating
 #149|@MyNameIsSpeedy|1226
 #150|@Bottios|1223
 #151|@RSVMentor|1196
-#152|@pawnrobot|1178
-#153|@Boom_Bot|1176
+#152|@Boom_Bot|1176
+#153|@pawnrobot|1172
 #154|@TrashBot|1168
 #155|@shakboy9824453231op|1152
 #156|@GuineaBot3|1121
