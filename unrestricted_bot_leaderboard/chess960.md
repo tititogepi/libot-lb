@@ -19,8 +19,8 @@ Rank|Bot|Rating
 #17|@hyperchessbot1|2189
 #18|@ResoluteBot|2189
 #19|@TorBot_v2|2189
-#20|@YoBot_v2|2187
-#21|@robiachess|2186
+#20|@robiachess|2186
+#21|@YoBot_v2|2185
 #22|@DragonBot-77|2184
 #23|@Kizburb|2182
 #24|@Intron014|2180
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@pangubot|2128
 #50|@BetterAnalyze|2125
 #51|@Caissa-NNUE|2124
-#52|@RaspFish|2116
+#52|@RaspFish|2117
 #53|@JeffIO|2113
 #54|@Dragon_1906|2111
 #55|@ibep|2111
