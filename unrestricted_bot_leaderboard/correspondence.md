@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2814
+#1|@fibonachi|2815
 #2|@Viet-BOT|2682
 #3|@H-Zero|2650
 #4|@Nikitosik-ai|2580
@@ -99,7 +99,7 @@ Rank|Bot|Rating
 #97|@misteick_bot|2049
 #98|@Emmamaster|2043
 #99|@TeamChelsie|2043
-#100|@zeekat|2040
+#100|@zeekat|2042
 #101|@abhisun_bot|2039
 #102|@Beyondcomprehension|2039
 #103|@faith_bot|2037
