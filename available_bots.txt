@@ -2010,6 +2010,7 @@ skywalker_bot
 skzapbot
 slav-tech
 sldeadshot22
+slice-bot
 slothengine
 slvov-bot
 smallbrainpy
@@ -2512,4 +2513,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-slice-bot
