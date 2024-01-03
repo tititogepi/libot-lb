@@ -1321,6 +1321,7 @@ lelaaz
 leojoseph101010
 leorikbot
 leosbot
+lermerbot
 less_of_a_threat
 less_than_one
 liboto
@@ -2511,4 +2512,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lermerbot
+slice-bot
