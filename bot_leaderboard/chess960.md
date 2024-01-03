@@ -10,5 +10,5 @@ Rank|Bot|Rating
 #8|@RaspFish|2118
 #9|@FataliiBot|1595
 #10|@Demolito_L6|1291
-#11|@Demolito_L5|1040
+#11|@Demolito_L5|1034
 #12|@Demolito_L4|945

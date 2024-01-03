@@ -705,6 +705,7 @@ easywingg
 eb-chess
 echobot
 eddybarner393
+edobot
 edspbot
 eftalbot
 egeytek
@@ -2513,4 +2514,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-edobot
