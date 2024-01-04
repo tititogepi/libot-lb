@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@pangubot|2128
 #50|@BetterAnalyze|2125
 #51|@Caissa-NNUE|2124
-#52|@RaspFish|2123
+#52|@RaspFish|2124
 #53|@JeffIO|2113
 #54|@Dragon_1906|2111
 #55|@ibep|2111
