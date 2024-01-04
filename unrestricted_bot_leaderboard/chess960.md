@@ -23,13 +23,13 @@ Rank|Bot|Rating
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
-#24|@Intron014|2179
+#24|@Intron014|2178
 #25|@ToromBot|2178
 #26|@Bot_McBotface|2172
 #27|@TorBot|2172
 #28|@EmptikBot|2168
-#29|@rtx3080tibot|2162
-#30|@YoBot_v2|2162
+#29|@YoBot_v2|2163
+#30|@rtx3080tibot|2162
 #31|@too_ez4me|2160
 #32|@YellowFlash-X|2158
 #33|@Major-Maxy|2156
