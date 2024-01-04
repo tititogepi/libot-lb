@@ -723,6 +723,7 @@ elo3800
 elo_1500
 elpeonelectrico
 elrincho
+eman_no_book
 emanbot
 emanbot23
 emanchessengine
@@ -2516,4 +2517,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-eman_no_book
