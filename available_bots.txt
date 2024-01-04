@@ -113,6 +113,7 @@ antifish-mk289
 antifish-rx560x
 antifishnn
 anton_bot
+antonbot
 anutterlykarbot
 anytimemode
 apollo1414
@@ -2514,4 +2515,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-antonbot
