@@ -364,7 +364,7 @@ Rank|Bot|Rating
 #362|@Jobabot|1110
 #363|@Dummyette|1107
 #364|@LeElaGuess|1049
-#365|@Demolito_L5|1034
+#365|@Demolito_L5|1029
 #366|@admin-bot|1003
 #367|@GuineaBot3|1000
 #368|@TuroBot|997
