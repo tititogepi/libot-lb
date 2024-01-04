@@ -102,10 +102,10 @@ Rank|Bot|Rating
 #100|@xDmanBOT|2214
 #101|@YellowFlash_v2|2214
 #102|@NormalBlitzBulletBot|2205
-#103|@CatNail|2200
-#104|@EstmileBot|2200
-#105|@HerokuHasnotplay|2196
-#106|@Lucror|2178
+#103|@EstmileBot|2200
+#104|@HerokuHasnotplay|2196
+#105|@Lucror|2178
+#106|@CatNail|2154
 #107|@lightspeed_bot|2152
 #108|@AntiChessBot|2142
 #109|@AnUtterlyKarBot|2134

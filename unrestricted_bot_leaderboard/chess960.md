@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@ToromBot|2179
 #26|@Bot_McBotface|2172
 #27|@TorBot|2172
-#28|@YoBot_v2|2171
+#28|@YoBot_v2|2170
 #29|@EmptikBot|2168
 #30|@rtx3080tibot|2162
 #31|@too_ez4me|2160
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@pangubot|2128
 #50|@BetterAnalyze|2125
 #51|@Caissa-NNUE|2124
-#52|@RaspFish|2118
+#52|@RaspFish|2120
 #53|@JeffIO|2113
 #54|@Dragon_1906|2111
 #55|@ibep|2111
