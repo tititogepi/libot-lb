@@ -2497,6 +2497,7 @@ zahlen
 zalgirisbot
 zalgirisbot2
 zamuchess
+zas_en_toda_la_boca
 ze_rook
 zeekat
 zer0_tw0
@@ -2515,4 +2516,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-zas_en_toda_la_boca
+eman_no_book
