@@ -56,8 +56,8 @@ Rank|Bot|Rating
 #54|@Bobby_Fischer_BOT|2435
 #55|@Nobody11892|2435
 #56|@Hagfish|2432
-#57|@EmptikBot247|2422
-#58|@NilatacBot|2422
+#57|@NilatacBot|2429
+#58|@EmptikBot247|2422
 #59|@xiang-qi|2422
 #60|@faith_bot|2420
 #61|@DrSmartBugs|2412
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1926
+#124|@pawnrobot|1905
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
