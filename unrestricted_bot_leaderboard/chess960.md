@@ -24,11 +24,11 @@ Rank|Bot|Rating
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
 #24|@Intron014|2178
-#25|@ToromBot|2178
+#25|@ToromBot|2177
 #26|@Bot_McBotface|2172
 #27|@TorBot|2172
 #28|@EmptikBot|2168
-#29|@YoBot_v2|2163
+#29|@YoBot_v2|2164
 #30|@rtx3080tibot|2162
 #31|@too_ez4me|2160
 #32|@YellowFlash-X|2158
