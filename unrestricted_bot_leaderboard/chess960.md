@@ -27,8 +27,8 @@ Rank|Bot|Rating
 #25|@Intron014|2176
 #26|@Bot_McBotface|2172
 #27|@TorBot|2172
-#28|@EmptikBot|2168
-#29|@YoBot_v2|2164
+#28|@YoBot_v2|2169
+#29|@EmptikBot|2168
 #30|@rtx3080tibot|2162
 #31|@too_ez4me|2160
 #32|@YellowFlash-X|2158
@@ -46,11 +46,11 @@ Rank|Bot|Rating
 #44|@FireFishBOT|2140
 #45|@EmptikVariantsBot|2132
 #46|@faith_bot|2131
-#47|@RaspFish|2130
-#48|@F1R3BOT|2128
-#49|@Lc0Test|2128
-#50|@pangubot|2128
-#51|@BetterAnalyze|2125
+#47|@F1R3BOT|2128
+#48|@Lc0Test|2128
+#49|@pangubot|2128
+#50|@BetterAnalyze|2125
+#51|@RaspFish|2125
 #52|@Caissa-NNUE|2124
 #53|@JeffIO|2113
 #54|@Dragon_1906|2111
