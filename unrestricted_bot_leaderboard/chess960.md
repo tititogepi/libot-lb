@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@F1R3BOT|2128
 #48|@Lc0Test|2128
 #49|@pangubot|2128
-#50|@RaspFish|2126
+#50|@RaspFish|2127
 #51|@BetterAnalyze|2125
 #52|@Caissa-NNUE|2124
 #53|@JeffIO|2113
