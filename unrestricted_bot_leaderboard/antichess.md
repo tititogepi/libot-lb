@@ -30,9 +30,9 @@ Rank|Bot|Rating
 #28|@ChessBot3021|2599
 #29|@Viet-BOT|2598
 #30|@firstrobot|2593
-#31|@Nakshatra3|2591
-#32|@AIAlphaAI|2589
-#33|@ElPeonElectrico|2568
+#31|@AIAlphaAI|2589
+#32|@ElPeonElectrico|2568
+#33|@Nakshatra3|2567
 #34|@NimsiluBot|2566
 #35|@YoBot_v2|2565
 #36|@newengine2022|2562

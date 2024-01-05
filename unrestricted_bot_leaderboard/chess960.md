@@ -46,10 +46,10 @@ Rank|Bot|Rating
 #44|@FireFishBOT|2140
 #45|@EmptikVariantsBot|2132
 #46|@faith_bot|2131
-#47|@F1R3BOT|2128
-#48|@Lc0Test|2128
-#49|@pangubot|2128
-#50|@RaspFish|2128
+#47|@RaspFish|2129
+#48|@F1R3BOT|2128
+#49|@Lc0Test|2128
+#50|@pangubot|2128
 #51|@BetterAnalyze|2125
 #52|@Caissa-NNUE|2124
 #53|@JeffIO|2113
