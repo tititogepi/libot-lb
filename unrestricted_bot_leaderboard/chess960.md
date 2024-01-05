@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
-#24|@Intron014|2178
+#24|@Intron014|2177
 #25|@ToromBot|2177
 #26|@Bot_McBotface|2172
 #27|@TorBot|2172
