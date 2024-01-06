@@ -350,10 +350,10 @@ Rank|Bot|Rating
 #348|@ertugruldemir|1131
 #349|@Bot-31795|1127
 #350|@szuwar8716|1116
-#351|@B4ux1t3s-Bot|1103
-#352|@AXWChessBot|1096
-#353|@StashBot|1075
-#354|@Light_To_The_Rescue|1057
+#351|@AXWChessBot|1096
+#352|@StashBot|1075
+#353|@Light_To_The_Rescue|1057
+#354|@B4ux1t3s-Bot|1038
 #355|@mustaley|973
 #356|@BerserkRandomMover|963
 #357|@G0thamB0t|954
