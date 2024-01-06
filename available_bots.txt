@@ -2517,3 +2517,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+experimental_bot_01
