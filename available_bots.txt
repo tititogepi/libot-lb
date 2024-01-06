@@ -776,6 +776,7 @@ evilfreak
 ewhgdvjeafd
 expectedoutcome
 expecto_patronum_the
+experimental_bot_01
 exponentbot
 expositor
 ezwipe
@@ -2517,4 +2518,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-experimental_bot_01
