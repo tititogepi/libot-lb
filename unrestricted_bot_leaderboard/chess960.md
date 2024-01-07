@@ -16,8 +16,8 @@ Rank|Bot|Rating
 #14|@TheFreshman1902|2203
 #15|@IUseStockfish|2202
 #16|@Corvus-1|2197
-#17|@ResoluteBot|2194
-#18|@lord-bot|2193
+#17|@lord-bot|2193
+#18|@ResoluteBot|2193
 #19|@hyperchessbot1|2189
 #20|@robiachess|2186
 #21|@Kizburb|2182
