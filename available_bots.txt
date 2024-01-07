@@ -1736,6 +1736,7 @@ playsf
 playwithkomodo
 pleomati1
 pliskengine
+plumbot
 podsni
 pogsauce624
 polarchessbot
@@ -2518,4 +2519,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-plumbot
