@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@Vinh_VariantsBot|2561
 #37|@Xerus_1|2553
 #38|@LudwigBOT|2545
-#39|@Nakshatra3|2542
+#39|@Nakshatra3|2543
 #40|@AlfaBot|2541
 #41|@Leelabotmaster|2538
 #42|@Dark_evil_bot|2525

@@ -1,12 +1,12 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2194
-#2|@YoBot_v2|2182
+#2|@YoBot_v2|2186
 #3|@TorBot_v2|2180
 #4|@Intron014|2177
 #5|@ToromBot|2177
 #6|@FireFishBOT_v2|2154
-#7|@RaspFish|2119
+#7|@RaspFish|2115
 #8|@FataliiBot|1585
 #9|@Demolito_L6|1282
 #10|@Demolito_L5|1027
