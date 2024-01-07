@@ -107,8 +107,8 @@ Rank|Bot|Rating
 #105|@Lucror|2178
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
-#108|@AnUtterlyKarBot|2134
-#109|@CatNail|2134
+#108|@CatNail|2135
+#109|@AnUtterlyKarBot|2134
 #110|@XXIstCentury|2131
 #111|@PyChessBot|2102
 #112|@TurkiyeHogwartsBOT|2099
