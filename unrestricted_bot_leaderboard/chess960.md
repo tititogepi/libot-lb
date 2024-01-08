@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@hyperchessbot1|2189
 #20|@robiachess|2186
 #21|@Kizburb|2182
-#22|@YoBot_v2|2182
+#22|@YoBot_v2|2181
 #23|@TorBot_v2|2180
 #24|@VariantsBot|2180
 #25|@Intron014|2177
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@pangubot|2128
 #50|@BetterAnalyze|2125
 #51|@Caissa-NNUE|2124
-#52|@RaspFish|2118
+#52|@RaspFish|2119
 #53|@JeffIO|2113
 #54|@Dragon_1906|2111
 #55|@ibep|2111
@@ -122,7 +122,7 @@ Rank|Bot|Rating
 #120|@CloudBot_v2|2002
 #121|@Ultra-bot|2001
 #122|@Yemmi-Yemmi|2001
-#123|@Leela_960|1998
+#123|@Leela_960|1999
 #124|@LeelaChessBestEngine|1997
 #125|@StockSergio|1997
 #126|@TheMatrix2029|1992
