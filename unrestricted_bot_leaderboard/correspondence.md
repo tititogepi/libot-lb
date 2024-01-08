@@ -152,8 +152,8 @@ Rank|Bot|Rating
 #150|@ChessChildren|1856
 #151|@Boris-Trapsky|1853
 #152|@natural-disaster|1853
-#153|@Rinestro|1837
-#154|@Jibbby|1836
+#153|@Jibbby|1851
+#154|@Rinestro|1837
 #155|@OurBot|1836
 #156|@Aromik_s_bot|1831
 #157|@RoundMoundOfRebounds|1829

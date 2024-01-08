@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@LoseisnotAvailablehe|2466
 #22|@PepsiForAll|2448
 #23|@Fairy-Stockfish|2402
-#24|@RaspFish|2400
+#24|@RaspFish|2401
 #25|@abhisun_bot|2384
 #26|@TheMatrix2029|2372
 #27|@mrchessmanager|2369
