@@ -103,8 +103,8 @@ Rank|Bot|Rating
 #101|@Botkingteam33|1633
 #102|@jasans_bot|1621
 #103|@newengine2022|1588
-#104|@knight_128|1563
-#105|@DavidsGuterBot|1562
+#104|@DavidsGuterBot|1568
+#105|@knight_128|1563
 #106|@Galaxy_Guardian|1561
 #107|@Alehkine_cat|1549
 #108|@TrashBot|1519

@@ -40,9 +40,9 @@ Rank|Bot|Rating
 #38|@LudwigBOT|2545
 #39|@AlfaBot|2541
 #40|@Leelabotmaster|2538
-#41|@Dark_evil_bot|2525
-#42|@Bot_AOOP11|2521
-#43|@Nakshatra3|2521
+#41|@Nakshatra3|2531
+#42|@Dark_evil_bot|2525
+#43|@Bot_AOOP11|2521
 #44|@HyperLitikBOT|2511
 #45|@pistol-play|2498
 #46|@MrBOThacker|2477
@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@CloudBot_v2|2455
 #52|@ResoluteBot|2455
 #53|@KingfishX|2447
-#54|@NilatacBot|2442
+#54|@NilatacBot|2437
 #55|@Bobby_Fischer_BOT|2435
 #56|@Nobody11892|2435
 #57|@Hagfish|2432
