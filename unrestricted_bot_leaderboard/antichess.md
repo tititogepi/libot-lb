@@ -53,7 +53,7 @@ Rank|Bot|Rating
 #51|@CloudBot_v2|2455
 #52|@ResoluteBot|2455
 #53|@KingfishX|2447
-#54|@NilatacBot|2436
+#54|@NilatacBot|2442
 #55|@Bobby_Fischer_BOT|2435
 #56|@Nobody11892|2435
 #57|@Hagfish|2432
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
 #86|@SkyBlaster|2254
-#87|@anti-bot|2250
+#87|@anti-bot|2251
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
 #90|@EagleEye2021|2235
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@Lucror|2178
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
-#108|@CatNail|2141
+#108|@CatNail|2137
 #109|@AnUtterlyKarBot|2134
 #110|@XXIstCentury|2131
 #111|@PyChessBot|2102

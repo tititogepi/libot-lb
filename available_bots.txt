@@ -1387,6 +1387,7 @@ lunaticengine
 lurch_0
 lurch_1
 lycaondorso
+lychee_bot
 lynx_bot
 m-i-0
 m-z_bot
@@ -2519,4 +2520,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lychee_bot
