@@ -107,8 +107,8 @@ Rank|Bot|Rating
 #105|@Lucror|2178
 #106|@lightspeed_bot|2152
 #107|@AntiChessBot|2142
-#108|@AnUtterlyKarBot|2134
-#109|@CatNail|2134
+#108|@CatNail|2136
+#109|@AnUtterlyKarBot|2134
 #110|@XXIstCentury|2131
 #111|@PyChessBot|2102
 #112|@TurkiyeHogwartsBOT|2099
@@ -123,7 +123,7 @@ Rank|Bot|Rating
 #121|@antichesssss|1964
 #122|@Menganti|1963
 #123|@CloudBOT|1950
-#124|@pawnrobot|1909
+#124|@pawnrobot|1907
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
