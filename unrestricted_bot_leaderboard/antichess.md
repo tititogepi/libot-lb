@@ -42,7 +42,7 @@ Rank|Bot|Rating
 #40|@Leelabotmaster|2538
 #41|@Dark_evil_bot|2525
 #42|@Bot_AOOP11|2521
-#43|@Nakshatra3|2520
+#43|@Nakshatra3|2521
 #44|@HyperLitikBOT|2511
 #45|@pistol-play|2498
 #46|@MrBOThacker|2477
