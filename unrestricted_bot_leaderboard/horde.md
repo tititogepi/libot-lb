@@ -2,8 +2,8 @@ Rank|Bot|Rating
 ---|---|---
 #1|@VariantsBot|3019
 #2|@Viet-AI|2915
-#3|@Coolman2021|2757
-#4|@ToromBot|2755
+#3|@ToromBot|2785
+#4|@Coolman2021|2757
 #5|@FireFishBOT|2726
 #6|@Fairy_Belzedar|2712
 #7|@PepsiForAll|2699
