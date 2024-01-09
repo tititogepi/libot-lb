@@ -29,8 +29,8 @@ Rank|Bot|Rating
 #27|@Bot_McBotface|2172
 #28|@EmptikBot|2168
 #29|@rtx3080tibot|2162
-#30|@too_ez4me|2160
-#31|@TorBot|2160
+#30|@TorBot|2161
+#31|@too_ez4me|2160
 #32|@Major-Maxy|2159
 #33|@YellowFlash-X|2158
 #34|@TheMatrix2025|2156
