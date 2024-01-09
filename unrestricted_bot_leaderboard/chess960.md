@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@Kizburb|2182
 #22|@TorBot_v2|2180
 #23|@VariantsBot|2180
-#24|@YoBot_v2|2180
+#24|@YoBot_v2|2179
 #25|@Intron014|2177
 #26|@ToromBot|2177
 #27|@Bot_McBotface|2172
