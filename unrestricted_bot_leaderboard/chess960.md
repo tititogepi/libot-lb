@@ -49,7 +49,7 @@ Rank|Bot|Rating
 #47|@F1R3BOT|2128
 #48|@Lc0Test|2128
 #49|@pangubot|2128
-#50|@RaspFish|2127
+#50|@RaspFish|2128
 #51|@BetterAnalyze|2125
 #52|@Caissa-NNUE|2124
 #53|@JeffIO|2113
@@ -365,7 +365,7 @@ Rank|Bot|Rating
 #363|@Jobabot|1110
 #364|@Dummyette|1107
 #365|@LeElaGuess|1049
-#366|@Demolito_L5|1027
+#366|@Demolito_L5|1022
 #367|@admin-bot|1003
 #368|@GuineaBot3|1000
 #369|@TuroBot|997
