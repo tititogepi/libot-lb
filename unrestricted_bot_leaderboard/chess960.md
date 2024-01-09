@@ -167,8 +167,8 @@ Rank|Bot|Rating
 #165|@WennDieSoldatBOT|1910
 #166|@StockfishPower|1909
 #167|@ProteusSF|1903
-#168|@RobotTigerSlav|1902
-#169|@pawn_git|1899
+#168|@pawn_git|1902
+#169|@RobotTigerSlav|1902
 #170|@Leelabotmaster|1895
 #171|@Maximumef|1895
 #172|@Kapablanca_balls|1893
