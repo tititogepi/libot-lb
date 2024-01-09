@@ -8,7 +8,7 @@ Rank|Bot|Rating
 #6|@TorBot|2162
 #7|@FireFishBOT_v2|2155
 #8|@RaspFish|2129
-#9|@FataliiBot|1585
+#9|@FataliiBot|1577
 #10|@Demolito_L6|1282
 #11|@Demolito_L5|1022
 #12|@Demolito_L4|941

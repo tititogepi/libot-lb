@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Fairy_Belzedar|2544
 #17|@KizVariant|2529
 #18|@SCP079|2526
-#19|@ToromBot|2522
+#19|@ToromBot|2526
 #20|@Fairy-Stockfish|2484
 #21|@ESC_BOT|2476
 #22|@Less_of_a_threat|2469
@@ -84,8 +84,8 @@ Rank|Bot|Rating
 #82|@CloudBotZero|1818
 #83|@TeamChelsie|1818
 #84|@Storm_Shadow2012|1817
-#85|@NimsiluBot|1809
-#86|@ElFinsBoT|1808
+#85|@ElFinsBoT|1808
+#86|@NimsiluBot|1793
 #87|@pussaW|1785
 #88|@Stockfish-MEDIUM|1752
 #89|@XXXTryandTryXXX|1747
