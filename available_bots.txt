@@ -561,6 +561,7 @@ compressor-bot
 computerstuff
 cookiecheesychess
 coolman2021
+coralinebot
 coronamalware
 correspondencebot
 corteka
@@ -2522,4 +2523,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-coralinebot
