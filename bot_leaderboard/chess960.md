@@ -11,5 +11,5 @@ Rank|Bot|Rating
 #9|@FataliiBot|1585
 #10|@Demolito_L6|1280
 #11|@Demolito_L5|1045
-#12|@Demolito_L4|935
+#12|@Demolito_L4|943
 #13|@pawnrobot|617

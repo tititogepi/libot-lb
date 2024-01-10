@@ -1814,6 +1814,7 @@ qzrfi
 r-o-b-o-t
 rablitz-test
 racingkingskingsbot
+raddelgo14bot
 radicaleela
 rajdeep2011
 ramses-chess
@@ -2523,4 +2524,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-raddelgo14bot
