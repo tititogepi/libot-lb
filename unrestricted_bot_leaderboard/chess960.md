@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@IUseStockfish|2202
 #16|@Corvus-1|2197
 #17|@lord-bot|2193
-#18|@ResoluteBot|2193
+#18|@ResoluteBot|2192
 #19|@hyperchessbot1|2189
 #20|@robiachess|2186
 #21|@Kizburb|2182
@@ -44,7 +44,7 @@ Rank|Bot|Rating
 #42|@The_Devansh117|2147
 #43|@LolFish-1|2146
 #44|@FireFishBOT|2140
-#45|@RaspFish|2135
+#45|@RaspFish|2136
 #46|@EmptikVariantsBot|2132
 #47|@faith_bot|2131
 #48|@F1R3BOT|2128
