@@ -1398,6 +1398,7 @@ macos23
 macuser60
 maelstrom-chess
 mafybe
+maggichess16
 magic-engine
 magichacker123
 magicversebot
@@ -2524,4 +2525,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-maggichess16
