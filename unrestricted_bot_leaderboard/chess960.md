@@ -385,5 +385,5 @@ Rank|Bot|Rating
 #383|@WaspBot|798
 #384|@LeelaWeak|735
 #385|@FelixLeonidovich|730
-#386|@pawnrobot|617
+#386|@pawnrobot|616
 #387|@konaz|400
