@@ -130,7 +130,7 @@ Rank|Bot|Rating
 #128|@KnightsArmour|1494
 #129|@MagnusCarlsen1507|1493
 #130|@alvinl22_LBot|1489
-#131|@pawnrobot|1488
+#131|@pawnrobot|1485
 #132|@MeezKool|1476
 #133|@ahmet-botahmet|1471
 #134|@Variantenkoning|1471
