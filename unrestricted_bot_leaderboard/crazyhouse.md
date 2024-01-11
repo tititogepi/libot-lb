@@ -51,9 +51,9 @@ Rank|Bot|Rating
 #49|@MyNameIsWhatLOL|2200
 #50|@Zer0_Tw0|2200
 #51|@UltronBot|2197
-#52|@Viet-BOT|2185
-#53|@lightspeed_bot|2177
-#54|@RaspFish|2177
+#52|@RaspFish|2190
+#53|@Viet-BOT|2185
+#54|@lightspeed_bot|2177
 #55|@newengine2022|2171
 #56|@Peaceful4Life|2160
 #57|@SCP079|2156
