@@ -45,9 +45,9 @@ Rank|Bot|Rating
 #43|@Demolito_L6|1785
 #44|@ChessChildren|1774
 #45|@munfish|1760
-#46|@maia9|1722
-#47|@Virutor|1720
-#48|@honzovy-sachy|1717
+#46|@Virutor|1720
+#47|@honzovy-sachy|1717
+#48|@maia9|1716
 #49|@notropis|1697
 #50|@sargon-4ply|1690
 #51|@Demolito_L5|1683
