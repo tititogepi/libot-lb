@@ -19,13 +19,13 @@ Rank|Bot|Rating
 #17|@KizVariant|2529
 #18|@SCP079|2526
 #19|@Fairy-Stockfish|2484
-#20|@NimsiluBot|2483
-#21|@ESC_BOT|2476
+#20|@ESC_BOT|2476
+#21|@ToromBot|2471
 #22|@Less_of_a_threat|2469
 #23|@NormalBlitzBulletBot|2463
 #24|@faith_bot|2447
-#25|@ToromBot|2446
-#26|@RaspFish|2414
+#25|@RaspFish|2414
+#26|@NimsiluBot|2408
 #27|@chessbot2880|2367
 #28|@Viet_BOT|2367
 #29|@ttBOT|2335

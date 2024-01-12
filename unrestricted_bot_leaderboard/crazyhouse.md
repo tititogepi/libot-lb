@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@ElPeonElectrico|2454
 #23|@abhisun_bot|2444
 #24|@pistol-play|2437
-#25|@ToromBot|2413
+#25|@ToromBot|2437
 #26|@YoBot_v2|2394
 #27|@CloudBOT|2393
 #28|@NienishiEngine|2392
@@ -58,9 +58,9 @@ Rank|Bot|Rating
 #56|@Peaceful4Life|2160
 #57|@SCP079|2156
 #58|@CloudBot_v2|2131
-#59|@NimsiluBot|2130
-#60|@Johnsun|2113
-#61|@SixtyFourEngine|2089
+#59|@Johnsun|2113
+#60|@SixtyFourEngine|2089
+#61|@NimsiluBot|2079
 #62|@relevantproblem|2077
 #63|@GodelEscherBot|2071
 #64|@TheLegitLegend2|2059
