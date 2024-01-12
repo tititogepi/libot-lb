@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@ttBOT|2745
 #16|@SCP079|2736
 #17|@ibep|2733
-#18|@NimsiluBot|2690
+#18|@NimsiluBot|2708
 #19|@Lili-Variants|2678
 #20|@LoseisnotAvailablehe|2677
 #21|@ChessVBOT|2675
@@ -53,10 +53,10 @@ Rank|Bot|Rating
 #51|@CloudBot_v2|2455
 #52|@ResoluteBot|2455
 #53|@KingfishX|2447
-#54|@NilatacBot|2438
-#55|@Bobby_Fischer_BOT|2435
-#56|@Nobody11892|2435
-#57|@Hagfish|2432
+#54|@Bobby_Fischer_BOT|2435
+#55|@Nobody11892|2435
+#56|@Hagfish|2432
+#57|@NilatacBot|2431
 #58|@EmptikBot247|2422
 #59|@xiang-qi|2422
 #60|@faith_bot|2420
