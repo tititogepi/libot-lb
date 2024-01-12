@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@ttBOT|2745
 #16|@SCP079|2736
 #17|@ibep|2733
-#18|@NimsiluBot|2687
+#18|@NimsiluBot|2690
 #19|@Lili-Variants|2678
 #20|@LoseisnotAvailablehe|2677
 #21|@ChessVBOT|2675
@@ -86,7 +86,7 @@ Rank|Bot|Rating
 #84|@Dean_Summer_Bot|2279
 #85|@Johnsun|2269
 #86|@SkyBlaster|2254
-#87|@anti-bot|2249
+#87|@anti-bot|2248
 #88|@mrchessmanager|2240
 #89|@TurkiyeHogwarts|2240
 #90|@EagleEye2021|2235
