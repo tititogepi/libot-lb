@@ -255,7 +255,7 @@ Rank|Bot|Rating
 #253|@shakboy9824453231op|1420
 #254|@bunny_2021|1413
 #255|@Butzke_BOT|1401
-#256|@pawnrobot|1392
+#256|@pawnrobot|1391
 #257|@MartianBot|1386
 #258|@Trumpfor2O2O|1386
 #259|@DrunkenMasterEngine|1385

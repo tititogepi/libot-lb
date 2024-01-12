@@ -701,6 +701,7 @@ e-chess_other_teams
 e-teron-27s
 eagleeye2021
 earn-4serpendity
+earthybot
 easychessherokubot
 easytutorialbot
 easywingg
@@ -2526,4 +2527,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-earthybot
