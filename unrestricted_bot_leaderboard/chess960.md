@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@VariantsTop|2149
 #39|@duythong1402|2148
 #40|@The_Devansh117|2147
-#41|@YoBot_v2|2147
-#42|@LolFish-1|2146
+#41|@LolFish-1|2146
+#42|@YoBot_v2|2146
 #43|@FireFishBOT|2140
 #44|@RaspFish|2138
 #45|@EmptikVariantsBot|2132
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@ToromLc0|2106
 #59|@Vaxim2000|2106
 #60|@EmptikBotEman|2103
-#61|@Nikitosik-ai|2102
+#61|@Nikitosik-ai|2103
 #62|@Botyuliirma|2101
 #63|@Kizbuurb|2100
 #64|@lol7241Bot|2100
