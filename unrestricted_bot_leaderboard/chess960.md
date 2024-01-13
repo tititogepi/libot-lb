@@ -37,8 +37,8 @@ Rank|Bot|Rating
 #35|@FireFishBOT_v2|2154
 #36|@ReinforcementTrial|2154
 #37|@TheFreshmanLc0|2151
-#38|@VariantsTop|2149
-#39|@YoBot_v2|2149
+#38|@YoBot_v2|2150
+#39|@VariantsTop|2149
 #40|@duythong1402|2148
 #41|@The_Devansh117|2147
 #42|@LolFish-1|2146
@@ -107,7 +107,7 @@ Rank|Bot|Rating
 #105|@EmptikBot247|2022
 #106|@DeepChessEngine|2020
 #107|@LudwigBOT|2018
-#108|@Leela_960|2015
+#108|@Leela_960|2017
 #109|@SF-NNUE|2014
 #110|@Cloud_Bot|2013
 #111|@Iwantedtoplaychess|2013
