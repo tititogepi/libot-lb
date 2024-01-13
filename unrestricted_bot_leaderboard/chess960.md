@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@duythong1402|2148
 #40|@The_Devansh117|2147
 #41|@LolFish-1|2146
-#42|@YoBot_v2|2146
+#42|@YoBot_v2|2144
 #43|@FireFishBOT|2140
 #44|@RaspFish|2138
 #45|@EmptikVariantsBot|2132
@@ -57,9 +57,9 @@ Rank|Bot|Rating
 #55|@ibep|2111
 #56|@Galaxy_Guardian|2107
 #57|@BetaOneBot|2106
-#58|@ToromLc0|2106
-#59|@Vaxim2000|2106
-#60|@Nikitosik-ai|2104
+#58|@Nikitosik-ai|2106
+#59|@ToromLc0|2106
+#60|@Vaxim2000|2106
 #61|@EmptikBotEman|2103
 #62|@Botyuliirma|2101
 #63|@Kizbuurb|2100
