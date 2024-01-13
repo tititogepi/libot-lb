@@ -21,8 +21,8 @@ Rank|Bot|Rating
 #19|@NormalBulletBot|2474
 #20|@LoseisnotAvailablehe|2466
 #21|@PepsiForAll|2448
-#22|@Fairy-Stockfish|2402
-#23|@RaspFish|2401
+#22|@RaspFish|2414
+#23|@Fairy-Stockfish|2402
 #24|@abhisun_bot|2384
 #25|@NimsiluBot|2382
 #26|@TheMatrix2029|2372
