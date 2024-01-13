@@ -15,7 +15,7 @@ Rank|Bot|Rating
 #13|@SfishChess2021|2204
 #14|@TheFreshman1902|2203
 #15|@IUseStockfish|2202
-#16|@ResoluteBot|2199
+#16|@ResoluteBot|2198
 #17|@Corvus-1|2197
 #18|@lord-bot|2193
 #19|@hyperchessbot1|2189
@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@The_Devansh117|2147
 #42|@LolFish-1|2146
 #43|@FireFishBOT|2140
-#44|@RaspFish|2134
+#44|@RaspFish|2135
 #45|@EmptikVariantsBot|2132
 #46|@faith_bot|2131
 #47|@F1R3BOT|2128

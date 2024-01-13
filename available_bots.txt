@@ -331,6 +331,7 @@ bot_talbr
 bot_tark
 bot_test333
 bot_to_beat
+botacik
 botdefoin
 botdefointesting
 boteagleeye2021
@@ -2527,4 +2528,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-botacik
