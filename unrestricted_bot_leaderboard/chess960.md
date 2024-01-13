@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@ToromBot|2182
 #23|@VariantsBot|2180
 #24|@Intron014|2177
-#25|@TorBot_v2|2177
+#25|@TorBot_v2|2176
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@BetaOneBot|2106
 #58|@ToromLc0|2106
 #59|@Vaxim2000|2106
-#60|@EmptikBotEman|2103
-#61|@Nikitosik-ai|2103
+#60|@Nikitosik-ai|2104
+#61|@EmptikBotEman|2103
 #62|@Botyuliirma|2101
 #63|@Kizbuurb|2100
 #64|@lol7241Bot|2100
