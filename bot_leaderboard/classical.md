@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@Africaata|2679
 #3|@Intron014|2675
 #4|@RipTorn|2662
-#5|@ReinforcementTrial|2656
+#5|@ReinforcementTrial|2658
 #6|@YoBot_v2|2655
 #7|@TorBot_v2|2649
 #8|@TorBot|2644
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@LBOT007|2602
 #17|@Mr_Chess_Berserk|2578
 #18|@ELO_1500|2464
-#19|@expositor|2452
+#19|@expositor|2450
 #20|@AKS-Mantissa|2396
 #21|@pawn_git|2376
 #22|@SaxtonEngine|2341
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@catriever|2311
 #25|@Cheng-4|2281
 #26|@bitbitbot|2196
-#27|@Lynx_BOT|2171
+#27|@Lynx_BOT|2173
 #28|@ChessNoobComp|2131
 #29|@Pseudo-0|2119
 #30|@Phalanx-XXV|2089
@@ -40,11 +40,11 @@ Rank|Bot|Rating
 #38|@honzovy-sachy-2|1929
 #39|@GarboBot|1909
 #40|@likeawizard-bot|1905
-#41|@zeekat|1899
+#41|@zeekat|1897
 #42|@baby_eubos|1842
 #43|@Dinora|1831
 #44|@Demolito_L6|1789
-#45|@maia9|1772
+#45|@maia9|1764
 #46|@ChessChildren|1761
 #47|@munfish|1760
 #48|@honzovy-sachy|1719
@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@turochamp-2ply|1594
 #57|@Demolito_L4|1560
 #58|@RoundMoundOfRebounds|1545
-#59|@maia1|1530
-#60|@maia5|1519
+#59|@maia1|1527
+#60|@maia5|1513
 #61|@sargon-2ply|1460
 #62|@Humaia|1421
 #63|@bernstein-2ply|1404
@@ -67,4 +67,3 @@ Rank|Bot|Rating
 #65|@sargon-1ply|1307
 #66|@chat_bot|1294
 #67|@king-forward-bot|1249
-#68|@bobandi|1149

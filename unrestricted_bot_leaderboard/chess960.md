@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@TorBot_v2|2174
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
-#28|@YoBot_v2|2168
+#28|@YoBot_v2|2167
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
 #31|@too_ez4me|2160
@@ -69,10 +69,10 @@ Rank|Bot|Rating
 #67|@ChessBot2156|2095
 #68|@TorBot_SL|2094
 #69|@Shineshou90_BOT|2093
-#70|@NimsiluBot|2090
-#71|@UnDisstoppableBot|2090
-#72|@Lila-Stockfish|2089
-#73|@Nikitosik-ai|2089
+#70|@Nikitosik-ai|2091
+#71|@NimsiluBot|2090
+#72|@UnDisstoppableBot|2090
+#73|@Lila-Stockfish|2089
 #74|@Mittens-Bot|2081
 #75|@chessbot2880|2079
 #76|@EmptikBotLc0|2079
@@ -261,7 +261,7 @@ Rank|Bot|Rating
 #259|@NeuralAbyss|1608
 #260|@STockfishdestroyBot|1601
 #261|@Lucror|1595
-#262|@FataliiBot|1589
+#262|@FataliiBot|1591
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587
@@ -330,10 +330,10 @@ Rank|Bot|Rating
 #328|@Filipo6900|1310
 #329|@GarboBot|1309
 #330|@DavidsGuterBot|1308
-#331|@camel_bot|1292
-#332|@ClubAjedrezChileno|1288
-#333|@LeelaZero-UK|1288
-#334|@queen_stase_approx|1288
+#331|@ClubAjedrezChileno|1288
+#332|@LeelaZero-UK|1288
+#333|@queen_stase_approx|1288
+#334|@camel_bot|1287
 #335|@legendbot1|1285
 #336|@Demolito_L6|1284
 #337|@FENder_Bender|1283
