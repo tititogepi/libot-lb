@@ -681,6 +681,7 @@ dragon_shadow_bot
 dragonballzfan
 dragonbot-77
 dragonflybot
+dragonrosedev
 drawfish
 drawinone
 dream_bot
@@ -2528,4 +2529,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dragonrosedev
