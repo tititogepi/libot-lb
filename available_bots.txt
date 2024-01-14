@@ -1453,6 +1453,7 @@ matrix-ai
 mattaberk-bot
 max_bot
 maximumef
+maxoul-bot
 maxthedog
 maxwellonlc
 mayan_mex
@@ -2529,4 +2530,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-maxoul-bot
