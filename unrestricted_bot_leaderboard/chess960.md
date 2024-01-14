@@ -30,11 +30,11 @@ Rank|Bot|Rating
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
 #30|@too_ez4me|2160
-#31|@Major-Maxy|2159
-#32|@YellowFlash-X|2158
-#33|@TheMatrix2025|2156
-#34|@YellowFlash_v2|2156
-#35|@YoBot_v2|2156
+#31|@YoBot_v2|2160
+#32|@Major-Maxy|2159
+#33|@YellowFlash-X|2158
+#34|@TheMatrix2025|2156
+#35|@YellowFlash_v2|2156
 #36|@FireFishBOT_v2|2154
 #37|@ReinforcementTrial|2154
 #38|@TheFreshmanLc0|2151
@@ -59,8 +59,8 @@ Rank|Bot|Rating
 #57|@BetaOneBot|2106
 #58|@ToromLc0|2106
 #59|@Vaxim2000|2106
-#60|@EmptikBotEman|2103
-#61|@Nikitosik-ai|2103
+#60|@Nikitosik-ai|2104
+#61|@EmptikBotEman|2103
 #62|@Botyuliirma|2101
 #63|@Kizbuurb|2100
 #64|@lol7241Bot|2100
