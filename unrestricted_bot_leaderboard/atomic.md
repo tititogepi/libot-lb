@@ -234,10 +234,10 @@ Rank|Bot|Rating
 #232|@Pikachu_270|1497
 #233|@Iwantedtoplaychess|1486
 #234|@MeezKool|1485
-#235|@katzebot|1479
-#236|@RSVMentor|1476
-#237|@TheWeakestBot|1476
-#238|@thibot|1470
+#235|@RSVMentor|1476
+#236|@TheWeakestBot|1476
+#237|@thibot|1470
+#238|@katzebot|1465
 #239|@fastandfurious10|1464
 #240|@EDSPBOT|1463
 #241|@Dong_Xiao_Yuan|1454
@@ -255,8 +255,8 @@ Rank|Bot|Rating
 #253|@shakboy9824453231op|1420
 #254|@bunny_2021|1413
 #255|@Butzke_BOT|1401
-#256|@pawnrobot|1391
-#257|@MartianBot|1386
+#256|@MartianBot|1386
+#257|@pawnrobot|1386
 #258|@Trumpfor2O2O|1386
 #259|@DrunkenMasterEngine|1385
 #260|@anonymous5612|1384
