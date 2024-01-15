@@ -43,7 +43,7 @@ Rank|Bot|Rating
 #41|@The_Devansh117|2147
 #42|@LolFish-1|2146
 #43|@FireFishBOT|2140
-#44|@RaspFish|2139
+#44|@RaspFish|2140
 #45|@EmptikVariantsBot|2132
 #46|@faith_bot|2131
 #47|@F1R3BOT|2128
