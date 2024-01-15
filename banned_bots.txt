@@ -40,3 +40,4 @@ Nikitosikbot_v2
 EdoBot
 SolistaBot
 LermerBot
+PowerBeast

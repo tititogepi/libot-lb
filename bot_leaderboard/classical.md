@@ -1,15 +1,15 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@FireFishBOT_v2|2688
-#2|@Africaata|2676
+#2|@Africaata|2675
 #3|@Intron014|2675
-#4|@RipTorn|2669
+#4|@RipTorn|2668
 #5|@ReinforcementTrial|2659
 #6|@YoBot_v2|2655
 #7|@TorBot|2644
 #8|@TorBot_v2|2644
 #9|@ttBOT|2640
-#10|@RaspFish|2637
+#10|@RaspFish|2638
 #11|@ResoluteBot|2637
 #12|@FireFishBOT|2635
 #13|@ArasanX|2631
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@catriever|2311
 #25|@Cheng-4|2281
 #26|@bitbitbot|2196
-#27|@Lynx_BOT|2178
+#27|@Lynx_BOT|2181
 #28|@ChessNoobComp|2136
 #29|@Pseudo-0|2117
 #30|@Phalanx-XXV|2089
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@Demolito_L6|1789
 #45|@ChessChildren|1761
 #46|@munfish|1760
-#47|@maia9|1742
+#47|@maia9|1745
 #48|@Virutor|1719
 #49|@honzovy-sachy|1714
 #50|@notropis|1697
