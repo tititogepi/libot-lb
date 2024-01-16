@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@Intron014|2671
 #26|@Bingo202|2664
 #27|@yorubachess|2662
-#28|@YoBot_v2|2658
+#28|@YoBot_v2|2659
 #29|@VariantsTop|2657
 #30|@MphoBot|2656
 #31|@caissa-x|2654
@@ -40,8 +40,8 @@ Rank|Bot|Rating
 #38|@ttBOT|2640
 #39|@Nikitosikbot_v2|2639
 #40|@Botyuliirma|2638
-#41|@FireFishBOT|2636
-#42|@RaspFish|2636
+#41|@RaspFish|2638
+#42|@FireFishBOT|2636
 #43|@UltimateL|2636
 #44|@Occhessadvanced|2634
 #45|@ArasanX|2633
@@ -207,7 +207,7 @@ Rank|Bot|Rating
 #205|@GodelEscherBot|2336
 #206|@mrohCentaur|2335
 #207|@AttackingOrDefending|2334
-#208|@Weiawaga|2330
+#208|@Weiawaga|2329
 #209|@SaxtonEngine|2328
 #210|@ElPeonElectrico|2326
 #211|@mrohBOT|2326
@@ -293,8 +293,8 @@ Rank|Bot|Rating
 #291|@ok12435|2197
 #292|@bitbitbot|2195
 #293|@proustagm|2195
-#294|@NormalBulletBot|2194
-#295|@Lynx_BOT|2193
+#294|@Lynx_BOT|2194
+#295|@NormalBulletBot|2194
 #296|@BagpiperBot|2191
 #297|@HiddeNL|2191
 #298|@Kapablanca_balls|2190
@@ -556,8 +556,8 @@ Rank|Bot|Rating
 #554|@Nicarao_Chess|1798
 #555|@Thuban_official|1796
 #556|@Goldfish-Engine|1793
-#557|@Demolito_L6|1789
-#558|@B0T5_RU13|1788
+#557|@B0T5_RU13|1788
+#558|@Demolito_L6|1788
 #559|@bcbchess|1787
 #560|@chmod-bot|1785
 #561|@QuickLiquid|1785
@@ -600,8 +600,8 @@ Rank|Bot|Rating
 #598|@PVICE|1734
 #599|@GilgameshTheBot|1729
 #600|@queen_stase_approx|1729
-#601|@maia9|1728
-#602|@Virutor|1726
+#601|@Virutor|1726
+#602|@maia9|1725
 #603|@The_Marcus|1723
 #604|@Epiano_Bot|1718
 #605|@Zagreus_Engine|1718
@@ -620,7 +620,7 @@ Rank|Bot|Rating
 #618|@entebot|1705
 #619|@OurBot|1704
 #620|@LISEBOT|1702
-#621|@honzovy-sachy|1701
+#621|@honzovy-sachy|1700
 #622|@MyNameIsSpeedy|1698
 #623|@Vetinari_Computer|1698
 #624|@notropis|1697
@@ -688,10 +688,10 @@ Rank|Bot|Rating
 #686|@Dummyette|1570
 #687|@AEBROADUSBOTTER|1567
 #688|@LeelaClubPlayer|1567
-#689|@ShallowLearnBot|1564
-#690|@beast_engine|1563
-#691|@BOT_Awsome_Stockfish|1563
-#692|@maia1|1563
+#689|@maia1|1566
+#690|@ShallowLearnBot|1564
+#691|@beast_engine|1563
+#692|@BOT_Awsome_Stockfish|1563
 #693|@ChamberiAjedrez|1561
 #694|@ReallyBadPlayerBot|1560
 #695|@ChessPlayer1225|1555
@@ -712,8 +712,8 @@ Rank|Bot|Rating
 #710|@greko-bot|1525
 #711|@pussaW|1519
 #712|@TapoBot|1519
-#713|@maia5|1514
-#714|@LeelaRecent|1512
+#713|@LeelaRecent|1512
+#714|@maia5|1501
 #715|@Bot-2564|1500
 #716|@freddystehtaufteddy|1500
 #717|@NeuralAbyss|1500
