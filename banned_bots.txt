@@ -41,3 +41,4 @@ EdoBot
 SolistaBot
 LermerBot
 PowerBeast
+Spiritofthenewyear

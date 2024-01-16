@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@TorBot_v2|2174
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
-#28|@YoBot_v2|2163
-#29|@rtx3080tibot|2162
-#30|@TorBot|2162
+#28|@rtx3080tibot|2162
+#29|@TorBot|2162
+#30|@YoBot_v2|2162
 #31|@too_ez4me|2160
 #32|@Major-Maxy|2159
 #33|@YellowFlash-X|2158
