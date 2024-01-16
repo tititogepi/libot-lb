@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@TorBot_v2|2174
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
-#28|@YoBot_v2|2167
+#28|@YoBot_v2|2163
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
 #31|@too_ez4me|2160
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@NimsiluBot|2090
 #71|@UnDisstoppableBot|2090
 #72|@Lila-Stockfish|2089
-#73|@Nikitosik-ai|2085
+#73|@Nikitosik-ai|2089
 #74|@Mittens-Bot|2081
 #75|@chessbot2880|2079
 #76|@EmptikBotLc0|2079
@@ -100,12 +100,12 @@ Rank|Bot|Rating
 #98|@bananaaaaaaaaa_test|2033
 #99|@ItsATry|2033
 #100|@pistol-play|2032
-#101|@CrayyBot|2030
-#102|@Coolman2021|2028
-#103|@HiarcsFish|2028
-#104|@Beyondcomprehension|2024
-#105|@EmptikBot247|2022
-#106|@Leela_960|2022
+#101|@Leela_960|2031
+#102|@CrayyBot|2030
+#103|@Coolman2021|2028
+#104|@HiarcsFish|2028
+#105|@Beyondcomprehension|2024
+#106|@EmptikBot247|2022
 #107|@DeepChessEngine|2020
 #108|@LudwigBOT|2018
 #109|@SF-NNUE|2014

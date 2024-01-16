@@ -1359,6 +1359,7 @@ littletony
 lizzardbot
 lk-stockfish
 loev07
+loevbot
 logregchess
 lol7241bot
 lola-stockfish
@@ -2530,4 +2531,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-loevbot
