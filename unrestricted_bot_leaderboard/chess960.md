@@ -29,9 +29,9 @@ Rank|Bot|Rating
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
-#30|@YoBot_v2|2161
-#31|@too_ez4me|2160
-#32|@Major-Maxy|2159
+#30|@too_ez4me|2160
+#31|@Major-Maxy|2159
+#32|@YoBot_v2|2159
 #33|@YellowFlash-X|2158
 #34|@TheMatrix2025|2156
 #35|@YellowFlash_v2|2156
@@ -68,8 +68,8 @@ Rank|Bot|Rating
 #66|@Vinh_VariantsBot|2098
 #67|@ChessBot2156|2095
 #68|@TorBot_SL|2094
-#69|@Shineshou90_BOT|2093
-#70|@Nikitosik-ai|2091
+#69|@Nikitosik-ai|2093
+#70|@Shineshou90_BOT|2093
 #71|@NimsiluBot|2090
 #72|@UnDisstoppableBot|2090
 #73|@Lila-Stockfish|2089
