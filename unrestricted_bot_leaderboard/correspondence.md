@@ -152,9 +152,9 @@ Rank|Bot|Rating
 #150|@Boris-Trapsky|1853
 #151|@natural-disaster|1853
 #152|@Jibbby|1851
-#153|@yeoldwiz|1838
-#154|@Rinestro|1837
-#155|@OurBot|1836
+#153|@Rinestro|1837
+#154|@OurBot|1836
+#155|@yeoldwiz|1836
 #156|@Aromik_s_bot|1831
 #157|@RoundMoundOfRebounds|1829
 #158|@BestJSEngine|1826
