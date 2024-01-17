@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@EmptikVariantsBot|2957
 #6|@Coolman2021|2879
 #7|@UltronBot|2859
-#8|@TorBot|2824
-#9|@ToromBot|2821
+#8|@ToromBot|2834
+#9|@TorBot|2824
 #10|@WennDieSoldatBOT|2818
 #11|@lord-bot|2789
 #12|@FireFishBOT|2785
@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@ttBOT|2761
 #16|@SCP079|2736
 #17|@ibep|2733
-#18|@NimsiluBot|2693
+#18|@NimsiluBot|2685
 #19|@Lili-Variants|2678
 #20|@LoseisnotAvailablehe|2677
 #21|@ChessVBOT|2675
