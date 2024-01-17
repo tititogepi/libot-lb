@@ -1822,6 +1822,7 @@ r-o-b-o-t
 rablitz-test
 racingkingskingsbot
 raddelgo14bot
+radianceengine
 radicaleela
 rajdeep2011
 ramses-chess
@@ -2532,4 +2533,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-radianceengine
