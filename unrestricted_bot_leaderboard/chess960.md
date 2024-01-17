@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@TorBot|2162
 #30|@too_ez4me|2160
 #31|@Major-Maxy|2159
-#32|@YoBot_v2|2159
-#33|@YellowFlash-X|2158
+#32|@YellowFlash-X|2158
+#33|@YoBot_v2|2158
 #34|@TheMatrix2025|2156
 #35|@YellowFlash_v2|2156
 #36|@FireFishBOT_v2|2154
@@ -72,7 +72,7 @@ Rank|Bot|Rating
 #70|@NimsiluBot|2090
 #71|@UnDisstoppableBot|2090
 #72|@Lila-Stockfish|2089
-#73|@Nikitosik-ai|2088
+#73|@Nikitosik-ai|2089
 #74|@Mittens-Bot|2081
 #75|@chessbot2880|2079
 #76|@EmptikBotLc0|2079
@@ -376,8 +376,8 @@ Rank|Bot|Rating
 #374|@ZokBot|969
 #375|@RandomTree77|956
 #376|@Bot_Swana|943
-#377|@bobandi|940
-#378|@Demolito_L4|937
+#377|@Demolito_L4|942
+#378|@bobandi|940
 #379|@YellowJackets_Bot|925
 #380|@botTideEval|921
 #381|@Palisade|800

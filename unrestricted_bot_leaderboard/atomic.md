@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@Coolman2021|2601
 #6|@KizVariant|2597
 #7|@pistol-play|2590
-#8|@ToromBot|2586
-#9|@UltronBot|2556
-#10|@Viet-AI|2556
+#8|@UltronBot|2556
+#9|@Viet-AI|2556
+#10|@ToromBot|2554
 #11|@BitExtender128|2526
 #12|@ResoluteBot|2525
 #13|@ttBOT|2517
@@ -21,10 +21,10 @@ Rank|Bot|Rating
 #19|@NormalBulletBot|2474
 #20|@LoseisnotAvailablehe|2466
 #21|@PepsiForAll|2448
-#22|@RaspFish|2414
-#23|@Fairy-Stockfish|2402
-#24|@abhisun_bot|2384
-#25|@NimsiluBot|2382
+#22|@RaspFish|2430
+#23|@NimsiluBot|2422
+#24|@Fairy-Stockfish|2402
+#25|@abhisun_bot|2384
 #26|@TheMatrix2029|2372
 #27|@mrchessmanager|2369
 #28|@KingfishX|2368
