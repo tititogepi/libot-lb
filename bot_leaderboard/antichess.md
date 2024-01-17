@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ttBOT|2761
-#2|@NimsiluBot|2658
-#3|@RaspFish|2631
+#2|@RaspFish|2649
+#3|@NimsiluBot|2634
 #4|@NilatacBot|2431
 #5|@anti-bot|2258
 #6|@CatNail|2023

@@ -36,14 +36,14 @@ Rank|Bot|Rating
 #34|@YellowFlash_v2|2156
 #35|@FireFishBOT_v2|2154
 #36|@ReinforcementTrial|2154
-#37|@YoBot_v2|2154
+#37|@YoBot_v2|2152
 #38|@TheFreshmanLc0|2151
 #39|@VariantsTop|2149
 #40|@duythong1402|2148
 #41|@The_Devansh117|2147
 #42|@LolFish-1|2146
 #43|@FireFishBOT|2140
-#44|@RaspFish|2139
+#44|@RaspFish|2140
 #45|@EmptikVariantsBot|2132
 #46|@faith_bot|2131
 #47|@F1R3BOT|2128
@@ -65,8 +65,8 @@ Rank|Bot|Rating
 #63|@lol7241Bot|2100
 #64|@EvenMatchup|2099
 #65|@MastacticaTeoriabot|2099
-#66|@Vinh_VariantsBot|2098
-#67|@Nikitosik-ai|2096
+#66|@Nikitosik-ai|2098
+#67|@Vinh_VariantsBot|2098
 #68|@ChessBot2156|2095
 #69|@TorBot_SL|2094
 #70|@Shineshou90_BOT|2093

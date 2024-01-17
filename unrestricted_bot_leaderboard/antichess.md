@@ -22,9 +22,9 @@ Rank|Bot|Rating
 #20|@ChessVBOT|2675
 #21|@AntichessAnalyzer|2673
 #22|@TheMatrix2025|2666
-#23|@NimsiluBot|2658
+#23|@RaspFish|2649
 #24|@MalanChess|2638
-#25|@RaspFish|2631
+#25|@NimsiluBot|2634
 #26|@bananaaaaaaaaa_test|2608
 #27|@IAMSTOCKFISH123|2603
 #28|@chessbot2880|2601
