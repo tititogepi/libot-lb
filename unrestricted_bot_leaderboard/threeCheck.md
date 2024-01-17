@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@Less_of_a_threat|2469
 #23|@NormalBlitzBulletBot|2463
 #24|@faith_bot|2447
-#25|@RaspFish|2414
-#26|@NimsiluBot|2408
+#25|@RaspFish|2412
+#26|@NimsiluBot|2411
 #27|@chessbot2880|2367
 #28|@Viet_BOT|2367
 #29|@ttBOT|2335

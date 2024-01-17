@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
 #24|@Intron014|2177
-#25|@TorBot_v2|2174
+#25|@TorBot_v2|2173
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@YellowFlash_v2|2156
 #35|@FireFishBOT_v2|2154
 #36|@ReinforcementTrial|2154
-#37|@YoBot_v2|2153
+#37|@YoBot_v2|2154
 #38|@TheFreshmanLc0|2151
 #39|@VariantsTop|2149
 #40|@duythong1402|2148
@@ -384,5 +384,5 @@ Rank|Bot|Rating
 #382|@WaspBot|798
 #383|@LeelaWeak|735
 #384|@FelixLeonidovich|730
-#385|@pawnrobot|616
+#385|@pawnrobot|615
 #386|@konaz|400
