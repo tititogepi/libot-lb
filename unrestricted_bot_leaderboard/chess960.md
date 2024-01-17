@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@too_ez4me|2160
 #31|@Major-Maxy|2159
 #32|@YellowFlash-X|2158
-#33|@YoBot_v2|2157
-#34|@TheMatrix2025|2156
-#35|@YellowFlash_v2|2156
+#33|@TheMatrix2025|2156
+#34|@YellowFlash_v2|2156
+#35|@YoBot_v2|2156
 #36|@FireFishBOT_v2|2154
 #37|@ReinforcementTrial|2154
 #38|@TheFreshmanLc0|2151
@@ -68,8 +68,8 @@ Rank|Bot|Rating
 #66|@Vinh_VariantsBot|2098
 #67|@ChessBot2156|2095
 #68|@TorBot_SL|2094
-#69|@Shineshou90_BOT|2093
-#70|@Nikitosik-ai|2091
+#69|@Nikitosik-ai|2093
+#70|@Shineshou90_BOT|2093
 #71|@NimsiluBot|2090
 #72|@UnDisstoppableBot|2090
 #73|@Lila-Stockfish|2089
