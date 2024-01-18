@@ -11,9 +11,9 @@ Rank|Bot|Rating
 #9|@TorBot|2475
 #10|@Viet-AI|2471
 #11|@EmptikBot|2454
-#12|@AjedrezChamberi|2449
-#13|@pawn_git|2446
-#14|@F0rgot|2434
+#12|@pawn_git|2446
+#13|@F0rgot|2434
+#14|@AjedrezChamberi|2418
 #15|@HulkBot|2387
 #16|@MehFish|2376
 #17|@Mega_BOT|2371
