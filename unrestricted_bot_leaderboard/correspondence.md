@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@fibonachi|2814
+#1|@fibonachi|2815
 #2|@tt-challenge|2700
 #3|@Viet-BOT|2700
 #4|@H-Zero|2650
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@EmptikBot|2454
 #12|@pawn_git|2446
 #13|@F0rgot|2434
-#14|@AjedrezChamberi|2418
+#14|@AjedrezChamberi|2395
 #15|@HulkBot|2387
 #16|@MehFish|2376
 #17|@Mega_BOT|2371
