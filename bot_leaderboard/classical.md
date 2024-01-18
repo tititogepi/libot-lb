@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@FireFishBOT_v2|2686
+#1|@FireFishBOT_v2|2685
 #2|@Intron014|2679
 #3|@Africaata|2678
 #4|@RipTorn|2670
@@ -16,7 +16,7 @@ Rank|Bot|Rating
 #14|@ArasanX|2633
 #15|@mayhem23111|2621
 #16|@kdpchess|2620
-#17|@Mr_Chess_Berserk|2591
+#17|@Mr_Chess_Berserk|2593
 #18|@ELO_1500|2464
 #19|@expositor|2449
 #20|@AKS-Mantissa|2412
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@Boris-Trapsky|2024
 #31|@simpleEval|2018
 #32|@FataliiBot|1989
-#33|@matmoi|1985
+#33|@matmoi|1972
 #34|@jangine|1958
 #35|@honzovy-sachy-2|1926
 #36|@GarboBot|1916
@@ -43,9 +43,9 @@ Rank|Bot|Rating
 #41|@Dinora|1831
 #42|@Demolito_L6|1773
 #43|@ChessChildren|1764
-#44|@Virutor|1727
-#45|@honzovy-sachy|1717
-#46|@maia9|1714
+#44|@Virutor|1726
+#45|@maia9|1724
+#46|@honzovy-sachy|1717
 #47|@sargon-4ply|1682
 #48|@turkjs|1671
 #49|@Demolito_L5|1666
@@ -55,10 +55,10 @@ Rank|Bot|Rating
 #53|@turochamp-2ply|1593
 #54|@Demolito_L4|1578
 #55|@RoundMoundOfRebounds|1545
-#56|@maia5|1534
-#57|@maia1|1493
+#56|@maia5|1540
+#57|@maia1|1494
 #58|@sargon-2ply|1444
-#59|@Humaia|1443
+#59|@Humaia|1438
 #60|@RadianceEngine|1410
 #61|@bernstein-2ply|1395
 #62|@turochamp-1ply|1390

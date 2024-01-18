@@ -6,4 +6,4 @@ Rank|Bot|Rating
 #4|@NilatacBot|2431
 #5|@anti-bot|2282
 #6|@CatNail|2030
-#7|@pawnrobot|1944
+#7|@pawnrobot|1922

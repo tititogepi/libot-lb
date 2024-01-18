@@ -13,8 +13,8 @@ Rank|Bot|Rating
 #11|@EmptikBot|2454
 #12|@pawn_git|2446
 #13|@F0rgot|2434
-#14|@AjedrezChamberi|2395
-#15|@HulkBot|2387
+#14|@HulkBot|2387
+#15|@AjedrezChamberi|2376
 #16|@MehFish|2376
 #17|@Mega_BOT|2371
 #18|@CorrespondenceBot|2353

@@ -31,9 +31,9 @@ Rank|Bot|Rating
 #29|@TorBot|2162
 #30|@too_ez4me|2160
 #31|@YellowFlash-X|2158
-#32|@YoBot_v2|2157
-#33|@TheMatrix2025|2156
-#34|@YellowFlash_v2|2156
+#32|@TheMatrix2025|2156
+#33|@YellowFlash_v2|2156
+#34|@YoBot_v2|2156
 #35|@FireFishBOT_v2|2154
 #36|@ReinforcementTrial|2154
 #37|@TheFreshmanLc0|2151
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@duythong1402|2148
 #40|@The_Devansh117|2147
 #41|@LolFish-1|2146
-#42|@RaspFish|2141
+#42|@RaspFish|2142
 #43|@FireFishBOT|2140
 #44|@EmptikVariantsBot|2132
 #45|@faith_bot|2131
