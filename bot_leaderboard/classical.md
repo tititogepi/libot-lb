@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@FireFishBOT_v2|2689
-#2|@Africaata|2681
+#2|@Africaata|2680
 #3|@Intron014|2675
-#4|@RipTorn|2668
+#4|@RipTorn|2670
 #5|@yorubachess|2657
 #6|@YoBot_v2|2654
 #7|@ReinforcementTrial|2652
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@ELO_1500|2464
 #19|@expositor|2448
 #20|@AKS-Mantissa|2411
-#21|@pawn_git|2386
+#21|@pawn_git|2384
 #22|@SaxtonEngine|2337
 #23|@Weiawaga|2326
 #24|@catriever|2311
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@ChessChildren|1764
 #45|@munfish|1760
 #46|@Virutor|1728
-#47|@maia9|1719
+#47|@maia9|1721
 #48|@honzovy-sachy|1718
 #49|@sargon-4ply|1682
 #50|@Demolito_L5|1679

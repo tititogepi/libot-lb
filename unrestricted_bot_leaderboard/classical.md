@@ -21,10 +21,10 @@ Rank|Bot|Rating
 #19|@Lili-ai|2692
 #20|@djungel_lc0|2691
 #21|@FireFishBOT_v2|2689
-#22|@Africaata|2681
+#22|@Africaata|2680
 #23|@SkyAttacker|2680
 #24|@Intron014|2675
-#25|@RipTorn|2668
+#25|@RipTorn|2670
 #26|@Bingo202|2664
 #27|@VariantsTop|2657
 #28|@yorubachess|2657
@@ -176,9 +176,9 @@ Rank|Bot|Rating
 #174|@lightspeed_bot|2401
 #175|@Carp_Bot|2395
 #176|@BongcloudTest|2390
-#177|@pawn_git|2386
-#178|@AcceleratedLearner|2385
-#179|@DxrkOnBot|2385
+#177|@AcceleratedLearner|2385
+#178|@DxrkOnBot|2385
+#179|@pawn_git|2384
 #180|@chai-chessbot|2376
 #181|@Maximumef|2375
 #182|@IUseStockfish|2374
@@ -603,7 +603,7 @@ Rank|Bot|Rating
 #601|@queen_stase_approx|1729
 #602|@Virutor|1728
 #603|@The_Marcus|1723
-#604|@maia9|1719
+#604|@maia9|1721
 #605|@Epiano_Bot|1718
 #606|@honzovy-sachy|1718
 #607|@Zagreus_Engine|1718
