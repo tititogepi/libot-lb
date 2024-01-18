@@ -25,7 +25,7 @@ Rank|Bot|Rating
 #23|@NimsiluBot|2456
 #24|@ToromBot|2450
 #25|@faith_bot|2447
-#26|@RaspFish|2412
+#26|@RaspFish|2413
 #27|@chessbot2880|2367
 #28|@Viet_BOT|2367
 #29|@ttBOT|2335

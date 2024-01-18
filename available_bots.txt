@@ -286,6 +286,7 @@ bogopi
 boldbladerunner
 boller1910
 bongcloudtest
+booktester
 boom_bot
 boris-trapsky
 bosburp777
@@ -2533,4 +2534,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-booktester
