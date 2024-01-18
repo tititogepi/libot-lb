@@ -112,7 +112,7 @@ Rank|Bot|Rating
 #110|@PyChessBot|2102
 #111|@TurkiyeHogwartsBOT|2099
 #112|@ZamuChess|2049
-#113|@CatNail|2024
+#113|@CatNail|2033
 #114|@Botzer|2020
 #115|@Jussicas|2019
 #116|@CloudBotZero|2018
@@ -122,8 +122,8 @@ Rank|Bot|Rating
 #120|@BetaZ|1973
 #121|@antichesssss|1964
 #122|@Menganti|1963
-#123|@pawnrobot|1953
-#124|@CloudBOT|1950
+#123|@CloudBOT|1950
+#124|@pawnrobot|1944
 #125|@Crepusculum|1881
 #126|@NoTallkOnlyGames|1871
 #127|@Lumac0|1861
