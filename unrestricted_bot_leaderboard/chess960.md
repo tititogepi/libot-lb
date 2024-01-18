@@ -18,8 +18,8 @@ Rank|Bot|Rating
 #16|@Corvus-1|2197
 #17|@ResoluteBot|2196
 #18|@lord-bot|2193
-#19|@ToromBot|2191
-#20|@hyperchessbot1|2189
+#19|@hyperchessbot1|2189
+#20|@ToromBot|2189
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
@@ -36,7 +36,7 @@ Rank|Bot|Rating
 #34|@YellowFlash_v2|2156
 #35|@FireFishBOT_v2|2154
 #36|@ReinforcementTrial|2154
-#37|@YoBot_v2|2152
+#37|@YoBot_v2|2153
 #38|@TheFreshmanLc0|2151
 #39|@VariantsTop|2149
 #40|@duythong1402|2148

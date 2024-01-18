@@ -5,5 +5,5 @@ Rank|Bot|Rating
 #3|@NimsiluBot|2634
 #4|@NilatacBot|2431
 #5|@anti-bot|2258
-#6|@CatNail|2023
-#7|@pawnrobot|1918
+#6|@CatNail|2031
+#7|@pawnrobot|1910
