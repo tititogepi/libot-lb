@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@Africaata|2678
 #25|@RipTorn|2673
 #26|@Bingo202|2664
-#27|@ReinforcementTrial|2658
+#27|@ReinforcementTrial|2657
 #28|@VariantsTop|2657
 #29|@yorubachess|2657
 #30|@MphoBot|2656
@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@Caissa-NNUE|2598
 #64|@Asalfish_15|2595
 #65|@Leela420|2595
-#66|@Mr_Chess_Berserk|2594
+#66|@Mr_Chess_Berserk|2595
 #67|@Shineshou90_BOT|2586
 #68|@TheMatrix2025|2579
 #69|@lol7241Bot|2575
@@ -204,9 +204,9 @@ Rank|Bot|Rating
 #202|@starker_bot|2339
 #203|@CaissaIX|2338
 #204|@ShiroZer0|2338
-#205|@GodelEscherBot|2336
-#206|@mrohCentaur|2335
-#207|@Weiawaga|2335
+#205|@Weiawaga|2338
+#206|@GodelEscherBot|2336
+#207|@mrohCentaur|2335
 #208|@AttackingOrDefending|2334
 #209|@SaxtonEngine|2333
 #210|@ElPeonElectrico|2326
@@ -301,7 +301,7 @@ Rank|Bot|Rating
 #299|@Lalis1|2188
 #300|@ChessTver|2182
 #301|@AMemeBot|2179
-#302|@Lynx_BOT|2177
+#302|@Lynx_BOT|2176
 #303|@JPSBOT|2172
 #304|@ZerMixalot|2171
 #305|@BlackCatEngine|2170
@@ -484,8 +484,8 @@ Rank|Bot|Rating
 #482|@RouterBot|1904
 #483|@MaxtheDog|1903
 #484|@LeelaPiBot|1899
-#485|@likeawizard-bot|1899
-#486|@zeekat|1896
+#485|@zeekat|1896
+#486|@likeawizard-bot|1895
 #487|@AjedrezChamberi|1894
 #488|@Chess_Bot-Child|1894
 #489|@ZhangirKhanBOT|1893
@@ -599,9 +599,9 @@ Rank|Bot|Rating
 #597|@Aromik_s_bot|1737
 #598|@ChessFbot|1735
 #599|@PVICE|1734
-#600|@maia9|1730
-#601|@GilgameshTheBot|1729
-#602|@queen_stase_approx|1729
+#600|@GilgameshTheBot|1729
+#601|@queen_stase_approx|1729
+#602|@maia9|1728
 #603|@Virutor|1726
 #604|@The_Marcus|1723
 #605|@Epiano_Bot|1718
@@ -694,10 +694,10 @@ Rank|Bot|Rating
 #692|@BOT_Awsome_Stockfish|1563
 #693|@ChamberiAjedrez|1561
 #694|@ReallyBadPlayerBot|1560
-#695|@ChessPlayer1225|1555
-#696|@SeNP4A1_bot|1554
-#697|@Hoich|1549
-#698|@maia5|1549
+#695|@maia5|1556
+#696|@ChessPlayer1225|1555
+#697|@SeNP4A1_bot|1554
+#698|@Hoich|1549
 #699|@BotGeorge|1548
 #700|@KlaraDestroyer-aB|1547
 #701|@MasterOfChessBOT1000|1545
@@ -714,7 +714,7 @@ Rank|Bot|Rating
 #712|@pussaW|1519
 #713|@TapoBot|1519
 #714|@LeelaRecent|1512
-#715|@maia1|1502
+#715|@maia1|1501
 #716|@Bot-2564|1500
 #717|@freddystehtaufteddy|1500
 #718|@NeuralAbyss|1500

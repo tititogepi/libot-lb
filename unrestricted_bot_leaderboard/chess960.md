@@ -16,14 +16,14 @@ Rank|Bot|Rating
 #14|@TheFreshman1902|2203
 #15|@IUseStockfish|2202
 #16|@Corvus-1|2197
-#17|@ResoluteBot|2197
+#17|@ResoluteBot|2196
 #18|@lord-bot|2193
 #19|@hyperchessbot1|2189
 #20|@ToromBot|2189
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
-#24|@Intron014|2177
+#24|@Intron014|2175
 #25|@TorBot_v2|2173
 #26|@Bot_McBotface|2172
 #27|@EmptikBot|2168
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@FireFishBOT_v2|2154
 #35|@ReinforcementTrial|2154
 #36|@TheFreshmanLc0|2151
-#37|@VariantsTop|2149
-#38|@YoBot_v2|2149
+#37|@YoBot_v2|2151
+#38|@VariantsTop|2149
 #39|@duythong1402|2148
 #40|@The_Devansh117|2147
 #41|@LolFish-1|2146
