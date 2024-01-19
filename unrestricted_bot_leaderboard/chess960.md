@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
 #30|@too_ez4me|2160
-#31|@YoBot_v2|2159
-#32|@YellowFlash-X|2158
+#31|@YellowFlash-X|2158
+#32|@YoBot_v2|2158
 #33|@TheMatrix2025|2156
 #34|@YellowFlash_v2|2156
 #35|@FireFishBOT_v2|2154
