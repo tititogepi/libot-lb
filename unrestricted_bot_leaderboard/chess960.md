@@ -261,7 +261,7 @@ Rank|Bot|Rating
 #259|@NeuralAbyss|1608
 #260|@STockfishdestroyBot|1601
 #261|@Lucror|1595
-#262|@FataliiBot|1591
+#262|@FataliiBot|1593
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587

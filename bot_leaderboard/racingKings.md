@@ -1,4 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ttBOT|2598
-#2|@RaspFish|2530
+#1|@RaspFish|2530
