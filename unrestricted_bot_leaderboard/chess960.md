@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@lord-bot|2193
 #18|@ResoluteBot|2192
 #19|@hyperchessbot1|2189
-#20|@ToromBot|2189
+#20|@ToromBot|2188
 #21|@robiachess|2186
 #22|@Kizburb|2182
 #23|@VariantsBot|2180
@@ -30,8 +30,8 @@ Rank|Bot|Rating
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
 #30|@too_ez4me|2160
-#31|@YellowFlash-X|2158
-#32|@YoBot_v2|2158
+#31|@YoBot_v2|2159
+#32|@YellowFlash-X|2158
 #33|@TheMatrix2025|2156
 #34|@YellowFlash_v2|2156
 #35|@FireFishBOT_v2|2154
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@duythong1402|2148
 #40|@The_Devansh117|2147
 #41|@LolFish-1|2146
-#42|@RaspFish|2143
+#42|@RaspFish|2144
 #43|@FireFishBOT|2140
 #44|@EmptikVariantsBot|2132
 #45|@faith_bot|2131
