@@ -1017,6 +1017,7 @@ homemade223
 honggphat2006
 honzovy-sachy
 honzovy-sachy-2
+hoon_bot
 hopebest
 hoplites
 hotleela
@@ -2534,4 +2535,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-hoon_bot

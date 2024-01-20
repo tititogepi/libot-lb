@@ -374,8 +374,8 @@ Rank|Bot|Rating
 #372|@Bot2000|983
 #373|@BogoBot|974
 #374|@ZokBot|969
-#375|@RandomTree77|956
-#376|@Demolito_L4|944
+#375|@Demolito_L4|958
+#376|@RandomTree77|956
 #377|@Bot_Swana|943
 #378|@bobandi|940
 #379|@YellowJackets_Bot|925
