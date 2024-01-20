@@ -125,8 +125,8 @@ Rank|Bot|Rating
 #123|@CloudBOT|1950
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
-#126|@Lumac0|1861
-#127|@pawnrobot|1858
+#126|@pawnrobot|1870
+#127|@Lumac0|1861
 #128|@Pineapple-Friendly|1858
 #129|@Bottios|1847
 #130|@MyNameIsWhatLOL|1826
