@@ -699,6 +699,7 @@ dundu
 duythong1402
 dx4iot_chessbot
 dxrkonbot
+dymdyryryryrym
 dynamite3000
 e-chess_other_teams
 e-teron-27s
@@ -2535,4 +2536,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dymdyryryryrym
+fireball-64
