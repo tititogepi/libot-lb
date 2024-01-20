@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@IUseStockfish|2202
 #16|@Corvus-1|2197
 #17|@lord-bot|2193
-#18|@ResoluteBot|2192
+#18|@ResoluteBot|2190
 #19|@hyperchessbot1|2189
 #20|@ToromBot|2188
 #21|@robiachess|2186
@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
 #30|@too_ez4me|2160
-#31|@YoBot_v2|2159
+#31|@YoBot_v2|2160
 #32|@YellowFlash-X|2158
 #33|@TheMatrix2025|2156
 #34|@YellowFlash_v2|2156
