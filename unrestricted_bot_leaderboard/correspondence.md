@@ -156,7 +156,7 @@ Rank|Bot|Rating
 #154|@Rinestro|1837
 #155|@OurBot|1836
 #156|@Aromik_s_bot|1831
-#157|@yeoldwiz|1831
+#157|@yeoldwiz|1830
 #158|@RoundMoundOfRebounds|1829
 #159|@BestJSEngine|1826
 #160|@Black_Knight2006|1815
