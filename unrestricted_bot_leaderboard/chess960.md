@@ -148,12 +148,12 @@ Rank|Bot|Rating
 #146|@crocodile5|1953
 #147|@chesshyperbot|1951
 #148|@StockfishPro-BOT|1950
-#149|@SkyBlaster|1945
-#150|@WindowsI5Bot|1944
-#151|@Stockfish-NNUE|1942
-#152|@AnUtterlyKarBot|1937
-#153|@Viet_BOT|1937
-#154|@KingfishX|1936
+#149|@KingfishX|1949
+#150|@SkyBlaster|1945
+#151|@WindowsI5Bot|1944
+#152|@Stockfish-NNUE|1942
+#153|@AnUtterlyKarBot|1937
+#154|@Viet_BOT|1937
 #155|@TORTADEMANZANA023|1935
 #156|@Johnsun|1932
 #157|@Lord-Chess-Bot|1930
@@ -261,7 +261,7 @@ Rank|Bot|Rating
 #259|@NeuralAbyss|1608
 #260|@STockfishdestroyBot|1601
 #261|@Lucror|1595
-#262|@FataliiBot|1593
+#262|@FataliiBot|1592
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587
