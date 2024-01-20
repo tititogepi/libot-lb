@@ -2534,3 +2534,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+hoon_bot

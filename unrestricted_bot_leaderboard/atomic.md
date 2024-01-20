@@ -232,9 +232,9 @@ Rank|Bot|Rating
 #230|@UnDisstoppableBot|1498
 #231|@Hedgehog_BOT|1497
 #232|@Pikachu_270|1497
-#233|@Iwantedtoplaychess|1486
-#234|@MeezKool|1485
-#235|@katzebot|1480
+#233|@katzebot|1493
+#234|@Iwantedtoplaychess|1486
+#235|@MeezKool|1485
 #236|@RSVMentor|1476
 #237|@TheWeakestBot|1476
 #238|@thibot|1470
