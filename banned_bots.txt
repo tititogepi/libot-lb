@@ -42,3 +42,4 @@ SolistaBot
 LermerBot
 PowerBeast
 Spiritofthenewyear
+Fireball-64
