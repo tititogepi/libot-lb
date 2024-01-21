@@ -33,7 +33,7 @@ Rank|Bot|Rating
 #31|@YellowFlash-X|2158
 #32|@TheMatrix2025|2156
 #33|@YellowFlash_v2|2156
-#34|@YoBot_v2|2156
+#34|@YoBot_v2|2155
 #35|@FireFishBOT_v2|2154
 #36|@ReinforcementTrial|2154
 #37|@TheFreshmanLc0|2151
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@duythong1402|2148
 #40|@The_Devansh117|2147
 #41|@LolFish-1|2146
-#42|@RaspFish|2145
+#42|@RaspFish|2146
 #43|@FireFishBOT|2140
 #44|@EmptikVariantsBot|2132
 #45|@faith_bot|2131
@@ -56,9 +56,9 @@ Rank|Bot|Rating
 #54|@Dragon_1906|2111
 #55|@ibep|2111
 #56|@Galaxy_Guardian|2107
-#57|@SFbot1|2107
-#58|@BetaOneBot|2106
-#59|@Nikitosik-ai|2106
+#57|@Nikitosik-ai|2107
+#58|@SFbot1|2107
+#59|@BetaOneBot|2106
 #60|@ToromLc0|2106
 #61|@Vaxim2000|2106
 #62|@EmptikBotEman|2103
@@ -166,8 +166,8 @@ Rank|Bot|Rating
 #164|@EndoKingsSpade|1911
 #165|@WennDieSoldatBOT|1910
 #166|@StockfishPower|1909
-#167|@ProteusSF|1903
-#168|@pawn_git|1902
+#167|@pawn_git|1904
+#168|@ProteusSF|1903
 #169|@RobotTigerSlav|1902
 #170|@Leelabotmaster|1895
 #171|@Maximumef|1895
