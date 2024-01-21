@@ -53,6 +53,7 @@ alejbot
 alemor64
 aleph_bot_d6
 aleph_engine
+alexagarry-bot
 alexeybot
 alexvis
 alexz55
@@ -2537,4 +2538,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-alexagarry-bot
