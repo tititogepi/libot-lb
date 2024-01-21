@@ -109,7 +109,7 @@ Rank|Bot|Rating
 #107|@AntiChessBot|2142
 #108|@AnUtterlyKarBot|2134
 #109|@XXIstCentury|2131
-#110|@CatNail|2107
+#110|@CatNail|2109
 #111|@PyChessBot|2102
 #112|@TurkiyeHogwartsBOT|2099
 #113|@ZamuChess|2049
@@ -126,8 +126,8 @@ Rank|Bot|Rating
 #124|@Crepusculum|1881
 #125|@NoTallkOnlyGames|1871
 #126|@Lumac0|1861
-#127|@pawnrobot|1859
-#128|@Pineapple-Friendly|1858
+#127|@Pineapple-Friendly|1858
+#128|@pawnrobot|1857
 #129|@Bottios|1847
 #130|@MyNameIsWhatLOL|1826
 #131|@Bot2000|1807
