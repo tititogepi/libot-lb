@@ -436,6 +436,7 @@ catlovergirl7
 catnail
 catninjabot
 catriever
+cattonpm
 cbnguyen_bot
 cbot801
 ccrl-clover
@@ -2539,4 +2540,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cattonpm
