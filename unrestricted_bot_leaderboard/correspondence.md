@@ -106,8 +106,8 @@ Rank|Bot|Rating
 #104|@CocopikachuBOT|2036
 #105|@HyperPhoenix21|2035
 #106|@EmptikCorrespondence|2031
-#107|@zeekat|2028
-#108|@StrongMagnusCarlsen|2027
+#107|@StrongMagnusCarlsen|2027
+#108|@zeekat|2026
 #109|@duythong1402|2025
 #110|@kybot|2025
 #111|@MalanChess|2020
