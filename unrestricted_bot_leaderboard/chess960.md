@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@Bot_McBotface|2172
 #25|@Intron014|2172
 #26|@TorBot_v2|2171
-#27|@YoBot_v2|2169
-#28|@EmptikBot|2168
+#27|@EmptikBot|2168
+#28|@YoBot_v2|2165
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
 #31|@too_ez4me|2160
@@ -67,10 +67,10 @@ Rank|Bot|Rating
 #65|@EvenMatchup|2099
 #66|@MastacticaTeoriabot|2099
 #67|@Vinh_VariantsBot|2098
-#68|@ChessBot2156|2095
-#69|@TorBot_SL|2094
-#70|@Shineshou90_BOT|2093
-#71|@Nikitosik-ai|2091
+#68|@Nikitosik-ai|2096
+#69|@ChessBot2156|2095
+#70|@TorBot_SL|2094
+#71|@Shineshou90_BOT|2093
 #72|@NimsiluBot|2090
 #73|@UnDisstoppableBot|2090
 #74|@Lila-Stockfish|2089

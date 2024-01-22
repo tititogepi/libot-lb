@@ -2538,3 +2538,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+scottbot_maia1100
