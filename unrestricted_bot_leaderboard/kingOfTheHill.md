@@ -151,8 +151,8 @@ Rank|Bot|Rating
 #149|@Bottios|1223
 #150|@RSVMentor|1196
 #151|@Boom_Bot|1176
-#152|@pawnrobot|1169
-#153|@TrashBot|1168
+#152|@TrashBot|1168
+#153|@pawnrobot|1165
 #154|@shakboy9824453231op|1152
 #155|@GuineaBot3|1121
 #156|@DespacitoBot|1094

@@ -1958,6 +1958,7 @@ sc0pe-ma3str0
 schachprog
 schnecken_bot
 schneizel2
+scottbot_maia1100
 scp079
 sea_leopard
 seaborg1
@@ -2538,4 +2539,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-scottbot_maia1100
