@@ -1313,6 +1313,7 @@ leelanicemirror
 leelapi
 leelapibot
 leelaqueenforknight
+leelaqueenodds
 leelarades
 leelarecent
 leelarogue
@@ -2540,4 +2541,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leelaqueenodds
