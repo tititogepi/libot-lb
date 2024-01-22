@@ -39,9 +39,9 @@ Rank|Bot|Rating
 #37|@TheFreshmanLc0|2151
 #38|@VariantsTop|2149
 #39|@duythong1402|2148
-#40|@The_Devansh117|2147
-#41|@LolFish-1|2146
-#42|@RaspFish|2146
+#40|@RaspFish|2147
+#41|@The_Devansh117|2147
+#42|@LolFish-1|2146
 #43|@FireFishBOT|2140
 #44|@EmptikVariantsBot|2132
 #45|@faith_bot|2131

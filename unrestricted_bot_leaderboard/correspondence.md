@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@Xmas_dragon|2300
 #22|@Ujwal1001|2297
 #23|@robiachess|2295
-#24|@bekbot|2289
-#25|@ChamberiAjedrez|2287
+#24|@ChamberiAjedrez|2291
+#25|@bekbot|2289
 #26|@mrohCentaur|2285
 #27|@Cheng-4|2269
 #28|@HansNiemannBot|2260
