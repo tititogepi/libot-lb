@@ -58,8 +58,8 @@ Rank|Bot|Rating
 #56|@Hagfish|2432
 #57|@EmptikBot247|2422
 #58|@xiang-qi|2422
-#59|@faith_bot|2420
-#60|@NilatacBot|2414
+#59|@NilatacBot|2421
+#60|@faith_bot|2420
 #61|@DrSmartBugs|2412
 #62|@AttackingOrDefending|2409
 #63|@BitExtender128|2403
