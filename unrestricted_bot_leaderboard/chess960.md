@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@Bot_McBotface|2172
 #25|@Intron014|2172
 #26|@TorBot_v2|2171
-#27|@EmptikBot|2168
-#28|@YoBot_v2|2168
+#27|@YoBot_v2|2171
+#28|@EmptikBot|2168
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
 #31|@too_ez4me|2160
@@ -69,8 +69,8 @@ Rank|Bot|Rating
 #67|@Vinh_VariantsBot|2098
 #68|@ChessBot2156|2095
 #69|@TorBot_SL|2094
-#70|@Nikitosik-ai|2093
-#71|@Shineshou90_BOT|2093
+#70|@Shineshou90_BOT|2093
+#71|@Nikitosik-ai|2090
 #72|@NimsiluBot|2090
 #73|@UnDisstoppableBot|2090
 #74|@Lila-Stockfish|2089
@@ -364,7 +364,7 @@ Rank|Bot|Rating
 #362|@ZX-Chess|1119
 #363|@Jobabot|1110
 #364|@Dummyette|1107
-#365|@Demolito_L5|1065
+#365|@Demolito_L5|1071
 #366|@LeElaGuess|1049
 #367|@admin-bot|1003
 #368|@GuineaBot3|1000
