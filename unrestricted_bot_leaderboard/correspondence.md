@@ -98,7 +98,7 @@ Rank|Bot|Rating
 #96|@centaur01|2050
 #97|@CrazyDog5892912|2050
 #98|@misteick_bot|2049
-#99|@zeekat|2049
+#99|@zeekat|2044
 #100|@Emmamaster|2043
 #101|@TeamChelsie|2043
 #102|@abhisun_bot|2039
