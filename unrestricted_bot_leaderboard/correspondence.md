@@ -10,10 +10,10 @@ Rank|Bot|Rating
 #8|@Bingo202|2484
 #9|@TorBot|2475
 #10|@Viet-AI|2471
-#11|@EmptikBot|2454
-#12|@pawn_git|2446
-#13|@F0rgot|2434
-#14|@AjedrezChamberi|2418
+#11|@AjedrezChamberi|2454
+#12|@EmptikBot|2454
+#13|@pawn_git|2446
+#14|@F0rgot|2434
 #15|@HulkBot|2387
 #16|@MehFish|2376
 #17|@Mega_BOT|2371
@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@Xmas_dragon|2300
 #22|@Ujwal1001|2297
 #23|@robiachess|2295
-#24|@ChamberiAjedrez|2291
+#24|@ChamberiAjedrez|2294
 #25|@bekbot|2289
 #26|@mrohCentaur|2285
 #27|@Cheng-4|2269
