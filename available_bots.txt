@@ -766,6 +766,7 @@ enginehighlvl
 enginuous
 enoizisop
 entebot
+enyobot
 epiano_bot
 erickdejusu
 ericrosen102
@@ -1408,6 +1409,7 @@ m-z_bot
 m07002
 machinamas
 macos23
+macroman952
 macuser60
 maelstrom-chess
 mafybe
@@ -2542,5 +2544,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-macroman952
-enyobot
