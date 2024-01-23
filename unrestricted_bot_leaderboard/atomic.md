@@ -226,8 +226,8 @@ Rank|Bot|Rating
 #224|@chicken_farmer|1514
 #225|@RandomTree77|1511
 #226|@Abuziddin-BOT|1508
-#227|@GgKedi|1500
-#228|@katzebot|1498
+#227|@katzebot|1504
+#228|@GgKedi|1500
 #229|@Kung-fuPanda|1498
 #230|@lola-stockfish|1498
 #231|@UnDisstoppableBot|1498
@@ -251,8 +251,8 @@ Rank|Bot|Rating
 #249|@DestructeurBot|1437
 #250|@xDmanBOT|1437
 #251|@MrMolotov|1436
-#252|@pawnrobot|1433
-#253|@BOSS_CHESS_BOT|1431
+#252|@BOSS_CHESS_BOT|1431
+#253|@pawnrobot|1427
 #254|@shakboy9824453231op|1420
 #255|@bunny_2021|1413
 #256|@Butzke_BOT|1401

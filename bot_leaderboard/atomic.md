@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@katzebot|1498
-#2|@pawnrobot|1433
+#1|@katzebot|1504
+#2|@pawnrobot|1427
