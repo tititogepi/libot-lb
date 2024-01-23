@@ -261,7 +261,7 @@ Rank|Bot|Rating
 #259|@NeuralAbyss|1608
 #260|@STockfishdestroyBot|1601
 #261|@Lucror|1595
-#262|@FataliiBot|1592
+#262|@FataliiBot|1594
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587
@@ -330,7 +330,7 @@ Rank|Bot|Rating
 #328|@Filipo6900|1310
 #329|@GarboBot|1309
 #330|@DavidsGuterBot|1308
-#331|@Demolito_L6|1291
+#331|@Demolito_L6|1292
 #332|@ClubAjedrezChileno|1288
 #333|@LeelaZero-UK|1288
 #334|@queen_stase_approx|1288
@@ -364,7 +364,7 @@ Rank|Bot|Rating
 #362|@ZX-Chess|1119
 #363|@Jobabot|1110
 #364|@Dummyette|1107
-#365|@Demolito_L5|1078
+#365|@Demolito_L5|1075
 #366|@LeElaGuess|1049
 #367|@admin-bot|1003
 #368|@GuineaBot3|1000
