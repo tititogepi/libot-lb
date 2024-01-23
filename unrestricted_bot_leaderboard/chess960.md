@@ -25,8 +25,8 @@ Rank|Bot|Rating
 #23|@robiachess|2178
 #24|@Bot_McBotface|2172
 #25|@Intron014|2172
-#26|@TorBot_v2|2171
-#27|@YoBot_v2|2171
+#26|@YoBot_v2|2172
+#27|@TorBot_v2|2171
 #28|@EmptikBot|2168
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
