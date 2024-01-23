@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@Viet-AI|2600
 #4|@ttBOT|2598
 #5|@lord-bot|2581
-#6|@ToromBot|2577
+#6|@ToromBot|2579
 #7|@Fairy_Belzedar|2559
 #8|@EmptikVariantsBot|2557
 #9|@FireFishBOT|2547
