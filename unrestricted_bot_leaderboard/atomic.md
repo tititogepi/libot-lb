@@ -226,7 +226,7 @@ Rank|Bot|Rating
 #224|@chicken_farmer|1514
 #225|@RandomTree77|1511
 #226|@Abuziddin-BOT|1508
-#227|@katzebot|1504
+#227|@katzebot|1508
 #228|@GgKedi|1500
 #229|@Kung-fuPanda|1498
 #230|@lola-stockfish|1498
