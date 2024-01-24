@@ -23,7 +23,7 @@ Rank|Bot|Rating
 #21|@Kizburb|2182
 #22|@VariantsBot|2180
 #23|@robiachess|2178
-#24|@YoBot_v2|2176
+#24|@YoBot_v2|2174
 #25|@Bot_McBotface|2172
 #26|@Intron014|2172
 #27|@TorBot_v2|2170
@@ -32,9 +32,9 @@ Rank|Bot|Rating
 #30|@TorBot|2162
 #31|@too_ez4me|2160
 #32|@YellowFlash-X|2158
-#33|@TheMatrix2025|2156
-#34|@YellowFlash_v2|2156
-#35|@FireFishBOT_v2|2155
+#33|@FireFishBOT_v2|2156
+#34|@TheMatrix2025|2156
+#35|@YellowFlash_v2|2156
 #36|@ReinforcementTrial|2154
 #37|@TheFreshmanLc0|2151
 #38|@VariantsTop|2149
@@ -68,9 +68,9 @@ Rank|Bot|Rating
 #66|@MastacticaTeoriabot|2099
 #67|@Vinh_VariantsBot|2098
 #68|@ChessBot2156|2095
-#69|@TorBot_SL|2094
-#70|@Shineshou90_BOT|2093
-#71|@Nikitosik-ai|2092
+#69|@Nikitosik-ai|2095
+#70|@TorBot_SL|2094
+#71|@Shineshou90_BOT|2093
 #72|@NimsiluBot|2090
 #73|@UnDisstoppableBot|2090
 #74|@Lila-Stockfish|2089
