@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@H-Zero|2650
 #5|@Nikitosik-ai|2575
 #6|@peonasesino71|2512
-#7|@ServerFish|2494
-#8|@Bingo202|2484
-#9|@TorBot|2475
-#10|@AjedrezChamberi|2473
+#7|@AjedrezChamberi|2499
+#8|@ServerFish|2494
+#9|@Bingo202|2484
+#10|@TorBot|2475
 #11|@Viet-AI|2471
 #12|@EmptikBot|2454
 #13|@pawn_git|2446
