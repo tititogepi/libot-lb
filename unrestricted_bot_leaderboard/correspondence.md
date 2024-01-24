@@ -100,9 +100,9 @@ Rank|Bot|Rating
 #98|@misteick_bot|2049
 #99|@Emmamaster|2043
 #100|@TeamChelsie|2043
-#101|@zeekat|2042
-#102|@abhisun_bot|2039
-#103|@Beyondcomprehension|2039
+#101|@abhisun_bot|2039
+#102|@Beyondcomprehension|2039
+#103|@zeekat|2039
 #104|@faith_bot|2037
 #105|@CocopikachuBOT|2036
 #106|@HyperPhoenix21|2035
