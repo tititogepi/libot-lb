@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@ServerFish|2494
 #8|@Bingo202|2484
 #9|@TorBot|2475
-#10|@Viet-AI|2471
-#11|@AjedrezChamberi|2454
+#10|@AjedrezChamberi|2473
+#11|@Viet-AI|2471
 #12|@EmptikBot|2454
 #13|@pawn_git|2446
 #14|@F0rgot|2434

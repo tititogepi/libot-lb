@@ -1834,6 +1834,7 @@ racingkingskingsbot
 raddelgo14bot
 radianceengine
 radicaleela
+ragozin2
 rajdeep2011
 ramses-chess
 rand0mfish
@@ -2544,4 +2545,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ragozin2
