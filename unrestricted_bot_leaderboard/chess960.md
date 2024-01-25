@@ -15,11 +15,11 @@ Rank|Bot|Rating
 #13|@SfishChess2021|2204
 #14|@TheFreshman1902|2203
 #15|@IUseStockfish|2202
-#16|@Corvus-1|2197
-#17|@lord-bot|2193
-#18|@ResoluteBot|2193
+#16|@ResoluteBot|2198
+#17|@Corvus-1|2197
+#18|@lord-bot|2193
 #19|@hyperchessbot1|2189
-#20|@ToromBot|2189
+#20|@ToromBot|2183
 #21|@Kizburb|2182
 #22|@VariantsBot|2180
 #23|@robiachess|2178
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@EmptikBot|2168
 #28|@rtx3080tibot|2162
 #29|@TorBot|2162
-#30|@YoBot_v2|2162
+#30|@YoBot_v2|2161
 #31|@too_ez4me|2160
 #32|@YellowFlash-X|2158
 #33|@FireFishBOT_v2|2156
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@duythong1402|2148
 #40|@The_Devansh117|2147
 #41|@LolFish-1|2146
-#42|@RaspFish|2141
+#42|@RaspFish|2142
 #43|@FireFishBOT|2140
 #44|@EmptikVariantsBot|2132
 #45|@faith_bot|2131
@@ -58,9 +58,9 @@ Rank|Bot|Rating
 #56|@Galaxy_Guardian|2107
 #57|@SFbot1|2107
 #58|@BetaOneBot|2106
-#59|@ToromLc0|2106
-#60|@Vaxim2000|2106
-#61|@Nikitosik-ai|2104
+#59|@Nikitosik-ai|2106
+#60|@ToromLc0|2106
+#61|@Vaxim2000|2106
 #62|@EmptikBotEman|2103
 #63|@Botyuliirma|2101
 #64|@Kizbuurb|2100
@@ -166,8 +166,8 @@ Rank|Bot|Rating
 #164|@EndoKingsSpade|1911
 #165|@WennDieSoldatBOT|1910
 #166|@StockfishPower|1909
-#167|@pawn_git|1904
-#168|@ProteusSF|1903
+#167|@ProteusSF|1903
+#168|@pawn_git|1902
 #169|@RobotTigerSlav|1902
 #170|@Leelabotmaster|1895
 #171|@Maximumef|1895
@@ -261,7 +261,7 @@ Rank|Bot|Rating
 #259|@NeuralAbyss|1608
 #260|@STockfishdestroyBot|1601
 #261|@Lucror|1595
-#262|@FataliiBot|1593
+#262|@FataliiBot|1591
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587

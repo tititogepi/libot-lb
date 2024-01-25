@@ -247,11 +247,11 @@ Rank|Bot|Rating
 #245|@AIAlphaAI|1442
 #246|@darkb0t|1441
 #247|@KaTHHHH|1440
-#248|@Chess_Bot-Child|1437
-#249|@DestructeurBot|1437
-#250|@xDmanBOT|1437
-#251|@MrMolotov|1436
-#252|@pawnrobot|1434
+#248|@pawnrobot|1439
+#249|@Chess_Bot-Child|1437
+#250|@DestructeurBot|1437
+#251|@xDmanBOT|1437
+#252|@MrMolotov|1436
 #253|@BOSS_CHESS_BOT|1431
 #254|@shakboy9824453231op|1420
 #255|@bunny_2021|1413
