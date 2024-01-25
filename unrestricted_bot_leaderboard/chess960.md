@@ -17,8 +17,8 @@ Rank|Bot|Rating
 #15|@IUseStockfish|2202
 #16|@Corvus-1|2197
 #17|@lord-bot|2193
-#18|@hyperchessbot1|2189
-#19|@ResoluteBot|2188
+#18|@ResoluteBot|2193
+#19|@hyperchessbot1|2189
 #20|@ToromBot|2185
 #21|@Kizburb|2182
 #22|@VariantsBot|2180
@@ -26,8 +26,8 @@ Rank|Bot|Rating
 #24|@Bot_McBotface|2172
 #25|@Intron014|2172
 #26|@TorBot_v2|2170
-#27|@YoBot_v2|2169
-#28|@EmptikBot|2168
+#27|@EmptikBot|2168
+#28|@YoBot_v2|2164
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
 #31|@too_ez4me|2160
