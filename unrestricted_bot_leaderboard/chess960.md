@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Corvus-1|2197
 #17|@lord-bot|2193
 #18|@hyperchessbot1|2189
-#19|@ResoluteBot|2189
+#19|@ResoluteBot|2188
 #20|@ToromBot|2185
 #21|@Kizburb|2182
 #22|@VariantsBot|2180
@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@Intron014|2172
 #26|@TorBot_v2|2170
 #27|@EmptikBot|2168
-#28|@YoBot_v2|2164
+#28|@YoBot_v2|2168
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
 #31|@too_ez4me|2160
@@ -58,10 +58,10 @@ Rank|Bot|Rating
 #56|@Galaxy_Guardian|2107
 #57|@SFbot1|2107
 #58|@BetaOneBot|2106
-#59|@Nikitosik-ai|2106
-#60|@ToromLc0|2106
-#61|@Vaxim2000|2106
-#62|@EmptikBotEman|2103
+#59|@ToromLc0|2106
+#60|@Vaxim2000|2106
+#61|@EmptikBotEman|2103
+#62|@Nikitosik-ai|2102
 #63|@Botyuliirma|2101
 #64|@Kizbuurb|2100
 #65|@lol7241Bot|2100
