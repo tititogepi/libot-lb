@@ -112,9 +112,9 @@ Rank|Bot|Rating
 #110|@Toxic_Bot|1541
 #111|@SXDEFENDER|1534
 #112|@Light_To_The_Rescue|1523
-#113|@Z-Move|1495
-#114|@TFRChessClub|1494
-#115|@DavidsGuterBot|1493
+#113|@DavidsGuterBot|1501
+#114|@Z-Move|1495
+#115|@TFRChessClub|1494
 #116|@hyperchessbot1|1493
 #117|@MagnusCarlsen1507|1492
 #118|@SugarAndSpice|1489
