@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@Intron014|2172
 #26|@TorBot_v2|2169
 #27|@EmptikBot|2168
-#28|@YoBot_v2|2167
+#28|@YoBot_v2|2165
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
 #31|@too_ez4me|2160
@@ -60,8 +60,8 @@ Rank|Bot|Rating
 #58|@BetaOneBot|2106
 #59|@ToromLc0|2106
 #60|@Vaxim2000|2106
-#61|@EmptikBotEman|2103
-#62|@Nikitosik-ai|2103
+#61|@Nikitosik-ai|2105
+#62|@EmptikBotEman|2103
 #63|@Botyuliirma|2101
 #64|@Kizbuurb|2100
 #65|@lol7241Bot|2100
@@ -265,7 +265,7 @@ Rank|Bot|Rating
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587
-#266|@FataliiBot|1584
+#266|@FataliiBot|1586
 #267|@The-Fastest-Bot|1582
 #268|@lightspeed_bot|1571
 #269|@XXXTryandTryXXX|1569
@@ -330,7 +330,7 @@ Rank|Bot|Rating
 #328|@Filipo6900|1310
 #329|@GarboBot|1309
 #330|@DavidsGuterBot|1308
-#331|@Demolito_L6|1300
+#331|@Demolito_L6|1298
 #332|@ClubAjedrezChileno|1288
 #333|@LeelaZero-UK|1288
 #334|@queen_stase_approx|1288
