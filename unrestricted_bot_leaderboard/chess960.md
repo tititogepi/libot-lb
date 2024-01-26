@@ -27,9 +27,9 @@ Rank|Bot|Rating
 #25|@Intron014|2172
 #26|@TorBot_v2|2169
 #27|@EmptikBot|2168
-#28|@rtx3080tibot|2162
-#29|@TorBot|2162
-#30|@YoBot_v2|2161
+#28|@YoBot_v2|2167
+#29|@rtx3080tibot|2162
+#30|@TorBot|2162
 #31|@too_ez4me|2160
 #32|@YellowFlash-X|2158
 #33|@FireFishBOT_v2|2156
@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@duythong1402|2148
 #40|@The_Devansh117|2147
 #41|@LolFish-1|2146
-#42|@RaspFish|2143
-#43|@FireFishBOT|2140
+#42|@FireFishBOT|2140
+#43|@RaspFish|2138
 #44|@EmptikVariantsBot|2132
 #45|@faith_bot|2131
 #46|@F1R3BOT|2128
@@ -266,7 +266,7 @@ Rank|Bot|Rating
 #264|@M07002|1589
 #265|@EftalBot|1587
 #266|@The-Fastest-Bot|1582
-#267|@FataliiBot|1579
+#267|@FataliiBot|1581
 #268|@lightspeed_bot|1571
 #269|@XXXTryandTryXXX|1569
 #270|@itsafakeusername2k1|1562
@@ -330,7 +330,7 @@ Rank|Bot|Rating
 #328|@Filipo6900|1310
 #329|@GarboBot|1309
 #330|@DavidsGuterBot|1308
-#331|@Demolito_L6|1306
+#331|@Demolito_L6|1303
 #332|@ClubAjedrezChileno|1288
 #333|@LeelaZero-UK|1288
 #334|@queen_stase_approx|1288
