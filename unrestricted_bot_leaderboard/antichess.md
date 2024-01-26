@@ -53,10 +53,10 @@ Rank|Bot|Rating
 #51|@PepsiForAll|2460
 #52|@CloudBot_v2|2455
 #53|@ResoluteBot|2455
-#54|@Bobby_Fischer_BOT|2435
-#55|@Nobody11892|2435
-#56|@Hagfish|2432
-#57|@NilatacBot|2429
+#54|@NilatacBot|2437
+#55|@Bobby_Fischer_BOT|2435
+#56|@Nobody11892|2435
+#57|@Hagfish|2432
 #58|@EmptikBot247|2422
 #59|@xiang-qi|2422
 #60|@faith_bot|2420
