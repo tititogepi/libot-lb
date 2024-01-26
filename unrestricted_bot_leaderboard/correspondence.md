@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@peonasesino71|2512
 #7|@ServerFish|2494
 #8|@Bingo202|2484
-#9|@AjedrezChamberi|2480
-#10|@TorBot|2475
-#11|@Viet-AI|2471
+#9|@TorBot|2475
+#10|@Viet-AI|2471
+#11|@AjedrezChamberi|2464
 #12|@EmptikBot|2454
 #13|@pawn_git|2446
 #14|@F0rgot|2434

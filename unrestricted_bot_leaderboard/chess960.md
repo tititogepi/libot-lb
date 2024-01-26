@@ -252,7 +252,7 @@ Rank|Bot|Rating
 #250|@AndromedaSX1|1650
 #251|@CloudBotZero|1645
 #252|@Los-Guerreros1|1643
-#253|@clueless-bot|1641
+#253|@clueless-bot|1639
 #254|@CatBot_14|1627
 #255|@Lumac0|1625
 #256|@MeetraBot|1624
@@ -265,8 +265,8 @@ Rank|Bot|Rating
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587
-#266|@The-Fastest-Bot|1582
-#267|@FataliiBot|1581
+#266|@FataliiBot|1584
+#267|@The-Fastest-Bot|1582
 #268|@lightspeed_bot|1571
 #269|@XXXTryandTryXXX|1569
 #270|@itsafakeusername2k1|1562
@@ -330,7 +330,7 @@ Rank|Bot|Rating
 #328|@Filipo6900|1310
 #329|@GarboBot|1309
 #330|@DavidsGuterBot|1308
-#331|@Demolito_L6|1303
+#331|@Demolito_L6|1300
 #332|@ClubAjedrezChileno|1288
 #333|@LeelaZero-UK|1288
 #334|@queen_stase_approx|1288

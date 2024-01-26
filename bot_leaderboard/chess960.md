@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@YoBot_v2|2167
 #6|@FireFishBOT_v2|2156
 #7|@RaspFish|2138
-#8|@FataliiBot|1581
-#9|@Demolito_L6|1303
+#8|@FataliiBot|1584
+#9|@Demolito_L6|1300
 #10|@Demolito_L5|1075
 #11|@Demolito_L4|949
 #12|@pawnrobot|640
