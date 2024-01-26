@@ -49,11 +49,11 @@ Rank|Bot|Rating
 #47|@MrBOThacker|2477
 #48|@hauptschuleBOT|2475
 #49|@Alehkine_cat|2474
-#50|@Fairy-Stockfish|2460
-#51|@PepsiForAll|2460
-#52|@CloudBot_v2|2455
-#53|@ResoluteBot|2455
-#54|@NilatacBot|2437
+#50|@NilatacBot|2461
+#51|@Fairy-Stockfish|2460
+#52|@PepsiForAll|2460
+#53|@CloudBot_v2|2455
+#54|@ResoluteBot|2455
 #55|@Bobby_Fischer_BOT|2435
 #56|@Nobody11892|2435
 #57|@Hagfish|2432
