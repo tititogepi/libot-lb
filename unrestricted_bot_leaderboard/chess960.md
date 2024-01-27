@@ -250,9 +250,9 @@ Rank|Bot|Rating
 #248|@Lightning_SpeedChess|1660
 #249|@DrSmartBugs|1655
 #250|@AndromedaSX1|1650
-#251|@CloudBotZero|1645
-#252|@Los-Guerreros1|1643
-#253|@clueless-bot|1641
+#251|@clueless-bot|1650
+#252|@CloudBotZero|1645
+#253|@Los-Guerreros1|1643
 #254|@CatBot_14|1627
 #255|@Lumac0|1625
 #256|@MeetraBot|1624
@@ -262,10 +262,10 @@ Rank|Bot|Rating
 #260|@NeuralAbyss|1608
 #261|@STockfishdestroyBot|1601
 #262|@Lucror|1595
-#263|@FataliiBot|1589
-#264|@HotLeela|1589
-#265|@M07002|1589
-#266|@EftalBot|1587
+#263|@HotLeela|1589
+#264|@M07002|1589
+#265|@EftalBot|1587
+#266|@FataliiBot|1584
 #267|@The-Fastest-Bot|1582
 #268|@lightspeed_bot|1571
 #269|@XXXTryandTryXXX|1569
