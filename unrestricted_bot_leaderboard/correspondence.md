@@ -355,10 +355,10 @@ Rank|Bot|Rating
 #353|@AXWChessBot|1096
 #354|@StashBot|1075
 #355|@Light_To_The_Rescue|1057
-#356|@B4ux1t3s-Bot|1038
-#357|@mustaley|973
-#358|@BerserkRandomMover|963
-#359|@G0thamB0t|954
+#356|@mustaley|973
+#357|@BerserkRandomMover|963
+#358|@G0thamB0t|954
+#359|@B4ux1t3s-Bot|872
 #360|@grandQ_AI|871
 #361|@GuineaBot|866
 #362|@BogoBot|865
