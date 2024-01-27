@@ -249,9 +249,9 @@ Rank|Bot|Rating
 #247|@TurkiyeHogwarts|1663
 #248|@Lightning_SpeedChess|1660
 #249|@DrSmartBugs|1655
-#250|@AndromedaSX1|1650
-#251|@CloudBotZero|1645
-#252|@clueless-bot|1645
+#250|@clueless-bot|1654
+#251|@AndromedaSX1|1650
+#252|@CloudBotZero|1645
 #253|@Los-Guerreros1|1643
 #254|@CatBot_14|1627
 #255|@Lumac0|1625
@@ -265,7 +265,7 @@ Rank|Bot|Rating
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587
-#266|@FataliiBot|1587
+#266|@FataliiBot|1582
 #267|@The-Fastest-Bot|1582
 #268|@lightspeed_bot|1571
 #269|@XXXTryandTryXXX|1569
