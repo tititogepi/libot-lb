@@ -246,11 +246,11 @@ Rank|Bot|Rating
 #244|@Minic-chess_engine|1678
 #245|@eubos|1667
 #246|@Mariana-031|1667
-#247|@clueless-bot|1664
-#248|@TurkiyeHogwarts|1663
-#249|@Lightning_SpeedChess|1660
-#250|@DrSmartBugs|1655
-#251|@AndromedaSX1|1650
+#247|@TurkiyeHogwarts|1663
+#248|@Lightning_SpeedChess|1660
+#249|@DrSmartBugs|1655
+#250|@AndromedaSX1|1650
+#251|@clueless-bot|1649
 #252|@CloudBotZero|1645
 #253|@Los-Guerreros1|1643
 #254|@CatBot_14|1627
@@ -265,8 +265,8 @@ Rank|Bot|Rating
 #263|@HotLeela|1589
 #264|@M07002|1589
 #265|@EftalBot|1587
-#266|@The-Fastest-Bot|1582
-#267|@FataliiBot|1577
+#266|@FataliiBot|1584
+#267|@The-Fastest-Bot|1582
 #268|@lightspeed_bot|1571
 #269|@XXXTryandTryXXX|1569
 #270|@itsafakeusername2k1|1562
