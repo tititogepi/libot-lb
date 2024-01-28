@@ -4,8 +4,8 @@ Rank|Bot|Rating
 #2|@SkyBlaster|2603
 #3|@Viet-AI|2600
 #4|@ttBOT|2598
-#5|@lord-bot|2581
-#6|@ToromBot|2579
+#5|@ToromBot|2591
+#6|@lord-bot|2581
 #7|@Fairy_Belzedar|2559
 #8|@EmptikVariantsBot|2557
 #9|@FireFishBOT|2547
