@@ -47,6 +47,7 @@ aks-mantissa
 akshadlawanibot
 akul_thotarobot
 alah230
+alan_bot
 albatros_engine
 alehkine_cat
 alejbot
@@ -2546,4 +2547,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-alan_bot
