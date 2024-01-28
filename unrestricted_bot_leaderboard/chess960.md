@@ -27,10 +27,10 @@ Rank|Bot|Rating
 #25|@Bot_McBotface|2172
 #26|@Intron014|2172
 #27|@EmptikBot|2168
-#28|@YoBot_v2|2164
-#29|@TorBot_v2|2163
-#30|@rtx3080tibot|2162
-#31|@TorBot|2162
+#28|@TorBot_v2|2163
+#29|@rtx3080tibot|2162
+#30|@TorBot|2162
+#31|@YoBot_v2|2162
 #32|@too_ez4me|2160
 #33|@YellowFlash-X|2158
 #34|@FireFishBOT_v2|2156
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@JeffIO|2113
 #54|@Dragon_1906|2111
 #55|@ibep|2111
-#56|@Nikitosik-ai|2109
+#56|@Nikitosik-ai|2111
 #57|@Galaxy_Guardian|2107
 #58|@SFbot1|2107
 #59|@BetaOneBot|2106
