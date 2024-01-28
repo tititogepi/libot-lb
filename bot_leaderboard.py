@@ -112,7 +112,7 @@ def get_all_bot_ratings():
     print("Updated bot_leaderboard.json file.")
 
 
-def get_bot_leaderboard(type, unrestricted=False):
+def get_bot_leaderboard(type):
     banned_bots = get_banned_bots()
 
     file_path = os.path.join(os.path.dirname(__file__), 'bot_leaderboard.json')
@@ -134,39 +134,30 @@ def get_bot_leaderboard(type, unrestricted=False):
             elif d.get('tosViolation', False) is True:
                 print("Violated ToS")
             else:
-                if unrestricted:
-                    if perfs.get('games', 0) > 0:
-                        user_arr.append(result)
-                    else:
-                        print(f"BOT {d['username']}: No {type} rating available")
+                if perfs.get('prov', False) is True:
+                    print("Provisional rating")
+                elif d.get('tosViolation', False) is True:
+                    print("Violated ToS")
+                elif perfs.get('games', 0) <= 50:
+                    print("Too few games played")
+                elif type in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 75:
+                    print("High rating deviation")
+                elif type not in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 65:
+                    print("High rating deviation")
+                elif (now - d['seenAt']) > datetime.timedelta(days=7):
+                    print("Not active for 1 week")
+                elif d['id'] in banned_bots:
+                    print("Banned Bot")
+                elif d.get('disabled', False) is True:
+                    print("Account Closed")
+                elif get_user_last_rated(result[0], type) != "2000.01.01":
+                    user_arr.append(result)
                 else:
-                    if perfs.get('prov', False) is True:
-                        print("Provisional rating")
-                    elif d.get('tosViolation', False) is True:
-                        print("Violated ToS")
-                    elif perfs.get('games', 0) <= 50:
-                        print("Too few games played")
-                    elif type in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 75:
-                        print("High rating deviation")
-                    elif type not in ['bullet', 'blitz', 'rapid', 'classical'] and perfs.get('rd', 0) >= 65:
-                        print("High rating deviation")
-                    elif (now - d['seenAt']) > datetime.timedelta(days=7):
-                        print("Not active for 1 week")
-                    elif d['id'] in banned_bots:
-                        print("Banned Bot")
-                    elif d.get('disabled', False) is True:
-                        print("Account Closed")
-                    elif get_user_last_rated(result[0], type) != "2000.01.01":
-                        user_arr.append(result)
-                    else:
-                        print(f"BOT {d['username']}: Not qualified for {type} leaderboard")
+                    print(f"BOT {d['username']}: Not qualified for {type} leaderboard")
         else:
             print(f"BOT {d['username']}: No {type} rating available")
 
-    if unrestricted:
-        dir = './unrestricted_bot_leaderboard/'
-    else:
-        dir = './bot_leaderboard/'
+    dir = './bot_leaderboard/'
 
     resulting_arr = sorted(user_arr, key=lambda x: x[1], reverse=True)
     with open(get_file_name(type, dir), 'w') as f:
@@ -184,7 +175,6 @@ def main():
         get_available_bots()
         get_all_bot_ratings()
         for i in TYPES:
-            get_bot_leaderboard(i, unrestricted=True)
             get_bot_leaderboard(i)
     except KeyboardInterrupt:
         sys.exit()

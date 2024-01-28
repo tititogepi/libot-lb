@@ -37,6 +37,3 @@ python3 bot_leaderboard.py
 4. Your Bot must not have a mark that indicates violation of [Lichess' Terms of Service](https://lichess.org/terms-of-service).
 5. Your Bot must have played at least 50 rated games in that respective Variant/Game type.
 6. Your Bot must have a rating deviation lower than 75, in Standard Chess, and lower than 65 in Variants.
-#### [Unrestricted Bot Leaderboard](https://lb.chessnibble.com/unrestricted):
-1. Your Bot must have played at least 1 rated game in that respective Variant/Game type.
-2. Your Bot must not have a mark that indicates violation of [Lichess' Terms of Service](https://lichess.org/terms-of-service).

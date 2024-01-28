@@ -90,29 +90,28 @@ def markdown_table_to_html(markdown_table):
     html_table += '</table>'
     return html_table
 
-directories = ['bot_leaderboard', 'unrestricted_bot_leaderboard']
+directory = 'bot_leaderboard'
 
-for directory in directories:
-    for filename in os.listdir(directory):
-        if filename.endswith('.md'):
-            with open(os.path.join(directory, filename), 'r') as md_file:
-                if filename not in ['chess960.md', 'threeCheck.md', 'kingOfTheHill.md', 'racingKings.md']:
-                    f = filename
-                elif filename in ["chess960.md"]:
-                    f = "chess 960.md"
-                elif filename in ["threeCheck.md"]:
-                    f = "three-check.md"
-                elif filename in ["kingOfTheHill.md"]:
-                    f = "king of the hill.md"
-                else:
-                    f = "racing kings.md"
-                h1_tag = generate_h1_tag(f)
+for filename in os.listdir(directory):
+    if filename.endswith('.md'):
+        with open(os.path.join(directory, filename), 'r') as md_file:
+            if filename not in ['chess960.md', 'threeCheck.md', 'kingOfTheHill.md', 'racingKings.md']:
+                f = filename
+            elif filename in ["chess960.md"]:
+                f = "chess 960.md"
+            elif filename in ["threeCheck.md"]:
+                f = "three-check.md"
+            elif filename in ["kingOfTheHill.md"]:
+                f = "king of the hill.md"
+            else:
+                f = "racing kings.md"
+            h1_tag = generate_h1_tag(f)
 
-                markdown_table = md_file.read()
-                html_table = markdown_table_to_html(markdown_table)
+            markdown_table = md_file.read()
+            html_table = markdown_table_to_html(markdown_table)
 
-                styled_html_table = css_styles + h1_tag + html_table + footer_styles
+            styled_html_table = css_styles + h1_tag + html_table + footer_styles
 
-                html_filename = os.path.splitext(filename)[0] + '.html'
-                with open(os.path.join(directory, html_filename), 'w') as html_file:
-                    html_file.write(styled_html_table)
+            html_filename = os.path.splitext(filename)[0] + '.html'
+            with open(os.path.join(directory, html_filename), 'w') as html_file:
+                html_file.write(styled_html_table)
