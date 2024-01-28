@@ -27,7 +27,7 @@ Rank|Bot|Rating
 #25|@Intron014|2171
 #26|@TorBot_v2|2169
 #27|@EmptikBot|2168
-#28|@YoBot_v2|2164
+#28|@YoBot_v2|2163
 #29|@rtx3080tibot|2162
 #30|@TorBot|2162
 #31|@too_ez4me|2160
@@ -55,8 +55,8 @@ Rank|Bot|Rating
 #53|@JeffIO|2113
 #54|@Dragon_1906|2111
 #55|@ibep|2111
-#56|@Galaxy_Guardian|2107
-#57|@Nikitosik-ai|2107
+#56|@Nikitosik-ai|2108
+#57|@Galaxy_Guardian|2107
 #58|@SFbot1|2107
 #59|@BetaOneBot|2106
 #60|@ToromLc0|2106
@@ -241,10 +241,10 @@ Rank|Bot|Rating
 #239|@BetaZ|1686
 #240|@Bot_AOOP11|1682
 #241|@BotifiedMoyao|1682
-#242|@Polaris2Bot|1681
-#243|@Leela8-Test|1680
-#244|@Minic-chess_engine|1678
-#245|@clueless-bot|1670
+#242|@clueless-bot|1681
+#243|@Polaris2Bot|1681
+#244|@Leela8-Test|1680
+#245|@Minic-chess_engine|1678
 #246|@eubos|1667
 #247|@Mariana-031|1667
 #248|@TurkiyeHogwarts|1663
@@ -266,9 +266,9 @@ Rank|Bot|Rating
 #264|@M07002|1589
 #265|@EftalBot|1587
 #266|@The-Fastest-Bot|1582
-#267|@FataliiBot|1572
-#268|@lightspeed_bot|1571
-#269|@XXXTryandTryXXX|1569
+#267|@lightspeed_bot|1571
+#268|@XXXTryandTryXXX|1569
+#269|@FataliiBot|1566
 #270|@itsafakeusername2k1|1562
 #271|@SimplerEval|1549
 #272|@jumbot|1545
@@ -384,5 +384,5 @@ Rank|Bot|Rating
 #382|@WaspBot|798
 #383|@LeelaWeak|735
 #384|@FelixLeonidovich|730
-#385|@pawnrobot|649
+#385|@pawnrobot|648
 #386|@konaz|400
