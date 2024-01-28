@@ -20,11 +20,11 @@ Rank|Bot|Rating
 #18|@lord-bot|2193
 #19|@hyperchessbot1|2189
 #20|@Kizburb|2182
-#21|@ToromBot|2182
+#21|@ToromBot|2181
 #22|@VariantsBot|2180
 #23|@robiachess|2178
 #24|@Bot_McBotface|2172
-#25|@Intron014|2172
+#25|@Intron014|2171
 #26|@TorBot_v2|2169
 #27|@EmptikBot|2168
 #28|@YoBot_v2|2164
@@ -56,9 +56,9 @@ Rank|Bot|Rating
 #54|@Dragon_1906|2111
 #55|@ibep|2111
 #56|@Galaxy_Guardian|2107
-#57|@SFbot1|2107
-#58|@BetaOneBot|2106
-#59|@Nikitosik-ai|2106
+#57|@Nikitosik-ai|2107
+#58|@SFbot1|2107
+#59|@BetaOneBot|2106
 #60|@ToromLc0|2106
 #61|@Vaxim2000|2106
 #62|@EmptikBotEman|2103
@@ -244,7 +244,7 @@ Rank|Bot|Rating
 #242|@Polaris2Bot|1681
 #243|@Leela8-Test|1680
 #244|@Minic-chess_engine|1678
-#245|@clueless-bot|1673
+#245|@clueless-bot|1670
 #246|@eubos|1667
 #247|@Mariana-031|1667
 #248|@TurkiyeHogwarts|1663
@@ -266,7 +266,7 @@ Rank|Bot|Rating
 #264|@M07002|1589
 #265|@EftalBot|1587
 #266|@The-Fastest-Bot|1582
-#267|@FataliiBot|1571
+#267|@FataliiBot|1572
 #268|@lightspeed_bot|1571
 #269|@XXXTryandTryXXX|1569
 #270|@itsafakeusername2k1|1562
