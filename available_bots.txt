@@ -399,6 +399,7 @@ brutestrength
 bryan_12345
 bsergey11-bot
 budgetsnorkel
+bufffishnet
 buildabot
 bulletbotmaster
 bulletchess134
@@ -2548,4 +2549,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bufffishnet
