@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@FireFishBOT_v2|2156
 #8|@RaspFish|2132
 #9|@clueless-bot|1675
-#10|@FataliiBot|1549
+#10|@FataliiBot|1547
 #11|@Demolito_L6|1293
 #12|@Demolito_L5|1075
 #13|@Demolito_L4|949
