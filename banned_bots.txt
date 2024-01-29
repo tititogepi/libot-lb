@@ -43,3 +43,4 @@ LermerBot
 PowerBeast
 Spiritofthenewyear
 Fireball-64
+que-hyper
