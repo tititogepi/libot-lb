@@ -2130,6 +2130,7 @@ stokcfishbot
 stonefish123
 stonefishengine
 stonks_fish
+stoqfish
 storm_shadow2012
 stormphraxengine
 storng766555
@@ -2547,4 +2548,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-stoqfish
