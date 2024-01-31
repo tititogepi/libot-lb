@@ -513,6 +513,7 @@ chesshyperbot
 chesshyperdragon
 chessler-v4-nnue
 chessloser2021_bot
+chessly-bot
 chessmaster6k
 chessmasterbot5
 chessmasterofin2012
@@ -2550,4 +2551,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chessly-bot
