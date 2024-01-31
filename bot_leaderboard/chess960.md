@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@TheFreshman1902|2201
 #2|@ResoluteBot|2200
 #3|@ToromBot|2186
-#4|@YoBot_v2|2178
+#4|@YoBot_v2|2183
 #5|@Intron014|2168
 #6|@TorBot_v2|2163
 #7|@FireFishBOT_v2|2156

@@ -1078,6 +1078,7 @@ idlefish
 iextrav
 igel-bot
 igridzchessbot
+iguana_dev
 ihatecastling
 ilk_turk_bot
 imitation-net
@@ -2551,4 +2552,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-iguana_dev
