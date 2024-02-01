@@ -402,6 +402,7 @@ bsergey11-bot
 budgetsnorkel
 bufffishnet
 buildabot
+buletten-karl
 bulletbotmaster
 bulletchess134
 bulletenforcer
@@ -2552,4 +2553,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-buletten-karl
