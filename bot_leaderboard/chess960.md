@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TheFreshman1902|2217
+#1|@TheFreshman1902|2216
 #2|@ResoluteBot|2199
 #3|@ToromBot|2186
 #4|@YoBot_v2|2180
