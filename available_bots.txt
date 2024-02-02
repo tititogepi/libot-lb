@@ -1760,6 +1760,7 @@ playgea
 playleela
 playleelachess
 playsf
+playtdfa
 playwithkomodo
 pleomati1
 pliskengine
@@ -2553,4 +2554,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-playtdfa
