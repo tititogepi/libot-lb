@@ -2358,6 +2358,7 @@ turochamp1948
 turritopsisdohrnii0
 turtlebot
 tutorialbotelmejor
+tuxbot9000
 tworty2005
 twovariantbot
 twoweektwoslow
@@ -2554,4 +2555,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-tuxbot9000
