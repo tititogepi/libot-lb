@@ -161,6 +161,8 @@ def get_bot_leaderboard(type: TYPES, no_clones=False) -> None:
                         print("Banned Bot")
                     elif d.get('disabled', False) is True:
                         print("Account Closed")
+                    elif (now - d['seenAt']) > datetime.timedelta(days=7):
+                        print("Not active for 1 week")
                     elif perfs.get('games', 0) >= 50:
                         user_arr.append(result)
                     else:
