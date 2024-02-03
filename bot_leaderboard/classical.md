@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Intron014|2696
-#2|@Africaata|2682
+#2|@Africaata|2684
 #3|@FireFishBOT_v2|2677
 #4|@RipTorn|2673
 #5|@RaspFish|2671
@@ -18,7 +18,7 @@ Rank|Bot|Rating
 #16|@Mr_Chess_Berserk|2602
 #17|@expositor|2466
 #18|@ELO_1500|2454
-#19|@pawn_git|2406
+#19|@pawn_git|2404
 #20|@AKS-Mantissa|2403
 #21|@Weiawaga|2352
 #22|@SaxtonEngine|2333
@@ -48,7 +48,7 @@ Rank|Bot|Rating
 #46|@ChessChildren|1753
 #47|@Virutor|1743
 #48|@munfish|1726
-#49|@maia9|1699
+#49|@maia9|1692
 #50|@schnecken_bot|1689
 #51|@simplexitor|1685
 #52|@turkjs|1684
@@ -57,12 +57,12 @@ Rank|Bot|Rating
 #55|@sargon-4ply|1644
 #56|@sargon-3ply|1600
 #57|@Demolito_L4|1572
-#58|@RadianceEngine|1571
-#59|@maia1|1564
+#58|@RadianceEngine|1567
+#59|@maia1|1553
 #60|@RoundMoundOfRebounds|1542
 #61|@turochamp-2ply|1541
 #62|@maia5|1540
-#63|@Humaia|1461
+#63|@Humaia|1456
 #64|@StupidChessRobot|1456
 #65|@turochamp-1ply|1456
 #66|@sargon-2ply|1439
