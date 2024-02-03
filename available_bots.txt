@@ -937,6 +937,7 @@ gpt35-turbo-instruct
 gptplayschess
 grabdebottom
 graduallearning
+graduallylearning
 grand-bot
 grand_mefbartu-bot
 grandchessbot
@@ -1656,6 +1657,7 @@ notlunarxd
 notmorphy17-3
 notnatebot
 notropis
+novagcc
 nowinforyoukid
 nukechess-bot
 number_one1
@@ -2555,5 +2557,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-novagcc
-graduallylearning
