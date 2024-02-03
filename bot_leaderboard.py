@@ -66,7 +66,7 @@ def get_banned_clones():
 
 
 def get_user_last_rated(username: str, type: TYPES):
-    now = datetime.datetime.now(datetime.UTC)
+    now = datetime.datetime.utcnow()
     since = now - datetime.timedelta(days=7)
     since = int(since.timestamp() * 1000)
     user = lichess.api.user_games(username, max=1, rated='true', perfType=type, since=since, format=SINGLE_PGN,
@@ -145,8 +145,8 @@ def get_bot_leaderboard(type: TYPES, no_clones=False) -> None:
         if perfs is not None:
             result = [d['username'], perfs.get('rating')]
             print(f'BOT {result[0]}: {result[1]} in {type}.')
-            now = datetime.datetime.now(datetime.UTC)
-            d['seenAt'] = datetime.datetime.fromtimestamp(d['seenAt'] / 1000, datetime.UTC)
+            now = datetime.datetime.utcnow()
+            d['seenAt'] = datetime.datetime.utcfromtimestamp(d['seenAt'] / 1000)
             if d.get('disabled', False) is True:
                 print("Account Closed")
             elif d.get('tosViolation', False) is True:
@@ -213,7 +213,7 @@ def main():
         get_all_bot_ratings()
         for i in TYPES:
             get_bot_leaderboard(i)
-            if i < 4:
+            if i in ['bullet', 'blitz', 'rapid', 'classical']:
                 get_bot_leaderboard(i, no_clones=True)
     except KeyboardInterrupt:
         sys.exit()
