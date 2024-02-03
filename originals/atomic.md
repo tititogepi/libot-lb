@@ -1,0 +1,10 @@
+Rank|Bot|Rating
+---|---|---
+#1|@VariantsBot|2714
+#2|@ToromBot|2561
+#3|@RaspFish|2438
+#4|@NimsiluBot|2428
+#5|@SimplerEval|1937
+#6|@OpeningsBot|1782
+#7|@katzebot|1490
+#8|@pawnrobot|1420

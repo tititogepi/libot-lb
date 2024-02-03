@@ -60,10 +60,12 @@ footer_styles = """
 </footer>
 """
 
+
 def generate_h1_tag(filename):
     title = os.path.splitext(filename)[0].capitalize()
     h1_tag = f"<h1>{title} Leaderboard</h1>"
     return h1_tag
+
 
 def markdown_table_to_html(markdown_table):
     rows = markdown_table.strip().split('\n')
@@ -77,7 +79,7 @@ def markdown_table_to_html(markdown_table):
 
         if len(cells) == 1 and cells[0] == '':
             continue
-        
+
         html_table += '  <tr>\n'
         for cell in cells:
             if cell.startswith('@'):
@@ -90,28 +92,30 @@ def markdown_table_to_html(markdown_table):
     html_table += '</table>'
     return html_table
 
-directory = 'bot_leaderboard'
 
-for filename in os.listdir(directory):
-    if filename.endswith('.md'):
-        with open(os.path.join(directory, filename), 'r') as md_file:
-            if filename not in ['chess960.md', 'threeCheck.md', 'kingOfTheHill.md', 'racingKings.md']:
-                f = filename
-            elif filename in ["chess960.md"]:
-                f = "chess 960.md"
-            elif filename in ["threeCheck.md"]:
-                f = "three-check.md"
-            elif filename in ["kingOfTheHill.md"]:
-                f = "king of the hill.md"
-            else:
-                f = "racing kings.md"
-            h1_tag = generate_h1_tag(f)
+directories = ['bot_leaderboard', 'originals']
 
-            markdown_table = md_file.read()
-            html_table = markdown_table_to_html(markdown_table)
+for directory in directories:
+    for filename in os.listdir(directory):
+        if filename.endswith('.md'):
+            with open(os.path.join(directory, filename), 'r') as md_file:
+                if filename not in ['chess960.md', 'threeCheck.md', 'kingOfTheHill.md', 'racingKings.md']:
+                    f = filename
+                elif filename in ["chess960.md"]:
+                    f = "chess 960.md"
+                elif filename in ["threeCheck.md"]:
+                    f = "three-check.md"
+                elif filename in ["kingOfTheHill.md"]:
+                    f = "king of the hill.md"
+                else:
+                    f = "racing kings.md"
+                h1_tag = generate_h1_tag(f)
 
-            styled_html_table = css_styles + h1_tag + html_table + footer_styles
+                markdown_table = md_file.read()
+                html_table = markdown_table_to_html(markdown_table)
 
-            html_filename = os.path.splitext(filename)[0] + '.html'
-            with open(os.path.join(directory, html_filename), 'w') as html_file:
-                html_file.write(styled_html_table)
+                styled_html_table = css_styles + h1_tag + html_table + footer_styles
+
+                html_filename = os.path.splitext(filename)[0] + '.html'
+                with open(os.path.join(directory, html_filename), 'w') as html_file:
+                    html_file.write(styled_html_table)
