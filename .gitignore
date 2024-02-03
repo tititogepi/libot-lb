@@ -8,6 +8,7 @@ commit_push.sh
 gpg_fix.sh
 cron_check.sh
 banned_bots.txt
+banned_clones.txt
 *.log
 /venv/*
 .idea/*
