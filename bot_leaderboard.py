@@ -8,7 +8,7 @@ import os
 import datetime
 import re
 
-TOKEN = os.environ.get('TOKEN')
+TOKEN = sys.argv[1]
 BATCH_SIZE = 100
 TYPES = [
     'bullet',
