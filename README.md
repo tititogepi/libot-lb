@@ -9,20 +9,13 @@ Check it out here: https://lb.chessnibble.com/
 1. Set Environment Secret:
 
 Get a [Token from lichess (No scopes required)](https://lichess.org/account/oauth/token/create?scopes[]=None&description=Bot+Leaderboard+Token) and execute the following command:
-```
-# windows
-set TOKEN='your-token-here'
-
-# linux
-export TOKEN='your-token-here'
-```
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 3. Execute python script:
 ```bash
-python3 bot_leaderboard.py
+python3 bot_leaderboard.py <your_token>
 ```
 
 ## Rules
