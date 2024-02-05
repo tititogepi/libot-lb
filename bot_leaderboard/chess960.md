@@ -1,13 +1,13 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TheFreshman1902|2218
+#1|@TheFreshman1902|2217
 #2|@ResoluteBot|2213
-#3|@ToromBot|2179
-#4|@YoBot_v2|2176
+#3|@ToromBot|2178
+#4|@YoBot_v2|2177
 #5|@Intron014|2170
 #6|@FireFishBOT_v2|2156
 #7|@RaspFish|2139
-#8|@cheeseNet|2085
+#8|@cheeseNet|2086
 #9|@buffFishNet|1982
 #10|@clueless-bot|1670
 #11|@FataliiBot|1579
