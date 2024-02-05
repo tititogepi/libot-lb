@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@ToromBot|2178
 #5|@Intron014|2173
 #6|@FireFishBOT_v2|2156
-#7|@RaspFish|2141
+#7|@RaspFish|2142
 #8|@cheeseNet|2088
 #9|@buffFishNet|1979
 #10|@clueless-bot|1679
