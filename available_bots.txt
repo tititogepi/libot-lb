@@ -2057,6 +2057,7 @@ smallbrainpy
 smartieandyou
 smoking_python
 smoothrotation
+sneakybot21
 sofcheck
 sohamchessbot
 solidor59
@@ -2558,4 +2559,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sneakybot21
