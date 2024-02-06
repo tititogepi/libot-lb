@@ -2171,6 +2171,7 @@ sumeetthepro
 sun_bird
 sunfish-engine
 sunfish_rs
+sunrise-reflections
 sunstone_bot
 super_sus
 superbot090
@@ -2559,4 +2560,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sunrise-reflections
