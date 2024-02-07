@@ -93,6 +93,7 @@ anarchychess-bot
 anatalio
 ancil
 andrewk2k_bot
+andrewyxzbot
 andromedasx1
 andromedazero
 andscacs1
@@ -2560,4 +2561,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-andrewyxzbot
