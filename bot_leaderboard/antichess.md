@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@ttBOT|2752
 #3|@NimsiluBot|2673
 #4|@SCP079|2662
-#5|@RaspFish|2619
+#5|@RaspFish|2631
 #6|@NilatacBot|2458
 #7|@anti-bot|2251
 #8|@CatNail|2046
