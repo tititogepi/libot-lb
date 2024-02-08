@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@Cheng-4|2281
 #10|@catriever|2272
 #11|@bitbitbot|2195
-#12|@Lynx_BOT|2165
+#12|@Lynx_BOT|2167
 #13|@ChessNoobComp|2152
 #14|@Pseudo-0|2124
 #15|@Phalanx-XXV|2091
@@ -41,8 +41,8 @@ Rank|Bot|Rating
 #39|@honzovy-sachy|1749
 #40|@Demolito_L6|1748
 #41|@ChessChildren|1747
-#42|@Virutor|1746
-#43|@maia9|1740
+#42|@Virutor|1745
+#43|@maia9|1738
 #44|@munfish|1724
 #45|@turkjs|1691
 #46|@schnecken_bot|1689
@@ -51,14 +51,14 @@ Rank|Bot|Rating
 #49|@Jibbby|1677
 #50|@AshNostromo|1648
 #51|@sargon-4ply|1618
-#52|@RadianceEngine|1605
+#52|@RadianceEngine|1607
 #53|@sargon-3ply|1595
 #54|@Demolito_L4|1584
 #55|@yeoldwiz|1574
 #56|@RoundMoundOfRebounds|1568
 #57|@turochamp-2ply|1553
-#58|@maia1|1541
-#59|@maia5|1539
+#58|@maia5|1546
+#59|@maia1|1541
 #60|@sargon-2ply|1453
 #61|@StupidChessRobot|1449
 #62|@katzebot|1434
