@@ -601,6 +601,7 @@ crocrodile-dev
 croissantdealer
 cruelbot
 cruisemissile
+cryst_v1
 crystalbot
 csc207-project
 cshar9
@@ -2561,4 +2562,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cryst_v1
