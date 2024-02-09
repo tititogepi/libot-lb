@@ -4,10 +4,10 @@ Rank|Bot|Rating
 #2|@YoBot_v2|2214
 #3|@TheFreshman1902|2211
 #4|@ToromBot|2205
-#5|@Intron014|2180
+#5|@Intron014|2181
 #6|@RaspFish|2126
 #7|@cheeseNet|2083
-#8|@buffFishNet|1966
+#8|@buffFishNet|1959
 #9|@Cheng-4|1794
 #10|@clueless-bot|1694
 #11|@FataliiBot|1576
