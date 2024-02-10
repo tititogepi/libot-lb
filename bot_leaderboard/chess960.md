@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ResoluteBot|2215
-#2|@YoBot_v2|2212
+#1|@YoBot_v2|2216
+#2|@ResoluteBot|2215
 #3|@TheFreshman1902|2211
 #4|@ToromBot|2208
 #5|@Intron014|2179
-#6|@RaspFish|2129
+#6|@RaspFish|2131
 #7|@cheeseNet|2085
 #8|@buffFishNet|1963
 #9|@Cheng-4|1794
@@ -13,5 +13,5 @@ Rank|Bot|Rating
 #11|@FataliiBot|1575
 #12|@Demolito_L6|1273
 #13|@Demolito_L5|1093
-#14|@Demolito_L4|992
+#14|@Demolito_L4|1007
 #15|@pawnrobot|671
