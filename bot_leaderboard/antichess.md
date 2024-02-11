@@ -4,6 +4,6 @@ Rank|Bot|Rating
 #2|@SCP079|2662
 #3|@RaspFish|2633
 #4|@NilatacBot|2451
-#5|@anti-bot|2279
+#5|@anti-bot|2269
 #6|@CatNail|2063
 #7|@pawnrobot|1888
