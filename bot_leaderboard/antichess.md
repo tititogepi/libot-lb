@@ -1,10 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2883
-#2|@NimsiluBot|2673
-#3|@SCP079|2662
-#4|@RaspFish|2633
-#5|@NilatacBot|2450
-#6|@anti-bot|2279
-#7|@CatNail|2087
-#8|@pawnrobot|1888
+#2|@SCP079|2662
+#3|@RaspFish|2633
+#4|@NilatacBot|2451
+#5|@anti-bot|2279
+#6|@CatNail|2063
+#7|@pawnrobot|1888

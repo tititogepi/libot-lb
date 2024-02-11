@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@ArasanX|2648
 #2|@ELO_1500|2497
 #3|@expositor|2473
-#4|@pawn_git|2421
-#5|@AKS-Mantissa|2418
+#4|@AKS-Mantissa|2418
+#5|@pawn_git|2418
 #6|@LazyBot|2365
 #7|@Weiawaga|2359
 #8|@SaxtonEngine|2332
@@ -13,7 +13,7 @@ Rank|Bot|Rating
 #11|@bitbitbot|2194
 #12|@Lynx_BOT|2193
 #13|@ChessNoobComp|2152
-#14|@Pseudo-0|2119
+#14|@Pseudo-0|2118
 #15|@Phalanx-XXV|2101
 #16|@clueless-bot|2081
 #17|@FataliiBot|2053
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@GarboBot|1896
 #33|@AjedrezChamberi|1894
 #34|@LeelaRogue|1863
-#35|@baby_eubos|1826
+#35|@baby_eubos|1833
 #36|@ai-con|1810
 #37|@Elmichess|1807
 #38|@CattoNPM|1800
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@turkjs|1686
 #47|@simplexitor|1685
 #48|@Jibbby|1677
-#49|@maia9|1669
-#50|@Demolito_L5|1663
+#49|@maia9|1662
+#50|@Demolito_L5|1659
 #51|@AshNostromo|1648
 #52|@RadianceEngine|1635
 #53|@sargon-4ply|1621
