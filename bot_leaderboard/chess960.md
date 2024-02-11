@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@RaspFish|2136
 #7|@cheeseNet|2085
 #8|@buffFishNet|1963
-#9|@pawn_git|1896
+#9|@pawn_git|1899
 #10|@Cheng-4|1794
 #11|@clueless-bot|1698
-#12|@FataliiBot|1614
+#12|@FataliiBot|1612
 #13|@Demolito_L6|1264
 #14|@Demolito_L5|1106
 #15|@Demolito_L4|1033
