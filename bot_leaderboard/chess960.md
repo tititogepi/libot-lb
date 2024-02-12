@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2227
+#1|@ToromBot|2230
 #2|@ResoluteBot|2214
 #3|@TheFreshman1902|2211
 #4|@YoBot_v2|2189
 #5|@Intron014|2178
-#6|@RaspFish|2143
+#6|@RaspFish|2139
 #7|@cheeseNet|2081
 #8|@buffFishNet|1964
 #9|@pawn_git|1907
