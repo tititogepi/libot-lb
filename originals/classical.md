@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ArasanX|2649
+#1|@ArasanX|2644
 #2|@ELO_1500|2499
 #3|@expositor|2469
-#4|@pawn_git|2428
+#4|@pawn_git|2431
 #5|@AKS-Mantissa|2418
 #6|@LazyBot|2365
 #7|@Weiawaga|2355
@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@catriever|2245
 #11|@bitbitbot|2194
 #12|@Lynx_BOT|2177
-#13|@Pseudo-0|2120
+#13|@Pseudo-0|2119
 #14|@Phalanx-XXV|2100
 #15|@clueless-bot|2081
 #16|@FataliiBot|2050
@@ -28,8 +28,8 @@ Rank|Bot|Rating
 #26|@Bot_ElvisTheCat|1940
 #27|@hans68Bot|1931
 #28|@likeawizard-bot|1916
-#29|@honzovy-sachy-2|1913
-#30|@zeekat|1911
+#29|@zeekat|1914
+#30|@honzovy-sachy-2|1913
 #31|@AjedrezChamberi|1894
 #32|@GarboBot|1884
 #33|@LeelaRogue|1863
@@ -48,8 +48,8 @@ Rank|Bot|Rating
 #46|@simplexitor|1685
 #47|@Jibbby|1677
 #48|@Demolito_L5|1670
-#49|@RadianceEngine|1663
-#50|@maia9|1655
+#49|@maia9|1662
+#50|@RadianceEngine|1660
 #51|@AshNostromo|1648
 #52|@maia5|1611
 #53|@sargon-4ply|1606
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@sargon-3ply|1590
 #57|@yeoldwiz|1574
 #58|@turochamp-2ply|1561
-#59|@maia1|1473
+#59|@maia1|1469
 #60|@StupidChessRobot|1463
 #61|@sargon-2ply|1447
 #62|@katzebot|1434
