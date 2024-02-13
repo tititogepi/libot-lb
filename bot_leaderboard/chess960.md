@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@ResoluteBot|2220
 #3|@TheFreshman1902|2211
 #4|@Intron014|2181
-#5|@YoBot_v2|2179
+#5|@YoBot_v2|2180
 #6|@RaspFish|2145
 #7|@cheeseNet|2081
 #8|@buffFishNet|1964
@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@Demolito_L6|1271
 #13|@Demolito_L5|1108
 #14|@Demolito_L4|1033
-#15|@pawnrobot|679
+#15|@pawnrobot|673

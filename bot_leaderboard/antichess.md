@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@ToromBot|2883
 #2|@SCP079|2662
 #3|@RaspFish|2633
-#4|@NilatacBot|2451
+#4|@NilatacBot|2487
 #5|@anti-bot|2269
 #6|@CatNail|2061
 #7|@pawnrobot|1907
