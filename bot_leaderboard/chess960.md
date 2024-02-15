@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2219
+#1|@ToromBot|2218
 #2|@ResoluteBot|2214
 #3|@TheFreshman1902|2211
-#4|@YoBot_v2|2199
+#4|@YoBot_v2|2198
 #5|@Intron014|2186
-#6|@RaspFish|2157
+#6|@RaspFish|2158
 #7|@cheeseNet|2081
 #8|@buffFishNet|1964
 #9|@pawn_git|1892
@@ -15,4 +15,5 @@ Rank|Bot|Rating
 #13|@Demolito_L6|1274
 #14|@Demolito_L5|1153
 #15|@Demolito_L4|1033
-#16|@pawnrobot|677
+#16|@botTideEval|807
+#17|@pawnrobot|680
