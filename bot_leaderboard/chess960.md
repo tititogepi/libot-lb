@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2218
+#1|@ToromBot|2217
 #2|@ResoluteBot|2214
-#3|@YoBot_v2|2193
+#3|@YoBot_v2|2192
 #4|@Intron014|2187
 #5|@RaspFish|2160
 #6|@cheeseNet|2081
