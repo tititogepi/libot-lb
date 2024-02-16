@@ -868,6 +868,7 @@ fourbot
 frank-triolo-bot
 freddystehtaufteddy
 friendoftosik2
+fringe407
 fringecases
 fritz_16
 frogskittens_thebot
@@ -2563,4 +2564,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-fringe407
