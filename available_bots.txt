@@ -1308,6 +1308,7 @@ leelabotsy
 leelachess
 leelachess_arex
 leelachessbestengine
+leelachessbot1
 leelachessofficial
 leelachesstest
 leelachesszero101
@@ -2566,4 +2567,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leelachessbot1

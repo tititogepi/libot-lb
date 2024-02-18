@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@pawnrobot|1415
+#1|@pawnrobot|1400
