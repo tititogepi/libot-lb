@@ -2450,6 +2450,7 @@ wahoo_bot
 wakabot
 walleye_bot
 walrusbot
+wandabot
 wandererofchess
 waspbot
 waspbot2023
@@ -2567,4 +2568,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-wandabot
