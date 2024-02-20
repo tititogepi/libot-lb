@@ -1443,6 +1443,7 @@ maia-lc0
 maia1
 maia5
 maia9
+maia9_10n
 maiamystery
 main_line
 majaitobot
@@ -2451,6 +2452,7 @@ wakabot
 walleye_bot
 walrusbot
 wandabot
+wandathewise
 wandererofchess
 waspbot
 waspbot2023
@@ -2568,5 +2570,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-wandathewise
-maia9_10n
+scp-1875bot
