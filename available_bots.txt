@@ -1983,6 +1983,7 @@ schachprog
 schnecken_bot
 schneizel2
 scottbot_maia1100
+scp-1875bot
 scp079
 sea_leopard
 seaborg1
@@ -2570,4 +2571,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-scp-1875bot
