@@ -2568,3 +2568,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+wandathewise
+maia9_10n
