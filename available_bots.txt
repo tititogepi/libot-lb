@@ -1528,6 +1528,7 @@ mistakebot
 misteick_bot
 misterrengar
 mittens-bot
+mittensthechessb0t
 mkad-106_bot
 mokbot
 mon_robot
@@ -2571,4 +2572,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mittensthechessb0t
