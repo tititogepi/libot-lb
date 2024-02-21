@@ -4,5 +4,5 @@ Rank|Bot|Rating
 #2|@RaspFish|2622
 #3|@NilatacBot|2462
 #4|@anti-bot|2180
-#5|@CatNail|1972
+#5|@CatNail|1977
 #6|@pawnrobot|1879
