@@ -331,6 +331,7 @@ bot_licorne
 bot_master_1359
 bot_mcbotface
 bot_of_jotim431
+bot_prueba_xd
 bot_swana
 bot_talbr
 bot_tark
@@ -2573,4 +2574,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bot_prueba_xd
