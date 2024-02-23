@@ -1445,6 +1445,7 @@ maia1
 maia5
 maia9
 maia9_10n
+maia9_30n
 maiamystery
 main_line
 majaitobot
@@ -2574,4 +2575,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-maia9_30n
