@@ -5,12 +5,12 @@ Rank|Bot|Rating
 #3|@YoBot_v2|2230
 #4|@TheFreshman1902|2212
 #5|@Intron014|2195
-#6|@RaspFish|2177
-#7|@WandaTheWise|2176
+#6|@WandaTheWise|2178
+#7|@RaspFish|2177
 #8|@SCP-1875bot|1970
 #9|@MittensTheChessB0T|1920
-#10|@pawn_git|1865
-#11|@FataliiBot|1583
+#10|@pawn_git|1867
+#11|@FataliiBot|1581
 #12|@Demolito_L6|1309
 #13|@Demolito_L5|1172
 #14|@Demolito_L4|1065
