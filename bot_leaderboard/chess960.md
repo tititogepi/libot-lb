@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@YoBot_v2|2229
 #4|@TheFreshman1902|2212
 #5|@Intron014|2195
-#6|@RaspFish|2175
-#7|@WandaTheWise|2174
+#6|@RaspFish|2177
+#7|@WandaTheWise|2175
 #8|@SCP-1875bot|1970
 #9|@MittensTheChessB0T|1920
 #10|@pawn_git|1865
