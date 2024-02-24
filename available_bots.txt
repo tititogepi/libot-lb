@@ -146,6 +146,7 @@ arny_bot
 aromik_s_bot
 artjom_bot
 arundina
+arvyy_bot
 asalfish_15
 asdfbot2
 ashnostromo
@@ -2575,4 +2576,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-arvyy_bot
+trickysparbot
