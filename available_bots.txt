@@ -2339,6 +2339,7 @@ trashbot
 tretas26
 trgbot
 tribechessengine
+trickysparbot
 trikala_bot
 trinketreal
 triskaidekaphobia123
@@ -2576,4 +2577,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-trickysparbot
+funnsams_bot
