@@ -880,6 +880,7 @@ frozenightengine
 frozenrook
 fruity23
 funebot
+funnsams_bot
 furrybot
 furryofthewerewolf
 future_chess_pro
@@ -2577,4 +2578,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-funnsams_bot
+integralmathbot
