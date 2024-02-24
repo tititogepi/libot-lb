@@ -1100,6 +1100,7 @@ imreallynotabot
 inanisbot
 indianchessrobot
 inflames1996
+integralmathbot
 inteli5bot
 intron014
 invincibot
@@ -2578,4 +2579,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-integralmathbot
