@@ -2404,6 +2404,7 @@ unbornbot
 undisstoppablebot
 unhappydefender
 unrated_bot
+unrevealed-bot
 uochess
 uras21
 usachess_time
@@ -2579,4 +2580,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-unrevealed-bot
