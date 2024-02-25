@@ -1540,6 +1540,7 @@ mon_robot
 monchester
 monikaai
 monke_bot
+montezuma_bot
 montyengine
 montypythonflying
 moonstone31
@@ -2580,4 +2581,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-montezuma_bot
