@@ -1543,6 +1543,7 @@ monke_bot
 montezuma_bot
 montyengine
 montypythonflying
+moonfish_bot
 moonstone31
 moooose
 morabandbot
@@ -2581,4 +2582,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-moonfish_bot
