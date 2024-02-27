@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@WandaTheWise|2134
 #7|@SCP-1875bot|1970
 #8|@MittensTheChessB0T|1920
-#9|@pawn_git|1861
+#9|@pawn_git|1863
 #10|@magnusglad_bot|1844
 #11|@clueless-bot|1672
-#12|@FataliiBot|1595
+#12|@FataliiBot|1593
 #13|@Demolito_L6|1293
 #14|@Demolito_L5|1211
 #15|@Demolito_L4|1074
