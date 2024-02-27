@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2259
 #2|@ToromBot|2249
-#3|@YoBot_v2|2240
-#4|@Intron014|2202
-#5|@RaspFish|2199
+#3|@YoBot_v2|2248
+#4|@Intron014|2204
+#5|@RaspFish|2191
 #6|@WandaTheWise|2134
 #7|@SCP-1875bot|1970
 #8|@MittensTheChessB0T|1920
@@ -14,6 +14,6 @@ Rank|Bot|Rating
 #12|@FataliiBot|1595
 #13|@Demolito_L6|1293
 #14|@Demolito_L5|1211
-#15|@Demolito_L4|1066
+#15|@Demolito_L4|1074
 #16|@botTideEval|874
 #17|@pawnrobot|678
