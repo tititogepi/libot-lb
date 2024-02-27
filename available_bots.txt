@@ -1024,6 +1024,7 @@ hifiifif
 high_five1
 highestratedbot
 higuyuu67776
+hikaru-nakamurabot
 hikaruexp
 historyexplorer
 hitmebaby1moretime
@@ -2582,4 +2583,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-hikaru-nakamurabot
