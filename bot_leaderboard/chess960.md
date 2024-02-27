@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2258
-#2|@ToromBot|2249
+#2|@ToromBot|2248
 #3|@YoBot_v2|2247
-#4|@Intron014|2204
+#4|@Intron014|2205
 #5|@RaspFish|2193
 #6|@WandaTheWise|2134
 #7|@SCP-1875bot|1970
