@@ -2583,3 +2583,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+crazy_leela
