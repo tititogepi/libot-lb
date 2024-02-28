@@ -1339,6 +1339,7 @@ leelaqueenodds
 leelarades
 leelarecent
 leelarogue
+leelarookodds
 leelastockzerofish
 leelastrength
 leelatinygyal
@@ -2584,4 +2585,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-leelarookodds

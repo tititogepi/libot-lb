@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2266
 #2|@ToromBot|2254
-#3|@YoBot_v2|2241
+#3|@YoBot_v2|2240
 #4|@Intron014|2205
-#5|@RaspFish|2196
+#5|@RaspFish|2197
 #6|@WandaTheWise|2134
 #7|@SCP-1875bot|1970
 #8|@MittensTheChessB0T|1920
