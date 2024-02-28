@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@SaxtonEngine|2355
 #8|@Weiawaga|2308
 #9|@Cheng-4|2279
-#10|@Lynx_BOT|2222
+#10|@Lynx_BOT|2225
 #11|@ChessNoobComp|2182
 #12|@catriever|2176
 #13|@Pseudo-0|2103
@@ -17,7 +17,7 @@ Rank|Bot|Rating
 #15|@ChessatronBot|2080
 #16|@clueless-bot|2075
 #17|@FataliiBot|2041
-#18|@eubos|2035
+#18|@eubos|2032
 #19|@simpleEval|2018
 #20|@Boris-Trapsky|1983
 #21|@Goldfish-Engine|1974
@@ -47,7 +47,7 @@ Rank|Bot|Rating
 #45|@simplexitor|1712
 #46|@alan_bot|1700
 #47|@Demolito_L5|1698
-#48|@maia9|1671
+#48|@maia9|1666
 #49|@RadianceEngine|1655
 #50|@AshNostromo|1648
 #51|@Demolito_L4|1628
@@ -58,12 +58,12 @@ Rank|Bot|Rating
 #56|@sargon-3ply|1533
 #57|@maia5|1527
 #58|@turochamp-2ply|1526
-#59|@maia1|1504
-#60|@Humaia|1444
+#59|@maia1|1501
+#60|@Humaia|1426
 #61|@rust-bot|1414
-#62|@bernstein-4ply|1388
-#63|@turochamp-1ply|1385
-#64|@sargon-2ply|1384
+#62|@turochamp-1ply|1385
+#63|@sargon-2ply|1384
+#64|@bernstein-4ply|1383
 #65|@LouisChess48-6K|1359
 #66|@bernstein-2ply|1349
 #67|@chat_bot|1312
