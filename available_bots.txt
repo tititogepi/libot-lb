@@ -590,6 +590,7 @@ crabchess
 crappybot
 craytox
 crayybot
+crazy_leela
 crazyara
 crazydog5892912
 crazyfisheater
@@ -2583,4 +2584,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-crazy_leela
