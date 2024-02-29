@@ -927,6 +927,7 @@ giphy_logo
 giuliaai
 gladius_bot
 goblinbot
+goboter
 god_teto
 godelescherbot
 godofchess1239
@@ -2025,6 +2026,7 @@ shallowengine
 shallowlearnbot
 shallowredbot
 shallowredfish
+shalmaneser42
 sharkbot
 sharkbotfish
 shashchess2020
@@ -2585,5 +2587,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-shalmaneser42
-goboter
