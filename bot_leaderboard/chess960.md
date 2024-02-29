@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2266
 #2|@ToromBot|2256
-#3|@YoBot_v2|2242
+#3|@YoBot_v2|2239
 #4|@Intron014|2205
 #5|@RaspFish|2198
 #6|@WandaTheWise|2130
@@ -16,4 +16,4 @@ Rank|Bot|Rating
 #14|@Demolito_L5|1211
 #15|@Demolito_L4|1074
 #16|@botTideEval|874
-#17|@pawnrobot|678
+#17|@pawnrobot|677
