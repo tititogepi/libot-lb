@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@LBOT007|2602
 #3|@expositor|2493
 #4|@AKS-Mantissa|2453
-#5|@pawn_git|2453
+#5|@pawn_git|2451
 #6|@LazyBot|2365
 #7|@SaxtonEngine|2355
 #8|@Weiawaga|2314
@@ -24,7 +24,7 @@ Rank|Bot|Rating
 #22|@LazyBotJr|1971
 #23|@jangine|1969
 #24|@matmoi|1949
-#25|@likeawizard-bot|1941
+#25|@likeawizard-bot|1944
 #26|@honzovy-sachy-2|1939
 #27|@zeekat|1938
 #28|@baby_eubos|1933
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@postbot|1906
 #31|@Humaia-Strong|1894
 #32|@GarboBot|1893
-#33|@notropis|1888
+#33|@notropis|1891
 #34|@AjedrezChamberi|1880
 #35|@ai-con|1876
 #36|@LeelaRogue|1864
@@ -48,17 +48,17 @@ Rank|Bot|Rating
 #46|@alan_bot|1700
 #47|@Demolito_L5|1698
 #48|@maia9|1662
-#49|@RadianceEngine|1653
+#49|@RadianceEngine|1652
 #50|@AshNostromo|1648
 #51|@Demolito_L4|1628
 #52|@munfish|1620
 #53|@sargon-4ply|1586
-#54|@RoundMoundOfRebounds|1572
+#54|@RoundMoundOfRebounds|1574
 #55|@yeoldwiz|1571
 #56|@sargon-3ply|1533
 #57|@maia5|1527
 #58|@turochamp-2ply|1522
-#59|@maia1|1498
+#59|@maia1|1495
 #60|@Humaia|1426
 #61|@rust-bot|1418
 #62|@turochamp-1ply|1385
