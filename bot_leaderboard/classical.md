@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@Intron014|2698
-#2|@YoBot_v2|2675
+#2|@YoBot_v2|2676
 #3|@RaspFish|2673
 #4|@ResoluteBot|2666
 #5|@RipTorn|2659
@@ -24,8 +24,8 @@ Rank|Bot|Rating
 #22|@Boris-Trapsky|1978
 #23|@Goldfish-Engine|1969
 #24|@jangine|1969
-#25|@matmoi|1949
-#26|@likeawizard-bot|1946
+#25|@likeawizard-bot|1949
+#26|@matmoi|1949
 #27|@zeekat|1940
 #28|@honzovy-sachy-2|1939
 #29|@baby_eubos|1933
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@GarboBot|1893
 #33|@ai-con|1880
 #34|@LeelaRogue|1864
-#35|@The_Marcus|1857
+#35|@The_Marcus|1853
 #36|@honzovy-sachy|1852
 #37|@melsh_bot|1841
 #38|@Demolito_L6|1833
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@alan_bot|1700
 #44|@Demolito_L5|1698
 #45|@maia9|1690
-#46|@RadianceEngine|1648
+#46|@RadianceEngine|1653
 #47|@Demolito_L4|1628
 #48|@munfish|1620
 #49|@sargon-4ply|1595
@@ -53,14 +53,14 @@ Rank|Bot|Rating
 #51|@sargon-3ply|1533
 #52|@turochamp-2ply|1522
 #53|@maia5|1502
-#54|@maia1|1470
-#55|@Humaia|1437
+#54|@maia1|1450
+#55|@Humaia|1434
 #56|@rust-bot|1415
 #57|@bernstein-4ply|1390
 #58|@sargon-2ply|1381
-#59|@turochamp-1ply|1380
+#59|@turochamp-1ply|1378
 #60|@LouisChess48-6K|1359
-#61|@bernstein-2ply|1349
+#61|@bernstein-2ply|1348
 #62|@sargon-1ply|1285
 #63|@chat_bot|1283
 #64|@B4ux1t3s-Bot|1276
