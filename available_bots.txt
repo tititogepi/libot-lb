@@ -1596,6 +1596,7 @@ mynewestbot
 myopic-bot
 mysecondbot1
 mysimpleengine
+mysteriousgold
 na_vinci
 nagasakihero
 nagranis
@@ -2587,4 +2588,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mysteriousgold
