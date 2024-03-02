@@ -2246,6 +2246,7 @@ testbot
 testbot1312
 testbot23
 testbot666
+testrustengine
 teuflbot
 tfrchessclub
 tgnleelabot
@@ -2588,4 +2589,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-testrustengine
