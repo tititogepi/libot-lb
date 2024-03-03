@@ -2330,6 +2330,7 @@ tjchessbot
 tmfish
 tobegen
 toluene1140
+toluene1140_experime
 tomewyrm
 too_ez4me
 toodfish
@@ -2590,4 +2591,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-toluene1140_experime
+ailc0
