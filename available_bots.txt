@@ -38,6 +38,7 @@ aidenbot
 aienginebot
 aifun
 aihellobot
+ailc0
 aitron
 aivanj10
 ajatarbot
@@ -2591,4 +2592,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ailc0
