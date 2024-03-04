@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@pawn_git|2466
 #5|@AKS-Mantissa|2441
 #6|@LazyBot|2365
-#7|@Weiawaga|2324
+#7|@Weiawaga|2327
 #8|@Cheng-4|2279
 #9|@Lynx_BOT|2233
 #10|@ChessNoobComp|2188
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@Pseudo-0|2103
 #13|@Phalanx-XXV|2088
 #14|@clueless-bot|2075
-#15|@ChessatronBot|2074
+#15|@ChessatronBot|2070
 #16|@FataliiBot|2029
 #17|@simpleEval|2018
 #18|@eubos|2017
@@ -43,13 +43,13 @@ Rank|Bot|Rating
 #41|@Elmichess|1830
 #42|@Jibbby|1769
 #43|@ChessChildren|1768
-#44|@simplexitor|1718
+#44|@simplexitor|1715
 #45|@alan_bot|1700
 #46|@maia9|1699
 #47|@Demolito_L5|1689
 #48|@AshNostromo|1648
 #49|@Demolito_L4|1644
-#50|@RadianceEngine|1622
+#50|@RadianceEngine|1627
 #51|@munfish|1612
 #52|@schnecken_bot|1611
 #53|@sargon-4ply|1589
@@ -61,8 +61,8 @@ Rank|Bot|Rating
 #59|@maia1|1518
 #60|@Humaia|1415
 #61|@rust-bot|1409
-#62|@bernstein-4ply|1385
-#63|@sargon-2ply|1384
+#62|@sargon-2ply|1384
+#63|@bernstein-4ply|1382
 #64|@turochamp-1ply|1375
 #65|@bernstein-2ply|1342
 #66|@LouisChess48-6K|1342
