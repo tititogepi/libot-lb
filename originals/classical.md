@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@AKS-Mantissa|2444
 #6|@LazyBot|2366
 #7|@SaxtonEngine|2345
-#8|@Weiawaga|2333
+#8|@Weiawaga|2337
 #9|@Cheng-4|2279
-#10|@Lynx_BOT|2217
+#10|@Lynx_BOT|2213
 #11|@ChessNoobComp|2188
 #12|@catriever|2181
 #13|@Pseudo-0|2096
@@ -23,8 +23,8 @@ Rank|Bot|Rating
 #21|@jangine|1961
 #22|@Goldfish-Engine|1951
 #23|@LazyBotJr|1951
-#24|@zeekat|1950
-#25|@likeawizard-bot|1946
+#24|@likeawizard-bot|1946
+#25|@zeekat|1946
 #26|@matmoi|1945
 #27|@honzovy-sachy-2|1939
 #28|@baby_eubos|1933
@@ -45,7 +45,7 @@ Rank|Bot|Rating
 #43|@Jibbby|1770
 #44|@ChessChildren|1750
 #45|@simplexitor|1726
-#46|@maia9|1723
+#46|@maia9|1714
 #47|@Demolito_L5|1698
 #48|@AshNostromo|1648
 #49|@RadianceEngine|1648
@@ -56,9 +56,9 @@ Rank|Bot|Rating
 #54|@yeoldwiz|1571
 #55|@RoundMoundOfRebounds|1568
 #56|@sargon-3ply|1557
-#57|@maia1|1551
+#57|@maia1|1536
 #58|@turochamp-2ply|1528
-#59|@maia5|1520
+#59|@maia5|1522
 #60|@Humaia|1431
 #61|@katzebot|1418
 #62|@bernstein-4ply|1393
@@ -68,6 +68,6 @@ Rank|Bot|Rating
 #66|@LouisChess48-6K|1351
 #67|@bernstein-2ply|1336
 #68|@sargon-1ply|1288
-#69|@B4ux1t3s-Bot|1262
+#69|@B4ux1t3s-Bot|1261
 #70|@chat_bot|1259
 #71|@grandQ_AI|805
