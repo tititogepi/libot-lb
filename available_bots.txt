@@ -871,6 +871,7 @@ fougade
 fourbot
 frank-triolo-bot
 freddystehtaufteddy
+freedbeast
 friendoftosik2
 fringe407
 fringecases
@@ -2594,4 +2595,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-freedbeast

@@ -44,11 +44,11 @@ Rank|Bot|Rating
 #42|@Jibbby|1773
 #43|@ChessChildren|1754
 #44|@simplexitor|1724
-#45|@maia9|1704
+#45|@maia9|1711
 #46|@Demolito_L5|1695
 #47|@AshNostromo|1648
 #48|@Demolito_L4|1641
-#49|@RadianceEngine|1633
+#49|@RadianceEngine|1636
 #50|@munfish|1603
 #51|@schnecken_bot|1586
 #52|@sargon-4ply|1583
@@ -63,10 +63,10 @@ Rank|Bot|Rating
 #61|@rust-bot|1397
 #62|@bernstein-4ply|1390
 #63|@turochamp-1ply|1380
-#64|@sargon-2ply|1365
+#64|@sargon-2ply|1363
 #65|@LouisChess48-6K|1350
 #66|@bernstein-2ply|1330
 #67|@sargon-1ply|1306
-#68|@B4ux1t3s-Bot|1261
+#68|@B4ux1t3s-Bot|1255
 #69|@chat_bot|1253
 #70|@grandQ_AI|805
