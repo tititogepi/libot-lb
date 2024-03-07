@@ -1802,6 +1802,7 @@ potato638
 potato_chess
 potatowosky
 powerbeast
+powerfullbot
 poweronbot
 pranavchessbot
 pranavisthebest
@@ -2593,4 +2594,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-powerfullbot
+freedbeast
