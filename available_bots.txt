@@ -1360,6 +1360,7 @@ legendg21
 legiontower
 leightfrengine
 lelaaz
+lenschess-com
 leojoseph101010
 leorikbot
 leosbot
@@ -2595,4 +2596,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-lenschess-com
+phoenix_engine
