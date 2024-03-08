@@ -1759,6 +1759,7 @@ phalanx-xxv
 phamhoangbaoaa
 phanxuanhuy1972
 phess
+phoenix_engine
 phoenixleyi
 physbot
 pideciomerusta
@@ -2596,4 +2597,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-phoenix_engine
