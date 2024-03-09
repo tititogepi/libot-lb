@@ -2046,6 +2046,7 @@ shirozer0
 shreddergrizzly
 shulkerbot
 shumilovleela
+sicilianviper
 sidonia-chessengine
 silitho
 sillybot
@@ -2165,6 +2166,7 @@ stockfishspeed
 stockhalim
 stockmac
 stocksergio
+stocksquidv2
 stockwishbot
 stokcfishbot
 stonefish123
@@ -2599,5 +2601,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-stocksquidv2
-sicilianviper
