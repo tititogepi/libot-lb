@@ -697,6 +697,7 @@ dragonballzfan
 dragonbot-77
 dragonflybot
 dragonrosedev
+dranzer154
 drawfish
 drawinone
 dream_bot
@@ -2598,4 +2599,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dranzer154
