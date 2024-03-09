@@ -2478,6 +2478,7 @@ wakabot
 walleye_bot
 walrusbot
 wandabot
+wandaofdevonshire
 wandathewise
 wandererofchess
 waspbot
@@ -2597,4 +2598,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-wandaofdevonshire
