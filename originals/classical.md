@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@The_Magnificent_Bob|2657
+#1|@The_Magnificent_Bob|2659
 #2|@ArasanX|2655
 #3|@BitByByte|2519
 #4|@expositor|2479
@@ -22,8 +22,8 @@ Rank|Bot|Rating
 #20|@eubos|2015
 #21|@Boris-Trapsky|2010
 #22|@jangine|1969
-#23|@LazyBotJr|1951
-#24|@zeekat|1951
+#23|@zeekat|1956
+#24|@LazyBotJr|1951
 #25|@Goldfish-Engine|1947
 #26|@matmoi|1944
 #27|@likeawizard-bot|1940
@@ -31,8 +31,8 @@ Rank|Bot|Rating
 #29|@baby_eubos|1936
 #30|@hans68Bot|1931
 #31|@ai-con|1908
-#32|@notropis|1907
-#33|@GarboBot|1905
+#32|@GarboBot|1905
+#33|@notropis|1901
 #34|@Humaia-Strong|1899
 #35|@AjedrezChamberi|1880
 #36|@The_Marcus|1874
@@ -44,10 +44,10 @@ Rank|Bot|Rating
 #42|@Jibbby|1782
 #43|@ChessChildren|1752
 #44|@simplexitor|1727
-#45|@Demolito_L5|1713
+#45|@Demolito_L5|1718
 #46|@maia9|1701
-#47|@Demolito_L4|1649
-#48|@AshNostromo|1648
+#47|@AshNostromo|1648
+#48|@Demolito_L4|1644
 #49|@RadianceEngine|1635
 #50|@sargon-4ply|1596
 #51|@munfish|1589
@@ -56,7 +56,7 @@ Rank|Bot|Rating
 #54|@yeoldwiz|1571
 #55|@sargon-3ply|1551
 #56|@maia5|1544
-#57|@maia1|1528
+#57|@maia1|1531
 #58|@turochamp-2ply|1527
 #59|@katzebot|1427
 #60|@Humaia|1419
