@@ -9,10 +9,10 @@ Rank|Bot|Rating
 #7|@AKS-Mantissa|2453
 #8|@LazyBot|2366
 #9|@Weiawaga|2359
-#10|@Toodfish|2351
+#10|@Toodfish|2357
 #11|@SaxtonEngine|2347
 #12|@Cheng-4|2279
-#13|@Lynx_BOT|2220
+#13|@Lynx_BOT|2217
 #14|@ChessNoobComp|2188
 #15|@Pseudo-0|2093
 #16|@Phalanx-XXV|2091
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@AjedrezChamberi|1880
 #37|@The_Marcus|1878
 #38|@LeelaRogue|1871
-#39|@Demolito_L6|1863
+#39|@Demolito_L6|1865
 #40|@honzovy-sachy|1847
 #41|@Virutor|1847
 #42|@melsh_bot|1841
@@ -46,11 +46,11 @@ Rank|Bot|Rating
 #44|@Jibbby|1785
 #45|@ChessChildren|1756
 #46|@simplexitor|1731
-#47|@Demolito_L5|1716
-#48|@turkjs|1712
-#49|@maia9|1695
-#50|@AshNostromo|1692
-#51|@Demolito_L4|1646
+#47|@Demolito_L5|1722
+#48|@turkjs|1718
+#49|@AshNostromo|1692
+#50|@maia9|1691
+#51|@Demolito_L4|1640
 #52|@RadianceEngine|1607
 #53|@schnecken_bot|1586
 #54|@RoundMoundOfRebounds|1583
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@yeoldwiz|1571
 #58|@maia5|1565
 #59|@sargon-3ply|1556
-#60|@maia1|1526
+#60|@maia1|1532
 #61|@turochamp-2ply|1526
 #62|@katzebot|1423
 #63|@Humaia|1406
@@ -69,7 +69,7 @@ Rank|Bot|Rating
 #67|@LouisChess48-6K|1367
 #68|@sargon-2ply|1346
 #69|@bernstein-2ply|1328
-#70|@sargon-1ply|1308
+#70|@sargon-1ply|1311
 #71|@chat_bot|1278
 #72|@B4ux1t3s-Bot|1224
 #73|@grandQ_AI|805
