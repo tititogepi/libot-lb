@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@WandaTheWise|2146
 #9|@magnusglad_bot|1880
 #10|@pawn_git|1871
-#11|@clueless-bot|1657
-#12|@FataliiBot|1569
+#11|@clueless-bot|1650
+#12|@FataliiBot|1576
 #13|@Demolito_L6|1263
 #14|@Demolito_L5|1220
 #15|@Demolito_L4|1080
