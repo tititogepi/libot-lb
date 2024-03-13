@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ArasanX|2657
-#2|@magnusglad_bot|2535
+#2|@magnusglad_bot|2531
 #3|@BitByByte|2517
 #4|@expositor|2488
 #5|@AKS-Mantissa|2462
@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@Weiawaga|2355
 #10|@SaxtonEngine|2354
 #11|@Cheng-4|2279
-#12|@Lynx_BOT|2253
+#12|@Lynx_BOT|2254
 #13|@ChessNoobComp|2176
 #14|@clueless-bot|2109
 #15|@Pseudo-0|2102
@@ -24,13 +24,13 @@ Rank|Bot|Rating
 #22|@jangine|1973
 #23|@LazyBotJr|1951
 #24|@matmoi|1944
-#25|@Goldfish-Engine|1940
-#26|@likeawizard-bot|1940
-#27|@baby_eubos|1938
+#25|@Goldfish-Engine|1943
+#26|@likeawizard-bot|1942
+#27|@baby_eubos|1940
 #28|@hans68Bot|1931
 #29|@honzovy-sachy-2|1929
 #30|@zeekat|1927
-#31|@ai-con|1914
+#31|@ai-con|1911
 #32|@GarboBot|1903
 #33|@notropis|1903
 #34|@Humaia-Strong|1899
@@ -49,8 +49,8 @@ Rank|Bot|Rating
 #47|@Demolito_L5|1737
 #48|@turkjs|1728
 #49|@AshNostromo|1691
-#50|@maia9|1674
-#51|@RadianceEngine|1649
+#50|@maia9|1680
+#51|@RadianceEngine|1643
 #52|@Demolito_L4|1624
 #53|@schnecken_bot|1588
 #54|@RoundMoundOfRebounds|1586
@@ -59,7 +59,7 @@ Rank|Bot|Rating
 #57|@yeoldwiz|1571
 #58|@sargon-4ply|1570
 #59|@sargon-3ply|1546
-#60|@maia1|1518
+#60|@maia1|1521
 #61|@turochamp-2ply|1517
 #62|@katzebot|1453
 #63|@rust-bot|1397
