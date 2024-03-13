@@ -1,11 +1,11 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ResoluteBot|2273
-#2|@YoBot_v2|2254
+#1|@ResoluteBot|2271
+#2|@YoBot_v2|2255
 #3|@TheFreshman1902|2246
 #4|@ToromBot|2241
 #5|@Intron014|2221
-#6|@RaspFish|2210
+#6|@RaspFish|2211
 #7|@WandaOfDevonshire|2176
 #8|@WandaTheWise|2146
 #9|@magnusglad_bot|1888
