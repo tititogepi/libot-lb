@@ -9,7 +9,7 @@ Rank|Bot|Rating
 #7|@WandaOfDevonshire|2176
 #8|@WandaTheWise|2146
 #9|@magnusglad_bot|1889
-#10|@pawn_git|1881
+#10|@pawn_git|1884
 #11|@clueless-bot|1664
 #12|@FataliiBot|1554
 #13|@Demolito_L6|1264
