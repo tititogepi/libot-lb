@@ -725,6 +725,7 @@ easychessherokubot
 easytutorialbot
 easywingg
 eb-chess
+echo-4
 echobot
 eddybarner393
 edobot
@@ -2603,4 +2604,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-echo-4
+alphabotical

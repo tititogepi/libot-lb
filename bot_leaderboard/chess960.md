@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@magnusglad_bot|1893
 #10|@pawn_git|1893
 #11|@clueless-bot|1664
-#12|@FataliiBot|1538
-#13|@Demolito_L6|1254
+#12|@FataliiBot|1536
+#13|@Demolito_L6|1252
 #14|@Demolito_L5|1214
 #15|@Demolito_L4|1084
 #16|@botTideEval|849
