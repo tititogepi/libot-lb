@@ -2489,6 +2489,7 @@ waspbot2023
 wasternew
 watcher31_bot
 waterbirdchess
+waterspoutx
 wax_bot
 weakbot
 weaklean
@@ -2601,4 +2602,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-waterspoutx
