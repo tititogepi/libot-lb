@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@RaspFish|2212
 #7|@WandaOfDevonshire|2176
 #8|@WandaTheWise|2146
-#9|@magnusglad_bot|1891
+#9|@magnusglad_bot|1893
 #10|@pawn_git|1891
 #11|@clueless-bot|1664
-#12|@FataliiBot|1539
-#13|@Demolito_L6|1262
+#12|@FataliiBot|1541
+#13|@Demolito_L6|1260
 #14|@Demolito_L5|1214
 #15|@Demolito_L4|1084
 #16|@botTideEval|860
