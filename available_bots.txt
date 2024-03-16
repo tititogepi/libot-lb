@@ -826,6 +826,7 @@ fastchessbot
 fataliibot
 fateh_seferli_4d-63
 fathzer-jchess
+fathzer-jchess-dev
 fatmoon
 fbot
 featbeweir
@@ -2347,6 +2348,7 @@ tomewyrm
 too_ez4me
 toodfish
 toofastfish
+topasbot
 topple
 torbot
 torbot_sl
@@ -2605,5 +2607,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-topasbot
-fathzer-jchess-dev
