@@ -72,6 +72,7 @@ allvariantsbot
 alopyx
 alouettechessengine
 alpbet0
+alphabotical
 alphachess_official
 alphagpt
 alphaleela0
@@ -2604,4 +2605,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-alphabotical
