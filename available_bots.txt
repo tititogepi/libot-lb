@@ -1538,6 +1538,7 @@ minhduc12
 minic-chess_engine
 minimardi
 mininnue
+minopponentmoves
 minula_paranvithana
 misere-fish
 mistakebot
@@ -2607,4 +2608,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-minopponentmoves

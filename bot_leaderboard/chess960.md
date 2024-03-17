@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@Intron014|2221
 #6|@RaspFish|2221
 #7|@WandaOfDevonshire|2176
-#8|@pawn_git|1898
-#9|@magnusglad_bot|1897
+#8|@magnusglad_bot|1902
+#9|@pawn_git|1898
 #10|@clueless-bot|1655
 #11|@FataliiBot|1504
 #12|@Demolito_L6|1246
