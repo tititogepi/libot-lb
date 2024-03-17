@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ResoluteBot|2266
+#1|@ResoluteBot|2265
 #2|@TheFreshman1902|2245
 #3|@YoBot_v2|2245
 #4|@ToromBot|2240
@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@RaspFish|2221
 #7|@WandaOfDevonshire|2176
 #8|@pawn_git|1896
-#9|@magnusglad_bot|1889
-#10|@clueless-bot|1668
-#11|@FataliiBot|1496
+#9|@magnusglad_bot|1890
+#10|@clueless-bot|1657
+#11|@FataliiBot|1498
 #12|@Demolito_L6|1249
 #13|@Demolito_L5|1205
 #14|@Demolito_L4|1084
