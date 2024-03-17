@@ -48,11 +48,11 @@ Rank|Bot|Rating
 #46|@Demolito_L5|1732
 #47|@alan_bot|1673
 #48|@maia9|1671
-#49|@RadianceEngine|1655
+#49|@RadianceEngine|1656
 #50|@Demolito_L4|1627
 #51|@munfish|1578
 #52|@RoundMoundOfRebounds|1578
-#53|@maia5|1574
+#53|@maia5|1569
 #54|@schnecken_bot|1569
 #55|@sargon-4ply|1567
 #56|@sargon-3ply|1557
@@ -60,7 +60,7 @@ Rank|Bot|Rating
 #58|@turochamp-2ply|1529
 #59|@katzebot|1445
 #60|@bernstein-4ply|1401
-#61|@Humaia|1398
+#61|@Humaia|1395
 #62|@rust-bot|1390
 #63|@LouisChess48-6K|1367
 #64|@bernstein-2ply|1353

@@ -51,12 +51,12 @@ Rank|Bot|Rating
 #49|@AshNostromo|1691
 #50|@alan_bot|1673
 #51|@maia9|1671
-#52|@RadianceEngine|1655
+#52|@RadianceEngine|1656
 #53|@Demolito_L4|1627
 #54|@munfish|1578
 #55|@RoundMoundOfRebounds|1578
-#56|@maia5|1574
-#57|@yeoldwiz|1571
+#56|@yeoldwiz|1571
+#57|@maia5|1569
 #58|@schnecken_bot|1569
 #59|@sargon-4ply|1567
 #60|@sargon-3ply|1557
@@ -64,7 +64,7 @@ Rank|Bot|Rating
 #62|@turochamp-2ply|1529
 #63|@katzebot|1445
 #64|@bernstein-4ply|1401
-#65|@Humaia|1398
+#65|@Humaia|1395
 #66|@rust-bot|1390
 #67|@LouisChess48-6K|1367
 #68|@bernstein-2ply|1353
