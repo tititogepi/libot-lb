@@ -1440,6 +1440,7 @@ machinamas
 macos23
 macroman952
 macuser60
+maello_bot
 maelstrom-chess
 mafybe
 maggichess16
@@ -2608,4 +2609,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-maello_bot
