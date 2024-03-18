@@ -1852,6 +1852,7 @@ pvice
 pvnode
 pychessbot
 pyglin
+pzchessbot
 q-bith
 qalatbotengine
 qalattop
@@ -2609,4 +2610,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-pzchessbot
