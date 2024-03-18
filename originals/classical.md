@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@Toodfish|2323
 #11|@Lynx_BOT|2289
 #12|@Cheng-4|2279
-#13|@ChessNoobComp|2172
+#13|@ChessNoobComp|2178
 #14|@Pseudo-0|2116
 #15|@Phalanx-XXV|2110
 #16|@clueless-bot|2109
@@ -20,10 +20,10 @@ Rank|Bot|Rating
 #18|@FataliiBot|2024
 #19|@simpleEval|2018
 #20|@eubos|2017
-#21|@Boris-Trapsky|2000
+#21|@Boris-Trapsky|1994
 #22|@LazyBotJr|1966
-#23|@Goldfish-Engine|1958
-#24|@jangine|1956
+#23|@jangine|1959
+#24|@Goldfish-Engine|1958
 #25|@zeekat|1953
 #26|@baby_eubos|1947
 #27|@honzovy-sachy-2|1946
@@ -51,7 +51,7 @@ Rank|Bot|Rating
 #49|@AshNostromo|1691
 #50|@alan_bot|1673
 #51|@maia9|1671
-#52|@RadianceEngine|1659
+#52|@RadianceEngine|1658
 #53|@Demolito_L4|1627
 #54|@munfish|1578
 #55|@maia5|1573
@@ -60,11 +60,11 @@ Rank|Bot|Rating
 #58|@schnecken_bot|1569
 #59|@sargon-4ply|1567
 #60|@sargon-3ply|1553
-#61|@maia1|1551
+#61|@maia1|1542
 #62|@turochamp-2ply|1529
 #63|@katzebot|1445
-#64|@Humaia|1402
-#65|@bernstein-4ply|1401
+#64|@bernstein-4ply|1401
+#65|@Humaia|1399
 #66|@rust-bot|1390
 #67|@LouisChess48-6K|1367
 #68|@bernstein-2ply|1353
@@ -73,4 +73,3 @@ Rank|Bot|Rating
 #71|@sargon-1ply|1313
 #72|@chat_bot|1258
 #73|@B4ux1t3s-Bot|1150
-#74|@grandQ_AI|805
