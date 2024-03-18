@@ -1159,6 +1159,7 @@ jessethefluffydoge
 jest-bot
 jgrizzbt-bot
 jibbby
+jmjansen_aus_bot
 jnewberry0502
 joannp38_pedantic
 jobabot
@@ -2610,4 +2611,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-jmjansen_aus_bot
