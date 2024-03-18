@@ -257,6 +257,7 @@ bitarena
 bitbitbot
 bitbybyte
 bitextender128
+bizarriofish
 bjomarchessbot
 bkrivibot
 black_knight2006
@@ -2611,4 +2612,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bizarriofish
