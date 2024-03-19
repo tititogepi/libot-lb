@@ -2,11 +2,11 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2263
 #2|@TheFreshman1902|2245
-#3|@ToromBot|2239
-#4|@YoBot_v2|2232
-#5|@Intron014|2228
+#3|@ToromBot|2240
+#4|@YoBot_v2|2228
+#5|@Intron014|2223
 #6|@RaspFish|2205
-#7|@magnusglad_bot|1914
+#7|@magnusglad_bot|1913
 #8|@pawn_git|1910
 #9|@clueless-bot|1655
 #10|@FataliiBot|1515
