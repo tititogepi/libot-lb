@@ -570,6 +570,7 @@ codingai
 combilation
 combuskengine
 common_mover
+compchess2
 compchess60
 completelyrandombot
 compraptor
@@ -1525,6 +1526,7 @@ melsh_bot
 menganti
 menisciform
 meow_robot
+mephisto-chess
 mertovic119
 messchessengine
 metangula
@@ -2612,5 +2614,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-compchess2
-mephisto-chess
