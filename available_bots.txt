@@ -2612,3 +2612,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+compchess2
+mephisto-chess
