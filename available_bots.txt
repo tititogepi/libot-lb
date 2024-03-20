@@ -1712,6 +1712,7 @@ omelettechessengine
 omerbot
 omnibot
 onenode
+oneversusmany
 onionbot
 onlinechessbot
 ooferoofoof_is
@@ -2614,4 +2615,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-oneversusmany
