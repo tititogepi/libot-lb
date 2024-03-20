@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@pawn_git|1912
 #9|@Toodfish|1863
 #10|@clueless-bot|1655
-#11|@FataliiBot|1510
+#11|@FataliiBot|1503
 #12|@Demolito_L6|1221
 #13|@Demolito_L5|1202
 #14|@Demolito_L4|1084
