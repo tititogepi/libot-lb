@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@Intron014|2696
 #2|@RaspFish|2684
-#3|@YoBot_v2|2678
+#3|@YoBot_v2|2681
 #4|@ResoluteBot|2671
 #5|@caissa-x|2670
 #6|@The_Magnificent_Bob|2669
@@ -10,13 +10,13 @@ Rank|Bot|Rating
 #8|@RipTorn|2660
 #9|@ArasanX|2654
 #10|@mayhem23111|2617
-#11|@Mr_Chess_Berserk|2585
-#12|@BitByByte|2556
-#13|@magnusglad_bot|2522
-#14|@expositor|2500
-#15|@AKS-Mantissa|2462
+#11|@Mr_Chess_Berserk|2586
+#12|@BitByByte|2558
+#13|@magnusglad_bot|2524
+#14|@expositor|2497
+#15|@AKS-Mantissa|2465
 #16|@pawn_git|2454
-#17|@Weiawaga|2382
+#17|@Weiawaga|2380
 #18|@SaxtonEngine|2355
 #19|@Toodfish|2322
 #20|@Lynx_BOT|2291
@@ -26,7 +26,7 @@ Rank|Bot|Rating
 #24|@ChessatronBot|2105
 #25|@FataliiBot|2021
 #26|@Boris-Trapsky|1992
-#27|@zeekat|1968
+#27|@zeekat|1971
 #28|@Goldfish-Engine|1965
 #29|@baby_eubos|1953
 #30|@matmoi|1949
@@ -46,7 +46,7 @@ Rank|Bot|Rating
 #44|@ChessChildren|1772
 #45|@simplexitor|1759
 #46|@Demolito_L5|1742
-#47|@turkjs|1740
+#47|@turkjs|1736
 #48|@alan_bot|1673
 #49|@RadianceEngine|1671
 #50|@maia9|1644
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@schnecken_bot|1557
 #57|@sargon-3ply|1547
 #58|@turochamp-2ply|1524
-#59|@maia1|1499
+#59|@maia1|1507
 #60|@katzebot|1444
 #61|@rust-bot|1405
 #62|@sargon-2ply|1391
@@ -66,7 +66,7 @@ Rank|Bot|Rating
 #64|@Humaia|1386
 #65|@bernstein-2ply|1343
 #66|@turochamp-1ply|1342
-#67|@LouisChess48-6K|1339
+#67|@LouisChess48-6K|1336
 #68|@sargon-1ply|1315
 #69|@chat_bot|1258
-#70|@B4ux1t3s-Bot|1119
+#70|@B4ux1t3s-Bot|1118
