@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DavidsGuterBot|1606
-#2|@pawnrobot|1323
+#1|@DavidsGuterBot|1608
+#2|@pawnrobot|1321
