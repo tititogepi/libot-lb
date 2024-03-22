@@ -126,6 +126,7 @@ apollo314
 apollo_bot
 apollobot
 apotheosis_bot
+apple-chess
 appleatebananabot
 apraz
 aquaflame
@@ -2617,4 +2618,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-apple-chess
