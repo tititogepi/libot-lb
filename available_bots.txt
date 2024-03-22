@@ -1388,6 +1388,7 @@ lildoctorjank
 lili-ai
 lili-variants
 liligirlplay
+limbobot
 linklake1532
 linuxguru_bot0
 lioct
@@ -2615,4 +2616,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-limbobot
