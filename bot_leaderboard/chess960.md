@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@RaspFish|2196
 #7|@magnusglad_bot|1935
 #8|@pawn_git|1927
-#9|@Toodfish|1853
+#9|@Toodfish|1858
 #10|@clueless-bot|1655
-#11|@FataliiBot|1493
-#12|@Demolito_L6|1220
-#13|@Demolito_L5|1208
-#14|@Demolito_L4|1127
+#11|@FataliiBot|1495
+#12|@Demolito_L6|1218
+#13|@Demolito_L5|1213
+#14|@Demolito_L4|1121
 #15|@botTideEval|851
 #16|@pawnrobot|711
