@@ -280,6 +280,7 @@ bloody_bone
 blue_bot_one
 blue_ice_bot
 blue_lightningdragon
+blue_mongoose
 bluefake
 blundar_bot
 blunder_engine
@@ -2616,4 +2617,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-blue_mongoose
