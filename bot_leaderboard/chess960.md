@@ -5,7 +5,7 @@ Rank|Bot|Rating
 #3|@ToromBot|2245
 #4|@YoBot_v2|2242
 #5|@Intron014|2225
-#6|@RaspFish|2197
+#6|@RaspFish|2198
 #7|@magnusglad_bot|1935
 #8|@pawn_git|1927
 #9|@Toodfish|1858
