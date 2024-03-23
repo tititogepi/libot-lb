@@ -2559,6 +2559,7 @@ xx_team_depredador_x
 xxgodxx
 xxistcentury
 xxproychessx1
+xxsaturnxx
 xxxtryandtryxxx
 yachbot
 yagizturkiyebot
@@ -2618,4 +2619,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-xxsaturnxx
