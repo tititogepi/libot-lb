@@ -994,6 +994,7 @@ hades-921
 hagfish
 haibrid_bot
 halcyonbot
+halfstockfishbot
 halux-bot
 haluxxchessbot
 hans68bot
@@ -2619,4 +2620,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-halfstockfishbot
