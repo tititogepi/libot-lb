@@ -2243,6 +2243,7 @@ sxdraw
 sxdrawbetter
 sxdrawworse
 sxrandom
+symnium
 sysroot
 syzygybrain_bot
 szuwar8716
@@ -2621,4 +2622,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-symnium
