@@ -14,5 +14,5 @@ Rank|Bot|Rating
 #12|@Demolito_L6|1215
 #13|@Demolito_L4|1211
 #14|@Demolito_L5|1210
-#15|@botTideEval|859
-#16|@pawnrobot|704
+#15|@botTideEval|856
+#16|@pawnrobot|707
