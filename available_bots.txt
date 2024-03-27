@@ -2148,6 +2148,7 @@ stock_nemo
 stockapibot
 stockatom
 stockblitz_v1
+stockbooktest24
 stockbrotv1
 stockdory
 stockfisch16
@@ -2622,4 +2623,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-stockbooktest24
