@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@pawn_git|1901
 #10|@Toodfish|1827
 #11|@FataliiBot|1523
-#12|@Demolito_L6|1215
-#13|@Demolito_L4|1211
-#14|@Demolito_L5|1210
+#12|@Demolito_L5|1216
+#13|@Demolito_L6|1215
+#14|@Demolito_L4|1204
 #15|@botTideEval|856
 #16|@pawnrobot|707
