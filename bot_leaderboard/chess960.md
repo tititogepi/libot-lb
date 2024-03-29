@@ -5,13 +5,13 @@ Rank|Bot|Rating
 #3|@ToromBot|2254
 #4|@YoBot_v2|2248
 #5|@Intron014|2225
-#6|@RaspFish|2215
+#6|@RaspFish|2217
 #7|@WandaOfDevonshire|2180
 #8|@magnusglad_bot|1941
 #9|@pawn_git|1900
 #10|@Toodfish|1834
-#11|@FataliiBot|1531
-#12|@Demolito_L4|1235
+#11|@FataliiBot|1534
+#12|@Demolito_L4|1232
 #13|@Demolito_L6|1224
 #14|@Demolito_L5|1206
 #15|@botTideEval|856
