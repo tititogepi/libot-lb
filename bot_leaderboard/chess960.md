@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@WandaOfDevonshire|2180
 #8|@magnusglad_bot|1941
 #9|@pawn_git|1900
-#10|@Toodfish|1834
-#11|@FataliiBot|1534
+#10|@Toodfish|1836
+#11|@FataliiBot|1533
 #12|@Demolito_L4|1232
 #13|@Demolito_L6|1224
 #14|@Demolito_L5|1206
