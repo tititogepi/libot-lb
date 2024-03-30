@@ -2110,6 +2110,7 @@ sohamchessbot
 solidor59
 solistabot
 somebot
+soreloserbot
 sovereign_bot
 sovereignking
 spaceisbot
@@ -2623,4 +2624,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-soreloserbot
