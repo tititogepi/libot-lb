@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@Intron014|2225
 #5|@RaspFish|2220
 #6|@magnusglad_bot|1941
-#7|@pawn_git|1900
-#8|@Toodfish|1848
+#7|@pawn_git|1892
+#8|@Toodfish|1856
 #9|@FataliiBot|1536
 #10|@Demolito_L6|1235
 #11|@Demolito_L4|1232
