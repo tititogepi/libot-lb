@@ -870,6 +870,7 @@ flip_boi_is_good_boi
 flixbot
 flounderbot
 fluffballcuddly
+flying-rebel
 fn_waldi
 for9e
 forerito
@@ -2624,4 +2625,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-flying-rebel
