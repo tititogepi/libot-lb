@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@magnusglad_bot|1941
 #7|@pawn_git|1901
 #8|@Toodfish|1865
-#9|@FataliiBot|1536
-#10|@Demolito_L6|1240
-#11|@Demolito_L4|1231
-#12|@Demolito_L5|1191
+#9|@FataliiBot|1538
+#10|@Demolito_L6|1238
+#11|@Demolito_L4|1224
+#12|@Demolito_L5|1197
 #13|@botTideEval|853
 #14|@pawnrobot|728
