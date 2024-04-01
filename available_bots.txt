@@ -2625,3 +2625,5 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+neuroticbishop
+lc0_1shot
