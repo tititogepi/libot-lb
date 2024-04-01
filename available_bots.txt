@@ -1299,6 +1299,7 @@ lbegui12_bot
 lbot007
 lc0
 lc0-bot
+lc0_1shot
 lc0_bongclown
 lc0_bs
 lc0_chess
@@ -1637,6 +1638,7 @@ neonciv
 neuralabyss
 neuralactivity
 neuralleela
+neuroticbishop
 new-tie
 newengine2022
 nexastrat
@@ -2625,5 +2627,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-neuroticbishop
-lc0_1shot
