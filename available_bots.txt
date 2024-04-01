@@ -1865,6 +1865,7 @@ pvice
 pvnode
 pychessbot
 pyglin
+pythasaurus
 pzchessbot
 q-bith
 qalatbotengine
@@ -2570,6 +2571,7 @@ xxistcentury
 xxproychessx1
 xxsaturnxx
 xxxtryandtryxxx
+yacebot
 yachbot
 yagizturkiyebot
 yakup_0616
@@ -2599,6 +2601,7 @@ ytartofattackinchess
 yuetongbot2
 yukoo-bot
 yuligpro5
+yumaree
 yz-bot-test
 z-move
 z5_engine
@@ -2628,6 +2631,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-pythasaurus
-yacebot
-yumaree
