@@ -1578,6 +1578,7 @@ mp_ind_946
 mphobot
 mqbot
 mr-bob
+mr-chess-berserk
 mr84aminibot
 mr_chess_berserk
 mr_cook
@@ -2627,4 +2628,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mr-chess-berserk
