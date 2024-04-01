@@ -298,6 +298,7 @@ boller1910
 bongcloudtest
 booktester
 boom_bot
+boringfish
 boris-trapsky
 bosburp777
 boss_chess_bot
@@ -2631,4 +2632,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-boringfish
