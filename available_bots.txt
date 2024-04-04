@@ -550,6 +550,7 @@ chokefish
 chompbot
 christophercolomb
 chunguszero
+cizme
 clompdev
 cloud_bot
 cloudblower
@@ -2632,4 +2633,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-cizme
