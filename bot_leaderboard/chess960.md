@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@ToromBot|2251
 #3|@YoBot_v2|2242
 #4|@Intron014|2215
-#5|@RaspFish|2211
+#5|@RaspFish|2206
 #6|@magnusglad_bot|1944
 #7|@pawn_git|1886
 #8|@Toodfish|1877
@@ -13,5 +13,5 @@ Rank|Bot|Rating
 #11|@Demolito_L6|1244
 #12|@Demolito_L4|1227
 #13|@Demolito_L5|1194
-#14|@botTideEval|876
-#15|@pawnrobot|718
+#14|@botTideEval|881
+#15|@pawnrobot|714
