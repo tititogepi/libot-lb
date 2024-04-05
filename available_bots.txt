@@ -1207,6 +1207,7 @@ kaaaaiiiww
 kablosuz_beyin
 kahunabot
 kalabot
+kamikazefighter
 kapablanca_balls
 karl-bot
 karly64
@@ -2634,4 +2635,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-kamikazefighter
