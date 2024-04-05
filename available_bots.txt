@@ -821,6 +821,7 @@ fairgamekavvadias
 fairy-stockfish
 fairy_belzedar
 faith_bot
+falch_bot
 fantacticeman
 fantasticbot
 faruk_yvuz47
@@ -2635,4 +2636,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-falch_bot
