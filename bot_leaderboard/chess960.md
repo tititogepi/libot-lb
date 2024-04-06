@@ -10,8 +10,8 @@ Rank|Bot|Rating
 #8|@Toodfish|1877
 #9|@lc0_1shot|1850
 #10|@clueless-bot|1667
-#11|@FataliiBot|1541
-#12|@Demolito_L6|1246
+#11|@FataliiBot|1544
+#12|@Demolito_L6|1243
 #13|@Demolito_L5|1222
 #14|@Demolito_L4|1211
 #15|@botTideEval|881
