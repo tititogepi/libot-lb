@@ -2367,6 +2367,7 @@ tissouslebot
 tjchessbot
 tmfish
 tobegen
+tokenstealer
 toluene1140
 toluene1140_experime
 tomewyrm
@@ -2636,4 +2637,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-tokenstealer
