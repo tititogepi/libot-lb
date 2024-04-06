@@ -2,4 +2,4 @@ Rank|Bot|Rating
 ---|---|---
 #1|@katzebot|1417
 #2|@pawnrobot|1374
-#3|@MinOpponentMoves|870
+#3|@MinOpponentMoves|869
