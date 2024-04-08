@@ -1760,6 +1760,7 @@ painbotpain
 palisade
 palrishabh
 palrishabheasy
+panda_bot
 panda_engine
 pangubot
 parrotfish1
@@ -2641,4 +2642,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-panda_bot
