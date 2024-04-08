@@ -711,6 +711,7 @@ drawinone
 dream_bot
 drmeowmeow
 drsmartbugs
+drunken-pipe-bomb
 drunkenmasterengine
 dsukrect
 dtsudo
@@ -2639,4 +2640,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-drunken-pipe-bomb
