@@ -595,6 +595,7 @@ cpu2002
 cpu2006
 cpu2010
 crabchess
+crabstick-engine
 crappybot
 craytox
 crayybot
@@ -2640,4 +2641,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-crabstick-engine
