@@ -872,6 +872,7 @@ flamerare
 flamingdragon_9000
 flawed_formula
 flawed_formula_test
+flaxen_uci
 flaying-rebel
 flip_boi_is_good_boi
 flixbot
@@ -2644,4 +2645,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-flaxen_uci
+chessbot8051
