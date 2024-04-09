@@ -912,6 +912,7 @@ gam3play3r-bot
 gambit-bot
 gambitengine
 game-bot
+gameromanbot
 gamingrun
 gapple_2
 gapple_classical
@@ -2643,4 +2644,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gameromanbot
