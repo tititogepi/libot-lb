@@ -573,6 +573,7 @@ codingadventuresback
 codingai
 combilation
 combuskengine
+comeback_bot
 common_mover
 compchess2
 compchess60
@@ -2642,4 +2643,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-comeback_bot
