@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2256
 #2|@ToromBot|2250
-#3|@YoBot_v2|2232
+#3|@YoBot_v2|2233
 #4|@Intron014|2213
-#5|@RaspFish|2200
+#5|@RaspFish|2199
 #6|@magnusglad_bot|1977
 #7|@pawn_git|1899
 #8|@Toodfish|1877
