@@ -2224,6 +2224,7 @@ stupidchess_random
 stupidchess_sprinter
 stupidchess_suicking
 stupidchessrobot
+stupidfishbotbydscs
 sturddle
 stwongfish
 sub_bot
@@ -2646,4 +2647,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-stupidfishbotbydscs
