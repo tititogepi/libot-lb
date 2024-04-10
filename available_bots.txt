@@ -506,6 +506,7 @@ chessatronbot
 chessbot2156
 chessbot2880
 chessbot3021
+chessbot8051
 chessbot_2004
 chessbothere
 chesschildren
@@ -2645,4 +2646,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chessbot8051
