@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@pawn_git|1912
 #8|@lc0_1shot|1835
 #9|@clueless-bot|1605
-#10|@FataliiBot|1535
-#11|@Demolito_L6|1240
+#10|@FataliiBot|1537
+#11|@Demolito_L6|1238
 #12|@Demolito_L5|1216
 #13|@Demolito_L4|1201
 #14|@botTideEval|878
