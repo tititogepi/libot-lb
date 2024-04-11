@@ -12,7 +12,7 @@ Rank|Bot|Rating
 #10|@FataliiBot|1539
 #11|@Demolito_L6|1237
 #12|@Demolito_L5|1216
-#13|@Demolito_L4|1201
+#13|@Demolito_L4|1205
 #14|@botTideEval|878
 #15|@MinOpponentMoves|793
 #16|@pawnrobot|762
