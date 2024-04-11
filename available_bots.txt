@@ -2494,6 +2494,7 @@ vetinari_computer
 vezzickbot
 vicechess
 viceriever
+victoire-beepboop
 victorbulletbot
 vidha-2009
 viet-ai
@@ -2647,4 +2648,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-victoire-beepboop

@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2250
-#2|@YoBot_v2|2228
+#2|@YoBot_v2|2226
 #3|@Intron014|2215
 #4|@RaspFish|2202
 #5|@magnusglad_bot|1998
