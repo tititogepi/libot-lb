@@ -921,6 +921,7 @@ gapple_classical
 garamdharam
 garbobot
 gbcb
+gc1bot
 gecko_bot
 geemc
 gegenebot
@@ -2648,4 +2649,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-gc1bot
