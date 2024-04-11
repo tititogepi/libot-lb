@@ -1974,6 +1974,7 @@ robotpatzer
 robottigerslav
 robottino
 rochadeschachzeitung
+rocketengine
 rockychessone
 rodent-iv
 rodeobot
@@ -2649,4 +2650,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-rocketengine
