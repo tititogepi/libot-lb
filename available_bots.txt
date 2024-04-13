@@ -2364,6 +2364,7 @@ theweakestbot
 theyobots
 thibot
 thicc_gopher
+thinn_gopher
 thisisntabot
 thomastce1
 thousandatom
@@ -2650,4 +2651,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-thinn_gopher
