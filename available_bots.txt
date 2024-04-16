@@ -1789,6 +1789,7 @@ perseusbot
 perseverancerover
 peterquillbot
 petersbot
+peterstestbot
 petrosian_bot
 phalanx-xxv
 phamhoangbaoaa
@@ -2652,4 +2653,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-peterstestbot
