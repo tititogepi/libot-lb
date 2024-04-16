@@ -933,6 +933,7 @@ geraldbot
 geraldbot2
 geraldleebetafish
 geraltorivia
+getcheckmatedgame
 getcr3ampied
 getfun
 geulbot
@@ -2653,4 +2654,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-getcheckmatedgame
