@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@lc0_1shot|1808
 #10|@clueless-bot|1617
 #11|@FataliiBot|1597
-#12|@Rodent-IV|1308
-#13|@Demolito_L6|1274
+#12|@Rodent-IV|1313
+#13|@Demolito_L6|1269
 #14|@Demolito_L5|1186
 #15|@Demolito_L4|1183
 #16|@botTideEval|876
