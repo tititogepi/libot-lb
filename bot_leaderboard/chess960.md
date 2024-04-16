@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ResoluteBot|2266
 #2|@ToromBot|2251
-#3|@YoBot_v2|2245
+#3|@YoBot_v2|2250
 #4|@Intron014|2208
 #5|@RaspFish|2196
 #6|@faith_bot|2167
@@ -11,10 +11,10 @@ Rank|Bot|Rating
 #9|@lc0_1shot|1808
 #10|@clueless-bot|1617
 #11|@FataliiBot|1594
-#12|@Rodent-IV|1298
-#13|@Demolito_L6|1274
-#14|@Demolito_L4|1185
-#15|@Demolito_L5|1185
+#12|@Rodent-IV|1307
+#13|@Demolito_L6|1273
+#14|@Demolito_L5|1186
+#15|@Demolito_L4|1175
 #16|@botTideEval|876
 #17|@pawnrobot|758
 #18|@MinOpponentMoves|744
