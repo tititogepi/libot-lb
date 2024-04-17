@@ -6,11 +6,11 @@ Rank|Bot|Rating
 #4|@Intron014|2199
 #5|@RaspFish|2184
 #6|@faith_bot|2167
-#7|@magnusglad_bot|2008
+#7|@magnusglad_bot|2011
 #8|@pawn_git|1942
-#9|@lc0_1shot|1819
+#9|@lc0_1shot|1821
 #10|@clueless-bot|1617
-#11|@FataliiBot|1571
+#11|@FataliiBot|1566
 #12|@Rodent-IV|1313
 #13|@Demolito_L6|1269
 #14|@Demolito_L5|1186
