@@ -1302,6 +1302,7 @@ l_47
 l_taurus_l
 ladidacticabot
 ladoga_engine
+ladybugbot
 laira_z
 lalis1
 lapischesszero
@@ -2655,4 +2656,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ladybugbot
