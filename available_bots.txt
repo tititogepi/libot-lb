@@ -1944,6 +1944,7 @@ recontinue
 redengine
 redlight_07
 redtail-zero
+reggieokevin
 reinforcementtrial
 relevantproblem
 renegadeengine
@@ -2654,4 +2655,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-reggieokevin
