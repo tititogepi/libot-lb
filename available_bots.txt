@@ -1573,6 +1573,7 @@ misterrengar
 mittens-bot
 mittensthechessb0t
 mkad-106_bot
+modding-sources
 mokbot
 mon_robot
 monchester
@@ -2657,4 +2658,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-modding-sources
