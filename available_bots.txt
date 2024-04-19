@@ -1660,6 +1660,7 @@ newengine2022
 nexastrat
 nezh-bot
 nezuko_chess
+nibblebot
 nicarao_chess
 nicetohityou2000
 nicholaswb_bot
@@ -2656,4 +2657,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nibblebot
