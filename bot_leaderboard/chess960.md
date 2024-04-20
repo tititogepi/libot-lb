@@ -8,13 +8,13 @@ Rank|Bot|Rating
 #6|@RaspFish|2198
 #7|@magnusglad_bot|2010
 #8|@pawn_git|1908
-#9|@lc0_1shot|1823
+#9|@lc0_1shot|1825
 #10|@clueless-bot|1627
-#11|@FataliiBot|1586
+#11|@FataliiBot|1585
 #12|@Rodent-IV|1313
 #13|@Demolito_L6|1259
 #14|@Demolito_L5|1192
 #15|@Demolito_L4|1188
 #16|@botTideEval|876
 #17|@pawnrobot|776
-#18|@MinOpponentMoves|733
+#18|@MinOpponentMoves|732
