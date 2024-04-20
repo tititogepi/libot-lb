@@ -8,9 +8,9 @@ Rank|Bot|Rating
 #6|@RaspFish|2198
 #7|@magnusglad_bot|2010
 #8|@pawn_git|1908
-#9|@lc0_1shot|1825
+#9|@lc0_1shot|1827
 #10|@clueless-bot|1627
-#11|@FataliiBot|1585
+#11|@FataliiBot|1583
 #12|@Rodent-IV|1313
 #13|@Demolito_L6|1259
 #14|@Demolito_L5|1192
