@@ -2,14 +2,14 @@ Rank|Bot|Rating
 ---|---|---
 #1|@AMemeBot|2254
 #2|@ToromBot|2250
-#3|@YoBot_v2|2236
+#3|@YoBot_v2|2233
 #4|@Intron014|2213
-#5|@RaspFish|2195
+#5|@RaspFish|2198
 #6|@magnusglad_bot|2010
 #7|@pawn_git|1908
 #8|@lc0_1shot|1821
 #9|@clueless-bot|1627
-#10|@FataliiBot|1596
+#10|@FataliiBot|1589
 #11|@Rodent-IV|1313
 #12|@Demolito_L6|1259
 #13|@Demolito_L5|1192
