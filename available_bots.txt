@@ -194,6 +194,7 @@ badfishchess
 badmodo
 badplayer33
 bagpiperbot
+bakasbot
 balancefish
 balbla
 bananaaaaaaaaa_test
@@ -2658,4 +2659,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bakasbot
