@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TheFreshman1902|2256
+#1|@TheFreshman1902|2255
 #2|@AMemeBot|2254
 #3|@ToromBot|2250
-#4|@YoBot_v2|2236
+#4|@YoBot_v2|2237
 #5|@Intron014|2214
 #6|@RaspFish|2195
 #7|@magnusglad_bot|2010
@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@Rodent-IV|1313
 #13|@Demolito_L6|1259
 #14|@Demolito_L5|1192
-#15|@Demolito_L4|1186
+#15|@Demolito_L4|1191
 #16|@botTideEval|871
-#17|@pawnrobot|780
-#18|@MinOpponentMoves|724
+#17|@pawnrobot|786
+#18|@MinOpponentMoves|716
