@@ -3,14 +3,14 @@ Rank|Bot|Rating
 #1|@TheFreshman1902|2256
 #2|@AMemeBot|2254
 #3|@ToromBot|2250
-#4|@YoBot_v2|2231
+#4|@YoBot_v2|2232
 #5|@Intron014|2214
 #6|@RaspFish|2199
 #7|@magnusglad_bot|2010
 #8|@pawn_git|1908
-#9|@lc0_1shot|1846
+#9|@lc0_1shot|1861
 #10|@clueless-bot|1627
-#11|@FataliiBot|1564
+#11|@FataliiBot|1560
 #12|@Rodent-IV|1313
 #13|@Demolito_L6|1259
 #14|@Demolito_L5|1192
