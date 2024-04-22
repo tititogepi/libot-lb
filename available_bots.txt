@@ -542,6 +542,7 @@ chessvbot
 chessvissy
 chesswinner_56
 chesswizbot
+chesteragsamosam-bot
 chesz_art
 chicken_farmer
 child_beth
@@ -2659,4 +2660,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chesteragsamosam-bot
