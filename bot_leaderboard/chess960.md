@@ -11,10 +11,9 @@ Rank|Bot|Rating
 #9|@lc0_1shot|1861
 #10|@clueless-bot|1627
 #11|@FataliiBot|1560
-#12|@Rodent-IV|1313
-#13|@Demolito_L6|1257
-#14|@Demolito_L4|1201
-#15|@Demolito_L5|1192
-#16|@botTideEval|871
-#17|@pawnrobot|786
-#18|@MinOpponentMoves|714
+#12|@Demolito_L6|1257
+#13|@Demolito_L4|1201
+#14|@Demolito_L5|1192
+#15|@botTideEval|871
+#16|@pawnrobot|786
+#17|@MinOpponentMoves|714
