@@ -9,10 +9,10 @@ Rank|Bot|Rating
 #7|@magnusglad_bot|2015
 #8|@pawn_git|1900
 #9|@lc0_1shot|1870
-#10|@Cheng-4|1808
+#10|@Cheng-4|1812
 #11|@clueless-bot|1627
 #12|@FataliiBot|1566
-#13|@Rodent-IV|1287
+#13|@Rodent-IV|1285
 #14|@Demolito_L6|1264
 #15|@Demolito_L4|1222
 #16|@Demolito_L5|1188
