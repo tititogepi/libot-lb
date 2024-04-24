@@ -2010,6 +2010,7 @@ ruby_sapphire_www
 rubysbot
 ruchess_r
 rudim-bot
+rudolph-bot
 rust-bot
 rust-engine
 rust_lang_chess
@@ -2388,6 +2389,7 @@ tinyhugebot
 tiraelsedaibot
 tissouslebot
 tjchessbot
+tkgue
 tmfish
 tobegen
 tokenstealer
@@ -2661,5 +2663,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-rudolph-bot
-tkgue
