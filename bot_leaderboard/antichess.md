@@ -4,4 +4,4 @@ Rank|Bot|Rating
 #2|@anti-bot|2218
 #3|@CatNail|2113
 #4|@pawnrobot|1840
-#5|@MinOpponentMoves|1131
+#5|@MinOpponentMoves|1128
