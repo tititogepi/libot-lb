@@ -6,8 +6,8 @@ Rank|Bot|Rating
 #4|@YoBot_v2|2228
 #5|@Intron014|2211
 #6|@RaspFish|2190
-#7|@faith_bot|2178
-#8|@magnusglad_bot|2015
+#7|@faith_bot|2180
+#8|@magnusglad_bot|2013
 #9|@pawn_git|1900
 #10|@lc0_1shot|1869
 #11|@Cheng-4|1831
