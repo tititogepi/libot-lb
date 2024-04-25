@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@MysteriousGold|2303
 #2|@ToromBot|2252
-#3|@TheFreshman1902|2251
+#3|@TheFreshman1902|2250
 #4|@AMemeBot|2246
-#5|@YoBot_v2|2228
+#5|@YoBot_v2|2229
 #6|@PetersBot|2218
 #7|@Intron014|2207
 #8|@faith_bot|2184
