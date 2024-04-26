@@ -2,9 +2,9 @@ Rank|Bot|Rating
 ---|---|---
 #1|@MysteriousGold|2303
 #2|@ToromBot|2252
-#3|@TheFreshman1902|2247
-#4|@AMemeBot|2246
-#5|@YoBot_v2|2224
+#3|@AMemeBot|2246
+#4|@TheFreshman1902|2246
+#5|@YoBot_v2|2225
 #6|@PetersBot|2218
 #7|@Intron014|2208
 #8|@faith_bot|2189
@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@magnusglad_bot|2023
 #11|@pawn_git|1885
 #12|@Cheng-4|1871
-#13|@lc0_1shot|1840
-#14|@FataliiBot|1541
+#13|@lc0_1shot|1838
+#14|@FataliiBot|1543
 #15|@Rodent-IV|1277
 #16|@Demolito_L6|1264
 #17|@Demolito_L4|1222
