@@ -2213,6 +2213,7 @@ stockfishlevel_8
 stockfishofficial
 stockfishpower
 stockfishpro-bot
+stockfishrtx3050
 stockfishspeed
 stockhalim
 stockmac
@@ -2664,4 +2665,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-stockfishrtx3050
