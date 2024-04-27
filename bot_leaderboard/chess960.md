@@ -2,13 +2,13 @@ Rank|Bot|Rating
 ---|---|---
 #1|@MysteriousGold|2303
 #2|@ToromBot|2252
-#3|@TheFreshman1902|2248
+#3|@TheFreshman1902|2247
 #4|@AMemeBot|2246
-#5|@YoBot_v2|2226
-#6|@PetersBot|2219
+#5|@YoBot_v2|2230
+#6|@PetersBot|2220
 #7|@Intron014|2208
 #8|@faith_bot|2189
-#9|@RaspFish|2170
+#9|@RaspFish|2166
 #10|@magnusglad_bot|2023
 #11|@pawn_git|1878
 #12|@Cheng-4|1873
