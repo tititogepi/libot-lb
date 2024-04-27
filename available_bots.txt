@@ -1030,6 +1030,7 @@ harry-cop
 harry_potterz
 hauptschulebot
 having_a_blunderfult
+havocbot
 hawaiibot
 hawke_bot
 heatseeker223
@@ -2663,4 +2664,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-havocbot
