@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@PetersBot|2220
 #7|@Intron014|2211
 #8|@faith_bot|2189
-#9|@RaspFish|2167
+#9|@RaspFish|2169
 #10|@magnusglad_bot|2026
 #11|@pawn_git|1902
-#12|@Cheng-4|1865
-#13|@lc0_1shot|1835
+#12|@Cheng-4|1859
+#13|@lc0_1shot|1841
 #14|@FataliiBot|1532
 #15|@Rodent-IV|1277
 #16|@Demolito_L6|1264
