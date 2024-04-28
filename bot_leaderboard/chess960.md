@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@Intron014|2211
 #8|@faith_bot|2189
 #9|@RaspFish|2168
-#10|@magnusglad_bot|2021
+#10|@magnusglad_bot|2028
 #11|@pawn_git|1889
-#12|@lc0_1shot|1882
+#12|@lc0_1shot|1875
 #13|@Cheng-4|1836
 #14|@FataliiBot|1550
 #15|@Rodent-IV|1277
