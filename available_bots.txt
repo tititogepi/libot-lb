@@ -790,6 +790,7 @@ emrysbot
 endogenetic-bot
 endokingsspade
 enduring_leela
+engasaad-bot
 enginehighlvl
 enginuous
 enoizisop
@@ -2666,4 +2667,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-engasaad-bot
+hummus-bot
