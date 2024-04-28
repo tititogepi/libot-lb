@@ -1090,6 +1090,7 @@ humanbot_lv1929
 humanian
 humanteambot
 humbletestbot
+hummus-bot
 huxzero
 huy-stockfish
 hwh2008
@@ -2667,4 +2668,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-hummus-bot
