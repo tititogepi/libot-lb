@@ -4,7 +4,7 @@ Rank|Bot|Rating
 #2|@ToromBot|2248
 #3|@AMemeBot|2246
 #4|@TheFreshman1902|2246
-#5|@YoBot_v2|2231
+#5|@YoBot_v2|2225
 #6|@PetersBot|2222
 #7|@Intron014|2211
 #8|@faith_bot|2189
@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@magnusglad_bot|2025
 #11|@pawn_git|1905
 #12|@lc0_1shot|1861
-#13|@Cheng-4|1845
-#14|@FataliiBot|1551
-#15|@Demolito_L6|1251
+#13|@Cheng-4|1849
+#14|@FataliiBot|1550
+#15|@Demolito_L6|1249
 #16|@Rodent-IV|1247
 #17|@Demolito_L5|1207
 #18|@Demolito_L4|1204
