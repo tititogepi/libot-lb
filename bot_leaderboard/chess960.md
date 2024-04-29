@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@MysteriousGold|2303
-#2|@ToromBot|2248
+#2|@ToromBot|2247
 #3|@AMemeBot|2246
 #4|@TheFreshman1902|2246
 #5|@YoBot_v2|2225
@@ -12,12 +12,12 @@ Rank|Bot|Rating
 #10|@magnusglad_bot|2025
 #11|@pawn_git|1905
 #12|@lc0_1shot|1861
-#13|@Cheng-4|1849
-#14|@FataliiBot|1550
+#13|@Cheng-4|1851
+#14|@FataliiBot|1548
 #15|@Demolito_L6|1249
-#16|@Rodent-IV|1247
+#16|@Rodent-IV|1248
 #17|@Demolito_L5|1207
 #18|@Demolito_L4|1204
 #19|@botTideEval|868
-#20|@pawnrobot|812
-#21|@MinOpponentMoves|758
+#20|@pawnrobot|811
+#21|@MinOpponentMoves|757
