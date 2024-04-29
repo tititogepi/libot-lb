@@ -1,3 +1,3 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2587
+#1|@ToromBot|2559

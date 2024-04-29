@@ -4,11 +4,11 @@ Rank|Bot|Rating
 #2|@ToromBot|2248
 #3|@AMemeBot|2246
 #4|@TheFreshman1902|2246
-#5|@YoBot_v2|2234
+#5|@YoBot_v2|2231
 #6|@PetersBot|2222
 #7|@Intron014|2211
 #8|@faith_bot|2189
-#9|@RaspFish|2173
+#9|@RaspFish|2175
 #10|@magnusglad_bot|2025
 #11|@pawn_git|1905
 #12|@lc0_1shot|1861
