@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2852
-#2|@pawnrobot|1254
-#3|@MinOpponentMoves|997
+#1|@ToromBot|2858
+#2|@pawnrobot|1239
+#3|@MinOpponentMoves|1008
