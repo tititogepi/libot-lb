@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2555
-#2|@RaspFish|2530
+#1|@RaspFish|2526
+#2|@ToromBot|2523
