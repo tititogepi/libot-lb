@@ -399,6 +399,7 @@ brainstorm_bot
 brainypratyush3
 bravestknightbot
 bread_engine
+breadeater_engine
 breeze-hot
 breeze_bot
 bristol_amogus
@@ -2670,4 +2671,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-breadeater_engine
