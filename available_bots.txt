@@ -2570,6 +2570,7 @@ whitewidowbot
 why_this_bot_exists
 willbochessengine
 williamengine
+williamgasaad
 winchess_bot
 windowsi5bot
 winner4forever
@@ -2671,4 +2672,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-williamgasaad
