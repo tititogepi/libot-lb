@@ -14,8 +14,8 @@ Rank|Bot|Rating
 #12|@FataliiBot|1555
 #13|@Demolito_L6|1257
 #14|@Rodent-IV|1226
-#15|@Demolito_L5|1211
-#16|@Demolito_L4|1189
+#15|@Demolito_L5|1216
+#16|@Demolito_L4|1184
 #17|@botTideEval|868
 #18|@pawnrobot|824
 #19|@MinOpponentMoves|755
