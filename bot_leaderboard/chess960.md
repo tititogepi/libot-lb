@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2246
 #2|@ToromBot|2246
-#3|@YoBot_v2|2230
+#3|@YoBot_v2|2228
 #4|@faith_bot|2220
 #5|@Intron014|2211
 #6|@PetersBot|2179
@@ -11,8 +11,8 @@ Rank|Bot|Rating
 #9|@pawn_git|1901
 #10|@Cheng-4|1856
 #11|@lc0_1shot|1849
-#12|@FataliiBot|1553
-#13|@Demolito_L6|1259
+#12|@FataliiBot|1555
+#13|@Demolito_L6|1257
 #14|@Rodent-IV|1226
 #15|@Demolito_L5|1211
 #16|@Demolito_L4|1189
