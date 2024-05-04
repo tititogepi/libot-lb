@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NilatacBot|2385
+#1|@NilatacBot|2378
 #2|@anti-bot|2163
 #3|@CatNail|2086
 #4|@pawnrobot|1778
