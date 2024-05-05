@@ -10,12 +10,12 @@ Rank|Bot|Rating
 #8|@lc0_1shot|1913
 #9|@pawn_git|1901
 #10|@Cheng-4|1840
-#11|@FataliiBot|1629
+#11|@FataliiBot|1635
 #12|@camel_bot|1421
-#13|@Demolito_L6|1235
+#13|@Demolito_L6|1244
 #14|@Rodent-IV|1226
-#15|@Demolito_L5|1155
-#16|@Demolito_L4|1144
+#15|@Demolito_L5|1157
+#16|@Demolito_L4|1147
 #17|@botTideEval|867
 #18|@pawnrobot|834
 #19|@MinOpponentMoves|762
