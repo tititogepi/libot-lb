@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ArasanX|2666
+#1|@ArasanX|2669
 #2|@ELO_1500|2658
 #3|@abcbot|2643
 #4|@BitByByte|2596
@@ -10,12 +10,12 @@ Rank|Bot|Rating
 #8|@pawn_git|2501
 #9|@xxSaturnxx|2487
 #10|@SaxtonEngine|2433
-#11|@Weiawaga|2425
+#11|@Weiawaga|2422
 #12|@Cheng-4|2352
 #13|@LazyBot|2347
 #14|@lc0_1shot|2274
-#15|@catriever|2266
-#16|@InanisBot|2265
+#15|@InanisBot|2267
+#16|@catriever|2266
 #17|@Lynx_BOT|2265
 #18|@ChessatronBot|2231
 #19|@Pseudo-0|2215
@@ -25,13 +25,13 @@ Rank|Bot|Rating
 #23|@simpleEval|2106
 #24|@FataliiBot|2074
 #25|@eubos|2061
-#26|@CosetteBot|2023
+#26|@CosetteBot|2021
 #27|@hans68Bot|2004
 #28|@TopasBot|1994
 #29|@Boris-Trapsky|1992
 #30|@matmoi|1980
 #31|@honzovy-sachy-2|1972
-#32|@maello_bot|1968
+#32|@maello_bot|1970
 #33|@Goldfish-Engine|1958
 #34|@baby_eubos|1953
 #35|@likeawizard-bot|1931
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@The_Marcus|1892
 #40|@AjedrezChamberi|1889
 #41|@Demolito_L6|1889
-#42|@jangine|1888
+#42|@jangine|1887
 #43|@notropis|1872
 #44|@LazyBotJr|1869
 #45|@Virutor|1864
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@Demolito_L5|1727
 #56|@simplexitor|1702
 #57|@alan_bot|1685
-#58|@RadianceEngine|1682
+#58|@RadianceEngine|1680
 #59|@maia9|1666
 #60|@Demolito_L4|1654
 #61|@maia5|1638
@@ -77,7 +77,7 @@ Rank|Bot|Rating
 #75|@turochamp-1ply|1375
 #76|@bernstein-2ply|1361
 #77|@sargon-2ply|1339
-#78|@sargon-1ply|1317
+#78|@sargon-1ply|1316
 #79|@LouisChess48-6K|1189
 #80|@StupidfishBOTBYDSCS|861
 #81|@MinOpponentMoves|817
