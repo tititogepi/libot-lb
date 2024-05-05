@@ -1237,6 +1237,7 @@ kasabot
 kasparov_bot
 kasparovbot
 kasparovkarpov_bot
+katefish
 kathhhh
 katzebot
 kayrakropro_bot
@@ -2673,4 +2674,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-katefish
