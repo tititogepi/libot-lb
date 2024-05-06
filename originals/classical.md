@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ArasanX|2669
-#2|@ELO_1500|2659
+#2|@ELO_1500|2660
 #3|@abcbot|2644
 #4|@BitByByte|2591
 #5|@LeelaChessTest|2588
@@ -16,12 +16,12 @@ Rank|Bot|Rating
 #14|@LazyBot|2347
 #15|@lc0_1shot|2280
 #16|@catriever|2278
-#17|@InanisBot|2260
-#18|@Lynx_BOT|2243
+#17|@InanisBot|2253
+#18|@Lynx_BOT|2242
 #19|@Pseudo-0|2235
 #20|@ChessatronBot|2232
 #21|@bitbitbot|2194
-#22|@Phalanx-XXV|2187
+#22|@Phalanx-XXV|2194
 #23|@ChessNoobComp|2185
 #24|@simpleEval|2092
 #25|@FataliiBot|2080
@@ -68,7 +68,7 @@ Rank|Bot|Rating
 #66|@yeoldwiz|1578
 #67|@sargon-4ply|1574
 #68|@munfish|1559
-#69|@maia1|1539
+#69|@maia1|1537
 #70|@RoundMoundOfRebounds|1535
 #71|@turochamp-2ply|1514
 #72|@Humaia|1477
@@ -77,8 +77,8 @@ Rank|Bot|Rating
 #75|@turochamp-1ply|1364
 #76|@bernstein-2ply|1358
 #77|@sargon-2ply|1338
-#78|@sargon-1ply|1315
-#79|@LouisChess48-6K|1202
+#78|@sargon-1ply|1314
+#79|@LouisChess48-6K|1204
 #80|@StupidfishBOTBYDSCS|859
 #81|@MinOpponentMoves|817
 #82|@grandQ_AI|790
