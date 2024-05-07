@@ -515,6 +515,7 @@ chessbot_2004
 chessbothere
 chesschildren
 chesschipbot
+chesscraftbot
 chessdotcpp
 chesseftal
 chessemkabot
@@ -2674,4 +2675,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-chesscraftbot
