@@ -2109,6 +2109,7 @@ sidonia-chessengine
 silitho
 sillybot
 silverfishengine
+simbelmyne-bot
 simintel
 simpafteur
 simple_bot_lt
@@ -2675,4 +2676,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-simbelmyne-bot
