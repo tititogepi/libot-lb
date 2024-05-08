@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@DavidsGuterBot|1579
-#2|@pawnrobot|1334
+#1|@DavidsGuterBot|1583
+#2|@pawnrobot|1331
 #3|@MinOpponentMoves|961
