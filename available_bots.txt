@@ -726,6 +726,7 @@ dsukrect
 dtsudo
 ducc0
 duchessai
+dumb_by_abulmo-bot
 dumb_fish
 dummyette
 dundu
@@ -2676,4 +2677,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dumb_by_abulmo-bot
