@@ -2676,3 +2676,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
+dumb_by_abulmo-bot
