@@ -1660,6 +1660,7 @@ natesbot
 natural-disaster
 naughty-dottie
 nc3nc6bot
+nebulogic
 neena-2-bot
 neildandekarbot
 nemesisbot
@@ -2678,4 +2679,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nebulogic
