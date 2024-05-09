@@ -1,7 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@NilatacBot|2383
-#2|@anti-bot|2154
-#3|@CatNail|2050
-#4|@pawnrobot|1786
-#5|@MinOpponentMoves|1105
+#1|@RaspFish|2673
+#2|@NilatacBot|2383
+#3|@anti-bot|2154
+#4|@CatNail|2050
+#5|@pawnrobot|1786
+#6|@MinOpponentMoves|1105
