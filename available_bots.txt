@@ -2663,6 +2663,7 @@ ze_rook
 zeekat
 zer0_tw0
 zermixalot
+zeroesandones
 zerowinx
 zeusbot
 zeusbot_v1
@@ -2677,4 +2678,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-zeroesandones
