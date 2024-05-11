@@ -11,10 +11,10 @@ Rank|Bot|Rating
 #9|@Cheng-4|1924
 #10|@lc0_1shot|1890
 #11|@dumb_by_abulmo-bot|1737
-#12|@FataliiBot|1645
+#12|@FataliiBot|1647
 #13|@camel_bot|1421
 #14|@Rodent-IV|1195
-#15|@Demolito_L6|1141
+#15|@Demolito_L6|1137
 #16|@Demolito_L5|1135
 #17|@Demolito_L4|1105
 #18|@pawnrobot|841
