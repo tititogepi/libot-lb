@@ -8,14 +8,14 @@ Rank|Bot|Rating
 #6|@PetersBot|2195
 #7|@RaspFish|2190
 #8|@magnusglad_bot|2054
-#9|@pawn_git|1951
-#10|@Cheng-4|1926
+#9|@pawn_git|1953
+#10|@Cheng-4|1930
 #11|@lc0_1shot|1890
 #12|@dumb_by_abulmo-bot|1737
 #13|@FataliiBot|1651
 #14|@camel_bot|1421
 #15|@Rodent-IV|1195
-#16|@Demolito_L6|1145
+#16|@Demolito_L6|1164
 #17|@Demolito_L5|1132
 #18|@Demolito_L4|1105
 #19|@pawnrobot|841
