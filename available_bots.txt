@@ -76,6 +76,7 @@ alphabotical
 alphachess_official
 alphagpt
 alphaleela0
+altair8000
 altair_engine
 alvin-chess-bot
 alvinl22_lbot
@@ -2679,4 +2680,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-altair8000
