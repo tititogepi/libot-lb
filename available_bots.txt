@@ -66,6 +66,7 @@ all_except_chess960
 allgames_bot
 allgamesbot
 alliedalien
+alliethechessbot
 allvariantchessbot
 allvariants
 allvariantsbot
@@ -2681,4 +2682,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-alliethechessbot
