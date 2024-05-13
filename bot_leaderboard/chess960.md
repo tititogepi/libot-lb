@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2250
 #2|@ToromBot|2243
-#3|@YoBot_v2|2237
+#3|@YoBot_v2|2236
 #4|@LeelaChessTest|2232
 #5|@Intron014|2210
 #6|@PetersBot|2199
@@ -10,11 +10,11 @@ Rank|Bot|Rating
 #8|@magnusglad_bot|2065
 #9|@pawn_git|1945
 #10|@Cheng-4|1938
-#11|@lc0_1shot|1892
-#12|@dumb_by_abulmo-bot|1748
-#13|@FataliiBot|1648
+#11|@lc0_1shot|1887
+#12|@dumb_by_abulmo-bot|1756
+#13|@FataliiBot|1652
 #14|@Rodent-IV|1195
-#15|@Demolito_L6|1138
+#15|@Demolito_L6|1132
 #16|@Demolito_L5|1114
 #17|@Demolito_L4|1103
 #18|@pawnrobot|841
