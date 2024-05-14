@@ -1697,6 +1697,7 @@ nikolaengine_lux
 nilatacbot
 nilesrogoff_chessbot
 nimbochromis
+nimfish
 nimsilubot
 nine8765432one
 nineteenthcentury
@@ -2682,4 +2683,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-nimfish
