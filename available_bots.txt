@@ -2129,6 +2129,7 @@ simplexitor
 simplyturtle
 singularity-alpha
 sipsonsamsonbot
+sirius_bot
 sisyphosbeta0
 sitrik_asit
 sixteen-sixty
@@ -2684,4 +2685,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-sirius_bot
