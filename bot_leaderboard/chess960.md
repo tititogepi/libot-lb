@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@dumb_by_abulmo-bot|1797
 #13|@FataliiBot|1626
 #14|@Rodent-IV|1165
-#15|@Demolito_L6|1133
+#15|@Demolito_L6|1129
 #16|@Demolito_L4|1090
 #17|@Demolito_L5|1081
 #18|@botTideEval|895
