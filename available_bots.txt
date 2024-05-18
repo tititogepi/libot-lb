@@ -1839,6 +1839,7 @@ pizza-delivery
 plan9bot
 planktonengine
 planktonenginerust
+plaphyai
 plasmaeclipse
 play-the-chess
 playchesstonight
@@ -2686,4 +2687,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-plaphyai
