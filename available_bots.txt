@@ -297,6 +297,7 @@ bobandi
 bobby-bot
 bobby_fischer_bot
 bobby_fishcer_bot
+bobursattarov
 bogobot
 bogopi
 boldbladerunner
@@ -2685,4 +2686,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bobursattarov
