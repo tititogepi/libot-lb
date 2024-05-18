@@ -2,13 +2,13 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ArasanX|2678
 #2|@ELO_1500|2670
-#3|@abcbot|2649
-#4|@BitByByte|2610
+#3|@abcbot|2650
+#4|@BitByByte|2611
 #5|@LeelaChessTest|2586
-#6|@magnusglad_bot|2545
+#6|@magnusglad_bot|2543
 #7|@AKS-Mantissa|2507
 #8|@expositor|2505
-#9|@pawn_git|2488
+#9|@pawn_git|2486
 #10|@SaxtonEngine|2460
 #11|@Cheng-4|2432
 #12|@Weiawaga|2427
@@ -63,8 +63,8 @@ Rank|Bot|Rating
 #61|@Demolito_L4|1609
 #62|@RadianceEngine|1605
 #63|@munfish|1601
-#64|@maia1|1582
-#65|@yeoldwiz|1578
+#64|@yeoldwiz|1578
+#65|@maia1|1567
 #66|@sargon-4ply|1560
 #67|@sargon-3ply|1552
 #68|@RoundMoundOfRebounds|1519
@@ -79,4 +79,4 @@ Rank|Bot|Rating
 #77|@LouisChess48-6K|1224
 #78|@StupidfishBOTBYDSCS|839
 #79|@MinOpponentMoves|797
-#80|@grandQ_AI|796
+#80|@grandQ_AI|793
