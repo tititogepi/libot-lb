@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ToromBot|2257
-#2|@YoBot_v2|2253
+#2|@YoBot_v2|2251
 #3|@Intron014|2210
 #4|@PetersBot|2209
-#5|@RaspFish|2190
+#5|@RaspFish|2192
 #6|@magnusglad_bot|2060
 #7|@pawn_git|1973
 #8|@Cheng-4|1953
