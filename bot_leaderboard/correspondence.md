@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@Jibbby|1703
+#1|@Jibbby|1715
 #2|@katzebot|1610
