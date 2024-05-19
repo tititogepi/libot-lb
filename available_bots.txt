@@ -445,6 +445,7 @@ calliopean_account
 callmecool
 calvin_bot
 camel_bot
+caps-bot
 capturebot
 carlsenbot
 carlsencantbeatme
@@ -2687,4 +2688,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-caps-bot
