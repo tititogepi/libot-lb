@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2260
+#1|@YoBot_v2|2259
 #2|@ToromBot|2257
 #3|@Intron014|2210
 #4|@PetersBot|2209
-#5|@RaspFish|2183
+#5|@RaspFish|2184
 #6|@magnusglad_bot|2060
 #7|@pawn_git|1973
 #8|@Cheng-4|1953
@@ -12,9 +12,9 @@ Rank|Bot|Rating
 #10|@dumb_by_abulmo-bot|1798
 #11|@FataliiBot|1628
 #12|@Rodent-IV|1165
-#13|@Demolito_L6|1132
-#14|@Demolito_L5|1096
-#15|@Demolito_L4|1081
+#13|@Demolito_L6|1137
+#14|@Demolito_L5|1102
+#15|@Demolito_L4|1068
 #16|@botTideEval|946
 #17|@pawnrobot|778
 #18|@MinOpponentMoves|730
