@@ -1797,6 +1797,7 @@ parrotfish1
 parth_dhage_2
 passivebot
 patientjellyfish
+patzerbot135
 paul_morphine_bot
 paulmorphybot
 pawn-bot
@@ -2688,4 +2689,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-patzerbot135
