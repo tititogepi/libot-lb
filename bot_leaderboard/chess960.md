@@ -5,13 +5,13 @@ Rank|Bot|Rating
 #3|@PetersBot|2213
 #4|@RaspFish|2197
 #5|@magnusglad_bot|2060
-#6|@Cheng-4|1978
+#6|@Cheng-4|1976
 #7|@pawn_git|1974
 #8|@lc0_1shot|1882
-#9|@dumb_by_abulmo-bot|1800
-#10|@FataliiBot|1595
+#9|@dumb_by_abulmo-bot|1805
+#10|@FataliiBot|1605
 #11|@Rodent-IV|1165
-#12|@Demolito_L6|1134
+#12|@Demolito_L6|1133
 #13|@Demolito_L5|1102
 #14|@Demolito_L4|1056
 #15|@botTideEval|943
