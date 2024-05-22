@@ -1159,6 +1159,7 @@ isaac_terminator
 isaacwb_bot
 ishaan080808
 ishomea
+ismailshadow
 isotopebot
 itsafakeusername2k1
 itsatry
@@ -2689,4 +2690,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-ismailshadow
+theshadowengine
