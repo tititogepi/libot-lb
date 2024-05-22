@@ -1,4 +1,4 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@pawnrobot|1209
-#2|@MinOpponentMoves|1039
+#1|@pawnrobot|1205
+#2|@MinOpponentMoves|1042
