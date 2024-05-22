@@ -5,15 +5,15 @@ Rank|Bot|Rating
 #3|@abcbot|2657
 #4|@BitByByte|2603
 #5|@LeelaChessTest|2586
-#6|@magnusglad_bot|2572
+#6|@magnusglad_bot|2576
 #7|@expositor|2526
 #8|@AKS-Mantissa|2512
 #9|@pawn_git|2482
-#10|@Weiawaga|2431
+#10|@Weiawaga|2428
 #11|@Cheng-4|2396
 #12|@simbelmyne-bot|2352
 #13|@LazyBot|2329
-#14|@Lynx_BOT|2303
+#14|@Lynx_BOT|2305
 #15|@lc0_1shot|2286
 #16|@catriever|2276
 #17|@ChessatronBot|2271
@@ -22,7 +22,7 @@ Rank|Bot|Rating
 #20|@Phalanx-XXV|2188
 #21|@ChessNoobComp|2162
 #22|@simpleEval|2092
-#23|@FataliiBot|2058
+#23|@FataliiBot|2055
 #24|@CosetteBot|2053
 #25|@eubos|2053
 #26|@hans68Bot|2004
@@ -57,7 +57,7 @@ Rank|Bot|Rating
 #55|@turkjs|1763
 #56|@maia9|1696
 #57|@simplexitor|1696
-#58|@maia5|1647
+#58|@maia5|1645
 #59|@schnecken_bot|1623
 #60|@RadianceEngine|1605
 #61|@Demolito_L4|1603
