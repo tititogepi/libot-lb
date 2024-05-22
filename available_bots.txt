@@ -2392,6 +2392,7 @@ theomegaone
 thepepsiisgoingcrazy
 thepinecone1
 thera_engine
+theshadowengine
 thesystem_bot
 thethanosbot
 theultimatechzb
@@ -2690,4 +2691,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-theshadowengine
