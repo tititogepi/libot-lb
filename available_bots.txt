@@ -1884,6 +1884,7 @@ probot123567
 probot_vr_2
 probroman
 professional-bot-021
+prometheus-bot
 proteussf
 proteussf-aureo
 proteussf-extreme
@@ -2692,4 +2693,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-prometheus-bot
