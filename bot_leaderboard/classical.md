@@ -14,7 +14,7 @@ Rank|Bot|Rating
 #12|@magnusglad_bot|2572
 #13|@expositor|2526
 #14|@AKS-Mantissa|2512
-#15|@pawn_git|2483
+#15|@pawn_git|2482
 #16|@Weiawaga|2431
 #17|@Cheng-4|2396
 #18|@simbelmyne-bot|2352
@@ -57,12 +57,12 @@ Rank|Bot|Rating
 #55|@turkjs|1763
 #56|@maia9|1696
 #57|@simplexitor|1696
-#58|@maia5|1649
+#58|@maia5|1647
 #59|@schnecken_bot|1623
 #60|@RadianceEngine|1605
 #61|@Demolito_L4|1603
-#62|@maia1|1587
-#63|@munfish|1580
+#62|@munfish|1580
+#63|@maia1|1577
 #64|@sargon-4ply|1576
 #65|@sargon-3ply|1546
 #66|@turochamp-2ply|1524
