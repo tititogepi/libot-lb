@@ -258,6 +258,7 @@ bigearschess
 binarybrain
 bingo202
 bionic_x
+bird_xx
 bishop-bot
 bitarena
 bitbitbot
@@ -2693,4 +2694,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bird_xx
+w_a_l_d_e_m_a_r
