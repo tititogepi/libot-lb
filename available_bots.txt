@@ -2562,6 +2562,7 @@ votechess
 votemymove
 vvv0rtex_bot
 w1z4rd_b0t
+w_a_l_d_e_m_a_r
 wahoo_bot
 wakabot
 walleye_bot
@@ -2694,4 +2695,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-w_a_l_d_e_m_a_r
+elephantgambitengine
