@@ -147,6 +147,7 @@ arduchessbot
 are_bots_good
 arealbot
 arebentr
+argentino_10
 armageddon-fish
 arny_bot
 aromik_s_bot
@@ -2698,4 +2699,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-argentino_10
