@@ -1913,6 +1913,7 @@ pvnode
 pychessbot
 pyglin
 pythasaurus
+pzbot
 pzchessbot
 q-bith
 qalatbotengine
@@ -2696,4 +2697,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-pzbot
