@@ -760,6 +760,7 @@ egeytek
 egs1-en001
 einstein_nnue
 electricboy6-bot
+elephantgambitengine
 elfinsbot
 elite-bot
 eliteleela
@@ -2695,4 +2696,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-elephantgambitengine
