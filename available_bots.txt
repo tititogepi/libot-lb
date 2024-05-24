@@ -1085,6 +1085,7 @@ honzovy-sachy-2
 hoon_bot
 hopebest
 hoplites
+horvix
 hotleela
 houdini14_2
 housjoe
@@ -2697,4 +2698,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-horvix
