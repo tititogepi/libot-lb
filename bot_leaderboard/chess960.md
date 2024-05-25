@@ -5,14 +5,14 @@ Rank|Bot|Rating
 #3|@YoBot_v2|2243
 #4|@PetersBot|2208
 #5|@RaspFish|2200
-#6|@pawn_git|2004
+#6|@pawn_git|2008
 #7|@Cheng-4|1996
 #8|@dumb_by_abulmo-bot|1783
 #9|@FataliiBot|1711
 #10|@Rodent-IV|1115
 #11|@Demolito_L6|1108
 #12|@Demolito_L5|1101
-#13|@Demolito_L4|1042
+#13|@Demolito_L4|1045
 #14|@botTideEval|888
-#15|@pawnrobot|793
+#15|@pawnrobot|790
 #16|@MinOpponentMoves|676
