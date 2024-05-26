@@ -8,11 +8,11 @@ Rank|Bot|Rating
 #6|@pawn_git|2009
 #7|@Cheng-4|1996
 #8|@dumb_by_abulmo-bot|1783
-#9|@FataliiBot|1712
-#10|@Rodent-IV|1110
+#9|@FataliiBot|1714
+#10|@Rodent-IV|1112
 #11|@Demolito_L6|1107
 #12|@Demolito_L5|1101
-#13|@Demolito_L4|1045
+#13|@Demolito_L4|1040
 #14|@botTideEval|894
 #15|@pawnrobot|786
-#16|@MinOpponentMoves|672
+#16|@MinOpponentMoves|668
