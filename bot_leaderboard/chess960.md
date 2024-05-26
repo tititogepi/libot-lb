@@ -9,8 +9,8 @@ Rank|Bot|Rating
 #7|@Cheng-4|1996
 #8|@dumb_by_abulmo-bot|1783
 #9|@FataliiBot|1714
-#10|@Demolito_L6|1118
-#11|@Rodent-IV|1116
+#10|@Rodent-IV|1116
+#11|@Demolito_L6|1114
 #12|@Demolito_L5|1088
 #13|@Demolito_L4|1047
 #14|@botTideEval|879

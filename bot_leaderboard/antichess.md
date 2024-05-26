@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@anti-bot|2173
-#2|@pawnrobot|1800
+#2|@pawnrobot|1795
 #3|@MinOpponentMoves|1132
