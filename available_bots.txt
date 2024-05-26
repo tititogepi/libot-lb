@@ -1094,6 +1094,7 @@ howhorseymove_bot
 howtobasics
 hrant_petrosyan_bot
 hrtbot
+huebot1
 hulk990
 hulkbot
 humaia
@@ -2699,4 +2700,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-huebot1
