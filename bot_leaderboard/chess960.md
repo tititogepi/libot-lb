@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@Cheng-4|1996
 #9|@dumb_by_abulmo-bot|1783
 #10|@FataliiBot|1714
-#11|@Rodent-IV|1123
+#11|@Rodent-IV|1115
 #12|@Demolito_L6|1114
-#13|@Demolito_L5|1094
+#13|@Demolito_L5|1100
 #14|@Demolito_L4|1035
 #15|@botTideEval|879
 #16|@pawnrobot|774
