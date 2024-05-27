@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@PetersBot|2208
 #6|@RaspFish|2196
 #7|@pawn_git|2018
-#8|@Cheng-4|1996
+#8|@Cheng-4|2000
 #9|@dumb_by_abulmo-bot|1783
-#10|@FataliiBot|1716
+#10|@FataliiBot|1713
 #11|@Demolito_L6|1119
 #12|@Rodent-IV|1115
 #13|@Demolito_L5|1099
