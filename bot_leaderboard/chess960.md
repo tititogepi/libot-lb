@@ -1,14 +1,14 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2256
-#2|@YoBot_v2|2241
+#2|@YoBot_v2|2244
 #3|@LeelaChessTest|2233
 #4|@PetersBot|2208
-#5|@RaspFish|2194
+#5|@RaspFish|2191
 #6|@pawn_git|2020
 #7|@Cheng-4|2013
 #8|@FataliiBot|1720
-#9|@Demolito_L6|1117
+#9|@Demolito_L6|1115
 #10|@Rodent-IV|1115
 #11|@Demolito_L5|1105
 #12|@Demolito_L4|1033
