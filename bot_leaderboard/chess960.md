@@ -7,11 +7,11 @@ Rank|Bot|Rating
 #5|@RaspFish|2192
 #6|@pawn_git|2020
 #7|@Cheng-4|2011
-#8|@FataliiBot|1709
+#8|@FataliiBot|1715
 #9|@Rodent-IV|1115
 #10|@Demolito_L6|1111
 #11|@Demolito_L5|1109
 #12|@Demolito_L4|1032
-#13|@botTideEval|879
-#14|@pawnrobot|787
+#13|@botTideEval|885
+#14|@pawnrobot|783
 #15|@MinOpponentMoves|663
