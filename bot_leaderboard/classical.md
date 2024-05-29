@@ -18,10 +18,10 @@ Rank|Bot|Rating
 #16|@SaxtonEngine|2453
 #17|@Weiawaga|2431
 #18|@Cheng-4|2406
-#19|@simbelmyne-bot|2387
+#19|@simbelmyne-bot|2380
 #20|@ChessatronBot|2283
-#21|@InanisBot|2261
-#22|@Lynx_BOT|2257
+#21|@InanisBot|2269
+#22|@Lynx_BOT|2254
 #23|@LazyBot|2234
 #24|@Phalanx-XXV|2206
 #25|@Pseudo-0|2195
@@ -30,7 +30,7 @@ Rank|Bot|Rating
 #28|@simpleEval|2085
 #29|@eubos|2074
 #30|@FataliiBot|2071
-#31|@CosetteBot|2045
+#31|@CosetteBot|2052
 #32|@Boris-Trapsky|2032
 #33|@TopasBot|1990
 #34|@matmoi|1982
@@ -38,14 +38,14 @@ Rank|Bot|Rating
 #36|@zeekat|1916
 #37|@Humaia-Strong|1912
 #38|@Goldfish-Engine|1911
-#39|@likeawizard-bot|1911
+#39|@likeawizard-bot|1907
 #40|@ai-con|1899
 #41|@fathzer-jchess|1888
 #42|@honzovy-sachy|1884
 #43|@notropis|1884
 #44|@baby_eubos|1881
 #45|@GarboBot|1871
-#46|@Demolito_L6|1869
+#46|@Demolito_L6|1868
 #47|@Virutor|1864
 #48|@Rodent-IV|1846
 #49|@LeelaRogue|1833
@@ -69,6 +69,6 @@ Rank|Bot|Rating
 #67|@turochamp-1ply|1408
 #68|@bernstein-4ply|1398
 #69|@bernstein-2ply|1363
-#70|@sargon-2ply|1346
+#70|@sargon-2ply|1339
 #71|@sargon-1ply|1288
 #72|@MinOpponentMoves|772
