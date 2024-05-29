@@ -6,10 +6,10 @@ Rank|Bot|Rating
 #4|@LeelaChessTest|2233
 #5|@PetersBot|2208
 #6|@RaspFish|2192
-#7|@pawn_git|2018
+#7|@pawn_git|2020
 #8|@Cheng-4|2011
-#9|@FataliiBot|1721
-#10|@Demolito_L6|1122
+#9|@FataliiBot|1719
+#10|@Demolito_L6|1117
 #11|@Rodent-IV|1115
 #12|@Demolito_L5|1101
 #13|@Demolito_L4|1032
