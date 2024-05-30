@@ -5,9 +5,9 @@ Rank|Bot|Rating
 #3|@LeelaChessTest|2233
 #4|@PetersBot|2209
 #5|@RaspFish|2192
-#6|@Cheng-4|2024
+#6|@Cheng-4|2025
 #7|@pawn_git|2024
-#8|@FataliiBot|1725
+#8|@FataliiBot|1723
 #9|@Demolito_L6|1120
 #10|@Demolito_L5|1112
 #11|@Rodent-IV|1110
