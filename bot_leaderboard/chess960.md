@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@RaspFish|2192
 #6|@Cheng-4|2024
 #7|@pawn_git|2024
-#8|@FataliiBot|1723
-#9|@Demolito_L6|1122
+#8|@FataliiBot|1725
+#9|@Demolito_L6|1120
 #10|@Demolito_L5|1112
 #11|@Rodent-IV|1110
 #12|@Demolito_L4|1026
