@@ -490,6 +490,7 @@ checkbro_official
 checkmate-ai
 checkmate10101010
 checkmatian228
+checkmmate2014
 cheemschungusbot
 cheesenet
 cheesepizza2363
@@ -2703,4 +2704,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-checkmmate2014
