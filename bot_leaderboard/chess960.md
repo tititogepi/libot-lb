@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@Cheng-4|2020
 #7|@pawn_git|2020
 #8|@FataliiBot|1720
-#9|@Demolito_L6|1117
-#10|@Demolito_L5|1114
-#11|@Rodent-IV|1111
-#12|@Demolito_L4|1035
+#9|@Demolito_L6|1121
+#10|@Demolito_L5|1108
+#11|@Rodent-IV|1103
+#12|@Demolito_L4|1037
 #13|@botTideEval|892
-#14|@pawnrobot|776
-#15|@MinOpponentMoves|654
+#14|@pawnrobot|781
+#15|@MinOpponentMoves|653
