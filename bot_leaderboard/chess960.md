@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2256
-#2|@YoBot_v2|2245
+#2|@YoBot_v2|2244
 #3|@LeelaChessTest|2233
 #4|@PetersBot|2209
 #5|@RaspFish|2197
@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@Demolito_L4|1021
 #13|@botTideEval|898
 #14|@pawnrobot|788
-#15|@MinOpponentMoves|641
+#15|@MinOpponentMoves|645
