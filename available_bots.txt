@@ -186,6 +186,7 @@ awesome_stockfish
 ax2xb2
 axwchessbot
 azdad
+b-the-bot
 b0ngfish
 b0t5_ru13
 b4df1sh
@@ -2704,4 +2705,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-b-the-bot
