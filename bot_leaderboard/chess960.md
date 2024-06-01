@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2247
+#1|@YoBot_v2|2252
 #2|@LeelaChessTest|2233
 #3|@PetersBot|2209
-#4|@RaspFish|2199
+#4|@RaspFish|2194
 #5|@pawn_git|2029
 #6|@Cheng-4|2024
 #7|@FataliiBot|1727
