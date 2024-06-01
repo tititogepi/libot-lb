@@ -8,10 +8,10 @@ Rank|Bot|Rating
 #6|@Cheng-4|2024
 #7|@FataliiBot|1727
 #8|@Demolito_L6|1131
-#9|@Rodent-IV|1110
+#9|@Rodent-IV|1111
 #10|@Demolito_L5|1107
 #11|@Demolito_L4|1031
-#12|@botTideEval|898
-#13|@princhess_policy_bot|830
-#14|@pawnrobot|793
-#15|@MinOpponentMoves|631
+#12|@botTideEval|903
+#13|@princhess_policy_bot|825
+#14|@pawnrobot|789
+#15|@MinOpponentMoves|633

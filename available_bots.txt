@@ -2416,6 +2416,7 @@ thicc_gopher
 thinn_gopher
 thisisntabot
 thomastce1
+thonny_bot
 thousandatom
 threeisthree
 thuban_official
@@ -2705,4 +2706,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-thonny_bot
