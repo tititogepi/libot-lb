@@ -1185,6 +1185,7 @@ jakyllbot
 jallahata
 jangine
 jannik08_fan
+janzari92
 jasans_bot
 jasonbourne77
 jasperbot
@@ -2706,4 +2707,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-janzari92
