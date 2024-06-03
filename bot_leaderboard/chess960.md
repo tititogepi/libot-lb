@@ -1,9 +1,9 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2272
+#1|@YoBot_v2|2268
 #2|@PetersBot|2209
 #3|@Ultron81|2206
-#4|@RaspFish|2193
+#4|@RaspFish|2197
 #5|@pawn_git|2029
 #6|@Cheng-4|2024
 #7|@FataliiBot|1727
@@ -14,4 +14,4 @@ Rank|Bot|Rating
 #12|@botTideEval|909
 #13|@princhess_policy_bot|857
 #14|@pawnrobot|792
-#15|@MinOpponentMoves|611
+#15|@MinOpponentMoves|610
