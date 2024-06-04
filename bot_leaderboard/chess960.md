@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2259
+#1|@YoBot_v2|2257
 #2|@PetersBot|2209
-#3|@Ultron81|2206
+#3|@Ultron81|2208
 #4|@RaspFish|2205
 #5|@pawn_git|2029
 #6|@Cheng-4|2024
