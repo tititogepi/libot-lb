@@ -5,13 +5,13 @@ Rank|Bot|Rating
 #3|@Ultron81|2209
 #4|@RaspFish|2205
 #5|@pawn_git|2029
-#6|@Cheng-4|2024
-#7|@FataliiBot|1727
+#6|@Cheng-4|2026
+#7|@FataliiBot|1725
 #8|@Demolito_L6|1131
-#9|@Rodent-IV|1120
+#9|@Rodent-IV|1123
 #10|@Demolito_L5|1107
 #11|@Demolito_L4|1031
 #12|@botTideEval|916
 #13|@princhess_policy_bot|850
-#14|@pawnrobot|790
+#14|@pawnrobot|788
 #15|@MinOpponentMoves|612
