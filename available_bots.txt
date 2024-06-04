@@ -1752,6 +1752,7 @@ nukechess-bot
 number_one1
 nya-vp
 o9mniej_bot
+obsidianchessengine
 occhessadvanced
 ochobot
 odonata-bot
@@ -2707,4 +2708,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-obsidianchessengine
