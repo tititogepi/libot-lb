@@ -4,13 +4,13 @@ Rank|Bot|Rating
 #2|@RaspFish|2734
 #3|@caissa-x|2726
 #4|@TheFreshman1902|2716
-#5|@ELO_1500|2703
+#5|@ELO_1500|2701
 #6|@ArasanX|2696
 #7|@Botyuliirma|2696
 #8|@Africaata|2684
 #9|@PetersBot|2683
 #10|@abcbot|2640
-#11|@BitByByte|2597
+#11|@BitByByte|2599
 #12|@expositor|2585
 #13|@magnusglad_bot|2568
 #14|@AKS-Mantissa|2547
@@ -41,7 +41,7 @@ Rank|Bot|Rating
 #39|@The_Marcus|1886
 #40|@ai-con|1884
 #41|@honzovy-sachy|1884
-#42|@notropis|1873
+#42|@notropis|1872
 #43|@GarboBot|1871
 #44|@baby_eubos|1869
 #45|@Demolito_L6|1864
@@ -61,7 +61,7 @@ Rank|Bot|Rating
 #59|@sargon-4ply|1576
 #60|@sargon-3ply|1560
 #61|@RoundMoundOfRebounds|1512
-#62|@maia1|1508
+#62|@maia1|1504
 #63|@bernstein-4ply|1425
 #64|@turochamp-1ply|1412
 #65|@Humaia|1406

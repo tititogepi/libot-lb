@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ELO_1500|2703
+#1|@ELO_1500|2701
 #2|@ArasanX|2696
 #3|@expositor|2585
 #4|@magnusglad_bot|2568
@@ -38,7 +38,7 @@ Rank|Bot|Rating
 #36|@The_Marcus|1886
 #37|@ai-con|1884
 #38|@honzovy-sachy|1884
-#39|@notropis|1873
+#39|@notropis|1872
 #40|@GarboBot|1871
 #41|@baby_eubos|1869
 #42|@Demolito_L6|1864
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@sargon-3ply|1560
 #62|@turochamp-2ply|1518
 #63|@RoundMoundOfRebounds|1512
-#64|@maia1|1508
+#64|@maia1|1504
 #65|@bernstein-4ply|1425
 #66|@turochamp-1ply|1412
 #67|@Humaia|1406
