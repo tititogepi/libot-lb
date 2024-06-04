@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@PetersBot|2683
 #10|@abcbot|2640
 #11|@BitByByte|2599
-#12|@expositor|2585
+#12|@expositor|2587
 #13|@magnusglad_bot|2568
 #14|@AKS-Mantissa|2547
 #15|@pawn_git|2542
@@ -19,7 +19,7 @@ Rank|Bot|Rating
 #17|@Weiawaga|2423
 #18|@Cheng-4|2418
 #19|@simbelmyne-bot|2391
-#20|@Lynx_BOT|2300
+#20|@Lynx_BOT|2299
 #21|@ChessatronBot|2277
 #22|@InanisBot|2245
 #23|@Phalanx-XXV|2233
@@ -35,7 +35,7 @@ Rank|Bot|Rating
 #33|@matmoi|1996
 #34|@honzovy-sachy-2|1962
 #35|@zeekat|1909
-#36|@Goldfish-Engine|1899
+#36|@Goldfish-Engine|1898
 #37|@likeawizard-bot|1896
 #38|@fathzer-jchess|1892
 #39|@The_Marcus|1886

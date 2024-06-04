@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ELO_1500|2701
 #2|@ArasanX|2696
-#3|@expositor|2585
+#3|@expositor|2587
 #4|@magnusglad_bot|2568
 #5|@AKS-Mantissa|2547
 #6|@pawn_git|2542
@@ -10,7 +10,7 @@ Rank|Bot|Rating
 #8|@Weiawaga|2423
 #9|@Cheng-4|2418
 #10|@simbelmyne-bot|2391
-#11|@Lynx_BOT|2300
+#11|@Lynx_BOT|2299
 #12|@lc0_1shot|2286
 #13|@ChessatronBot|2277
 #14|@InanisBot|2245
@@ -32,7 +32,7 @@ Rank|Bot|Rating
 #30|@Humaia-Strong|1912
 #31|@AjedrezChamberi|1910
 #32|@zeekat|1909
-#33|@Goldfish-Engine|1899
+#33|@Goldfish-Engine|1898
 #34|@likeawizard-bot|1896
 #35|@fathzer-jchess|1892
 #36|@The_Marcus|1886
