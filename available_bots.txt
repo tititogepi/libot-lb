@@ -2423,6 +2423,7 @@ thousandatom
 threeisthree
 thuban_official
 ticktocc
+tigerengine
 tigrament
 time-player
 timecat
@@ -2708,4 +2709,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-tigerengine

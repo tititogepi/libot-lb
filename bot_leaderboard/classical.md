@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2770
+#1|@YoBot_v2|2772
 #2|@RaspFish|2730
 #3|@caissa-x|2718
 #4|@TheFreshman1902|2716
@@ -16,13 +16,13 @@ Rank|Bot|Rating
 #14|@pawn_git|2557
 #15|@AKS-Mantissa|2551
 #16|@SaxtonEngine|2444
-#17|@Cheng-4|2432
-#18|@Weiawaga|2415
-#19|@simbelmyne-bot|2376
+#17|@Cheng-4|2438
+#18|@Weiawaga|2409
+#19|@simbelmyne-bot|2374
 #20|@ChessatronBot|2285
-#21|@Lynx_BOT|2273
+#21|@Lynx_BOT|2278
 #22|@InanisBot|2267
-#23|@Phalanx-XXV|2240
+#23|@Phalanx-XXV|2235
 #24|@LazyBot|2226
 #25|@Pseudo-0|2199
 #26|@ChessNoobComp|2183
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@turkjs|1757
 #54|@maia9|1729
 #55|@simplexitor|1697
-#56|@maia5|1650
+#56|@maia5|1652
 #57|@Demolito_L4|1595
 #58|@munfish|1577
 #59|@sargon-4ply|1576
@@ -64,8 +64,8 @@ Rank|Bot|Rating
 #62|@turochamp-2ply|1518
 #63|@RoundMoundOfRebounds|1512
 #64|@bernstein-4ply|1423
-#65|@turochamp-1ply|1409
-#66|@Humaia|1401
+#65|@Humaia|1409
+#66|@turochamp-1ply|1409
 #67|@bernstein-2ply|1368
 #68|@sargon-2ply|1332
 #69|@sargon-1ply|1259
