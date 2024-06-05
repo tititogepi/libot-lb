@@ -1,5 +1,5 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@katzebot|1483
-#2|@pawnrobot|1314
+#1|@katzebot|1490
+#2|@pawnrobot|1309
 #3|@MinOpponentMoves|705
