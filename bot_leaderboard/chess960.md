@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2261
-#2|@YoBot_v2|2258
+#2|@YoBot_v2|2261
 #3|@PetersBot|2209
 #4|@Ultron81|2209
-#5|@RaspFish|2200
+#5|@RaspFish|2197
 #6|@magnusglad_bot|2060
 #7|@pawn_git|2029
 #8|@Cheng-4|2026
@@ -14,6 +14,6 @@ Rank|Bot|Rating
 #12|@Demolito_L5|1107
 #13|@Demolito_L4|1031
 #14|@botTideEval|905
-#15|@princhess_policy_bot|859
-#16|@pawnrobot|799
-#17|@MinOpponentMoves|608
+#15|@princhess_policy_bot|862
+#16|@pawnrobot|802
+#17|@MinOpponentMoves|605
