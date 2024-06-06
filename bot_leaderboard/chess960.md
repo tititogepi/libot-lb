@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2261
-#2|@YoBot_v2|2251
+#2|@YoBot_v2|2250
 #3|@Ultron81|2211
 #4|@PetersBot|2209
 #5|@RaspFish|2205
