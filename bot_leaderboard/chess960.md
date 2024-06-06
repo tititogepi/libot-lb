@@ -1,10 +1,10 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2261
-#2|@YoBot_v2|2252
+#2|@YoBot_v2|2251
 #3|@Ultron81|2211
 #4|@PetersBot|2209
-#5|@RaspFish|2203
+#5|@RaspFish|2205
 #6|@magnusglad_bot|2060
 #7|@pawn_git|2029
 #8|@Cheng-4|2026
