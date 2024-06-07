@@ -1918,6 +1918,7 @@ puffinbot
 pure-eman
 purplehunter
 pussaw
+puztel-bot
 pvice
 pvnode
 pychessbot
@@ -2711,4 +2712,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-puztel-bot
