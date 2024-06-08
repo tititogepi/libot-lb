@@ -2,13 +2,13 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ELO_1500|2713
 #2|@ArasanX|2695
-#3|@expositor|2577
+#3|@expositor|2580
 #4|@magnusglad_bot|2573
 #5|@pawn_git|2557
 #6|@AKS-Mantissa|2547
 #7|@SaxtonEngine|2444
 #8|@Cheng-4|2442
-#9|@Weiawaga|2419
+#9|@Weiawaga|2416
 #10|@simbelmyne-bot|2393
 #11|@lc0_1shot|2286
 #12|@ChessatronBot|2274
@@ -55,7 +55,7 @@ Rank|Bot|Rating
 #53|@simplexitor|1697
 #54|@maia5|1633
 #55|@schnecken_bot|1623
-#56|@maia1|1619
+#56|@maia1|1605
 #57|@Demolito_L4|1595
 #58|@ZE_ROOK|1590
 #59|@yeoldwiz|1578
@@ -65,7 +65,7 @@ Rank|Bot|Rating
 #63|@turochamp-2ply|1518
 #64|@RoundMoundOfRebounds|1512
 #65|@rust-bot|1438
-#66|@Humaia|1428
+#66|@Humaia|1425
 #67|@bernstein-4ply|1423
 #68|@katzebot|1414
 #69|@turochamp-1ply|1409
