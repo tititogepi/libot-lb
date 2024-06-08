@@ -1601,6 +1601,7 @@ misterrengar
 mittens-bot
 mittensthechessb0t
 mkad-106_bot
+mmx_nemesi
 modding-sources
 mokbot
 mon_robot
@@ -2712,4 +2713,4 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-mmx_nemesi
+coderden732
