@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@YoBot_v2|2763
+#1|@YoBot_v2|2758
 #2|@RaspFish|2736
 #3|@caissa-x|2721
 #4|@Mr-Chess-Berserk|2718
@@ -10,9 +10,9 @@ Rank|Bot|Rating
 #8|@Botyuliirma|2696
 #9|@PetersBot|2690
 #10|@Africaata|2684
-#11|@abcbot|2647
-#12|@BitByByte|2602
-#13|@expositor|2575
+#11|@abcbot|2648
+#12|@BitByByte|2607
+#13|@expositor|2577
 #14|@magnusglad_bot|2575
 #15|@pawn_git|2560
 #16|@AKS-Mantissa|2544
@@ -20,8 +20,8 @@ Rank|Bot|Rating
 #18|@Weiawaga|2427
 #19|@simbelmyne-bot|2395
 #20|@ChessatronBot|2281
-#21|@Lynx_BOT|2279
-#22|@InanisBot|2250
+#21|@Lynx_BOT|2277
+#22|@InanisBot|2251
 #23|@Phalanx-XXV|2241
 #24|@LazyBot|2225
 #25|@Pseudo-0|2206
@@ -37,7 +37,7 @@ Rank|Bot|Rating
 #35|@fathzer-jchess|1912
 #36|@Goldfish-Engine|1899
 #37|@likeawizard-bot|1899
-#38|@zeekat|1897
+#38|@zeekat|1899
 #39|@The_Marcus|1886
 #40|@ai-con|1884
 #41|@honzovy-sachy|1884
@@ -54,8 +54,8 @@ Rank|Bot|Rating
 #52|@maia9|1724
 #53|@simplexitor|1697
 #54|@maia5|1625
-#55|@maia1|1624
-#56|@munfish|1577
+#55|@maia1|1619
+#56|@munfish|1574
 #57|@sargon-3ply|1560
 #58|@turochamp-2ply|1518
 #59|@RoundMoundOfRebounds|1512

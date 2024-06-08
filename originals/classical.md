@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@ELO_1500|2712
 #2|@ArasanX|2701
-#3|@expositor|2575
+#3|@expositor|2577
 #4|@magnusglad_bot|2575
 #5|@pawn_git|2560
 #6|@AKS-Mantissa|2544
@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@simbelmyne-bot|2395
 #11|@lc0_1shot|2286
 #12|@ChessatronBot|2281
-#13|@Lynx_BOT|2279
-#14|@InanisBot|2250
+#13|@Lynx_BOT|2277
+#14|@InanisBot|2251
 #15|@Phalanx-XXV|2241
 #16|@LazyBot|2225
 #17|@Pseudo-0|2206
@@ -34,7 +34,7 @@ Rank|Bot|Rating
 #32|@AjedrezChamberi|1910
 #33|@Goldfish-Engine|1899
 #34|@likeawizard-bot|1899
-#35|@zeekat|1897
+#35|@zeekat|1899
 #36|@The_Marcus|1886
 #37|@ai-con|1884
 #38|@honzovy-sachy|1884
@@ -56,13 +56,13 @@ Rank|Bot|Rating
 #54|@maia9|1724
 #55|@simplexitor|1697
 #56|@maia5|1625
-#57|@maia1|1624
-#58|@schnecken_bot|1623
+#57|@schnecken_bot|1623
+#58|@maia1|1619
 #59|@Demolito_L4|1595
 #60|@ZE_ROOK|1590
 #61|@yeoldwiz|1578
-#62|@munfish|1577
-#63|@sargon-4ply|1576
+#62|@sargon-4ply|1576
+#63|@munfish|1574
 #64|@sargon-3ply|1560
 #65|@turochamp-2ply|1518
 #66|@RoundMoundOfRebounds|1512
