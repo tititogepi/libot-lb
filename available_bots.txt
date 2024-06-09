@@ -2607,6 +2607,7 @@ wenndiesoldatbot
 weyyyyyyyyyyyyyyyyyy
 whale_1
 whatsanikitosikhuh
+whispermate
 whitewidowbot
 why_this_bot_exists
 willbochessengine
@@ -2714,4 +2715,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-whispermate
