@@ -1,8 +1,8 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2261
-#2|@YoBot_v2|2242
-#3|@RaspFish|2212
+#2|@YoBot_v2|2241
+#3|@RaspFish|2213
 #4|@Ultron81|2212
 #5|@PetersBot|2209
 #6|@magnusglad_bot|2060
@@ -10,6 +10,6 @@ Rank|Bot|Rating
 #8|@FataliiBot|1725
 #9|@Rodent-IV|1125
 #10|@botTideEval|926
-#11|@princhess_policy_bot|850
+#11|@princhess_policy_bot|852
 #12|@pawnrobot|783
-#13|@MinOpponentMoves|604
+#13|@MinOpponentMoves|601
