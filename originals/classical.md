@@ -8,12 +8,12 @@ Rank|Bot|Rating
 #6|@AKS-Mantissa|2547
 #7|@SaxtonEngine|2444
 #8|@Cheng-4|2440
-#9|@Weiawaga|2421
+#9|@Weiawaga|2425
 #10|@simbelmyne-bot|2387
 #11|@lc0_1shot|2286
 #12|@ChessatronBot|2274
-#13|@InanisBot|2273
-#14|@Lynx_BOT|2270
+#13|@Lynx_BOT|2274
+#14|@InanisBot|2267
 #15|@Phalanx-XXV|2238
 #16|@LazyBot|2221
 #17|@ChessNoobComp|2205
@@ -28,7 +28,7 @@ Rank|Bot|Rating
 #26|@catriever|1991
 #27|@TopasBot|1982
 #28|@matmoi|1970
-#29|@honzovy-sachy-2|1942
+#29|@honzovy-sachy-2|1940
 #30|@fathzer-jchess|1912
 #31|@Humaia-Strong|1912
 #32|@AjedrezChamberi|1910
@@ -36,8 +36,8 @@ Rank|Bot|Rating
 #34|@postbot|1906
 #35|@zeekat|1905
 #36|@likeawizard-bot|1897
-#37|@The_Marcus|1892
-#38|@ai-con|1883
+#37|@ai-con|1883
+#38|@The_Marcus|1883
 #39|@honzovy-sachy|1876
 #40|@Rodent-IV|1871
 #41|@notropis|1870
@@ -62,7 +62,7 @@ Rank|Bot|Rating
 #60|@sargon-4ply|1576
 #61|@munfish|1574
 #62|@sargon-3ply|1560
-#63|@maia1|1533
+#63|@maia1|1537
 #64|@turochamp-2ply|1529
 #65|@RoundMoundOfRebounds|1512
 #66|@bernstein-4ply|1450
@@ -70,8 +70,8 @@ Rank|Bot|Rating
 #68|@katzebot|1414
 #69|@turochamp-1ply|1409
 #70|@Humaia|1403
-#71|@bernstein-2ply|1363
+#71|@bernstein-2ply|1356
 #72|@sargon-2ply|1332
 #73|@sargon-1ply|1247
 #74|@StupidfishBOTBYDSCS|839
-#75|@MinOpponentMoves|780
+#75|@MinOpponentMoves|779
