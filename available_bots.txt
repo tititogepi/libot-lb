@@ -2343,6 +2343,7 @@ temporai
 tenborg
 tensorpupper
 terfly
+terminator_xe
 terrariabot
 test-z
 test_bot123
@@ -2715,4 +2716,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-terminator_xe
