@@ -12,8 +12,8 @@ Rank|Bot|Rating
 #10|@Demolito_L6|1131
 #11|@Rodent-IV|1125
 #12|@Demolito_L5|1106
-#13|@Demolito_L4|1027
+#13|@Demolito_L4|1017
 #14|@botTideEval|926
-#15|@princhess_policy_bot|858
+#15|@princhess_policy_bot|867
 #16|@pawnrobot|783
 #17|@MinOpponentMoves|595
