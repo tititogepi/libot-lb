@@ -7,9 +7,9 @@ Rank|Bot|Rating
 #5|@PetersBot|2203
 #6|@RaspFish|2203
 #7|@magnusglad_bot|2060
-#8|@pawn_git|2033
-#9|@Cheng-4|2020
-#10|@FataliiBot|1727
+#8|@pawn_git|2038
+#9|@Cheng-4|2019
+#10|@FataliiBot|1732
 #11|@Demolito_L6|1129
 #12|@Rodent-IV|1125
 #13|@Demolito_L5|1109
@@ -17,4 +17,4 @@ Rank|Bot|Rating
 #15|@botTideEval|926
 #16|@princhess_policy_bot|868
 #17|@pawnrobot|783
-#18|@MinOpponentMoves|591
+#18|@MinOpponentMoves|589

@@ -1,6 +1,6 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ELO_1500|2719
+#1|@ELO_1500|2721
 #2|@ArasanX|2695
 #3|@expositor|2596
 #4|@magnusglad_bot|2573
@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@AKS-Mantissa|2547
 #7|@Cheng-4|2446
 #8|@SaxtonEngine|2444
-#9|@Weiawaga|2428
-#10|@simbelmyne-bot|2401
+#9|@Weiawaga|2425
+#10|@simbelmyne-bot|2399
 #11|@lc0_1shot|2286
 #12|@ChessatronBot|2274
 #13|@Lynx_BOT|2273
@@ -21,7 +21,7 @@ Rank|Bot|Rating
 #19|@clueless-bot|2146
 #20|@simpleEval|2085
 #21|@eubos|2079
-#22|@CosetteBot|2065
+#22|@CosetteBot|2069
 #23|@FataliiBot|2055
 #24|@Boris-Trapsky|2034
 #25|@hans68Bot|2004
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@TopasBot|1982
 #28|@matmoi|1969
 #29|@honzovy-sachy-2|1942
-#30|@Goldfish-Engine|1919
+#30|@Goldfish-Engine|1915
 #31|@fathzer-jchess|1912
 #32|@Humaia-Strong|1912
 #33|@AjedrezChamberi|1910
@@ -44,8 +44,8 @@ Rank|Bot|Rating
 #42|@Rodent-IV|1871
 #43|@notropis|1868
 #44|@Virutor|1867
-#45|@baby_eubos|1855
-#46|@Demolito_L6|1855
+#45|@Demolito_L6|1858
+#46|@baby_eubos|1855
 #47|@jangine|1849
 #48|@LeelaRogue|1826
 #49|@melsh_bot|1819
@@ -58,7 +58,7 @@ Rank|Bot|Rating
 #56|@simplexitor|1697
 #57|@maia5|1669
 #58|@schnecken_bot|1623
-#59|@Demolito_L4|1598
+#59|@Demolito_L4|1595
 #60|@ZE_ROOK|1590
 #61|@munfish|1584
 #62|@yeoldwiz|1578
@@ -71,8 +71,8 @@ Rank|Bot|Rating
 #69|@rust-bot|1438
 #70|@katzebot|1422
 #71|@turochamp-1ply|1409
-#72|@Humaia|1403
-#73|@bernstein-2ply|1369
+#72|@Humaia|1400
+#73|@bernstein-2ply|1367
 #74|@sargon-2ply|1330
 #75|@sargon-1ply|1244
 #76|@StupidfishBOTBYDSCS|839
