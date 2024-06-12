@@ -1,7 +1,7 @@
 Rank|Bot|Rating
 ---|---|---
 #1|@ELO_1500|2731
-#2|@ArasanX|2697
+#2|@ArasanX|2699
 #3|@expositor|2586
 #4|@magnusglad_bot|2569
 #5|@pawn_git|2559
@@ -9,9 +9,9 @@ Rank|Bot|Rating
 #7|@Cheng-4|2451
 #8|@SaxtonEngine|2444
 #9|@Weiawaga|2436
-#10|@simbelmyne-bot|2396
+#10|@simbelmyne-bot|2397
 #11|@lc0_1shot|2286
-#12|@Lynx_BOT|2277
+#12|@Lynx_BOT|2275
 #13|@ChessatronBot|2270
 #14|@InanisBot|2256
 #15|@Phalanx-XXV|2239
@@ -26,13 +26,13 @@ Rank|Bot|Rating
 #24|@hans68Bot|2004
 #25|@catriever|1991
 #26|@TopasBot|1982
-#27|@matmoi|1960
+#27|@matmoi|1959
 #28|@honzovy-sachy-2|1938
 #29|@Goldfish-Engine|1913
 #30|@fathzer-jchess|1912
 #31|@Humaia-Strong|1912
 #32|@AjedrezChamberi|1910
-#33|@zeekat|1900
+#33|@zeekat|1898
 #34|@likeawizard-bot|1896
 #35|@postbot|1890
 #36|@ai-con|1883
@@ -53,9 +53,9 @@ Rank|Bot|Rating
 #51|@Demolito_L5|1760
 #52|@Elmichess|1756
 #53|@turkjs|1748
-#54|@maia9|1740
+#54|@maia9|1742
 #55|@simplexitor|1697
-#56|@maia5|1670
+#56|@maia5|1673
 #57|@schnecken_bot|1623
 #58|@munfish|1602
 #59|@Demolito_L4|1599
@@ -63,7 +63,7 @@ Rank|Bot|Rating
 #61|@yeoldwiz|1578
 #62|@sargon-4ply|1576
 #63|@sargon-3ply|1565
-#64|@maia1|1556
+#64|@maia1|1543
 #65|@turochamp-2ply|1529
 #66|@RoundMoundOfRebounds|1512
 #67|@bernstein-4ply|1446
