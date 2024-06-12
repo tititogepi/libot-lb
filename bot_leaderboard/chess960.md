@@ -2,7 +2,7 @@ Rank|Bot|Rating
 ---|---|---
 #1|@TheFreshman1902|2261
 #2|@ToromBot|2260
-#3|@YoBot_v2|2243
+#3|@YoBot_v2|2244
 #4|@RaspFish|2212
 #5|@Ultron81|2212
 #6|@PetersBot|2210
@@ -15,6 +15,6 @@ Rank|Bot|Rating
 #13|@Demolito_L5|1117
 #14|@Demolito_L4|1025
 #15|@botTideEval|926
-#16|@princhess_policy_bot|859
+#16|@princhess_policy_bot|861
 #17|@pawnrobot|783
-#18|@MinOpponentMoves|598
+#18|@MinOpponentMoves|596
