@@ -3,7 +3,7 @@ Rank|Bot|Rating
 #1|@TheFreshman1902|2261
 #2|@ToromBot|2259
 #3|@YoBot_v2|2244
-#4|@RaspFish|2213
+#4|@RaspFish|2214
 #5|@Ultron81|2212
 #6|@PetersBot|2210
 #7|@pawn_git|2038
@@ -11,7 +11,7 @@ Rank|Bot|Rating
 #9|@FataliiBot|1724
 #10|@Demolito_L6|1127
 #11|@Rodent-IV|1125
-#12|@Demolito_L5|1117
+#12|@Demolito_L5|1115
 #13|@Demolito_L4|1032
 #14|@botTideEval|933
 #15|@princhess_policy_bot|850
