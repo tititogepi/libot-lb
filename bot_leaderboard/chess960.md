@@ -7,8 +7,8 @@ Rank|Bot|Rating
 #5|@Ultron81|2212
 #6|@PetersBot|2210
 #7|@pawn_git|2038
-#8|@Cheng-4|2024
-#9|@FataliiBot|1726
+#8|@Cheng-4|2025
+#9|@FataliiBot|1724
 #10|@Demolito_L6|1127
 #11|@Rodent-IV|1125
 #12|@Demolito_L5|1117
