@@ -7,11 +7,11 @@ Rank|Bot|Rating
 #5|@PetersBot|2210
 #6|@RaspFish|2210
 #7|@pawn_git|2038
-#8|@Cheng-4|2025
-#9|@FataliiBot|1724
-#10|@Demolito_L6|1127
+#8|@Cheng-4|2027
+#9|@FataliiBot|1726
+#10|@Demolito_L6|1129
 #11|@Rodent-IV|1125
-#12|@Demolito_L5|1115
+#12|@Demolito_L5|1109
 #13|@Demolito_L4|1032
 #14|@botTideEval|933
 #15|@princhess_policy_bot|850
