@@ -335,6 +335,7 @@ bot2cwc
 bot369
 bot413522
 bot4life
+bot5551
 bot64jaques
 bot7800
 bot8983
@@ -2717,4 +2718,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-bot5551
