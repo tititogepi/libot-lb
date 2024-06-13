@@ -106,6 +106,7 @@ anduril_engine
 angela_ce
 angryofficepanda
 annie_archy
+annieedison
 annihilatoru47333
 anonymous5612
 anonymousbotter
@@ -2718,4 +2719,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-annieedison
