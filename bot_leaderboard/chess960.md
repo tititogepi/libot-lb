@@ -6,7 +6,7 @@ Rank|Bot|Rating
 #4|@Ultron81|2212
 #5|@RaspFish|2206
 #6|@PetersBot|2205
-#7|@pawn_git|2041
+#7|@pawn_git|2035
 #8|@Cheng-4|2017
 #9|@FataliiBot|1736
 #10|@Demolito_L6|1129
@@ -15,4 +15,4 @@ Rank|Bot|Rating
 #13|@botTideEval|933
 #14|@princhess_policy_bot|838
 #15|@pawnrobot|783
-#16|@MinOpponentMoves|604
+#16|@MinOpponentMoves|615
