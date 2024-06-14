@@ -690,6 +690,7 @@ destructeurbot
 devre_satranc
 devsdabot
 dezchickenwings
+dgt-ai
 dgt-test
 diepx
 diggydiggyhole
@@ -2719,4 +2720,3 @@ zugzwangbot
 zulu_bot
 zulu_bot2
 zx-chess
-dgt-ai
