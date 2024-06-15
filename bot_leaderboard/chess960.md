@@ -5,8 +5,8 @@ Rank|Bot|Rating
 #3|@ToromBot|2259
 #4|@LeelaChessTest|2245
 #5|@Ultron81|2212
-#6|@PetersBot|2206
-#7|@RaspFish|2204
+#6|@PetersBot|2205
+#7|@RaspFish|2202
 #8|@pawn_git|2024
 #9|@Cheng-4|2017
 #10|@FataliiBot|1731
