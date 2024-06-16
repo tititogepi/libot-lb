@@ -3,8 +3,8 @@ Rank|Bot|Rating
 #1|@ToromBot|2267
 #2|@YoBot_v2|2263
 #3|@TheFreshman1902|2261
-#4|@LeelaChessTest|2248
-#5|@PetersBot|2208
+#4|@LeelaChessTest|2250
+#5|@PetersBot|2211
 #6|@RaspFish|2203
 #7|@pawn_git|2031
 #8|@Cheng-4|2017
