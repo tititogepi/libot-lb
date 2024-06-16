@@ -8,8 +8,8 @@ Rank|Bot|Rating
 #6|@pawn_git|2567
 #7|@Weiawaga|2443
 #8|@Cheng-4|2442
-#9|@simbelmyne-bot|2391
-#10|@Lynx_BOT|2297
+#9|@simbelmyne-bot|2393
+#10|@Lynx_BOT|2295
 #11|@lc0_1shot|2286
 #12|@ChessatronBot|2276
 #13|@InanisBot|2269
@@ -20,7 +20,7 @@ Rank|Bot|Rating
 #18|@simpleEval|2085
 #19|@FataliiBot|2065
 #20|@CosetteBot|2046
-#21|@eubos|2043
+#21|@eubos|2042
 #22|@Boris-Trapsky|2034
 #23|@hans68Bot|2004
 #24|@TopasBot|1990
@@ -29,7 +29,7 @@ Rank|Bot|Rating
 #27|@postbot|1914
 #28|@fathzer-jchess|1912
 #29|@Humaia-Strong|1912
-#30|@zeekat|1903
+#30|@zeekat|1905
 #31|@Goldfish-Engine|1900
 #32|@likeawizard-bot|1895
 #33|@ai-con|1882
@@ -51,10 +51,10 @@ Rank|Bot|Rating
 #49|@turkjs|1743
 #50|@maia9|1714
 #51|@simplexitor|1692
-#52|@maia1|1654
+#52|@maia1|1660
 #53|@schnecken_bot|1623
 #54|@maia5|1610
-#55|@munfish|1607
+#55|@munfish|1604
 #56|@Demolito_L4|1586
 #57|@yeoldwiz|1578
 #58|@sargon-4ply|1576
